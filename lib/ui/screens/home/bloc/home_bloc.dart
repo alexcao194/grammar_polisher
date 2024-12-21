@@ -24,6 +24,7 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
     on<HomeEvent>((event, emit) async {
       await event.map(
         improveWriting: (event) => _improveWriting(event, emit),
+        checkGrammar: (event) => _checkGrammar(event, emit),
       );
     });
   }
@@ -31,7 +32,7 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
   FutureOr<void> _improveWriting(ImproveWriting event, Emitter<HomeState> emit) async {
     emit(state.copyWith(isLoading: true));
     debugPrint('HomeBloc: _improveWriting');
-    final result = await _polisherRepository.polish(event.text);
+    final result = await _polisherRepository.improveWriting(event.text);
     result.fold(
       (failure) {
         debugPrint('HomeBloc: _improveWriting: $failure');
@@ -41,6 +42,23 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
       (improveWritingResult) {
         debugPrint('HomeBloc: _improveWriting - success');
         emit(state.copyWith(isLoading: false, result: improveWritingResult));
+      }
+    );
+  }
+
+  FutureOr<void> _checkGrammar(CheckGrammar event, Emitter<HomeState> emit) async {
+    emit(state.copyWith(isLoading: true));
+    debugPrint('HomeBloc: _checkGrammar');
+    final result = await _polisherRepository.checkGrammar(event.text);
+    result.fold(
+      (failure) {
+        debugPrint('HomeBloc: _checkGrammar: $failure');
+        emit(state.copyWith(isLoading: false, failure: failure));
+        emit(state.copyWith(failure: null));
+      },
+      (checkGrammarResult) {
+        debugPrint('HomeBloc: _checkGrammar - success');
+        emit(state.copyWith(isLoading: false, result: checkGrammarResult));
       }
     );
   }
