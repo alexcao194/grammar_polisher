@@ -27,6 +27,7 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
         checkGrammar: (event) => _onCheckGrammar(event, emit),
         detectGpt: (event) => _onDetectGpt(event, emit),
         checkLevel: (event) => _onCheckLevel(event, emit),
+        checkScore: (event) => _onCheckScore(event, emit),
       );
     });
   }
@@ -95,6 +96,23 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
       (checkLevelResult) {
         debugPrint('HomeBloc: _checkLevel - success');
         emit(state.copyWith(isLoading: false, result: checkLevelResult));
+      }
+    );
+  }
+
+  FutureOr<void> _onCheckScore(CheckScore event, Emitter<HomeState> emit) async {
+    emit(state.copyWith(isLoading: true));
+    debugPrint('HomeBloc: _checkScore');
+    final result = await _homeRepository.checkScore(text: event.text, type: event.type);
+    result.fold(
+      (failure) {
+        debugPrint('HomeBloc: _checkScore: $failure');
+        emit(state.copyWith(isLoading: false, failure: failure));
+        emit(state.copyWith(failure: null));
+      },
+      (checkScoreResult) {
+        debugPrint('HomeBloc: _checkScore - success');
+        emit(state.copyWith(isLoading: false, result: checkScoreResult));
       }
     );
   }

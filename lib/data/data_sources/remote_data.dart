@@ -1,7 +1,8 @@
 import 'package:dio/dio.dart';
-import 'package:grammar_polisher/data/models/check_grammar_result.dart';
 
+import '../models/check_grammar_result.dart';
 import '../models/check_level_result.dart';
+import '../models/check_score_result.dart';
 import '../models/detect_gpt_result.dart';
 import '../models/improve_writing_result.dart';
 
@@ -10,6 +11,7 @@ abstract interface class RemoteData {
   Future<CheckGrammarResult> checkGrammar(String text);
   Future<DetectGptResult> detectGpt(String text);
   Future<CheckLevelResult> checkLevel(String text);
+  Future<CheckScoreResult> checkScore({required String text, required String type});
 }
 
 class RemoteDataImpl implements RemoteData {
@@ -68,5 +70,18 @@ class RemoteDataImpl implements RemoteData {
     );
 
     return CheckLevelResult.fromJson(response.data['result']);
+  }
+
+  @override
+  Future<CheckScoreResult> checkScore({required String text, required String type}) async {
+    final response = await _dio.post(
+      '/essay-tests/score-essay-test',
+      data: {
+        'text': text,
+        'essay': type,
+      },
+    );
+
+    return CheckScoreResult.fromJson(response.data);
   }
 }

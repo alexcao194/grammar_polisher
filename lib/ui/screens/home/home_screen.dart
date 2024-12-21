@@ -4,8 +4,10 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../../data/models/ai_function.dart';
 import '../../../data/models/check_grammar_result.dart';
 import '../../../data/models/check_level_result.dart';
+import '../../../data/models/check_score_result.dart';
 import '../../../data/models/detect_gpt_result.dart';
 import '../../../data/models/improve_writing_result.dart';
+import '../../../data/models/score_type.dart';
 import '../../../utils/app_snack_bar.dart';
 import '../../commons/base_page.dart';
 import '../../commons/dialogs/function_picker_dialog.dart';
@@ -13,8 +15,10 @@ import '../../commons/rounded_button.dart';
 import 'bloc/home_bloc.dart';
 import 'widgets/check_grammar_box.dart';
 import 'widgets/check_level_box.dart';
+import 'widgets/check_score_box.dart';
 import 'widgets/detect_gpt_box.dart';
 import 'widgets/improving_writing_box.dart';
+import 'widgets/score_type_picker.dart';
 import 'widgets/text_field_control_box.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -28,6 +32,7 @@ class _HomeScreenState extends State<HomeScreen> {
   late final TextEditingController _textController;
   late final FocusNode _textFocusNode;
   AIFunction _selectedFunction = AIFunction.improveWriting;
+  ScoreType _selectedScoreType = ScoreType.opinion;
 
   @override
   Widget build(BuildContext context) {
@@ -75,14 +80,26 @@ class _HomeScreenState extends State<HomeScreen> {
                           color: colorScheme.secondaryContainer,
                           borderRadius: BorderRadius.circular(16),
                         ),
-                        padding: const EdgeInsets.all(16),
-                        child: Text(
-                          _selectedFunction.name,
-                          style: textTheme.bodyMedium,
+                        child: ListTile(
+                          title: Text(
+                            _selectedFunction.name,
+                            style: textTheme.bodyMedium,
+                          ),
                         ),
                       ),
                     ),
                     const SizedBox(height: 16),
+                    if (_selectedFunction == AIFunction.checkScore) ...[
+                      ScoreTypePicker(
+                        onChanged: (value) {
+                          setState(() {
+                            _selectedScoreType = value;
+                          });
+                        },
+                        selectedScoreType: _selectedScoreType,
+                      ),
+                      const SizedBox(height: 16),
+                    ],
                     RoundedButton(
                       borderRadius: 16,
                       onPressed: _processContent,
@@ -98,6 +115,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     if (state.result is CheckGrammarResult) CheckGrammarBox(result: state.result as CheckGrammarResult),
                     if (state.result is DetectGptResult) DetectGptBox(result: state.result as DetectGptResult),
                     if (state.result is CheckLevelResult) CheckLevelBox(result: state.result as CheckLevelResult),
+                    if (state.result is CheckScoreResult) CheckScoreBox(result: state.result as CheckScoreResult),
                   ],
                 ),
               ),
@@ -156,6 +174,9 @@ class _HomeScreenState extends State<HomeScreen> {
         break;
       case AIFunction.checkLevel:
         context.read<HomeBloc>().add(HomeEvent.checkLevel(content));
+        break;
+      case AIFunction.checkScore:
+        context.read<HomeBloc>().add(HomeEvent.checkScore(text: content, type: _selectedScoreType.code));
         break;
       default:
         break;
