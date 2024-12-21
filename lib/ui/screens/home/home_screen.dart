@@ -3,6 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../data/models/ai_function.dart';
 import '../../../data/models/check_grammar_result.dart';
+import '../../../data/models/detect_gpt_result.dart';
 import '../../../data/models/improve_writing_result.dart';
 import '../../../utils/app_snack_bar.dart';
 import '../../commons/base_page.dart';
@@ -10,6 +11,7 @@ import '../../commons/dialogs/function_picker_dialog.dart';
 import '../../commons/rounded_button.dart';
 import 'bloc/home_bloc.dart';
 import 'widgets/check_grammar_box.dart';
+import 'widgets/detect_gpt_box.dart';
 import 'widgets/improving_writing_box.dart';
 import 'widgets/text_field_control_box.dart';
 
@@ -92,6 +94,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     const SizedBox(height: 16),
                     if (state.result is ImproveWritingResult) ImprovingWritingBox(result: state.result as ImproveWritingResult),
                     if (state.result is CheckGrammarResult) CheckGrammarBox(result: state.result as CheckGrammarResult),
+                    if (state.result is DetectGptResult) DetectGptBox(result: state.result as DetectGptResult),
                   ],
                 ),
               ),
@@ -143,6 +146,9 @@ class _HomeScreenState extends State<HomeScreen> {
         break;
       case AIFunction.checkGrammar:
         context.read<HomeBloc>().add(HomeEvent.checkGrammar(_textController.text));
+        break;
+      case AIFunction.detectChatGPT:
+        context.read<HomeBloc>().add(HomeEvent.detectGpt(_textController.text));
         break;
       default:
         break;

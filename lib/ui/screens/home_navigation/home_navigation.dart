@@ -59,7 +59,6 @@ class _HomeNavigationState extends State<HomeNavigation> {
       listeners: [
         BlocListener<HomeBloc, HomeState>(
           listener: (context, state) {
-            print(state);
             _handleError(context, state.failure);
           },
         ),
