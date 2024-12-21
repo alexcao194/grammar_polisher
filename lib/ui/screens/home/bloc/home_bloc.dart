@@ -23,14 +23,15 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
         super(const HomeState()) {
     on<HomeEvent>((event, emit) async {
       await event.map(
-        improveWriting: (event) => _improveWriting(event, emit),
-        checkGrammar: (event) => _checkGrammar(event, emit),
-        detectGpt: (event) => _detectGpt(event, emit),
+        improveWriting: (event) => _onImproveWriting(event, emit),
+        checkGrammar: (event) => _onCheckGrammar(event, emit),
+        detectGpt: (event) => _onDetectGpt(event, emit),
+        checkLevel: (event) => _onCheckLevel(event, emit),
       );
     });
   }
 
-  FutureOr<void> _improveWriting(ImproveWriting event, Emitter<HomeState> emit) async {
+  FutureOr<void> _onImproveWriting(ImproveWriting event, Emitter<HomeState> emit) async {
     emit(state.copyWith(isLoading: true));
     debugPrint('HomeBloc: _improveWriting');
     final result = await _homeRepository.improveWriting(event.text);
@@ -47,7 +48,7 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
     );
   }
 
-  FutureOr<void> _checkGrammar(CheckGrammar event, Emitter<HomeState> emit) async {
+  FutureOr<void> _onCheckGrammar(CheckGrammar event, Emitter<HomeState> emit) async {
     emit(state.copyWith(isLoading: true));
     debugPrint('HomeBloc: _checkGrammar');
     final result = await _homeRepository.checkGrammar(event.text);
@@ -64,7 +65,7 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
     );
   }
 
-  FutureOr<void> _detectGpt(DetectGpt event, Emitter<HomeState> emit) async {
+  FutureOr<void> _onDetectGpt(DetectGpt event, Emitter<HomeState> emit) async {
     emit(state.copyWith(isLoading: true));
     debugPrint('HomeBloc: _detectGpt');
     final result = await _homeRepository.detectGpt(event.text);
@@ -77,6 +78,23 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
       (detectGptResult) {
         debugPrint('HomeBloc: _detectGpt - success');
         emit(state.copyWith(isLoading: false, result: detectGptResult));
+      }
+    );
+  }
+
+  FutureOr<void> _onCheckLevel(CheckLevel event, Emitter<HomeState> emit) async {
+    emit(state.copyWith(isLoading: true));
+    debugPrint('HomeBloc: _checkLevel');
+    final result = await _homeRepository.checkLevel(event.text);
+    result.fold(
+      (failure) {
+        debugPrint('HomeBloc: _checkLevel: $failure');
+        emit(state.copyWith(isLoading: false, failure: failure));
+        emit(state.copyWith(failure: null));
+      },
+      (checkLevelResult) {
+        debugPrint('HomeBloc: _checkLevel - success');
+        emit(state.copyWith(isLoading: false, result: checkLevelResult));
       }
     );
   }

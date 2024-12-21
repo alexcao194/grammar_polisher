@@ -1,6 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:grammar_polisher/data/models/check_grammar_result.dart';
 
+import '../models/check_level_result.dart';
 import '../models/detect_gpt_result.dart';
 import '../models/improve_writing_result.dart';
 
@@ -8,6 +9,7 @@ abstract interface class RemoteData {
   Future<ImproveWritingResult> improveWriting(String text);
   Future<CheckGrammarResult> checkGrammar(String text);
   Future<DetectGptResult> detectGpt(String text);
+  Future<CheckLevelResult> checkLevel(String text);
 }
 
 class RemoteDataImpl implements RemoteData {
@@ -54,5 +56,17 @@ class RemoteDataImpl implements RemoteData {
     );
 
     return DetectGptResult.fromJson(response.data['result']['feedback']['documents'][0]);
+  }
+
+  @override
+  Future<CheckLevelResult> checkLevel(String text) async {
+    final response = await _dio.post(
+      '/pos-tagger/fetch-cefr',
+      data: {
+        'text': text,
+      },
+    );
+
+    return CheckLevelResult.fromJson(response.data['result']);
   }
 }

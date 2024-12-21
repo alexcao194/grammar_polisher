@@ -3,6 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../data/models/ai_function.dart';
 import '../../../data/models/check_grammar_result.dart';
+import '../../../data/models/check_level_result.dart';
 import '../../../data/models/detect_gpt_result.dart';
 import '../../../data/models/improve_writing_result.dart';
 import '../../../utils/app_snack_bar.dart';
@@ -11,6 +12,7 @@ import '../../commons/dialogs/function_picker_dialog.dart';
 import '../../commons/rounded_button.dart';
 import 'bloc/home_bloc.dart';
 import 'widgets/check_grammar_box.dart';
+import 'widgets/check_level_box.dart';
 import 'widgets/detect_gpt_box.dart';
 import 'widgets/improving_writing_box.dart';
 import 'widgets/text_field_control_box.dart';
@@ -95,6 +97,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     if (state.result is ImproveWritingResult) ImprovingWritingBox(result: state.result as ImproveWritingResult),
                     if (state.result is CheckGrammarResult) CheckGrammarBox(result: state.result as CheckGrammarResult),
                     if (state.result is DetectGptResult) DetectGptBox(result: state.result as DetectGptResult),
+                    if (state.result is CheckLevelResult) CheckLevelBox(result: state.result as CheckLevelResult),
                   ],
                 ),
               ),
@@ -140,15 +143,19 @@ class _HomeScreenState extends State<HomeScreen> {
       AppSnackBar.showError(context, 'Please write some content');
       return;
     }
+    final content = _textController.text;
     switch (_selectedFunction) {
       case AIFunction.improveWriting:
-        context.read<HomeBloc>().add(HomeEvent.improveWriting(_textController.text));
+        context.read<HomeBloc>().add(HomeEvent.improveWriting(content));
         break;
       case AIFunction.checkGrammar:
-        context.read<HomeBloc>().add(HomeEvent.checkGrammar(_textController.text));
+        context.read<HomeBloc>().add(HomeEvent.checkGrammar(content));
         break;
       case AIFunction.detectChatGPT:
-        context.read<HomeBloc>().add(HomeEvent.detectGpt(_textController.text));
+        context.read<HomeBloc>().add(HomeEvent.detectGpt(content));
+        break;
+      case AIFunction.checkLevel:
+        context.read<HomeBloc>().add(HomeEvent.checkLevel(content));
         break;
       default:
         break;

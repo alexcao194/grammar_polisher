@@ -33,7 +33,7 @@ class DetectGptBox extends StatelessWidget {
             final prob = result.sentences[index].generatedProb * 100;
             return Padding(
               padding: const EdgeInsets.symmetric(vertical: 8.0),
-              child: Text(
+              child: SelectableText(
                 "${index + 1}. ${result.sentences[index].content} - ${prob.toStringAsFixed(2)}%",
                 style: textTheme.bodyMedium?.copyWith(
                   color: prob > 50 ? colorScheme.error : colorScheme.onSurface,
