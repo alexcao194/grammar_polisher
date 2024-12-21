@@ -3,7 +3,7 @@ import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
 
 import '../data/data_sources/remote_data.dart';
-import '../data/repositories/polisher_repository.dart';
+import '../data/repositories/home_repository.dart';
 import '../ui/screens/home/bloc/home_bloc.dart';
 import 'dio/app_dio.dart';
 
@@ -26,8 +26,8 @@ class DI {
       ),
     );
 
-    sl.registerLazySingleton<PolisherRepository>(
-      () => PolisherRepositoryImpl(
+    sl.registerLazySingleton<HomeRepository>(
+      () => HomeRepositoryImpl(
         remoteData: sl(),
       ),
     );

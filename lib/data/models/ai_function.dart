@@ -4,9 +4,8 @@ enum AIFunction {
   detectChatGPT,
   checkLevel,
   checkScore,
-  checkWriting,
-  checkVocabulary;
-
+  checkWriting;
+  
   String get name {
     switch (this) {
       case AIFunction.improveWriting:
@@ -21,8 +20,6 @@ enum AIFunction {
         return 'Check Score';
       case AIFunction.checkWriting:
         return 'Check Writing';
-      case AIFunction.checkVocabulary:
-        return 'Check Vocabulary';
     }
   }
 }

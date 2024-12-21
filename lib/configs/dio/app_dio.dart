@@ -3,9 +3,11 @@ import 'package:dio/dio.dart';
 
 import 'connectivity_interceptor.dart';
 import 'logging_interceptor.dart';
+import 'catch_error_interceptor.dart';
 
 export 'connectivity_interceptor.dart';
 export 'logging_interceptor.dart';
+export 'catch_error_interceptor.dart';
 
 abstract class AppDio {
   Dio? _dio;
@@ -44,6 +46,7 @@ class WritingTutorDio extends AppDio {
         ConnectivityInterceptor(
           connectivity: _connectivity,
         ),
+        CatchErrorInterceptor(),
       ]);
   }
 }
