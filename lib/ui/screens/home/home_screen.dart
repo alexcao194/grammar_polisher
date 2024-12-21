@@ -5,6 +5,7 @@ import '../../../data/models/ai_function.dart';
 import '../../../data/models/check_grammar_result.dart';
 import '../../../data/models/check_level_result.dart';
 import '../../../data/models/check_score_result.dart';
+import '../../../data/models/check_writing_result.dart';
 import '../../../data/models/detect_gpt_result.dart';
 import '../../../data/models/improve_writing_result.dart';
 import '../../../data/models/score_type.dart';
@@ -16,6 +17,7 @@ import 'bloc/home_bloc.dart';
 import 'widgets/check_grammar_box.dart';
 import 'widgets/check_level_box.dart';
 import 'widgets/check_score_box.dart';
+import 'widgets/check_writing_box.dart';
 import 'widgets/detect_gpt_box.dart';
 import 'widgets/improving_writing_box.dart';
 import 'widgets/score_type_picker.dart';
@@ -116,6 +118,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     if (state.result is DetectGptResult) DetectGptBox(result: state.result as DetectGptResult),
                     if (state.result is CheckLevelResult) CheckLevelBox(result: state.result as CheckLevelResult),
                     if (state.result is CheckScoreResult) CheckScoreBox(result: state.result as CheckScoreResult),
+                    if (state.result is CheckWritingResult) CheckWritingBox(result: state.result as CheckWritingResult),
                   ],
                 ),
               ),
@@ -177,6 +180,9 @@ class _HomeScreenState extends State<HomeScreen> {
         break;
       case AIFunction.checkScore:
         context.read<HomeBloc>().add(HomeEvent.checkScore(text: content, type: _selectedScoreType.code));
+        break;
+      case AIFunction.checkWriting:
+        context.read<HomeBloc>().add(HomeEvent.checkWriting(content));
         break;
       default:
         break;

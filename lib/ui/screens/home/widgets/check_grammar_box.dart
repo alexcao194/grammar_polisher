@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_html/flutter_html.dart';
 
 import '../../../../data/models/check_grammar_result.dart';
-import 'error_count_item.dart';
+import 'counter_item.dart';
 import 'error_details_item.dart';
 
 class CheckGrammarBox extends StatelessWidget {
@@ -11,6 +11,7 @@ class CheckGrammarBox extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final colorScheme = Theme.of(context).colorScheme;
     return Column(
       children: [
         ...List.generate(result.errorDetails.length, (index) {
@@ -20,8 +21,12 @@ class CheckGrammarBox extends StatelessWidget {
           );
         }),
         ...List.generate(result.errorCounts.length, (index) {
-          return ErrorCountItem(
-            errorCount: result.errorCounts[index],
+          final errorCount = result.errorCounts[index];
+          return CounterItem(
+            label: errorCount.label,
+            count: errorCount.count,
+            max: 10,
+            color: colorScheme.error,
           );
         }),
       ],

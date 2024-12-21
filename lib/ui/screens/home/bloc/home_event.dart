@@ -7,4 +7,5 @@ class HomeEvent with _$HomeEvent {
   const factory HomeEvent.detectGpt(String text) = DetectGpt;
   const factory HomeEvent.checkLevel(String text) = CheckLevel;
   const factory HomeEvent.checkScore({required String text, required String type}) = CheckScore;
+  const factory HomeEvent.checkWriting(String text) = CheckWriting;
 }

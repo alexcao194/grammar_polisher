@@ -3,6 +3,7 @@ import 'package:dio/dio.dart';
 import '../models/check_grammar_result.dart';
 import '../models/check_level_result.dart';
 import '../models/check_score_result.dart';
+import '../models/check_writing_result.dart';
 import '../models/detect_gpt_result.dart';
 import '../models/improve_writing_result.dart';
 
@@ -12,6 +13,7 @@ abstract interface class RemoteData {
   Future<DetectGptResult> detectGpt(String text);
   Future<CheckLevelResult> checkLevel(String text);
   Future<CheckScoreResult> checkScore({required String text, required String type});
+  Future<CheckWritingResult> checkVocabulary(String text);
 }
 
 class RemoteDataImpl implements RemoteData {
@@ -83,5 +85,31 @@ class RemoteDataImpl implements RemoteData {
     );
 
     return CheckScoreResult.fromJson(response.data);
+  }
+
+  @override
+  Future<CheckWritingResult> checkVocabulary(String text) async {
+    final response = await _dio.post(
+      '/lemma/check-writing',
+      data: {
+        'text': text,
+      },
+    );
+
+    final data = response.data['result'];
+
+    return CheckWritingResult.fromJson({
+      'cohesion': (data['cohesion'] as Map).values.toList(),
+      'variance': (data['variance'] as Map).values.map((entry) {
+        return {
+          'label': entry['label'],
+          'count': double.parse(entry['count'].toString()),
+          'max': entry['max'],
+          'r_count': entry['r_count'],
+          'type': entry['type'],
+        };
+      }).toList(),
+      'vocabulary_profile': (data['vocabulary_profile'] as Map).values.toList(),
+    });
   }
 }

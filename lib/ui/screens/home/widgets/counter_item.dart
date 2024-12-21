@@ -2,17 +2,27 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
-import '../../../../data/models/error_count.dart';
+class CounterItem extends StatelessWidget {
+  final String label;
+  final int count;
+  final int max;
+  final Color? color;
+  final List<String> details;
 
-class ErrorCountItem extends StatelessWidget {
-  final ErrorCount errorCount;
-  const ErrorCountItem({super.key, required this.errorCount});
+  const CounterItem({
+    super.key,
+    required this.label,
+    required this.count,
+    required this.max,
+    this.color,
+    this.details = const [],
+  });
 
   @override
   Widget build(BuildContext context) {
     final colorScheme = Theme.of(context).colorScheme;
     final textTheme = Theme.of(context).textTheme;
-    final progressValue = errorCount.count / 10;
+    final progressValue = count / max;
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 8.0),
       child: Container(
@@ -26,18 +36,26 @@ class ErrorCountItem extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              '${errorCount.label}: ${errorCount.count}',
+              '$label: $count',
               style: textTheme.titleSmall?.copyWith(
                 fontWeight: FontWeight.w600,
-              )
+              ),
             ),
             const SizedBox(height: 8),
             LinearProgressIndicator(
               borderRadius: BorderRadius.circular(8),
               value: min(progressValue, 1),
               backgroundColor: colorScheme.secondaryContainer,
-              valueColor: AlwaysStoppedAnimation<Color>(colorScheme.error),
-            )
+              valueColor: AlwaysStoppedAnimation<Color>(
+                color ?? colorScheme.primary,
+              ),
+            ),
+            if (details.isNotEmpty) ...[
+              const SizedBox(height: 8),
+              SelectableText(
+                details.join(', ')
+              ),
+            ],
           ],
         ),
       ),
