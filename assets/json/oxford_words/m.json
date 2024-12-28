@@ -1,7 +1,7 @@
 [
   {
     "word": "any more",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/any_m/any_more_1_gb_1.mp3",
     "phonetic_text": "/ˌeni ˈmɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/any_m/any_more_1_us_1.mp3",
@@ -28,7 +28,7 @@
   },
   {
     "word": "decision-making",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dec/decis/decision_making_1_gb_1.mp3",
     "phonetic_text": "/dɪˈsɪʒn meɪkɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dec/decis/decision_making_1_us_1.mp3",
@@ -51,7 +51,7 @@
   },
   {
     "word": "film-maker",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fil/film_/film_maker_1_gb_1.mp3",
     "phonetic_text": "/ˈfɪlm meɪkə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fil/film_/film_maker_1_us_1.mp3",
@@ -65,7 +65,7 @@
   },
   {
     "word": "machine",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mac/machi/machine__gb_1.mp3",
     "phonetic_text": "/məˈʃiːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mac/machi/machine__us_1.mp3",
@@ -184,7 +184,7 @@
   },
   {
     "word": "machinery",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mac/machi/machinery__gb_1.mp3",
     "phonetic_text": "/məˈʃiːnəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mac/machi/machinery__us_1.mp3",
@@ -237,7 +237,7 @@
   },
   {
     "word": "mad",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mad/mad__/mad__gb_1.mp3",
     "phonetic_text": "/mæd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mad/mad__/mad__us_1.mp3",
@@ -416,7 +416,7 @@
   },
   {
     "word": "magazine",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mag/magaz/magazine__gb_1.mp3",
     "phonetic_text": "/ˌmæɡəˈziːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mag/magaz/magazine__us_1_rr.mp3",
@@ -494,7 +494,7 @@
   },
   {
     "word": "magic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mag/magic/magic__gb_1.mp3",
     "phonetic_text": "/ˈmædʒɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mag/magic/magic__us_1.mp3",
@@ -547,7 +547,7 @@
   },
   {
     "word": "magic",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mag/magic/magic__gb_1.mp3",
     "phonetic_text": "/ˈmædʒɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mag/magic/magic__us_1.mp3",
@@ -645,7 +645,7 @@
   },
   {
     "word": "magical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mag/magic/magical__gb_1.mp3",
     "phonetic_text": "/ˈmædʒɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mag/magic/magical__us_1.mp3",
@@ -689,7 +689,7 @@
   },
   {
     "word": "magistrate",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mag/magis/magistrate__gb_1.mp3",
     "phonetic_text": "/ˈmædʒɪstreɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mag/magis/magistrate__us_1.mp3",
@@ -708,7 +708,7 @@
   },
   {
     "word": "magnetic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mag/magne/magnetic__gb_1.mp3",
     "phonetic_text": "/mæɡˈnetɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mag/magne/magnetic__us_1.mp3",
@@ -757,7 +757,7 @@
   },
   {
     "word": "magnificent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mag/magni/magnificent__gb_1.mp3",
     "phonetic_text": "/mæɡˈnɪfɪsnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mag/magni/magnificent__us_1.mp3",
@@ -784,7 +784,7 @@
   },
   {
     "word": "magnitude",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mag/magni/magnitude__gb_1.mp3",
     "phonetic_text": "/ˈmæɡnɪtjuːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mag/magni/magnitude__us_1.mp3",
@@ -829,7 +829,7 @@
   },
   {
     "word": "mail",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mai/mail_/mail__gb_1.mp3",
     "phonetic_text": "/meɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mai/mail_/mail__us_1.mp3",
@@ -1008,7 +1008,7 @@
   },
   {
     "word": "main",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mai/main_/main__gb_1.mp3",
     "phonetic_text": "/meɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mai/main_/main__us_1.mp3",
@@ -1047,7 +1047,7 @@
   },
   {
     "word": "the mainland",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/the_m/the_mainland_1_gb_2.mp3",
     "phonetic_text": "/ðə ˈmeɪnlənd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/the_m/the_mainland_1_us_2.mp3",
@@ -1070,7 +1070,7 @@
   },
   {
     "word": "mainly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mai/mainl/mainly__gb_1.mp3",
     "phonetic_text": "/ˈmeɪnli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mai/mainl/mainly__us_2.mp3",
@@ -1122,7 +1122,7 @@
   },
   {
     "word": "mainstream",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mai/mains/mainstream__gb_1.mp3",
     "phonetic_text": "/ˈmeɪnstriːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mai/mains/mainstream__us_1.mp3",
@@ -1153,7 +1153,7 @@
   },
   {
     "word": "mainstream",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mai/mains/mainstream__gb_1.mp3",
     "phonetic_text": "/ˈmeɪnstriːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mai/mains/mainstream__us_1.mp3",
@@ -1250,7 +1250,7 @@
   },
   {
     "word": "maintenance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mai/maint/maintenance__gb_1.mp3",
     "phonetic_text": "/ˈmeɪntənəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mai/maint/maintenance__us_1.mp3",
@@ -1304,7 +1304,7 @@
   },
   {
     "word": "major",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/maj/major/major__gb_2.mp3",
     "phonetic_text": "/ˈmeɪdʒə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/maj/major/major__us_2.mp3",
@@ -1377,7 +1377,7 @@
   },
   {
     "word": "major",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/maj/major/major__gb_2.mp3",
     "phonetic_text": "/ˈmeɪdʒə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/maj/major/major__us_2.mp3",
@@ -1435,7 +1435,7 @@
   },
   {
     "word": "majority",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/maj/major/majority__gb_3.mp3",
     "phonetic_text": "/məˈdʒɒrəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/maj/major/majority__us_3_rr.mp3",
@@ -1533,7 +1533,7 @@
   },
   {
     "word": "make",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mak/make_/make__gb_1.mp3",
     "phonetic_text": "/meɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mak/make_/make__us_1.mp3",
@@ -2096,7 +2096,7 @@
   },
   {
     "word": "making",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mak/makin/making__gb_1.mp3",
     "phonetic_text": "/ˈmeɪkɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mak/makin/making__us_1.mp3",
@@ -2170,7 +2170,7 @@
   },
   {
     "word": "male",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mal/male_/male__gb_1.mp3",
     "phonetic_text": "/meɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mal/male_/male__us_1.mp3",
@@ -2269,7 +2269,7 @@
   },
   {
     "word": "male",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mal/male_/male__gb_1.mp3",
     "phonetic_text": "/meɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mal/male_/male__us_1.mp3",
@@ -2304,7 +2304,7 @@
   },
   {
     "word": "mall",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mal/mall_/mall__gb_1.mp3",
     "phonetic_text": "/mɔːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mal/mall_/mall__us_1.mp3",
@@ -2335,7 +2335,7 @@
   },
   {
     "word": "man",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/man__/man__gb_2.mp3",
     "phonetic_text": "/mæn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/man__/man__us_1.mp3",
@@ -3019,7 +3019,7 @@
   },
   {
     "word": "management",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manag/management__gb_2.mp3",
     "phonetic_text": "/ˈmænɪdʒmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/manag/management__us_1.mp3",
@@ -3120,7 +3120,7 @@
   },
   {
     "word": "manager",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manag/manager__gb_1.mp3",
     "phonetic_text": "/ˈmænɪdʒə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/manag/manager__us_2.mp3",
@@ -3202,7 +3202,7 @@
   },
   {
     "word": "mandate",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manda/mandate__gb_1.mp3",
     "phonetic_text": "/ˈmændeɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/manda/mandate__us_1.mp3",
@@ -3264,7 +3264,7 @@
   },
   {
     "word": "mandatory",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manda/mandatory__gb_1.mp3",
     "phonetic_text": "/ˈmændətəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/manda/mandatory__us_1.mp3",
@@ -3367,7 +3367,7 @@
   },
   {
     "word": "manipulation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manip/manipulation__gb_1.mp3",
     "phonetic_text": "/məˌnɪpjuˈleɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/manip/manipulation__us_1.mp3",
@@ -3408,7 +3408,7 @@
   },
   {
     "word": "manner",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manne/manner__gb_1.mp3",
     "phonetic_text": "/ˈmænə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/manne/manner__us_2.mp3",
@@ -3588,7 +3588,7 @@
   },
   {
     "word": "manufacturing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manuf/manufacturing__gb_1.mp3",
     "phonetic_text": "/ˌmænjuˈfæktʃərɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/manuf/manufacturing__us_1.mp3",
@@ -3615,7 +3615,7 @@
   },
   {
     "word": "manuscript",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manus/manuscript__gb_1.mp3",
     "phonetic_text": "/ˈmænjuskrɪpt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/manus/manuscript__us_1.mp3",
@@ -3647,7 +3647,7 @@
   },
   {
     "word": "many",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/many_/many__gb_1.mp3",
     "phonetic_text": "/ˈmeni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/many_/many__us_2.mp3",
@@ -3754,7 +3754,7 @@
   },
   {
     "word": "many",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/many_/many__gb_1.mp3",
     "phonetic_text": "/ˈmeni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/many_/many__us_2.mp3",
@@ -3861,7 +3861,7 @@
   },
   {
     "word": "map",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/map/map__/map__gb_1.mp3",
     "phonetic_text": "/mæp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/map/map__/map__us_1.mp3",
@@ -4013,7 +4013,7 @@
   },
   {
     "word": "marathon",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marat/marathon__gb_1.mp3",
     "phonetic_text": "/ˈmærəθən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marat/marathon__us_1.mp3",
@@ -4049,7 +4049,7 @@
   },
   {
     "word": "March",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/march/march__gb_1.mp3",
     "phonetic_text": "/mɑːtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/march/march__us_1.mp3",
@@ -4105,7 +4105,7 @@
   },
   {
     "word": "march",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/march/march__gb_2.mp3",
     "phonetic_text": "/mɑːtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/march/march__us_2.mp3",
@@ -4268,7 +4268,7 @@
   },
   {
     "word": "margin",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/margi/margin__gb_1.mp3",
     "phonetic_text": "/ˈmɑːdʒɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/margi/margin__us_1.mp3",
@@ -4360,7 +4360,7 @@
   },
   {
     "word": "marginal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/margi/marginal__gb_1.mp3",
     "phonetic_text": "/ˈmɑːdʒɪnl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/margi/marginal__us_1.mp3",
@@ -4431,7 +4431,7 @@
   },
   {
     "word": "marine",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marin/marine__gb_1.mp3",
     "phonetic_text": "/məˈriːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marin/marine__us_1.mp3",
@@ -4458,7 +4458,7 @@
   },
   {
     "word": "mark",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/mark_/mark__gb_1.mp3",
     "phonetic_text": "/mɑːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/mark_/mark__us_1.mp3",
@@ -5009,7 +5009,7 @@
   },
   {
     "word": "marker",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marke/marker__gb_1.mp3",
     "phonetic_text": "/ˈmɑːkə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marke/marker__us_1.mp3",
@@ -5066,7 +5066,7 @@
   },
   {
     "word": "market",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marke/market__gb_3.mp3",
     "phonetic_text": "/ˈmɑːkɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marke/market__us_1.mp3",
@@ -5333,7 +5333,7 @@
   },
   {
     "word": "marketing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marke/marketing__gb_1.mp3",
     "phonetic_text": "/ˈmɑːkɪtɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marke/marketing__us_2.mp3",
@@ -5400,7 +5400,7 @@
   },
   {
     "word": "marketplace",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marke/marketplace__gb_1.mp3",
     "phonetic_text": "/ˈmɑːkɪtpleɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marke/marketplace__us_1.mp3",
@@ -5431,7 +5431,7 @@
   },
   {
     "word": "marriage",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marri/marriage__gb_1.mp3",
     "phonetic_text": "/ˈmærɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marri/marriage__us_1.mp3",
@@ -5527,7 +5527,7 @@
   },
   {
     "word": "married",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marri/married__gb_1.mp3",
     "phonetic_text": "/ˈmærid/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marri/married__us_4.mp3",
@@ -5669,7 +5669,7 @@
   },
   {
     "word": "martial",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marti/martial__gb_1.mp3",
     "phonetic_text": "/ˈmɑːʃl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marti/martial__us_1.mp3",
@@ -5683,7 +5683,7 @@
   },
   {
     "word": "mask",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mas/mask_/mask__gb_1.mp3",
     "phonetic_text": "/mɑːsk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mas/mask_/mask__us_1.mp3",
@@ -5741,7 +5741,7 @@
   },
   {
     "word": "mass",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mas/mass_/mass__gb_2.mp3",
     "phonetic_text": "/mæs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mas/mass_/mass__us_2.mp3",
@@ -5772,7 +5772,7 @@
   },
   {
     "word": "mass",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mas/mass_/mass__gb_2.mp3",
     "phonetic_text": "/mæs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mas/mass_/mass__us_2.mp3",
@@ -5910,7 +5910,7 @@
   },
   {
     "word": "massacre",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mas/massa/massacre__gb_1.mp3",
     "phonetic_text": "/ˈmæsəkə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mas/massa/massacre__us_1.mp3",
@@ -5942,7 +5942,7 @@
   },
   {
     "word": "massive",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mas/massi/massive__gb_1.mp3",
     "phonetic_text": "/ˈmæsɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mas/massi/massive__us_2.mp3",
@@ -6019,7 +6019,7 @@
   },
   {
     "word": "master",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mas/maste/master__gb_1.mp3",
     "phonetic_text": "/ˈmɑːstə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mas/maste/master__us_2.mp3",
@@ -6236,7 +6236,7 @@
   },
   {
     "word": "match",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/match/match__gb_1.mp3",
     "phonetic_text": "/mætʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/match/match__us_1.mp3",
@@ -6524,7 +6524,7 @@
   },
   {
     "word": "matching",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/match/matching__gb_1.mp3",
     "phonetic_text": "/ˈmætʃɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/match/matching__us_3.mp3",
@@ -6564,7 +6564,7 @@
   },
   {
     "word": "mate",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/mate_/mate__gb_1.mp3",
     "phonetic_text": "/meɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/mate_/mate__us_1.mp3",
@@ -6695,7 +6695,7 @@
   },
   {
     "word": "material",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/mater/material__gb_2.mp3",
     "phonetic_text": "/məˈtɪəriəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/mater/material__us_2.mp3",
@@ -6752,7 +6752,7 @@
   },
   {
     "word": "material",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/mater/material__gb_2.mp3",
     "phonetic_text": "/məˈtɪəriəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/mater/material__us_2.mp3",
@@ -6868,7 +6868,7 @@
   },
   {
     "word": "mathematical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/mathe/mathematical__gb_1.mp3",
     "phonetic_text": "/ˌmæθəˈmætɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/mathe/mathematical__us_1.mp3",
@@ -6891,7 +6891,7 @@
   },
   {
     "word": "mathematics",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/mathe/mathematics__gb_1.mp3",
     "phonetic_text": "/ˌmæθəˈmætɪks/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/mathe/mathematics__us_1.mp3",
@@ -6931,7 +6931,7 @@
   },
   {
     "word": "maths",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/maths/maths__gb_3.mp3",
     "phonetic_text": "/mæθs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/maths/maths__us_3.mp3",
@@ -6984,7 +6984,7 @@
   },
   {
     "word": "matter",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/matte/matter__gb_1.mp3",
     "phonetic_text": "/ˈmætə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/matte/matter__us_2.mp3",
@@ -7406,7 +7406,7 @@
   },
   {
     "word": "mature",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/matur/mature__gb_1.mp3",
     "phonetic_text": "/məˈtʃʊə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/matur/mature__us_1_rr.mp3",
@@ -7574,7 +7574,7 @@
   },
   {
     "word": "maximum",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/max/maxim/maximum__gb_2.mp3",
     "phonetic_text": "/ˈmæksɪməm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/max/maxim/maximum__us_2.mp3",
@@ -7617,7 +7617,7 @@
   },
   {
     "word": "maximum",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/max/maxim/maximum__gb_2.mp3",
     "phonetic_text": "/ˈmæksɪməm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/max/maxim/maximum__us_2.mp3",
@@ -7652,7 +7652,7 @@
   },
   {
     "word": "May",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/may/may_1/may_1_gb_1.mp3",
     "phonetic_text": "/meɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/may/may__/may__us_1.mp3",
@@ -7695,7 +7695,7 @@
   },
   {
     "word": "may",
-    "pos": "verb",
+    "pos": "modal verb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/may/may_1/may_1_gb_1.mp3",
     "phonetic_text": "/meɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/may/may__/may__us_2.mp3",
@@ -7814,7 +7814,7 @@
   },
   {
     "word": "maybe",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/may/maybe/maybe__gb_1.mp3",
     "phonetic_text": "/ˈmeɪbi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/may/maybe/maybe__us_2.mp3",
@@ -7899,7 +7899,7 @@
   },
   {
     "word": "mayor",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/may/mayor/mayor__gb_1.mp3",
     "phonetic_text": "/meə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/may/mayor/mayor__us_1_rr.mp3",
@@ -7926,7 +7926,7 @@
   },
   {
     "word": "me",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/me_/me__g/me__gb_3.mp3",
     "phonetic_text": "/mi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/me_/me__u/me__us_2.mp3",
@@ -7965,7 +7965,7 @@
   },
   {
     "word": "meal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/meal_/meal__gb_1.mp3",
     "phonetic_text": "/miːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/meal_/meal__us_1.mp3",
@@ -8348,7 +8348,7 @@
   },
   {
     "word": "meaning",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/meani/meaning__gb_1.mp3",
     "phonetic_text": "/ˈmiːnɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/meani/meaning__us_3.mp3",
@@ -8447,7 +8447,7 @@
   },
   {
     "word": "meaningful",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/meani/meaningful__gb_1.mp3",
     "phonetic_text": "/ˈmiːnɪŋfl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/meani/meaningful__us_1.mp3",
@@ -8484,7 +8484,7 @@
   },
   {
     "word": "means",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/means/means__gb_1.mp3",
     "phonetic_text": "/miːnz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/means/means__us_1.mp3",
@@ -8651,7 +8651,7 @@
   },
   {
     "word": "meantime",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/meant/meantime__gb_1.mp3",
     "phonetic_text": "/ˈmiːntaɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/meant/meantime__us_1.mp3",
@@ -8683,7 +8683,7 @@
   },
   {
     "word": "meanwhile",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/meanw/meanwhile__gb_1.mp3",
     "phonetic_text": "/ˈmiːnwaɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/meanw/meanwhile__us_1.mp3",
@@ -8728,7 +8728,7 @@
   },
   {
     "word": "measure",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/measu/measure__gb_3.mp3",
     "phonetic_text": "/ˈmeʒə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/measu/measure__us_1.mp3",
@@ -9068,7 +9068,7 @@
   },
   {
     "word": "measurement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/measu/measurement__gb_2.mp3",
     "phonetic_text": "/ˈmeʒəmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/measu/measurement__us_1.mp3",
@@ -9125,7 +9125,7 @@
   },
   {
     "word": "meat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/meat_/meat__gb_1.mp3",
     "phonetic_text": "/miːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/meat_/meat__us_1.mp3",
@@ -9241,7 +9241,7 @@
   },
   {
     "word": "mechanic",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mec/mecha/mechanic__gb_1.mp3",
     "phonetic_text": "/məˈkænɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mec/mecha/mechanic__us_1.mp3",
@@ -9291,7 +9291,7 @@
   },
   {
     "word": "mechanical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mec/mecha/mechanical__gb_3.mp3",
     "phonetic_text": "/məˈkænɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mec/mecha/mechanical__us_1.mp3",
@@ -9353,7 +9353,7 @@
   },
   {
     "word": "mechanism",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mec/mecha/mechanism__gb_1.mp3",
     "phonetic_text": "/ˈmekənɪzəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mec/mecha/mechanism__us_1.mp3",
@@ -9402,7 +9402,7 @@
   },
   {
     "word": "medal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/medal/medal__gb_1.mp3",
     "phonetic_text": "/ˈmedl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/medal/medal__us_1.mp3",
@@ -9438,7 +9438,7 @@
   },
   {
     "word": "media",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/media/media__gb_3.mp3",
     "phonetic_text": "/ˈmiːdiə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/media/media__us_1.mp3",
@@ -9489,7 +9489,7 @@
   },
   {
     "word": "medical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/medic/medical__gb_2.mp3",
     "phonetic_text": "/ˈmedɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/medic/medical__us_2.mp3",
@@ -9549,7 +9549,7 @@
   },
   {
     "word": "medication",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/medic/medication__gb_1.mp3",
     "phonetic_text": "/ˌmedɪˈkeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/medic/medication__us_1.mp3",
@@ -9584,7 +9584,7 @@
   },
   {
     "word": "medicine",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/medic/medicine__gb_5.mp3",
     "phonetic_text": "/ˈmedsn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/medic/medicine__us_2.mp3",
@@ -9678,7 +9678,7 @@
   },
   {
     "word": "medieval",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/medie/medieval__gb_1.mp3",
     "phonetic_text": "/ˌmediˈiːvl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/medie/medieval__us_2_rr.mp3",
@@ -9701,7 +9701,7 @@
   },
   {
     "word": "meditation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/medit/meditation__gb_1.mp3",
     "phonetic_text": "/ˌmedɪˈteɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/medit/meditation__us_1.mp3",
@@ -9742,7 +9742,7 @@
   },
   {
     "word": "medium",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/mediu/medium__gb_2.mp3",
     "phonetic_text": "/ˈmiːdiəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/mediu/medium__us_1.mp3",
@@ -9798,7 +9798,7 @@
   },
   {
     "word": "medium",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/mediu/medium__gb_2.mp3",
     "phonetic_text": "/ˈmiːdiəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/mediu/medium__us_1.mp3",
@@ -10213,7 +10213,7 @@
   },
   {
     "word": "meeting",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mee/meeti/meeting__gb_1.mp3",
     "phonetic_text": "/ˈmiːtɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mee/meeti/meeting__us_1.mp3",
@@ -10377,7 +10377,7 @@
   },
   {
     "word": "melody",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mel/melod/melody__gb_1.mp3",
     "phonetic_text": "/ˈmelədi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mel/melod/melody__us_1.mp3",
@@ -10492,7 +10492,7 @@
   },
   {
     "word": "member",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mem/membe/member__gb_1.mp3",
     "phonetic_text": "/ˈmembə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mem/membe/member__us_1.mp3",
@@ -10598,7 +10598,7 @@
   },
   {
     "word": "membership",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mem/membe/membership__gb_1.mp3",
     "phonetic_text": "/ˈmembəʃɪp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mem/membe/membership__us_1.mp3",
@@ -10642,7 +10642,7 @@
   },
   {
     "word": "memo",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mem/memo_/memo__gb_1.mp3",
     "phonetic_text": "/ˈmeməʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mem/memo_/memo__us_1.mp3",
@@ -10665,7 +10665,7 @@
   },
   {
     "word": "memoir",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mem/memoi/memoir__gb_1.mp3",
     "phonetic_text": "/ˈmemwɑː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mem/memoi/memoir__us_1.mp3",
@@ -10697,7 +10697,7 @@
   },
   {
     "word": "memorable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mem/memor/memorable__gb_1.mp3",
     "phonetic_text": "/ˈmemərəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mem/memor/memorable__us_1.mp3",
@@ -10736,7 +10736,7 @@
   },
   {
     "word": "memorial",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mem/memor/memorial__gb_1.mp3",
     "phonetic_text": "/məˈmɔːriəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mem/memor/memorial__us_1.mp3",
@@ -10785,7 +10785,7 @@
   },
   {
     "word": "memory",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mem/memor/memory__gb_1.mp3",
     "phonetic_text": "/ˈmeməri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mem/memor/memory__us_1_rr.mp3",
@@ -10958,7 +10958,7 @@
   },
   {
     "word": "mental",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/men/menta/mental__gb_2.mp3",
     "phonetic_text": "/ˈmentl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/men/menta/mental__us_1.mp3",
@@ -11039,7 +11039,7 @@
   },
   {
     "word": "mention",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/men/menti/mention__gb_1.mp3",
     "phonetic_text": "/ˈmenʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/men/menti/mention__us_1.mp3",
@@ -11177,7 +11177,7 @@
   },
   {
     "word": "mentor",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/men/mento/mentor__gb_1.mp3",
     "phonetic_text": "/ˈmentɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/men/mento/mentor__us_1_rr.mp3",
@@ -11213,7 +11213,7 @@
   },
   {
     "word": "menu",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/men/menu_/menu__gb_1.mp3",
     "phonetic_text": "/ˈmenjuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/men/menu_/menu__us_1.mp3",
@@ -11269,7 +11269,7 @@
   },
   {
     "word": "merchant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mer/merch/merchant__gb_1.mp3",
     "phonetic_text": "/ˈmɜːtʃənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mer/merch/merchant__us_1.mp3",
@@ -11332,7 +11332,7 @@
   },
   {
     "word": "mercy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mer/mercy/mercy__gb_1.mp3",
     "phonetic_text": "/ˈmɜːsi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mer/mercy/mercy__us_1.mp3",
@@ -11415,7 +11415,7 @@
   },
   {
     "word": "mere",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mer/mere_/mere__gb_1.mp3",
     "phonetic_text": "/mɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mer/mere_/mere__us_1.mp3",
@@ -11467,7 +11467,7 @@
   },
   {
     "word": "merely",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mer/merel/merely__gb_1.mp3",
     "phonetic_text": "/ˈmɪəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mer/merel/merely__us_1.mp3",
@@ -11562,7 +11562,7 @@
   },
   {
     "word": "merger",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mer/merge/merger__gb_1.mp3",
     "phonetic_text": "/ˈmɜːdʒə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mer/merge/merger__us_1.mp3",
@@ -11593,7 +11593,7 @@
   },
   {
     "word": "merit",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mer/merit/merit__gb_1.mp3",
     "phonetic_text": "/ˈmerɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mer/merit/merit__us_1.mp3",
@@ -11650,7 +11650,7 @@
   },
   {
     "word": "mess",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mes/mess_/mess__gb_1.mp3",
     "phonetic_text": "/mes/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mes/mess_/mess__us_1.mp3",
@@ -11762,7 +11762,7 @@
   },
   {
     "word": "message",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mes/messa/message__gb_1.mp3",
     "phonetic_text": "/ˈmesɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mes/messa/message__us_1.mp3",
@@ -11906,7 +11906,7 @@
   },
   {
     "word": "metal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/met/metal/metal__gb_1.mp3",
     "phonetic_text": "/ˈmetl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/met/metal/metal__us_1.mp3",
@@ -11959,7 +11959,7 @@
   },
   {
     "word": "metaphor",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/met/metap/metaphor__gb_1.mp3",
     "phonetic_text": "/ˈmetəfə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/met/metap/metaphor__us_1.mp3",
@@ -11982,7 +11982,7 @@
   },
   {
     "word": "method",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/met/metho/method__gb_2.mp3",
     "phonetic_text": "/ˈmeθəd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/met/metho/method__us_1.mp3",
@@ -12050,7 +12050,7 @@
   },
   {
     "word": "methodology",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/met/metho/methodology__gb_2.mp3",
     "phonetic_text": "/ˌmeθəˈdɒlədʒi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/met/metho/methodology__us_1.mp3",
@@ -12073,7 +12073,7 @@
   },
   {
     "word": "metre",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/met/metre/metre__gb_1.mp3",
     "phonetic_text": "/ˈmiːtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/met/metre/metre__us_1.mp3",
@@ -12138,7 +12138,7 @@
   },
   {
     "word": "middle",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mid/middl/middle__gb_1.mp3",
     "phonetic_text": "/ˈmɪdl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mid/middl/middle__us_2.mp3",
@@ -12181,7 +12181,7 @@
   },
   {
     "word": "middle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mid/middl/middle__gb_1.mp3",
     "phonetic_text": "/ˈmɪdl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mid/middl/middle__us_2.mp3",
@@ -12305,7 +12305,7 @@
   },
   {
     "word": "midnight",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mid/midni/midnight__gb_2.mp3",
     "phonetic_text": "/ˈmɪdnaɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mid/midni/midnight__us_1.mp3",
@@ -12356,7 +12356,7 @@
   },
   {
     "word": "midst",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mid/midst/midst__gb_1.mp3",
     "phonetic_text": "/mɪdst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mid/midst/midst__us_1.mp3",
@@ -12409,7 +12409,7 @@
   },
   {
     "word": "might",
-    "pos": "verb",
+    "pos": "modal verb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mig/might/might__gb_2.mp3",
     "phonetic_text": "/maɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mig/might/might__us_2.mp3",
@@ -12553,7 +12553,7 @@
   },
   {
     "word": "migration",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mig/migra/migration__gb_2.mp3",
     "phonetic_text": "/maɪˈɡreɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mig/migra/migration__us_1.mp3",
@@ -12597,7 +12597,7 @@
   },
   {
     "word": "mild",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mil/mild_/mild__gb_1.mp3",
     "phonetic_text": "/maɪld/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/mild_/mild__us_1.mp3",
@@ -12700,7 +12700,7 @@
   },
   {
     "word": "mile",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mil/mile_/mile__gb_1.mp3",
     "phonetic_text": "/maɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/mile_/mile__us_1.mp3",
@@ -12853,7 +12853,7 @@
   },
   {
     "word": "militant",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mil/milit/militant__gb_1.mp3",
     "phonetic_text": "/ˈmɪlɪtənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/milit/militant__us_1.mp3",
@@ -12880,7 +12880,7 @@
   },
   {
     "word": "militant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mil/milit/militant__gb_1.mp3",
     "phonetic_text": "/ˈmɪlɪtənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/milit/militant__us_1.mp3",
@@ -12899,7 +12899,7 @@
   },
   {
     "word": "military",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mil/milit/military__gb_1.mp3",
     "phonetic_text": "/ˈmɪlətri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/milit/military__us_2.mp3",
@@ -12938,7 +12938,7 @@
   },
   {
     "word": "military",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mil/milit/military__gb_1.mp3",
     "phonetic_text": "/ˈmɪlətri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/milit/military__us_2.mp3",
@@ -12969,7 +12969,7 @@
   },
   {
     "word": "militia",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mil/milit/militia__gb_1.mp3",
     "phonetic_text": "/məˈlɪʃə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/milit/militia__us_1.mp3",
@@ -13000,7 +13000,7 @@
   },
   {
     "word": "milk",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mil/milk_/milk__gb_1.mp3",
     "phonetic_text": "/mɪlk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/milk_/milk__us_1.mp3",
@@ -13098,7 +13098,7 @@
   },
   {
     "word": "mill",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mil/mill_/mill__gb_1.mp3",
     "phonetic_text": "/mɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/mill_/mill__us_1.mp3",
@@ -13173,7 +13173,7 @@
   },
   {
     "word": "million",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mil/milli/million__gb_1.mp3",
     "phonetic_text": "/ˈmɪljən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/milli/million__us_2.mp3",
@@ -13239,7 +13239,7 @@
   },
   {
     "word": "mind",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/mind_/mind__gb_1.mp3",
     "phonetic_text": "/maɪnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/mind_/mind__us_1.mp3",
@@ -14233,7 +14233,7 @@
   },
   {
     "word": "mine",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/mine_/mine__gb_1.mp3",
     "phonetic_text": "/maɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/mine_/mine__us_1.mp3",
@@ -14303,7 +14303,7 @@
   },
   {
     "word": "mine",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/mine_/mine__gb_1.mp3",
     "phonetic_text": "/maɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/mine_/mine__us_1.mp3",
@@ -14339,7 +14339,7 @@
   },
   {
     "word": "miner",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/miner/miner__gb_1.mp3",
     "phonetic_text": "/ˈmaɪnə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/miner/miner__us_1.mp3",
@@ -14358,7 +14358,7 @@
   },
   {
     "word": "mineral",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/miner/mineral__gb_1.mp3",
     "phonetic_text": "/ˈmɪnərəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/miner/mineral__us_3.mp3",
@@ -14398,7 +14398,7 @@
   },
   {
     "word": "minimal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/minim/minimal__gb_2.mp3",
     "phonetic_text": "/ˈmɪnɪml/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/minim/minimal__us_1.mp3",
@@ -14466,7 +14466,7 @@
   },
   {
     "word": "minimum",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/minim/minimum__gb_2.mp3",
     "phonetic_text": "/ˈmɪnɪməm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/minim/minimum__us_2.mp3",
@@ -14505,7 +14505,7 @@
   },
   {
     "word": "minimum",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/minim/minimum__gb_2.mp3",
     "phonetic_text": "/ˈmɪnɪməm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/minim/minimum__us_2.mp3",
@@ -14569,7 +14569,7 @@
   },
   {
     "word": "mining",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/minin/mining__gb_1.mp3",
     "phonetic_text": "/ˈmaɪnɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/minin/mining__us_1.mp3",
@@ -14596,7 +14596,7 @@
   },
   {
     "word": "minister",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/minis/minister__gb_1.mp3",
     "phonetic_text": "/ˈmɪnɪstə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/minis/minister__us_1.mp3",
@@ -14660,7 +14660,7 @@
   },
   {
     "word": "ministry",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/minis/ministry__gb_2.mp3",
     "phonetic_text": "/ˈmɪnɪstri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/minis/ministry__us_1.mp3",
@@ -14701,7 +14701,7 @@
   },
   {
     "word": "minor",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/minor/minor__gb_1.mp3",
     "phonetic_text": "/ˈmaɪnə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/minor/minor__us_2.mp3",
@@ -14761,7 +14761,7 @@
   },
   {
     "word": "minority",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/minor/minority__gb_3.mp3",
     "phonetic_text": "/maɪˈnɒrəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/minor/minority__us_1_rr.mp3",
@@ -14863,7 +14863,7 @@
   },
   {
     "word": "minute2",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/minut/minute__gb_2.mp3",
     "phonetic_text": "/maɪˈnjuːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/minut/minute__us_3.mp3",
@@ -14899,7 +14899,7 @@
   },
   {
     "word": "minute1",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/minut/minute__gb_1.mp3",
     "phonetic_text": "/ˈmɪnɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/minut/minute__us_1.mp3",
@@ -15191,7 +15191,7 @@
   },
   {
     "word": "miracle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mir/mirac/miracle__gb_1.mp3",
     "phonetic_text": "/ˈmɪrəkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mir/mirac/miracle__us_1.mp3",
@@ -15261,7 +15261,7 @@
   },
   {
     "word": "mirror",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mir/mirro/mirror__gb_3.mp3",
     "phonetic_text": "/ˈmɪrə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mir/mirro/mirror__us_2.mp3",
@@ -15314,7 +15314,7 @@
   },
   {
     "word": "miserable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mis/miser/miserable__gb_1.mp3",
     "phonetic_text": "/ˈmɪzrəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mis/miser/miserable__us_1_rr.mp3",
@@ -15384,7 +15384,7 @@
   },
   {
     "word": "misery",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mis/miser/misery__gb_1.mp3",
     "phonetic_text": "/ˈmɪzəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mis/miser/misery__us_1.mp3",
@@ -15477,7 +15477,7 @@
   },
   {
     "word": "misleading",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mis/misle/misleading__gb_3.mp3",
     "phonetic_text": "/ˌmɪsˈliːdɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mis/misle/misleading__us_1.mp3",
@@ -15780,7 +15780,7 @@
   },
   {
     "word": "missile",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mis/missi/missile__gb_1.mp3",
     "phonetic_text": "/ˈmɪsaɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mis/missi/missile__us_1.mp3",
@@ -15812,7 +15812,7 @@
   },
   {
     "word": "missing",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mis/missi/missing__gb_1.mp3",
     "phonetic_text": "/ˈmɪsɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mis/missi/missing__us_3.mp3",
@@ -15914,7 +15914,7 @@
   },
   {
     "word": "mistake",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mis/mista/mistake__gb_2.mp3",
     "phonetic_text": "/mɪˈsteɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mis/mista/mistake__us_2.mp3",
@@ -16073,7 +16073,7 @@
   },
   {
     "word": "mix",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mix/mix__/mix__gb_1.mp3",
     "phonetic_text": "/mɪks/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mix/mix__/mix__us_1.mp3",
@@ -16310,7 +16310,7 @@
   },
   {
     "word": "mixed",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mix/mixed/mixed__gb_1.mp3",
     "phonetic_text": "/mɪkst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mix/mixed/mixed__us_1.mp3",
@@ -16425,7 +16425,7 @@
   },
   {
     "word": "mixture",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mix/mixtu/mixture__gb_1.mp3",
     "phonetic_text": "/ˈmɪkstʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mix/mixtu/mixture__us_1.mp3",
@@ -16490,7 +16490,7 @@
   },
   {
     "word": "mob",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mob/mob__/mob__gb_1.mp3",
     "phonetic_text": "/mɒb/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mob/mob__/mob__us_1.mp3",
@@ -16547,7 +16547,7 @@
   },
   {
     "word": "mobile",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mob/mobil/mobile__gb_1.mp3",
     "phonetic_text": "/ˈməʊbaɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mob/mobil/mobile__us_7.mp3",
@@ -16674,7 +16674,7 @@
   },
   {
     "word": "mobile",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mob/mobil/mobile__gb_1.mp3",
     "phonetic_text": "/ˈməʊbaɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mob/mobil/mobile__us_7.mp3",
@@ -16727,7 +16727,7 @@
   },
   {
     "word": "mobility",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mob/mobil/mobility__gb_1.mp3",
     "phonetic_text": "/məʊˈbɪləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mob/mobil/mobility__us_1.mp3",
@@ -16808,7 +16808,7 @@
   },
   {
     "word": "mode",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mod/mode_/mode__gb_1.mp3",
     "phonetic_text": "/məʊd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mod/mode_/mode__us_1.mp3",
@@ -16879,7 +16879,7 @@
   },
   {
     "word": "model",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mod/model/model__gb_2.mp3",
     "phonetic_text": "/ˈmɒdl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mod/model/model__us_2.mp3",
@@ -17097,7 +17097,7 @@
   },
   {
     "word": "moderate",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mod/moder/moderate__gb_4.mp3",
     "phonetic_text": "/ˈmɒdərət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mod/moder/moderate__us_1.mp3",
@@ -17154,7 +17154,7 @@
   },
   {
     "word": "modern",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mod/moder/modern__gb_2.mp3",
     "phonetic_text": "/ˈmɒdn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mod/moder/modern__us_2.mp3",
@@ -17272,7 +17272,7 @@
   },
   {
     "word": "modest",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mod/modes/modest__gb_1.mp3",
     "phonetic_text": "/ˈmɒdɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mod/modes/modest__us_1.mp3",
@@ -17325,7 +17325,7 @@
   },
   {
     "word": "modification",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mod/modif/modification__gb_2.mp3",
     "phonetic_text": "/ˌmɒdɪfɪˈkeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mod/modif/modification__us_1.mp3",
@@ -17417,7 +17417,7 @@
   },
   {
     "word": "moment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mom/momen/moment__gb_1.mp3",
     "phonetic_text": "/ˈməʊmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mom/momen/moment__us_1.mp3",
@@ -17755,7 +17755,7 @@
   },
   {
     "word": "momentum",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mom/momen/momentum__gb_1.mp3",
     "phonetic_text": "/məˈmentəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mom/momen/momentum__us_1_rr.mp3",
@@ -17795,7 +17795,7 @@
   },
   {
     "word": "Monday",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/monda/monday__gb_1.mp3",
     "phonetic_text": "/ˈmʌndeɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monda/monday__us_1_rr.mp3",
@@ -17878,7 +17878,7 @@
   },
   {
     "word": "money",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/money/money__gb_1.mp3",
     "phonetic_text": "/ˈmʌni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/money/money__us_1.mp3",
@@ -18227,7 +18227,7 @@
   },
   {
     "word": "monitor",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/monit/monitor__gb_3.mp3",
     "phonetic_text": "/ˈmɒnɪtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monit/monitor__us_1.mp3",
@@ -18383,7 +18383,7 @@
   },
   {
     "word": "monk",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/monk_/monk__gb_1.mp3",
     "phonetic_text": "/mʌŋk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monk_/monk__us_1.mp3",
@@ -18402,7 +18402,7 @@
   },
   {
     "word": "monkey",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/monke/monkey__gb_2.mp3",
     "phonetic_text": "/ˈmʌŋki/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monke/monkey__us_1.mp3",
@@ -18472,7 +18472,7 @@
   },
   {
     "word": "monopoly",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/monop/monopoly__gb_1.mp3",
     "phonetic_text": "/məˈnɒpəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monop/monopoly__us_1.mp3",
@@ -18512,7 +18512,7 @@
   },
   {
     "word": "monster",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/monst/monster__gb_2.mp3",
     "phonetic_text": "/ˈmɒnstə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monst/monster__us_1.mp3",
@@ -18565,7 +18565,7 @@
   },
   {
     "word": "month",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/month/month__gb_1.mp3",
     "phonetic_text": "/mʌnθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/month/month__us_1.mp3",
@@ -18712,7 +18712,7 @@
   },
   {
     "word": "monthly",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/month/monthly__gb_1.mp3",
     "phonetic_text": "/ˈmʌnθli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/month/monthly__us_1.mp3",
@@ -18748,7 +18748,7 @@
   },
   {
     "word": "monument",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/monum/monument__gb_1.mp3",
     "phonetic_text": "/ˈmɒnjumənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monum/monument__us_1.mp3",
@@ -18785,7 +18785,7 @@
   },
   {
     "word": "mood",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/moo/mood_/mood__gb_1.mp3",
     "phonetic_text": "/muːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moo/mood_/mood__us_1.mp3",
@@ -18879,7 +18879,7 @@
   },
   {
     "word": "moon",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/moo/moon_/moon_1_gb_2.mp3",
     "phonetic_text": "/muːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moo/moon_/moon__us_1.mp3",
@@ -18981,7 +18981,7 @@
   },
   {
     "word": "moral",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mor/moral/moral__gb_1.mp3",
     "phonetic_text": "/ˈmɒrəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mor/moral/moral__us_1_rr.mp3",
@@ -19088,7 +19088,7 @@
   },
   {
     "word": "moral",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mor/moral/moral__gb_1.mp3",
     "phonetic_text": "/ˈmɒrəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mor/moral/moral__us_1_rr.mp3",
@@ -19132,7 +19132,7 @@
   },
   {
     "word": "morality",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mor/moral/morality__gb_1.mp3",
     "phonetic_text": "/məˈræləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mor/moral/morality__us_1.mp3",
@@ -19168,7 +19168,7 @@
   },
   {
     "word": "more",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mor/more_/more__gb_1.mp3",
     "phonetic_text": "/mɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mor/more_/more__us_1.mp3",
@@ -19286,7 +19286,7 @@
   },
   {
     "word": "more",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mor/more_/more__gb_1.mp3",
     "phonetic_text": "/mɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mor/more_/more__us_1.mp3",
@@ -19346,7 +19346,7 @@
   },
   {
     "word": "many",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/many_/many__gb_1.mp3",
     "phonetic_text": "/ˈmeni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/many_/many__us_2.mp3",
@@ -19453,7 +19453,7 @@
   },
   {
     "word": "moreover",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mor/moreo/moreover__gb_1.mp3",
     "phonetic_text": "/mɔːrˈəʊvə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mor/moreo/moreover__us_1.mp3",
@@ -19472,7 +19472,7 @@
   },
   {
     "word": "morning",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mor/morni/morning__gb_1.mp3",
     "phonetic_text": "/ˈmɔːnɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mor/morni/morning__us_1.mp3",
@@ -19638,7 +19638,7 @@
   },
   {
     "word": "mortgage",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mor/mortg/mortgage__gb_2.mp3",
     "phonetic_text": "/ˈmɔːɡɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mor/mortg/mortgage__us_1.mp3",
@@ -19673,7 +19673,7 @@
   },
   {
     "word": "mosque",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mos/mosqu/mosque__gb_1.mp3",
     "phonetic_text": "/mɒsk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mos/mosqu/mosque__us_1.mp3",
@@ -19696,7 +19696,7 @@
   },
   {
     "word": "most",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mos/most_/most__gb_1.mp3",
     "phonetic_text": "/məʊst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mos/most_/most__us_1.mp3",
@@ -19758,7 +19758,7 @@
   },
   {
     "word": "most",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mos/most_/most__gb_1.mp3",
     "phonetic_text": "/məʊst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mos/most_/most__us_1.mp3",
@@ -19853,7 +19853,7 @@
   },
   {
     "word": "many",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/many_/many__gb_1.mp3",
     "phonetic_text": "/ˈmeni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/many_/many__us_2.mp3",
@@ -19960,7 +19960,7 @@
   },
   {
     "word": "mostly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mos/mostl/mostly__gb_1.mp3",
     "phonetic_text": "/ˈməʊstli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mos/mostl/mostly__us_1.mp3",
@@ -19991,7 +19991,7 @@
   },
   {
     "word": "mother",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/mothe/mother__gb_2.mp3",
     "phonetic_text": "/ˈmʌðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/mothe/mother__us_1.mp3",
@@ -20076,7 +20076,7 @@
   },
   {
     "word": "motion",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/motio/motion__gb_1.mp3",
     "phonetic_text": "/ˈməʊʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/motio/motion__us_1.mp3",
@@ -20211,7 +20211,7 @@
   },
   {
     "word": "motivation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/motiv/motivation__gb_3.mp3",
     "phonetic_text": "/ˌməʊtɪˈveɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/motiv/motivation__us_1.mp3",
@@ -20252,7 +20252,7 @@
   },
   {
     "word": "motive",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/motiv/motive__gb_1.mp3",
     "phonetic_text": "/ˈməʊtɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/motiv/motive__us_1.mp3",
@@ -20283,7 +20283,7 @@
   },
   {
     "word": "motor",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/motor/motor__gb_1.mp3",
     "phonetic_text": "/ˈməʊtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/motor/motor__us_2.mp3",
@@ -20340,7 +20340,7 @@
   },
   {
     "word": "motor",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/motor/motor__gb_1.mp3",
     "phonetic_text": "/ˈməʊtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/motor/motor__us_2.mp3",
@@ -20397,7 +20397,7 @@
   },
   {
     "word": "motorcycle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/motor/motorcycle__gb_2.mp3",
     "phonetic_text": "/ˈməʊtəsaɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/motor/motorcycle__us_1.mp3",
@@ -20432,7 +20432,7 @@
   },
   {
     "word": "motorist",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/motor/motorist__gb_1.mp3",
     "phonetic_text": "/ˈməʊtərɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/motor/motorist__us_1.mp3",
@@ -20575,7 +20575,7 @@
   },
   {
     "word": "mountain",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mou/mount/mountain__gb_1.mp3",
     "phonetic_text": "/ˈmaʊntən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mount/mountain__us_5.mp3",
@@ -20668,7 +20668,7 @@
   },
   {
     "word": "mouse",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mou/mouse/mouse__gb_3.mp3",
     "phonetic_text": "/maʊs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mouse/mouse__us_1.mp3",
@@ -20741,7 +20741,7 @@
   },
   {
     "word": "mouth",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mou/mouth/mouth__gb_3.mp3",
     "phonetic_text": "/maʊθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mouth/mouth__us_1.mp3",
@@ -21032,7 +21032,7 @@
   },
   {
     "word": "move",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mov/move_/move__gb_1.mp3",
     "phonetic_text": "/muːv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mov/move_/move__us_1.mp3",
@@ -21586,7 +21586,7 @@
   },
   {
     "word": "movement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mov/movem/movement__gb_1.mp3",
     "phonetic_text": "/ˈmuːvmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mov/movem/movement__us_1.mp3",
@@ -21744,7 +21744,7 @@
   },
   {
     "word": "movie",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mov/movie/movie__gb_1.mp3",
     "phonetic_text": "/ˈmuːvi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mov/movie/movie__us_1.mp3",
@@ -21821,7 +21821,7 @@
   },
   {
     "word": "moving",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mov/movin/moving__gb_1.mp3",
     "phonetic_text": "/ˈmuːvɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mov/movin/moving__us_1.mp3",
@@ -21861,7 +21861,7 @@
   },
   {
     "word": "much",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/muc/much_/much__gb_1.mp3",
     "phonetic_text": "/mʌtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/muc/much_/much__us_1.mp3",
@@ -21963,7 +21963,7 @@
   },
   {
     "word": "much",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/muc/much_/much__gb_1.mp3",
     "phonetic_text": "/mʌtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/muc/much_/much__us_1.mp3",
@@ -22094,7 +22094,7 @@
   },
   {
     "word": "many",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/many_/many__gb_1.mp3",
     "phonetic_text": "/ˈmeni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/many_/many__us_2.mp3",
@@ -22201,7 +22201,7 @@
   },
   {
     "word": "mud",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mud/mud__/mud__gb_2.mp3",
     "phonetic_text": "/mʌd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mud/mud__/mud__us_2.mp3",
@@ -22283,7 +22283,7 @@
   },
   {
     "word": "multiple",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mul/multi/multiple__gb_1.mp3",
     "phonetic_text": "/ˈmʌltɪpl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mul/multi/multiple__us_2.mp3",
@@ -22424,7 +22424,7 @@
   },
   {
     "word": "mum",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mum/mum_1/mum_1_gb_1.mp3",
     "phonetic_text": "/mʌm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mum/mum__/mum__us_1.mp3",
@@ -22476,7 +22476,7 @@
   },
   {
     "word": "municipal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mun/munic/municipal__gb_1.mp3",
     "phonetic_text": "/mjuːˈnɪsɪpl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mun/munic/municipal__us_1.mp3",
@@ -22503,7 +22503,7 @@
   },
   {
     "word": "murder",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mur/murde/murder__gb_1.mp3",
     "phonetic_text": "/ˈmɜːdə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mur/murde/murder__us_2.mp3",
@@ -22651,7 +22651,7 @@
   },
   {
     "word": "muscle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mus/muscl/muscle__gb_1.mp3",
     "phonetic_text": "/ˈmʌsl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/muscl/muscle__us_2.mp3",
@@ -22740,7 +22740,7 @@
   },
   {
     "word": "museum",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mus/museu/museum__gb_1.mp3",
     "phonetic_text": "/mjuˈziːəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/museu/museum__us_2.mp3",
@@ -22783,7 +22783,7 @@
   },
   {
     "word": "music",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mus/music/music__gb_1.mp3",
     "phonetic_text": "/ˈmjuːzɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/music/music__us_2.mp3",
@@ -22913,7 +22913,7 @@
   },
   {
     "word": "musical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mus/music/musical__gb_1.mp3",
     "phonetic_text": "/ˈmjuːzɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/music/musical__us_3.mp3",
@@ -22990,7 +22990,7 @@
   },
   {
     "word": "musical",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mus/music/musical__gb_1.mp3",
     "phonetic_text": "/ˈmjuːzɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/music/musical__us_3.mp3",
@@ -23021,7 +23021,7 @@
   },
   {
     "word": "musician",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mus/music/musician__gb_1.mp3",
     "phonetic_text": "/mjuˈzɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/music/musician__us_2.mp3",
@@ -23056,7 +23056,7 @@
   },
   {
     "word": "must",
-    "pos": "verb",
+    "pos": "modal verb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mus/must_/must__gb_1.mp3",
     "phonetic_text": "/məst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/must_/must__us_1_rr.mp3",
@@ -23171,7 +23171,7 @@
   },
   {
     "word": "mutual",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mut/mutua/mutual__gb_1.mp3",
     "phonetic_text": "/ˈmjuːtʃuəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mut/mutua/mutual__us_1.mp3",
@@ -23215,7 +23215,7 @@
   },
   {
     "word": "my",
-    "pos": "verb",
+    "pos": "determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/my_/my__g/my__gb_1.mp3",
     "phonetic_text": "/maɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/my_/my__u/my__us_1.mp3",
@@ -23273,7 +23273,7 @@
   },
   {
     "word": "myself",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mys/mysel/myself__gb_1.mp3",
     "phonetic_text": "/maɪˈself/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mys/mysel/myself__us_3.mp3",
@@ -23348,7 +23348,7 @@
   },
   {
     "word": "mysterious",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mys/myste/mysterious__gb_1.mp3",
     "phonetic_text": "/mɪˈstɪəriəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mys/myste/mysterious__us_2.mp3",
@@ -23422,7 +23422,7 @@
   },
   {
     "word": "mystery",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mys/myste/mystery__gb_1.mp3",
     "phonetic_text": "/ˈmɪstri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mys/myste/mystery__us_2.mp3",
@@ -23534,7 +23534,7 @@
   },
   {
     "word": "myth",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/myt/myth_/myth__gb_1.mp3",
     "phonetic_text": "/mɪθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/myt/myth_/myth__us_1.mp3",

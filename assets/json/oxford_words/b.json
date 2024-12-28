@@ -1,7 +1,7 @@
 [
   {
     "word": "baby",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bab/baby_/baby__gb_2.mp3",
     "phonetic_text": "/ˈbeɪbi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bab/baby_/baby__us_1.mp3",
@@ -125,7 +125,7 @@
   },
   {
     "word": "back",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bac/back_/back__gb_2.mp3",
     "phonetic_text": "/bæk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/back_/back__us_1.mp3",
@@ -211,7 +211,7 @@
   },
   {
     "word": "back",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bac/back_/back__gb_2.mp3",
     "phonetic_text": "/bæk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/back_/back__us_1.mp3",
@@ -430,7 +430,7 @@
   },
   {
     "word": "back",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bac/back_/back__gb_2.mp3",
     "phonetic_text": "/bæk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/back_/back__us_1.mp3",
@@ -1036,7 +1036,7 @@
   },
   {
     "word": "backdrop",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bac/backd/backdrop__gb_1.mp3",
     "phonetic_text": "/ˈbækdrɒp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/backd/backdrop__us_1.mp3",
@@ -1077,7 +1077,7 @@
   },
   {
     "word": "background",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bac/backg/background__gb_1.mp3",
     "phonetic_text": "/ˈbækɡraʊnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/backg/background__us_1.mp3",
@@ -1225,7 +1225,7 @@
   },
   {
     "word": "backing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bac/backi/backing__gb_1.mp3",
     "phonetic_text": "/ˈbækɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/backi/backing__us_1.mp3",
@@ -1274,7 +1274,7 @@
   },
   {
     "word": "backup",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bac/backu/backup__gb_1.mp3",
     "phonetic_text": "/ˈbækʌp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/backu/backup__us_1.mp3",
@@ -1314,7 +1314,7 @@
   },
   {
     "word": "backwards",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bac/backw/backwards__gb_1.mp3",
     "phonetic_text": "/ˈbækwədz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/backw/backwards__us_1.mp3",
@@ -1406,7 +1406,7 @@
   },
   {
     "word": "bacteria",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bac/bacte/bacteria__gb_1.mp3",
     "phonetic_text": "/bækˈtɪəriə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/bacte/bacteria__us_2.mp3",
@@ -1449,7 +1449,7 @@
   },
   {
     "word": "bad",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bad/bad__/bad__gb_2.mp3",
     "phonetic_text": "/bæd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bad/bad__/bad__us_1.mp3",
@@ -1738,7 +1738,7 @@
   },
   {
     "word": "badge",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bad/badge/badge__gb_2.mp3",
     "phonetic_text": "/bædʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bad/badge/badge__us_1.mp3",
@@ -1799,7 +1799,7 @@
   },
   {
     "word": "badly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bad/badly/badly__gb_2.mp3",
     "phonetic_text": "/ˈbædli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bad/badly/badly__us_2.mp3",
@@ -1912,7 +1912,7 @@
   },
   {
     "word": "bag",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bag/bag__/bag__gb_2.mp3",
     "phonetic_text": "/bæɡ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bag/bag__/bag__us_1.mp3",
@@ -2091,7 +2091,7 @@
   },
   {
     "word": "bail",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bai/bail_/bail__gb_2.mp3",
     "phonetic_text": "/beɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bai/bail_/bail__us_1.mp3",
@@ -2204,7 +2204,7 @@
   },
   {
     "word": "balance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bal/balan/balance__gb_4.mp3",
     "phonetic_text": "/ˈbæləns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bal/balan/balance__us_2.mp3",
@@ -2487,7 +2487,7 @@
   },
   {
     "word": "balanced",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bal/balan/balanced__gb_3.mp3",
     "phonetic_text": "/ˈbælənst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bal/balan/balanced__us_1.mp3",
@@ -2514,7 +2514,7 @@
   },
   {
     "word": "ball",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bal/ball_/ball__gb_3.mp3",
     "phonetic_text": "/bɔːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bal/ball_/ball__us_1.mp3",
@@ -2729,7 +2729,7 @@
   },
   {
     "word": "ballet",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bal/balle/ballet__gb_2.mp3",
     "phonetic_text": "/ˈbæleɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bal/balle/ballet__us_3.mp3",
@@ -2774,7 +2774,7 @@
   },
   {
     "word": "balloon",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bal/ballo/balloon__gb_2.mp3",
     "phonetic_text": "/bəˈluːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bal/ballo/balloon__us_1.mp3",
@@ -2840,7 +2840,7 @@
   },
   {
     "word": "ballot",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bal/ballo/ballot__gb_2.mp3",
     "phonetic_text": "/ˈbælət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bal/ballo/ballot__us_1.mp3",
@@ -2893,7 +2893,7 @@
   },
   {
     "word": "ban",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ban/ban__/ban__gb_4.mp3",
     "phonetic_text": "/bæn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ban/ban__/ban__us_1.mp3",
@@ -3001,7 +3001,7 @@
   },
   {
     "word": "banana",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ban/banan/banana__gb_2.mp3",
     "phonetic_text": "/bəˈnɑːnə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ban/banan/banana__us_2.mp3",
@@ -3045,7 +3045,7 @@
   },
   {
     "word": "band",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ban/band_/band__gb_3.mp3",
     "phonetic_text": "/bænd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ban/band_/band__us_1.mp3",
@@ -3170,7 +3170,7 @@
   },
   {
     "word": "bank",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ban/bank_/bank__gb_2.mp3",
     "phonetic_text": "/bæŋk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ban/bank_/bank__us_1.mp3",
@@ -3337,7 +3337,7 @@
   },
   {
     "word": "banner",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ban/banne/banner__gb_1.mp3",
     "phonetic_text": "/ˈbænə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ban/banne/banner__us_1.mp3",
@@ -3391,7 +3391,7 @@
   },
   {
     "word": "bar",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/bar__/bar__gb_1.mp3",
     "phonetic_text": "/bɑː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/bar__/bar__us_1.mp3",
@@ -3695,7 +3695,7 @@
   },
   {
     "word": "bare",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/bare_/bare__gb_1.mp3",
     "phonetic_text": "/beə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/bare_/bare__us_1.mp3",
@@ -3850,7 +3850,7 @@
   },
   {
     "word": "barely",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/barel/barely__gb_3.mp3",
     "phonetic_text": "/ˈbeəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/barel/barely__us_1.mp3",
@@ -3920,7 +3920,7 @@
   },
   {
     "word": "bargain",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/barga/bargain__gb_3.mp3",
     "phonetic_text": "/ˈbɑːɡən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/barga/bargain__us_1.mp3",
@@ -4002,7 +4002,7 @@
   },
   {
     "word": "barrel",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/barre/barrel__gb_1.mp3",
     "phonetic_text": "/ˈbærəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/barre/barrel__us_1.mp3",
@@ -4103,7 +4103,7 @@
   },
   {
     "word": "barrier",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/barri/barrier__gb_2.mp3",
     "phonetic_text": "/ˈbæriə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/barri/barrier__us_2.mp3",
@@ -4202,7 +4202,7 @@
   },
   {
     "word": "base",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/base_/base__gb_2.mp3",
     "phonetic_text": "/beɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/base_/base__us_1.mp3",
@@ -4416,7 +4416,7 @@
   },
   {
     "word": "baseball",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/baseb/baseball__gb_3.mp3",
     "phonetic_text": "/ˈbeɪsbɔːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/baseb/baseball__us_3.mp3",
@@ -4473,7 +4473,7 @@
   },
   {
     "word": "based",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/based/based__gb_3.mp3",
     "phonetic_text": "/beɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/based/based__us_1.mp3",
@@ -4530,7 +4530,7 @@
   },
   {
     "word": "basement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/basem/basement__gb_2.mp3",
     "phonetic_text": "/ˈbeɪsmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/basem/basement__us_1.mp3",
@@ -4557,7 +4557,7 @@
   },
   {
     "word": "basic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/basic/basic__gb_3.mp3",
     "phonetic_text": "/ˈbeɪsɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/basic/basic__us_3.mp3",
@@ -4651,7 +4651,7 @@
   },
   {
     "word": "basically",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/basic/basically__gb_2.mp3",
     "phonetic_text": "/ˈbeɪsɪkli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/basic/basically__us_2.mp3",
@@ -4707,7 +4707,7 @@
   },
   {
     "word": "basis",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/basis/basis__gb_2.mp3",
     "phonetic_text": "/ˈbeɪsɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/basis/basis__us_2.mp3",
@@ -4796,7 +4796,7 @@
   },
   {
     "word": "basket",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/baske/basket__gb_6.mp3",
     "phonetic_text": "/ˈbɑːskɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/baske/basket__us_1.mp3",
@@ -4880,7 +4880,7 @@
   },
   {
     "word": "basketball",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/baske/basketball__gb_2.mp3",
     "phonetic_text": "/ˈbɑːskɪtbɔːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/baske/basketball__us_2.mp3",
@@ -4916,7 +4916,7 @@
   },
   {
     "word": "bass1",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/bass_/bass__gb_6.mp3",
     "phonetic_text": "/beɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/bass_/bass__us_1.mp3",
@@ -4973,7 +4973,7 @@
   },
   {
     "word": "bat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bat/bat__/bat__gb_4.mp3",
     "phonetic_text": "/bæt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bat/bat__/bat__us_1.mp3",
@@ -5108,7 +5108,7 @@
   },
   {
     "word": "bath",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bat/bath_/bath__gb_5.mp3",
     "phonetic_text": "/bɑːθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bat/bath_/bath__us_1.mp3",
@@ -5203,7 +5203,7 @@
   },
   {
     "word": "bathroom",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bat/bathr/bathroom__gb_1.mp3",
     "phonetic_text": "/ˈbɑːθruːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bat/bathr/bathroom__us_1_rr.mp3",
@@ -5255,7 +5255,7 @@
   },
   {
     "word": "battery",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bat/batte/battery__gb_1.mp3",
     "phonetic_text": "/ˈbætri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bat/batte/battery__us_4.mp3",
@@ -5362,7 +5362,7 @@
   },
   {
     "word": "battle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bat/battl/battle__gb_2.mp3",
     "phonetic_text": "/ˈbætl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bat/battl/battle__us_2.mp3",
@@ -5587,7 +5587,7 @@
   },
   {
     "word": "battlefield",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bat/battl/battlefield__gb_2.mp3",
     "phonetic_text": "/ˈbætlfiːld/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bat/battl/battlefield__us_1.mp3",
@@ -5623,7 +5623,7 @@
   },
   {
     "word": "bay",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bay/bay__/bay__gb_3.mp3",
     "phonetic_text": "/beɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bay/bay__/bay__us_1.mp3",
@@ -6061,7 +6061,7 @@
   },
   {
     "word": "be",
-    "pos": "verb",
+    "pos": "auxiliary verb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/be_/be__g/be__gb_7.mp3",
     "phonetic_text": "/bi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/be_/be__u/be__us_1.mp3",
@@ -6208,7 +6208,7 @@
   },
   {
     "word": "beach",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/beach/beach__gb_2.mp3",
     "phonetic_text": "/biːtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/beach/beach__us_1.mp3",
@@ -6251,7 +6251,7 @@
   },
   {
     "word": "beam",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/beam_/beam__gb_2.mp3",
     "phonetic_text": "/biːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/beam_/beam__us_1.mp3",
@@ -6318,7 +6318,7 @@
   },
   {
     "word": "bean",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/bean_/bean__gb_4.mp3",
     "phonetic_text": "/biːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/bean_/bean__us_1.mp3",
@@ -6396,7 +6396,7 @@
   },
   {
     "word": "bear",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/bear_/bear__gb_2.mp3",
     "phonetic_text": "/beə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/bear_/bear__us_1.mp3",
@@ -6734,7 +6734,7 @@
   },
   {
     "word": "beast",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/beast/beast__gb_3.mp3",
     "phonetic_text": "/biːst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/beast/beast__us_1.mp3",
@@ -6784,7 +6784,7 @@
   },
   {
     "word": "beat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/beat_/beat__gb_3.mp3",
     "phonetic_text": "/biːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/beat_/beat__us_1.mp3",
@@ -7246,7 +7246,7 @@
   },
   {
     "word": "beautiful",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/beaut/beautiful__gb_2.mp3",
     "phonetic_text": "/ˈbjuːtɪfl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/beaut/beautiful__us_1.mp3",
@@ -7302,7 +7302,7 @@
   },
   {
     "word": "beauty",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/beaut/beauty__gb_2.mp3",
     "phonetic_text": "/ˈbjuːti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/beaut/beauty__us_3.mp3",
@@ -7396,7 +7396,7 @@
   },
   {
     "word": "because",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bec/becau/because__gb_4.mp3",
     "phonetic_text": "/bɪˈkəz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bec/becau/because__us_2.mp3",
@@ -7513,7 +7513,7 @@
   },
   {
     "word": "bed",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bed/bed__/bed__gb_3.mp3",
     "phonetic_text": "/bed/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bed/bed__/bed__us_2.mp3",
@@ -7686,7 +7686,7 @@
   },
   {
     "word": "bedroom",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bed/bedro/bedroom__gb_1.mp3",
     "phonetic_text": "/ˈbedruːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bed/bedro/bedroom__us_1_rr.mp3",
@@ -7738,7 +7738,7 @@
   },
   {
     "word": "bee",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bee/bee__/bee__gb_2.mp3",
     "phonetic_text": "/biː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bee/bee__/bee__us_1.mp3",
@@ -7800,7 +7800,7 @@
   },
   {
     "word": "beef",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bee/beef_/beef__gb_2.mp3",
     "phonetic_text": "/biːf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bee/beef_/beef__us_1.mp3",
@@ -7844,7 +7844,7 @@
   },
   {
     "word": "beer",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bee/beer_/beer__gb_1.mp3",
     "phonetic_text": "/bɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bee/beer_/beer__us_1.mp3",
@@ -7896,7 +7896,7 @@
   },
   {
     "word": "before",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bef/befor/before__gb_1.mp3",
     "phonetic_text": "/bɪˈfɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bef/befor/before__us_1.mp3",
@@ -7927,7 +7927,7 @@
   },
   {
     "word": "before",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bef/befor/before__gb_1.mp3",
     "phonetic_text": "/bɪˈfɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bef/befor/before__us_1.mp3",
@@ -7985,7 +7985,7 @@
   },
   {
     "word": "before",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bef/befor/before__gb_1.mp3",
     "phonetic_text": "/bɪˈfɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bef/befor/before__us_1.mp3",
@@ -8497,7 +8497,7 @@
   },
   {
     "word": "beginning",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/beg/begin/beginning__gb_2.mp3",
     "phonetic_text": "/bɪˈɡɪnɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/beg/begin/beginning__us_1.mp3",
@@ -8574,7 +8574,7 @@
   },
   {
     "word": "behalf",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/beh/behal/behalf__gb_2.mp3",
     "phonetic_text": "/bɪˈhɑːf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/beh/behal/behalf__us_1.mp3",
@@ -8719,7 +8719,7 @@
   },
   {
     "word": "behaviour",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/beh/behav/behaviour__gb_2.mp3",
     "phonetic_text": "/bɪˈheɪvjə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/beh/behav/behaviour__us_2.mp3",
@@ -8815,7 +8815,7 @@
   },
   {
     "word": "behind",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/beh/behin/behind__gb_2.mp3",
     "phonetic_text": "/bɪˈhaɪnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/beh/behin/behind__us_2.mp3",
@@ -8872,7 +8872,7 @@
   },
   {
     "word": "behind",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/beh/behin/behind__gb_2.mp3",
     "phonetic_text": "/bɪˈhaɪnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/beh/behin/behind__us_2.mp3",
@@ -8959,7 +8959,7 @@
   },
   {
     "word": "being",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bei/being/being__gb_3.mp3",
     "phonetic_text": "/ˈbiːɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bei/being/being__us_1.mp3",
@@ -9008,7 +9008,7 @@
   },
   {
     "word": "belief",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bel/belie/belief__gb_2.mp3",
     "phonetic_text": "/bɪˈliːf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bel/belie/belief__us_1.mp3",
@@ -9364,7 +9364,7 @@
   },
   {
     "word": "bell",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bel/bell_/bell__gb_2.mp3",
     "phonetic_text": "/bel/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bel/bell_/bell__us_1.mp3",
@@ -9527,7 +9527,7 @@
   },
   {
     "word": "beloved",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bel/belov/beloved__gb_4.mp3",
     "phonetic_text": "/bɪˈlʌvɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bel/belov/beloved__us_2.mp3",
@@ -9567,7 +9567,7 @@
   },
   {
     "word": "below",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bel/below/below__gb_2.mp3",
     "phonetic_text": "/bɪˈləʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bel/below/below__us_1.mp3",
@@ -9616,7 +9616,7 @@
   },
   {
     "word": "below",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bel/below/below__gb_2.mp3",
     "phonetic_text": "/bɪˈləʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bel/below/below__us_1.mp3",
@@ -9665,7 +9665,7 @@
   },
   {
     "word": "belt",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bel/belt_/belt__gb_2.mp3",
     "phonetic_text": "/belt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bel/belt_/belt__us_1.mp3",
@@ -9774,7 +9774,7 @@
   },
   {
     "word": "bench",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/bench/bench__gb_5.mp3",
     "phonetic_text": "/bentʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/bench/bench__us_1.mp3",
@@ -9841,7 +9841,7 @@
   },
   {
     "word": "benchmark",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/bench/benchmark__gb_2.mp3",
     "phonetic_text": "/ˈbentʃmɑːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/bench/benchmark__us_1.mp3",
@@ -9860,7 +9860,7 @@
   },
   {
     "word": "bend",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/bend_/bend__gb_2.mp3",
     "phonetic_text": "/bend/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/bend_/bend__us_1.mp3",
@@ -10059,7 +10059,7 @@
   },
   {
     "word": "beneath",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/benea/beneath__gb_2.mp3",
     "phonetic_text": "/bɪˈniːθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/benea/beneath__us_1.mp3",
@@ -10095,7 +10095,7 @@
   },
   {
     "word": "beneficial",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/benef/beneficial__gb_2.mp3",
     "phonetic_text": "/ˌbenɪˈfɪʃl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/benef/beneficial__us_1.mp3",
@@ -10118,7 +10118,7 @@
   },
   {
     "word": "beneficiary",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/benef/beneficiary__gb_1.mp3",
     "phonetic_text": "/ˌbenɪˈfɪʃəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/benef/beneficiary__us_1_rr.mp3",
@@ -10146,7 +10146,7 @@
   },
   {
     "word": "benefit",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/benef/benefit__gb_2.mp3",
     "phonetic_text": "/ˈbenɪfɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/benef/benefit__us_1.mp3",
@@ -10335,7 +10335,7 @@
   },
   {
     "word": "bent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/bent_/bent__gb_3.mp3",
     "phonetic_text": "/bent/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/bent_/bent__us_2.mp3",
@@ -10409,7 +10409,7 @@
   },
   {
     "word": "beside",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bes/besid/beside__gb_2.mp3",
     "phonetic_text": "/bɪˈsaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bes/besid/beside__us_1.mp3",
@@ -10467,7 +10467,7 @@
   },
   {
     "word": "besides",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bes/besid/besides__gb_2.mp3",
     "phonetic_text": "/bɪˈsaɪdz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bes/besid/besides__us_1.mp3",
@@ -10495,7 +10495,7 @@
   },
   {
     "word": "besides",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bes/besid/besides__gb_2.mp3",
     "phonetic_text": "/bɪˈsaɪdz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bes/besid/besides__us_1.mp3",
@@ -10526,7 +10526,7 @@
   },
   {
     "word": "best",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bes/best_/best__gb_4.mp3",
     "phonetic_text": "/best/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bes/best_/best__us_1.mp3",
@@ -10607,7 +10607,7 @@
   },
   {
     "word": "best",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bes/best_/best__gb_4.mp3",
     "phonetic_text": "/best/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bes/best_/best__us_1.mp3",
@@ -10686,7 +10686,7 @@
   },
   {
     "word": "best",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bes/best_/best__gb_4.mp3",
     "phonetic_text": "/best/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bes/best_/best__us_1.mp3",
@@ -10890,7 +10890,7 @@
   },
   {
     "word": "bet",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bet/bet__/bet__gb_2.mp3",
     "phonetic_text": "/bet/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bet/bet__/bet__us_1.mp3",
@@ -11178,7 +11178,7 @@
   },
   {
     "word": "better",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bet/bette/better__gb_2.mp3",
     "phonetic_text": "/ˈbetə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bet/bette/better__us_4.mp3",
@@ -11343,7 +11343,7 @@
   },
   {
     "word": "better",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bet/bette/better__gb_2.mp3",
     "phonetic_text": "/ˈbetə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bet/bette/better__us_4.mp3",
@@ -11472,7 +11472,7 @@
   },
   {
     "word": "better",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bet/bette/better__gb_2.mp3",
     "phonetic_text": "/ˈbetə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bet/bette/better__us_4.mp3",
@@ -11563,7 +11563,7 @@
   },
   {
     "word": "between",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bet/betwe/between__gb_3.mp3",
     "phonetic_text": "/bɪˈtwiːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bet/betwe/between__us_2.mp3",
@@ -11595,7 +11595,7 @@
   },
   {
     "word": "between",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bet/betwe/between__gb_3.mp3",
     "phonetic_text": "/bɪˈtwiːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bet/betwe/between__us_2.mp3",
@@ -11738,7 +11738,7 @@
   },
   {
     "word": "beyond",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bey/beyon/beyond__gb_2.mp3",
     "phonetic_text": "/bɪˈjɒnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bey/beyon/beyond__us_1.mp3",
@@ -11800,7 +11800,7 @@
   },
   {
     "word": "beyond",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bey/beyon/beyond__gb_2.mp3",
     "phonetic_text": "/bɪˈjɒnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bey/beyon/beyond__us_1.mp3",
@@ -11880,7 +11880,7 @@
   },
   {
     "word": "bias",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bia/bias_/bias__gb_2.mp3",
     "phonetic_text": "/ˈbaɪəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bia/bias_/bias__us_1.mp3",
@@ -11950,7 +11950,7 @@
   },
   {
     "word": "bicycle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bic/bicyc/bicycle__gb_2.mp3",
     "phonetic_text": "/ˈbaɪsɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bic/bicyc/bicycle__us_1.mp3",
@@ -11981,7 +11981,7 @@
   },
   {
     "word": "bid1",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bid/bid__/bid__gb_3.mp3",
     "phonetic_text": "/bɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bid/bid__/bid__us_1.mp3",
@@ -12109,7 +12109,7 @@
   },
   {
     "word": "big",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/big/big__/big__gb_2.mp3",
     "phonetic_text": "/bɪɡ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/big/big__/big__us_1.mp3",
@@ -12425,7 +12425,7 @@
   },
   {
     "word": "bike",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bik/bike_/bike__gb_4.mp3",
     "phonetic_text": "/baɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bik/bike_/bike__us_1.mp3",
@@ -12476,7 +12476,7 @@
   },
   {
     "word": "bill",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bil/bill_/bill__gb_3.mp3",
     "phonetic_text": "/bɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bil/bill_/bill__us_1.mp3",
@@ -12693,7 +12693,7 @@
   },
   {
     "word": "billion",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bil/billi/billion__gb_3.mp3",
     "phonetic_text": "/ˈbɪljən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bil/billi/billion__us_1.mp3",
@@ -12733,7 +12733,7 @@
   },
   {
     "word": "bin",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bin/bin__/bin__gb_2.mp3",
     "phonetic_text": "/bɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bin/bin__/bin__us_1.mp3",
@@ -12874,7 +12874,7 @@
   },
   {
     "word": "biography",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bio/biogr/biography__gb_1.mp3",
     "phonetic_text": "/baɪˈɒɡrəfi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bio/biogr/biography__us_1.mp3",
@@ -12901,7 +12901,7 @@
   },
   {
     "word": "biological",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bio/biolo/biological__gb_2.mp3",
     "phonetic_text": "/ˌbaɪəˈlɒdʒɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bio/biolo/biological__us_1.mp3",
@@ -12951,7 +12951,7 @@
   },
   {
     "word": "biology",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bio/biolo/biology__gb_2.mp3",
     "phonetic_text": "/baɪˈɒlədʒi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bio/biolo/biology__us_1.mp3",
@@ -12995,7 +12995,7 @@
   },
   {
     "word": "bird",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bir/bird_/bird__gb_2.mp3",
     "phonetic_text": "/bɜːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bir/bird_/bird__us_1.mp3",
@@ -13104,7 +13104,7 @@
   },
   {
     "word": "birth",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bir/birth/birth__gb_3.mp3",
     "phonetic_text": "/bɜːθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bir/birth/birth__us_1.mp3",
@@ -13206,7 +13206,7 @@
   },
   {
     "word": "birthday",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bir/birth/birthday__gb_3.mp3",
     "phonetic_text": "/ˈbɜːθdeɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bir/birth/birthday__us_1.mp3",
@@ -13249,7 +13249,7 @@
   },
   {
     "word": "biscuit",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bis/biscu/biscuit__gb_2.mp3",
     "phonetic_text": "/ˈbɪskɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bis/biscu/biscuit__us_1.mp3",
@@ -13297,7 +13297,7 @@
   },
   {
     "word": "bishop",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bis/bisho/bishop__gb_3.mp3",
     "phonetic_text": "/ˈbɪʃəp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bis/bisho/bishop__us_1.mp3",
@@ -13332,7 +13332,7 @@
   },
   {
     "word": "bit",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bit/bit__/bit__gb_6.mp3",
     "phonetic_text": "/bɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bit/bit__/bit__us_1.mp3",
@@ -13704,7 +13704,7 @@
   },
   {
     "word": "bite",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bit/bite_/bite__gb_2.mp3",
     "phonetic_text": "/baɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bit/bite_/bite__us_1.mp3",
@@ -13974,7 +13974,7 @@
   },
   {
     "word": "bitter",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bit/bitte/bitter__gb_1.mp3",
     "phonetic_text": "/ˈbɪtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bit/bitte/bitter__us_3.mp3",
@@ -14083,7 +14083,7 @@
   },
   {
     "word": "bizarre",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/biz/bizar/bizarre__gb_1.mp3",
     "phonetic_text": "/bɪˈzɑː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/biz/bizar/bizarre__us_1.mp3",
@@ -14106,7 +14106,7 @@
   },
   {
     "word": "black",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/black/black__gb_2.mp3",
     "phonetic_text": "/blæk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/black/black__us_1.mp3",
@@ -14237,7 +14237,7 @@
   },
   {
     "word": "black",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/black/black__gb_2.mp3",
     "phonetic_text": "/blæk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/black/black__us_1.mp3",
@@ -14308,7 +14308,7 @@
   },
   {
     "word": "blade",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/blade/blade__gb_2.mp3",
     "phonetic_text": "/bleɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/blade/blade__us_1.mp3",
@@ -14357,7 +14357,7 @@
   },
   {
     "word": "blame",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/blame/blame__gb_2.mp3",
     "phonetic_text": "/bleɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/blame/blame__us_1.mp3",
@@ -14492,7 +14492,7 @@
   },
   {
     "word": "blank",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/blank/blank__gb_8.mp3",
     "phonetic_text": "/blæŋk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/blank/blank__us_1.mp3",
@@ -14583,7 +14583,7 @@
   },
   {
     "word": "blank",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/blank/blank__gb_8.mp3",
     "phonetic_text": "/blæŋk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/blank/blank__us_1.mp3",
@@ -14633,7 +14633,7 @@
   },
   {
     "word": "blanket",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/blank/blanket__gb_2.mp3",
     "phonetic_text": "/ˈblæŋkɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/blank/blanket__us_1.mp3",
@@ -14669,7 +14669,7 @@
   },
   {
     "word": "blast",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/blast/blast__gb_5.mp3",
     "phonetic_text": "/blɑːst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/blast/blast__us_1.mp3",
@@ -14933,7 +14933,7 @@
   },
   {
     "word": "blend",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ble/blend/blend__gb_2.mp3",
     "phonetic_text": "/blend/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ble/blend/blend__us_1.mp3",
@@ -15112,7 +15112,7 @@
   },
   {
     "word": "blessing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ble/bless/blessing__gb_3.mp3",
     "phonetic_text": "/ˈblesɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ble/bless/blessing__us_1.mp3",
@@ -15178,7 +15178,7 @@
   },
   {
     "word": "blind",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bli/blind/blind__gb_11.mp3",
     "phonetic_text": "/blaɪnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bli/blind/blind__us_1.mp3",
@@ -15342,7 +15342,7 @@
   },
   {
     "word": "block",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blo/block/block__gb_2.mp3",
     "phonetic_text": "/blɒk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/blo/block/block__us_1.mp3",
@@ -15604,7 +15604,7 @@
   },
   {
     "word": "blog",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blo/blog_/blog__gb_2.mp3",
     "phonetic_text": "/blɒɡ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/blo/blog_/blog__us_1_rr.mp3",
@@ -15635,7 +15635,7 @@
   },
   {
     "word": "blonde",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blo/blond/blonde__gb_2.mp3",
     "phonetic_text": "/blɒnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/blo/blond/blonde__us_1.mp3",
@@ -15671,7 +15671,7 @@
   },
   {
     "word": "blood",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blo/blood/blood__gb_2.mp3",
     "phonetic_text": "/blʌd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/blo/blood/blood__us_1.mp3",
@@ -15922,7 +15922,7 @@
   },
   {
     "word": "blow",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blo/blow_/blow__gb_2.mp3",
     "phonetic_text": "/bləʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/blo/blow_/blow__us_1.mp3",
@@ -16437,7 +16437,7 @@
   },
   {
     "word": "blue",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blu/blue_/blue__gb_2.mp3",
     "phonetic_text": "/bluː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/blu/blue_/blue__us_1.mp3",
@@ -16558,7 +16558,7 @@
   },
   {
     "word": "blue",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blu/blue_/blue__gb_2.mp3",
     "phonetic_text": "/bluː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/blu/blue_/blue__us_1.mp3",
@@ -16640,7 +16640,7 @@
   },
   {
     "word": "board",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boa/board/board__gb_2.mp3",
     "phonetic_text": "/bɔːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boa/board/board__us_1.mp3",
@@ -16976,7 +16976,7 @@
   },
   {
     "word": "boat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boa/boat_/boat_1_gb_1_abbr.mp3",
     "phonetic_text": "/bəʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boa/boat_/boat__us_1.mp3",
@@ -17072,7 +17072,7 @@
   },
   {
     "word": "body",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bod/body_/body__gb_2.mp3",
     "phonetic_text": "/ˈbɒdi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bod/body_/body__us_2.mp3",
@@ -17395,7 +17395,7 @@
   },
   {
     "word": "bold",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bol/bold_/bold__gb_2.mp3",
     "phonetic_text": "/bəʊld/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bol/bold_/bold__us_1.mp3",
@@ -17466,7 +17466,7 @@
   },
   {
     "word": "bomb",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bom/bomb_/bomb__gb_2.mp3",
     "phonetic_text": "/bɒm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bom/bomb_/bomb__us_1.mp3",
@@ -17637,7 +17637,7 @@
   },
   {
     "word": "bombing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bom/bombi/bombing__gb_3.mp3",
     "phonetic_text": "/ˈbɒmɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bom/bombi/bombing__us_1.mp3",
@@ -17660,7 +17660,7 @@
   },
   {
     "word": "bond",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bon/bond_/bond__gb_2.mp3",
     "phonetic_text": "/bɒnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bon/bond_/bond__us_1.mp3",
@@ -17773,7 +17773,7 @@
   },
   {
     "word": "bone",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bon/bone_/bone__gb_2.mp3",
     "phonetic_text": "/bəʊn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bon/bone_/bone__us_1.mp3",
@@ -17959,7 +17959,7 @@
   },
   {
     "word": "bonus",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bon/bonus/bonus__gb_2.mp3",
     "phonetic_text": "/ˈbəʊnəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bon/bonus/bonus__us_1.mp3",
@@ -18007,7 +18007,7 @@
   },
   {
     "word": "book",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boo/book_/book__gb_2.mp3",
     "phonetic_text": "/bʊk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/book_/book__us_1.mp3",
@@ -18347,7 +18347,7 @@
   },
   {
     "word": "booking",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boo/booki/booking__gb_3.mp3",
     "phonetic_text": "/ˈbʊkɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/booki/booking__us_1.mp3",
@@ -18390,7 +18390,7 @@
   },
   {
     "word": "boom",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boo/boom_/boom__gb_2.mp3",
     "phonetic_text": "/buːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/boom_/boom__us_1.mp3",
@@ -18464,7 +18464,7 @@
   },
   {
     "word": "boost",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boo/boost/boost__gb_2.mp3",
     "phonetic_text": "/buːst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/boost/boost__us_1.mp3",
@@ -18556,7 +18556,7 @@
   },
   {
     "word": "boot",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boo/boot_/boot__gb_2.mp3",
     "phonetic_text": "/buːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/boot_/boot__us_1.mp3",
@@ -18685,7 +18685,7 @@
   },
   {
     "word": "border",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bor/borde/border__gb_1.mp3",
     "phonetic_text": "/ˈbɔːdə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bor/borde/border__us_1.mp3",
@@ -18834,7 +18834,7 @@
   },
   {
     "word": "bored",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bor/bored/bored__gb_3.mp3",
     "phonetic_text": "/bɔːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bor/bored/bored__us_1.mp3",
@@ -18890,7 +18890,7 @@
   },
   {
     "word": "boring",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bor/borin/boring__gb_1.mp3",
     "phonetic_text": "/ˈbɔːrɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bor/borin/boring__us_1.mp3",
@@ -19188,7 +19188,7 @@
   },
   {
     "word": "boss",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bos/boss_/boss__gb_2.mp3",
     "phonetic_text": "/bɒs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bos/boss_/boss__us_8.mp3",
@@ -19248,7 +19248,7 @@
   },
   {
     "word": "both",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bot/both_/both__gb_2.mp3",
     "phonetic_text": "/bəʊθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bot/both_/both__us_1.mp3",
@@ -19316,7 +19316,7 @@
   },
   {
     "word": "both",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bot/both_/both__gb_2.mp3",
     "phonetic_text": "/bəʊθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bot/both_/both__us_1.mp3",
@@ -19531,7 +19531,7 @@
   },
   {
     "word": "bottle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bot/bottl/bottle__gb_3.mp3",
     "phonetic_text": "/ˈbɒtl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bot/bottl/bottle__us_1.mp3",
@@ -19619,7 +19619,7 @@
   },
   {
     "word": "bottom",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bot/botto/bottom__gb_2.mp3",
     "phonetic_text": "/ˈbɒtəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bot/botto/bottom__us_1.mp3",
@@ -19704,7 +19704,7 @@
   },
   {
     "word": "bottom",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bot/botto/bottom__gb_2.mp3",
     "phonetic_text": "/ˈbɒtəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bot/botto/bottom__us_1.mp3",
@@ -20115,7 +20115,7 @@
   },
   {
     "word": "bound",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bou/bound/bound__gb_3.mp3",
     "phonetic_text": "/baʊnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bou/bound/bound__us_1.mp3",
@@ -20275,7 +20275,7 @@
   },
   {
     "word": "boundary",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bou/bound/boundary__gb_1.mp3",
     "phonetic_text": "/ˈbaʊndri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bou/bound/boundary__us_1.mp3",
@@ -20344,7 +20344,7 @@
   },
   {
     "word": "bow1",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bow/bow__/bow__gb_3.mp3",
     "phonetic_text": "/baʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bow/bow__/bow__us_1.mp3",
@@ -20467,7 +20467,7 @@
   },
   {
     "word": "bowl",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bow/bowl_/bowl__gb_4.mp3",
     "phonetic_text": "/bəʊl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bow/bowl_/bowl__us_1.mp3",
@@ -20554,7 +20554,7 @@
   },
   {
     "word": "box",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/box/box__/box__gb_2.mp3",
     "phonetic_text": "/bɒks/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/box/box__/box__us_1.mp3",
@@ -20742,7 +20742,7 @@
   },
   {
     "word": "boy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boy/boy__/boy__gb_2.mp3",
     "phonetic_text": "/bɔɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boy/boy__/boy__us_1.mp3",
@@ -20867,7 +20867,7 @@
   },
   {
     "word": "boyfriend",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boy/boyfr/boyfriend__gb_1.mp3",
     "phonetic_text": "/ˈbɔɪfrend/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boy/boyfr/boyfriend__us_2.mp3",
@@ -20890,7 +20890,7 @@
   },
   {
     "word": "brain",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bra/brain/brain__gb_1.mp3",
     "phonetic_text": "/breɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bra/brain/brain__us_1.mp3",
@@ -21051,7 +21051,7 @@
   },
   {
     "word": "branch",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bra/branc/branch__gb_1.mp3",
     "phonetic_text": "/brɑːntʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bra/branc/branch__us_1.mp3",
@@ -21160,7 +21160,7 @@
   },
   {
     "word": "brand",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bra/brand/brand__gb_2.mp3",
     "phonetic_text": "/brænd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bra/brand/brand__us_1.mp3",
@@ -21289,7 +21289,7 @@
   },
   {
     "word": "brave",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bra/brave/brave__gb_2.mp3",
     "phonetic_text": "/breɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bra/brave/brave__us_1.mp3",
@@ -21376,7 +21376,7 @@
   },
   {
     "word": "breach",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/breac/breach__gb_1.mp3",
     "phonetic_text": "/briːtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/breac/breach__us_1.mp3",
@@ -21490,7 +21490,7 @@
   },
   {
     "word": "bread",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/bread/bread__gb_2.mp3",
     "phonetic_text": "/bred/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/bread/bread__us_1.mp3",
@@ -21550,7 +21550,7 @@
   },
   {
     "word": "break",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/break/break__gb_1.mp3",
     "phonetic_text": "/breɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/break/break__us_1.mp3",
@@ -22139,7 +22139,7 @@
   },
   {
     "word": "breakdown",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/break/breakdown__gb_1.mp3",
     "phonetic_text": "/ˈbreɪkdaʊn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/break/breakdown__us_1.mp3",
@@ -22226,7 +22226,7 @@
   },
   {
     "word": "breakfast",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/break/breakfast__gb_1.mp3",
     "phonetic_text": "/ˈbrekfəst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/break/breakfast__us_1.mp3",
@@ -22282,7 +22282,7 @@
   },
   {
     "word": "breakthrough",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/break/breakthrough__gb_1.mp3",
     "phonetic_text": "/ˈbreɪkθruː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/break/breakthrough__us_1.mp3",
@@ -22309,7 +22309,7 @@
   },
   {
     "word": "breast",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/breas/breast__gb_1.mp3",
     "phonetic_text": "/brest/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/breas/breast__us_1.mp3",
@@ -22435,7 +22435,7 @@
   },
   {
     "word": "breath",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/breat/breath__gb_1.mp3",
     "phonetic_text": "/breθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/breat/breath__us_1.mp3",
@@ -22842,7 +22842,7 @@
   },
   {
     "word": "breathing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/breat/breathing__gb_1.mp3",
     "phonetic_text": "/ˈbriːðɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/breat/breathing__us_1.mp3",
@@ -22881,7 +22881,7 @@
   },
   {
     "word": "breed",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/breed/breed__gb_1.mp3",
     "phonetic_text": "/briːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/breed/breed__us_1.mp3",
@@ -22996,7 +22996,7 @@
   },
   {
     "word": "brick",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/brick/brick__gb_2.mp3",
     "phonetic_text": "/brɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/brick/brick__us_1.mp3",
@@ -23088,7 +23088,7 @@
   },
   {
     "word": "bride",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/bride/bride__gb_1.mp3",
     "phonetic_text": "/braɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/bride/bride__us_1.mp3",
@@ -23115,7 +23115,7 @@
   },
   {
     "word": "bridge",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/bridg/bridge__gb_3.mp3",
     "phonetic_text": "/brɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/bridg/bridge__us_1.mp3",
@@ -23219,7 +23219,7 @@
   },
   {
     "word": "brief",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/brief/brief__gb_2.mp3",
     "phonetic_text": "/briːf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/brief/brief__us_1.mp3",
@@ -23305,7 +23305,7 @@
   },
   {
     "word": "briefly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/brief/briefly__gb_1.mp3",
     "phonetic_text": "/ˈbriːfli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/brief/briefly__us_1.mp3",
@@ -23341,7 +23341,7 @@
   },
   {
     "word": "bright",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/brigh/bright_1_gb_1.mp3",
     "phonetic_text": "/braɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/brigh/bright_1_us_1.mp3",
@@ -23501,7 +23501,7 @@
   },
   {
     "word": "brilliant",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/brill/brilliant__gb_1.mp3",
     "phonetic_text": "/ˈbrɪliənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/brill/brilliant__us_1.mp3",
@@ -23776,7 +23776,7 @@
   },
   {
     "word": "broad",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broad/broad__gb_1.mp3",
     "phonetic_text": "/brɔːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broad/broad__us_2.mp3",
@@ -23943,7 +23943,7 @@
   },
   {
     "word": "broadband",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broad/broadband__gb_1.mp3",
     "phonetic_text": "/ˈbrɔːdbænd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broad/broadband__us_1.mp3",
@@ -23966,7 +23966,7 @@
   },
   {
     "word": "broadcast",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broad/broadcast__gb_1.mp3",
     "phonetic_text": "/ˈbrɔːdkɑːst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broad/broadcast__us_1.mp3",
@@ -24053,7 +24053,7 @@
   },
   {
     "word": "broadcaster",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broad/broadcaster__gb_1.mp3",
     "phonetic_text": "/ˈbrɔːdkɑːstə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broad/broadcaster__us_1.mp3",
@@ -24081,7 +24081,7 @@
   },
   {
     "word": "broadly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broad/broadly__gb_1.mp3",
     "phonetic_text": "/ˈbrɔːdli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broad/broadly__us_1.mp3",
@@ -24108,7 +24108,7 @@
   },
   {
     "word": "broken",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broke/broken__gb_1.mp3",
     "phonetic_text": "/ˈbrəʊkən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broke/broken__us_1.mp3",
@@ -24214,7 +24214,7 @@
   },
   {
     "word": "brother",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broth/brother__gb_2.mp3",
     "phonetic_text": "/ˈbrʌðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broth/brother__us_2.mp3",
@@ -24307,7 +24307,7 @@
   },
   {
     "word": "brown",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/brown/brown_1_gb_1.mp3",
     "phonetic_text": "/braʊn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/brown/brown__us_1.mp3",
@@ -24371,7 +24371,7 @@
   },
   {
     "word": "brown",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/brown/brown_1_gb_1.mp3",
     "phonetic_text": "/braʊn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/brown/brown__us_1.mp3",
@@ -24406,7 +24406,7 @@
   },
   {
     "word": "browser",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/brows/browser__gb_1.mp3",
     "phonetic_text": "/ˈbraʊzə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/brows/browser__us_1.mp3",
@@ -24434,7 +24434,7 @@
   },
   {
     "word": "brush",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bru/brush/brush__gb_1.mp3",
     "phonetic_text": "/brʌʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bru/brush/brush__us_1.mp3",
@@ -24619,7 +24619,7 @@
   },
   {
     "word": "brutal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bru/bruta/brutal__gb_1.mp3",
     "phonetic_text": "/ˈbruːtl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bru/bruta/brutal__us_1.mp3",
@@ -24651,7 +24651,7 @@
   },
   {
     "word": "bubble",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bub/bubbl/bubble__gb_3.mp3",
     "phonetic_text": "/ˈbʌbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bub/bubbl/bubble__us_3.mp3",
@@ -24744,7 +24744,7 @@
   },
   {
     "word": "buck",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/buc/buck_/buck__gb_2.mp3",
     "phonetic_text": "/bʌk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/buc/buck_/buck__us_1.mp3",
@@ -24819,7 +24819,7 @@
   },
   {
     "word": "buddy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bud/buddy/buddy__gb_2.mp3",
     "phonetic_text": "/ˈbʌdi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bud/buddy/buddy__us_1.mp3",
@@ -24872,7 +24872,7 @@
   },
   {
     "word": "budget",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bud/budge/budget__gb_2.mp3",
     "phonetic_text": "/ˈbʌdʒɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bud/budge/budget__us_1.mp3",
@@ -24964,7 +24964,7 @@
   },
   {
     "word": "buffer",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/buf/buffe/buffer__gb_1.mp3",
     "phonetic_text": "/ˈbʌfə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/buf/buffe/buffer__us_1.mp3",
@@ -25024,7 +25024,7 @@
   },
   {
     "word": "bug",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bug/bug__/bug__gb_3.mp3",
     "phonetic_text": "/bʌɡ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bug/bug__/bug__us_1.mp3",
@@ -25201,7 +25201,7 @@
   },
   {
     "word": "building",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bui/build/building__gb_3.mp3",
     "phonetic_text": "/ˈbɪldɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bui/build/building__us_3.mp3",
@@ -25282,7 +25282,7 @@
   },
   {
     "word": "bulk",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bul/bulk_/bulk__gb_2.mp3",
     "phonetic_text": "/bʌlk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bul/bulk_/bulk__us_1.mp3",
@@ -25339,7 +25339,7 @@
   },
   {
     "word": "bullet",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bul/bulle/bullet__gb_2.mp3",
     "phonetic_text": "/ˈbʊlɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bul/bulle/bullet__us_1.mp3",
@@ -25396,7 +25396,7 @@
   },
   {
     "word": "bunch",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bun/bunch/bunch__gb_2.mp3",
     "phonetic_text": "/bʌntʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bun/bunch/bunch__us_1.mp3",
@@ -25470,7 +25470,7 @@
   },
   {
     "word": "burden",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bur/burde/burden__gb_5.mp3",
     "phonetic_text": "/ˈbɜːdn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bur/burde/burden__us_1.mp3",
@@ -25505,7 +25505,7 @@
   },
   {
     "word": "bureaucracy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bur/burea/bureaucracy__gb_1.mp3",
     "phonetic_text": "/bjʊəˈrɒkrəsi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bur/burea/bureaucracy__us_1.mp3",
@@ -25541,7 +25541,7 @@
   },
   {
     "word": "burial",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bur/buria/burial__gb_1.mp3",
     "phonetic_text": "/ˈberiəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bur/buria/burial__us_1.mp3",
@@ -25572,7 +25572,7 @@
   },
   {
     "word": "burn",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bur/burn_/burn__gb_2.mp3",
     "phonetic_text": "/bɜːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bur/burn_/burn__us_1.mp3",
@@ -26252,7 +26252,7 @@
   },
   {
     "word": "bus",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bus/bus__/bus__gb_3.mp3",
     "phonetic_text": "/bʌs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bus/bus__/bus__us_1.mp3",
@@ -26316,7 +26316,7 @@
   },
   {
     "word": "bush",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bus/bush_/bush_1_gb_1.mp3",
     "phonetic_text": "/bʊʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bus/bush_/bush__us_1.mp3",
@@ -26373,7 +26373,7 @@
   },
   {
     "word": "business",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bus/busin/business__gb_2.mp3",
     "phonetic_text": "/ˈbɪznəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bus/busin/business__us_4.mp3",
@@ -26756,7 +26756,7 @@
   },
   {
     "word": "businessman",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bus/busin/businessman__gb_5.mp3",
     "phonetic_text": "/ˈbɪznəsmæn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bus/busin/businessman__us_1_rr.mp3",
@@ -26796,7 +26796,7 @@
   },
   {
     "word": "busy",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bus/busy_/busy__gb_2.mp3",
     "phonetic_text": "/ˈbɪzi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bus/busy_/busy__us_2.mp3",
@@ -26949,7 +26949,7 @@
   },
   {
     "word": "but",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/but/but__/but__gb_6.mp3",
     "phonetic_text": "/bət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/but/but__/but__us_2_rr.mp3",
@@ -27083,7 +27083,7 @@
   },
   {
     "word": "but",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/but/but__/but__gb_6.mp3",
     "phonetic_text": "/bət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/but/but__/but__us_2_rr.mp3",
@@ -27122,7 +27122,7 @@
   },
   {
     "word": "butter",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/but/butte/butter__gb_2.mp3",
     "phonetic_text": "/ˈbʌtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/but/butte/butter__us_2.mp3",
@@ -27165,7 +27165,7 @@
   },
   {
     "word": "button",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/but/butto/button__gb_4.mp3",
     "phonetic_text": "/ˈbʌtn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/but/butto/button__us_4.mp3",
@@ -27463,7 +27463,7 @@
   },
   {
     "word": "by",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/by_/by__g/by__gb_2.mp3",
     "phonetic_text": "/baɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/by_/by__u/by__us_1.mp3",
@@ -27530,7 +27530,7 @@
   },
   {
     "word": "by",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/by_/by__g/by__gb_2.mp3",
     "phonetic_text": "/baɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/by_/by__u/by__us_1.mp3",
@@ -27808,7 +27808,7 @@
   },
   {
     "word": "bye",
-    "pos": "verb",
+    "pos": "exclamation",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bye/bye__/bye__gb_2.mp3",
     "phonetic_text": "/baɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bye/bye__/bye__us_1.mp3",
@@ -27835,7 +27835,7 @@
   },
   {
     "word": "well-being",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wel/well_/well_being_1_gb_1.mp3",
     "phonetic_text": "/ˈwel biːɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wel/well_/well_being_1_us_3.mp3",

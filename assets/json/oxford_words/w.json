@@ -1,7 +1,7 @@
 [
   {
     "word": "post-war",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pos/post_/post_war_1_gb_1.mp3",
     "phonetic_text": "/ˌpəʊst ˈwɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pos/post_/post_war_1_us_1.mp3",
@@ -28,7 +28,7 @@
   },
   {
     "word": "wage",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wag/wage_/wage__gb_1.mp3",
     "phonetic_text": "/weɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wag/wage_/wage__us_1.mp3",
@@ -111,7 +111,7 @@
   },
   {
     "word": "wait",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wai/wait_/wait__gb_1.mp3",
     "phonetic_text": "/weɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wai/wait_/wait__us_1.mp3",
@@ -483,7 +483,7 @@
   },
   {
     "word": "waiter",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wai/waite/waiter__gb_2.mp3",
     "phonetic_text": "/ˈweɪtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wai/waite/waiter__us_1.mp3",
@@ -594,7 +594,7 @@
   },
   {
     "word": "walk",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wal/walk_/walk__gb_1.mp3",
     "phonetic_text": "/wɔːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wal/walk_/walk__us_1.mp3",
@@ -1087,7 +1087,7 @@
   },
   {
     "word": "wall",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wal/wall_/wall__gb_2.mp3",
     "phonetic_text": "/wɔːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wal/wall_/wall__us_1.mp3",
@@ -1737,7 +1737,7 @@
   },
   {
     "word": "war",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/war/war__/war__gb_1.mp3",
     "phonetic_text": "/wɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/war/war__/war__us_1.mp3",
@@ -1893,7 +1893,7 @@
   },
   {
     "word": "ward",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/war/ward_/ward__gb_1.mp3",
     "phonetic_text": "/wɔːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/war/ward_/ward__us_1.mp3",
@@ -1929,7 +1929,7 @@
   },
   {
     "word": "warehouse",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/war/wareh/warehouse__gb_1.mp3",
     "phonetic_text": "/ˈweəhaʊs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/war/wareh/warehouse__us_1.mp3",
@@ -1952,7 +1952,7 @@
   },
   {
     "word": "warfare",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/war/warfa/warfare__gb_1.mp3",
     "phonetic_text": "/ˈwɔːfeə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/war/warfa/warfare__us_1.mp3",
@@ -1992,7 +1992,7 @@
   },
   {
     "word": "warm",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/war/warm_/warm__gb_1.mp3",
     "phonetic_text": "/wɔːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/war/warm_/warm__us_1.mp3",
@@ -2233,7 +2233,7 @@
   },
   {
     "word": "warming",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/war/warmi/warming__gb_1.mp3",
     "phonetic_text": "/ˈwɔːmɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/war/warmi/warming__us_1.mp3",
@@ -2353,7 +2353,7 @@
   },
   {
     "word": "warning",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/war/warni/warning__gb_1.mp3",
     "phonetic_text": "/ˈwɔːnɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/war/warni/warning__us_3.mp3",
@@ -2437,7 +2437,7 @@
   },
   {
     "word": "warrant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/war/warra/warrant__gb_1.mp3",
     "phonetic_text": "/ˈwɒrənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/war/warra/warrant__us_1_rr.mp3",
@@ -2517,7 +2517,7 @@
   },
   {
     "word": "warrior",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/war/warri/warrior__gb_1.mp3",
     "phonetic_text": "/ˈwɒriə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/war/warri/warrior__us_1_rr.mp3",
@@ -2549,7 +2549,7 @@
   },
   {
     "word": "wash",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/was/wash_/wash__gb_1.mp3",
     "phonetic_text": "/wɒʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/was/wash_/wash__us_1_rr.mp3",
@@ -2756,7 +2756,7 @@
   },
   {
     "word": "washing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/was/washi/washing__gb_1.mp3",
     "phonetic_text": "/ˈwɒʃɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/was/washi/washing__us_1.mp3",
@@ -2796,7 +2796,7 @@
   },
   {
     "word": "waste",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/was/waste/waste__gb_2.mp3",
     "phonetic_text": "/weɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/was/waste/waste__us_1.mp3",
@@ -2841,7 +2841,7 @@
   },
   {
     "word": "waste",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/was/waste/waste__gb_2.mp3",
     "phonetic_text": "/weɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/was/waste/waste__us_1.mp3",
@@ -3051,7 +3051,7 @@
   },
   {
     "word": "watch",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wat/watch/watch__gb_2.mp3",
     "phonetic_text": "/wɒtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/watch/watch__us_6.mp3",
@@ -3365,7 +3365,7 @@
   },
   {
     "word": "water",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wat/water/water__gb_1.mp3",
     "phonetic_text": "/ˈwɔːtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/water/water__us_1_rr.mp3",
@@ -3753,7 +3753,7 @@
   },
   {
     "word": "wave",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wav/wave_/wave__gb_1.mp3",
     "phonetic_text": "/weɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wav/wave_/wave__us_1.mp3",
@@ -4059,7 +4059,7 @@
   },
   {
     "word": "way",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/way/way__/way__gb_1.mp3",
     "phonetic_text": "/weɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/way/way__/way__us_1.mp3",
@@ -4132,7 +4132,7 @@
   },
   {
     "word": "way",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/way/way__/way__gb_1.mp3",
     "phonetic_text": "/weɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/way/way__/way__us_1.mp3",
@@ -5646,7 +5646,7 @@
   },
   {
     "word": "we",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/we_/we__g/we__gb_1.mp3",
     "phonetic_text": "/wi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/we_/we__u/we__us_1.mp3",
@@ -5682,7 +5682,7 @@
   },
   {
     "word": "weak",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/weak_/weak__gb_2.mp3",
     "phonetic_text": "/wiːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wea/weak_/weak__us_1.mp3",
@@ -5971,7 +5971,7 @@
   },
   {
     "word": "weakness",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/weakn/weakness__gb_2.mp3",
     "phonetic_text": "/ˈwiːknəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wea/weakn/weakness__us_2.mp3",
@@ -6058,7 +6058,7 @@
   },
   {
     "word": "wealth",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/wealt/wealth__gb_1.mp3",
     "phonetic_text": "/welθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wea/wealt/wealth__us_1.mp3",
@@ -6131,7 +6131,7 @@
   },
   {
     "word": "wealthy",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/wealt/wealthy__gb_1.mp3",
     "phonetic_text": "/ˈwelθi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wea/wealt/wealthy__us_2.mp3",
@@ -6170,7 +6170,7 @@
   },
   {
     "word": "weapon",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/weapo/weapon__gb_1.mp3",
     "phonetic_text": "/ˈwepən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wea/weapo/weapon__us_2.mp3",
@@ -6427,7 +6427,7 @@
   },
   {
     "word": "weather",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/weath/weather__gb_1.mp3",
     "phonetic_text": "/ˈweðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wea/weath/weather__us_2.mp3",
@@ -6673,7 +6673,7 @@
   },
   {
     "word": "web",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/web/web__/web__gb_1.mp3",
     "phonetic_text": "/web/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/web/web__/web__us_1.mp3",
@@ -6738,7 +6738,7 @@
   },
   {
     "word": "website",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/web/websi/website__gb_1.mp3",
     "phonetic_text": "/ˈwebsaɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/web/websi/website__us_1.mp3",
@@ -6777,7 +6777,7 @@
   },
   {
     "word": "wedding",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wed/weddi/wedding__gb_1.mp3",
     "phonetic_text": "/ˈwedɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wed/weddi/wedding__us_3.mp3",
@@ -6832,7 +6832,7 @@
   },
   {
     "word": "Wednesday",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wed/wedne/wednesday_1_gb_1.mp3",
     "phonetic_text": "/ˈwenzdeɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wed/wedne/wednesday__us_1_rr.mp3",
@@ -6915,7 +6915,7 @@
   },
   {
     "word": "weed",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wee/weed_/weed__gb_1.mp3",
     "phonetic_text": "/wiːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wee/weed_/weed__us_1.mp3",
@@ -6986,7 +6986,7 @@
   },
   {
     "word": "week",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wee/week_/week__gb_1.mp3",
     "phonetic_text": "/wiːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wee/week_/week__us_1.mp3",
@@ -7259,7 +7259,7 @@
   },
   {
     "word": "weekend",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wee/weeke/weekend__gb_1.mp3",
     "phonetic_text": "/ˌwiːkˈend/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wee/weeke/weekend__us_2.mp3",
@@ -7347,7 +7347,7 @@
   },
   {
     "word": "weekly",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wee/weekl/weekly__gb_1.mp3",
     "phonetic_text": "/ˈwiːkli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wee/weekl/weekly__us_1.mp3",
@@ -7481,7 +7481,7 @@
   },
   {
     "word": "weight",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wei/weigh/weight__gb_1.mp3",
     "phonetic_text": "/weɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wei/weigh/weight__us_1.mp3",
@@ -7751,7 +7751,7 @@
   },
   {
     "word": "weird",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wei/weird/weird__gb_1.mp3",
     "phonetic_text": "/wɪəd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wei/weird/weird__us_1.mp3",
@@ -7799,7 +7799,7 @@
   },
   {
     "word": "welcome",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wel/welco/welcome__gb_1.mp3",
     "phonetic_text": "/ˈwelkəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wel/welco/welcome__us_2.mp3",
@@ -7922,7 +7922,7 @@
   },
   {
     "word": "welcome",
-    "pos": "verb",
+    "pos": "exclamation",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wel/welco/welcome__gb_1.mp3",
     "phonetic_text": "/ˈwelkəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wel/welco/welcome__us_2.mp3",
@@ -7949,7 +7949,7 @@
   },
   {
     "word": "welcome",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wel/welco/welcome__gb_1.mp3",
     "phonetic_text": "/ˈwelkəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wel/welco/welcome__us_2.mp3",
@@ -8103,7 +8103,7 @@
   },
   {
     "word": "welfare",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wel/welfa/welfare__gb_3.mp3",
     "phonetic_text": "/ˈwelfeə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wel/welfa/welfare__us_1.mp3",
@@ -8156,7 +8156,7 @@
   },
   {
     "word": "well",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wel/well_/well__gb_2.mp3",
     "phonetic_text": "/wel/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wel/well_/well__us_2.mp3",
@@ -8257,7 +8257,7 @@
   },
   {
     "word": "well",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wel/well_/well__gb_2.mp3",
     "phonetic_text": "/wel/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wel/well_/well__us_2.mp3",
@@ -8649,7 +8649,7 @@
   },
   {
     "word": "well",
-    "pos": "verb",
+    "pos": "exclamation",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wel/well_/well__gb_2.mp3",
     "phonetic_text": "/wel/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wel/well_/well__us_2.mp3",
@@ -8769,7 +8769,7 @@
   },
   {
     "word": "well",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wel/well_/well__gb_2.mp3",
     "phonetic_text": "/wel/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wel/well_/well__us_2.mp3",
@@ -8809,7 +8809,7 @@
   },
   {
     "word": "west",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wes/west_/west__gb_1.mp3",
     "phonetic_text": "/west/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wes/west_/west__us_1.mp3",
@@ -8853,7 +8853,7 @@
   },
   {
     "word": "west",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wes/west_/west__gb_1.mp3",
     "phonetic_text": "/west/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wes/west_/west__us_1.mp3",
@@ -8885,7 +8885,7 @@
   },
   {
     "word": "west",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wes/west_/west__gb_1.mp3",
     "phonetic_text": "/west/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wes/west_/west__us_1.mp3",
@@ -8972,7 +8972,7 @@
   },
   {
     "word": "western",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wes/weste/western__gb_1.mp3",
     "phonetic_text": "/ˈwestən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wes/weste/western__us_3.mp3",
@@ -9020,7 +9020,7 @@
   },
   {
     "word": "wet",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wet/wet__/wet__gb_2.mp3",
     "phonetic_text": "/wet/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wet/wet__/wet__us_1.mp3",
@@ -9140,7 +9140,7 @@
   },
   {
     "word": "what",
-    "pos": "verb",
+    "pos": "pronoun, determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wha/what_/what__gb_1.mp3",
     "phonetic_text": "/wɒt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wha/what_/what__us_1_rr.mp3",
@@ -9414,7 +9414,7 @@
   },
   {
     "word": "what",
-    "pos": "verb",
+    "pos": "pronoun, determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wha/what_/what__gb_1.mp3",
     "phonetic_text": "/wɒt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wha/what_/what__us_1_rr.mp3",
@@ -9688,7 +9688,7 @@
   },
   {
     "word": "whatever",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wha/whate/whatever__gb_1.mp3",
     "phonetic_text": "/wɒtˈevə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wha/whate/whatever__us_3_rr.mp3",
@@ -9720,7 +9720,7 @@
   },
   {
     "word": "whatever",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wha/whate/whatever__gb_1.mp3",
     "phonetic_text": "/wɒtˈevə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wha/whate/whatever__us_3_rr.mp3",
@@ -9809,7 +9809,7 @@
   },
   {
     "word": "whatever",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wha/whate/whatever__gb_1.mp3",
     "phonetic_text": "/wɒtˈevə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wha/whate/whatever__us_3_rr.mp3",
@@ -9898,7 +9898,7 @@
   },
   {
     "word": "whatsoever",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wha/whats/whatsoever__gb_3.mp3",
     "phonetic_text": "/ˌwɒtsəʊˈevə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wha/whats/whatsoever__us_6.mp3",
@@ -9921,7 +9921,7 @@
   },
   {
     "word": "wheat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/wheat/wheat__gb_1.mp3",
     "phonetic_text": "/wiːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/wheat/wheat__us_1.mp3",
@@ -9949,7 +9949,7 @@
   },
   {
     "word": "wheel",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/wheel/wheel__gb_1.mp3",
     "phonetic_text": "/wiːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/wheel/wheel__us_1.mp3",
@@ -10122,7 +10122,7 @@
   },
   {
     "word": "when",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/when_/when__gb_1.mp3",
     "phonetic_text": "/wen/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/when_/when__us_1_rr.mp3",
@@ -10171,7 +10171,7 @@
   },
   {
     "word": "when",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/when_/when__gb_1.mp3",
     "phonetic_text": "/wen/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/when_/when__us_1_rr.mp3",
@@ -10257,7 +10257,7 @@
   },
   {
     "word": "when",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/when_/when__gb_1.mp3",
     "phonetic_text": "/wen/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/when_/when__us_1_rr.mp3",
@@ -10280,7 +10280,7 @@
   },
   {
     "word": "whenever",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/whene/whenever__gb_2.mp3",
     "phonetic_text": "/wenˈevə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/whene/whenever__us_1_rr.mp3",
@@ -10329,7 +10329,7 @@
   },
   {
     "word": "where",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/where/where__gb_1.mp3",
     "phonetic_text": "/weə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/where/where__us_1.mp3",
@@ -10382,7 +10382,7 @@
   },
   {
     "word": "where",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/where/where__gb_1.mp3",
     "phonetic_text": "/weə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/where/where__us_1.mp3",
@@ -10413,7 +10413,7 @@
   },
   {
     "word": "whereas",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/where/whereas__gb_2.mp3",
     "phonetic_text": "/ˌweərˈæz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/where/whereas__us_1_rr.mp3",
@@ -10440,7 +10440,7 @@
   },
   {
     "word": "whereby",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/where/whereby__gb_2.mp3",
     "phonetic_text": "/weəˈbaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/where/whereby__us_1_rr.mp3",
@@ -10459,7 +10459,7 @@
   },
   {
     "word": "wherever",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/where/wherever__gb_1.mp3",
     "phonetic_text": "/weərˈevə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/where/wherever__us_1_rr.mp3",
@@ -10509,7 +10509,7 @@
   },
   {
     "word": "whether",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/wheth/whether__gb_1.mp3",
     "phonetic_text": "/ˈweðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/wheth/whether__us_1.mp3",
@@ -10561,7 +10561,7 @@
   },
   {
     "word": "which",
-    "pos": "verb",
+    "pos": "pronoun, determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/which/which__gb_1.mp3",
     "phonetic_text": "/wɪtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/which/which__us_1.mp3",
@@ -10619,7 +10619,7 @@
   },
   {
     "word": "which",
-    "pos": "verb",
+    "pos": "pronoun, determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/which/which__gb_1.mp3",
     "phonetic_text": "/wɪtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/which/which__us_1.mp3",
@@ -10677,7 +10677,7 @@
   },
   {
     "word": "while",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/while/while__gb_2.mp3",
     "phonetic_text": "/waɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/while/while__us_1.mp3",
@@ -10743,7 +10743,7 @@
   },
   {
     "word": "while",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/while/while__gb_2.mp3",
     "phonetic_text": "/waɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/while/while__us_1.mp3",
@@ -10828,7 +10828,7 @@
   },
   {
     "word": "whilst",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/whils/whilst__gb_1.mp3",
     "phonetic_text": "/waɪlst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/whils/whilst__us_1.mp3",
@@ -10965,7 +10965,7 @@
   },
   {
     "word": "whisper",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/whisp/whisper__gb_1.mp3",
     "phonetic_text": "/ˈwɪspə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/whisp/whisper__us_1.mp3",
@@ -11087,7 +11087,7 @@
   },
   {
     "word": "white",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/white/white_1_gb_1.mp3",
     "phonetic_text": "/waɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/white/white__us_1.mp3",
@@ -11193,7 +11193,7 @@
   },
   {
     "word": "white",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/white/white_1_gb_1.mp3",
     "phonetic_text": "/waɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/white/white__us_1.mp3",
@@ -11311,7 +11311,7 @@
   },
   {
     "word": "who",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/who/who__/who__gb_2.mp3",
     "phonetic_text": "/huː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/who/who__/who__us_2.mp3",
@@ -11377,7 +11377,7 @@
   },
   {
     "word": "whoever",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/who/whoev/whoever__gb_1.mp3",
     "phonetic_text": "/huːˈevə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/who/whoev/whoever__us_1.mp3",
@@ -11422,7 +11422,7 @@
   },
   {
     "word": "whole",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/who/whole/whole__gb_1.mp3",
     "phonetic_text": "/həʊl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/who/whole/whole__us_1.mp3",
@@ -11563,7 +11563,7 @@
   },
   {
     "word": "whole",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/who/whole/whole__gb_1.mp3",
     "phonetic_text": "/həʊl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/who/whole/whole__us_1.mp3",
@@ -11633,7 +11633,7 @@
   },
   {
     "word": "wholly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/who/wholl/wholly__gb_1.mp3",
     "phonetic_text": "/ˈhəʊlli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/who/wholl/wholly__us_1.mp3",
@@ -11656,7 +11656,7 @@
   },
   {
     "word": "whom",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/who/whom_/whom__gb_1.mp3",
     "phonetic_text": "/huːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/who/whom_/whom__us_1.mp3",
@@ -11687,7 +11687,7 @@
   },
   {
     "word": "whose",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/who/whose/whose__gb_1.mp3",
     "phonetic_text": "/huːz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/who/whose/whose__us_1.mp3",
@@ -11732,7 +11732,7 @@
   },
   {
     "word": "whose",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/who/whose/whose__gb_1.mp3",
     "phonetic_text": "/huːz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/who/whose/whose__us_1.mp3",
@@ -11777,7 +11777,7 @@
   },
   {
     "word": "why",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/why/why__/why__gb_1.mp3",
     "phonetic_text": "/waɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/why/why__/why__us_1.mp3",
@@ -11864,7 +11864,7 @@
   },
   {
     "word": "wide",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wid/wide_/wide__gb_2.mp3",
     "phonetic_text": "/waɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wid/wide_/wide__us_1.mp3",
@@ -12048,7 +12048,7 @@
   },
   {
     "word": "widely",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wid/widel/widely__gb_1.mp3",
     "phonetic_text": "/ˈwaɪdli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wid/widel/widely__us_1.mp3",
@@ -12213,7 +12213,7 @@
   },
   {
     "word": "widespread",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wid/wides/widespread__gb_2.mp3",
     "phonetic_text": "/ˈwaɪdspred/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wid/wides/widespread__us_1_rr.mp3",
@@ -12236,7 +12236,7 @@
   },
   {
     "word": "widow",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wid/widow/widow__gb_1.mp3",
     "phonetic_text": "/ˈwɪdəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wid/widow/widow__us_1.mp3",
@@ -12255,7 +12255,7 @@
   },
   {
     "word": "width",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wid/width/width__gb_1.mp3",
     "phonetic_text": "/wɪdθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wid/width/width__us_1_rr.mp3",
@@ -12300,7 +12300,7 @@
   },
   {
     "word": "wife",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wif/wife_/wife__gb_1.mp3",
     "phonetic_text": "/waɪf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wif/wife_/wife__us_1.mp3",
@@ -12388,7 +12388,7 @@
   },
   {
     "word": "wild",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wil/wild_/wild__gb_2.mp3",
     "phonetic_text": "/waɪld/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wil/wild_/wild__us_1.mp3",
@@ -12602,7 +12602,7 @@
   },
   {
     "word": "wildlife",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wil/wildl/wildlife__gb_1.mp3",
     "phonetic_text": "/ˈwaɪldlaɪf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wil/wildl/wildlife__us_1.mp3",
@@ -12633,7 +12633,7 @@
   },
   {
     "word": "will",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wil/will_/will__gb_1.mp3",
     "phonetic_text": "/wɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wil/will_/will__us_1.mp3",
@@ -12786,7 +12786,7 @@
   },
   {
     "word": "will",
-    "pos": "verb",
+    "pos": "modal verb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wil/will_/will__gb_1.mp3",
     "phonetic_text": "/wɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wil/will_/will__us_1.mp3",
@@ -12938,7 +12938,7 @@
   },
   {
     "word": "willing",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wil/willi/willing__gb_1.mp3",
     "phonetic_text": "/ˈwɪlɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wil/willi/willing__us_1.mp3",
@@ -13034,7 +13034,7 @@
   },
   {
     "word": "willingness",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wil/willi/willingness__gb_1.mp3",
     "phonetic_text": "/ˈwɪlɪŋnəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wil/willi/willingness__us_1.mp3",
@@ -13053,7 +13053,7 @@
   },
   {
     "word": "win",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/win__/win__gb_1.mp3",
     "phonetic_text": "/wɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/win__/win__us_1.mp3",
@@ -13249,7 +13249,7 @@
   },
   {
     "word": "wind1",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/wind_/wind__gb_1.mp3",
     "phonetic_text": "/wɪnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/wind_/wind__us_1.mp3",
@@ -13579,7 +13579,7 @@
   },
   {
     "word": "window",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/windo/window__gb_2.mp3",
     "phonetic_text": "/ˈwɪndəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/windo/window__us_1.mp3",
@@ -13692,7 +13692,7 @@
   },
   {
     "word": "wine",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/wine_/wine__gb_1.mp3",
     "phonetic_text": "/waɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/wine_/wine__us_1.mp3",
@@ -13772,7 +13772,7 @@
   },
   {
     "word": "wing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/wing_/wing__gb_1.mp3",
     "phonetic_text": "/wɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/wing_/wing__us_1.mp3",
@@ -13947,7 +13947,7 @@
   },
   {
     "word": "winner",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/winne/winner__gb_1.mp3",
     "phonetic_text": "/ˈwɪnə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/winne/winner__us_2.mp3",
@@ -14049,7 +14049,7 @@
   },
   {
     "word": "winter",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/winte/winter__gb_2.mp3",
     "phonetic_text": "/ˈwɪntə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/winte/winter__us_1.mp3",
@@ -14203,7 +14203,7 @@
   },
   {
     "word": "wire",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wir/wire_/wire__gb_1.mp3",
     "phonetic_text": "/ˈwaɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wir/wire_/wire__us_1.mp3",
@@ -14316,7 +14316,7 @@
   },
   {
     "word": "wisdom",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wis/wisdo/wisdom__gb_1.mp3",
     "phonetic_text": "/ˈwɪzdəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wis/wisdo/wisdom__us_1.mp3",
@@ -14388,7 +14388,7 @@
   },
   {
     "word": "wise",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wis/wise_/wise__gb_1.mp3",
     "phonetic_text": "/waɪz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wis/wise_/wise__us_1.mp3",
@@ -14501,7 +14501,7 @@
   },
   {
     "word": "wish",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wis/wish_/wish__gb_1.mp3",
     "phonetic_text": "/wɪʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wis/wish_/wish__us_1.mp3",
@@ -14738,7 +14738,7 @@
   },
   {
     "word": "wit",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wit/wit__/wit__gb_1.mp3",
     "phonetic_text": "/wɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wit/wit__/wit__us_1.mp3",
@@ -14865,7 +14865,7 @@
   },
   {
     "word": "with",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wit/with_/with__gb_1.mp3",
     "phonetic_text": "/wɪð/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wit/with_/with__us_1_rr.mp3",
@@ -15277,7 +15277,7 @@
   },
   {
     "word": "withdrawal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wit/withd/withdrawal__gb_1.mp3",
     "phonetic_text": "/wɪðˈdrɔːəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wit/withd/withdrawal__us_1_rr.mp3",
@@ -15361,7 +15361,7 @@
   },
   {
     "word": "within",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wit/withi/within__gb_1.mp3",
     "phonetic_text": "/wɪˈðɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wit/withi/within__us_1_rr.mp3",
@@ -15435,7 +15435,7 @@
   },
   {
     "word": "without",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wit/witho/without__gb_1.mp3",
     "phonetic_text": "/wɪˈðaʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wit/witho/without__us_1_rr.mp3",
@@ -15505,7 +15505,7 @@
   },
   {
     "word": "witness",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wit/witne/witness__gb_2.mp3",
     "phonetic_text": "/ˈwɪtnəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wit/witne/witness__us_2.mp3",
@@ -15728,7 +15728,7 @@
   },
   {
     "word": "woman",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wom/woman/woman__gb_2.mp3",
     "phonetic_text": "/ˈwʊmən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wom/woman/woman__us_1.mp3",
@@ -15888,7 +15888,7 @@
   },
   {
     "word": "wonder",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/won/wonde/wonder__gb_1.mp3",
     "phonetic_text": "/ˈwʌndə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/won/wonde/wonder__us_2.mp3",
@@ -16123,7 +16123,7 @@
   },
   {
     "word": "wonderful",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/won/wonde/wonderful__gb_1.mp3",
     "phonetic_text": "/ˈwʌndəfl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/won/wonde/wonderful__us_2.mp3",
@@ -16203,7 +16203,7 @@
   },
   {
     "word": "wood",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/woo/wood_/wood__gb_1.mp3",
     "phonetic_text": "/wʊd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/woo/wood_/wood__us_1.mp3",
@@ -16306,7 +16306,7 @@
   },
   {
     "word": "wooden",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/woo/woode/wooden__gb_1.mp3",
     "phonetic_text": "/ˈwʊdn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/woo/woode/wooden__us_2.mp3",
@@ -16346,7 +16346,7 @@
   },
   {
     "word": "wool",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/woo/wool_/wool__gb_1.mp3",
     "phonetic_text": "/wʊl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/woo/wool_/wool__us_1.mp3",
@@ -16407,7 +16407,7 @@
   },
   {
     "word": "word",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/word_/word__gb_1.mp3",
     "phonetic_text": "/wɜːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/word_/word__us_1.mp3",
@@ -16942,7 +16942,7 @@
   },
   {
     "word": "work",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/work_/work__gb_2.mp3",
     "phonetic_text": "/wɜːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/work_/work__us_1.mp3",
@@ -17723,7 +17723,7 @@
   },
   {
     "word": "worker",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worke/worker__gb_1.mp3",
     "phonetic_text": "/ˈwɜːkə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worke/worker__us_2.mp3",
@@ -17796,7 +17796,7 @@
   },
   {
     "word": "workforce",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/workf/workforce__gb_2.mp3",
     "phonetic_text": "/ˈwɜːkfɔːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/workf/workforce__us_1.mp3",
@@ -17832,7 +17832,7 @@
   },
   {
     "word": "working",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worki/working__gb_1.mp3",
     "phonetic_text": "/ˈwɜːkɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worki/working__us_3.mp3",
@@ -17943,7 +17943,7 @@
   },
   {
     "word": "workout",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worko/workout__gb_1.mp3",
     "phonetic_text": "/ˈwɜːkaʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worko/workout__us_1.mp3",
@@ -17970,7 +17970,7 @@
   },
   {
     "word": "workplace",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/workp/workplace__gb_1.mp3",
     "phonetic_text": "/ˈwɜːkpleɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/workp/workplace__us_1.mp3",
@@ -17997,7 +17997,7 @@
   },
   {
     "word": "workshop",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/works/workshop__gb_1.mp3",
     "phonetic_text": "/ˈwɜːkʃɒp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/works/workshop__us_1.mp3",
@@ -18033,7 +18033,7 @@
   },
   {
     "word": "world",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/world/world__gb_1.mp3",
     "phonetic_text": "/wɜːld/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/world/world__us_1.mp3",
@@ -18617,7 +18617,7 @@
   },
   {
     "word": "worldwide",
-    "pos": "verb",
+    "pos": "adjective, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/world/worldwide__gb_1.mp3",
     "phonetic_text": "/ˌwɜːldˈwaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/world/worldwide__us_3.mp3",
@@ -18656,7 +18656,7 @@
   },
   {
     "word": "worldwide",
-    "pos": "verb",
+    "pos": "adjective, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/world/worldwide__gb_1.mp3",
     "phonetic_text": "/ˌwɜːldˈwaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/world/worldwide__us_3.mp3",
@@ -18695,7 +18695,7 @@
   },
   {
     "word": "worm",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worm_/worm__gb_1.mp3",
     "phonetic_text": "/wɜːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worm_/worm__us_1.mp3",
@@ -18756,7 +18756,7 @@
   },
   {
     "word": "worried",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worri/worried__gb_3.mp3",
     "phonetic_text": "/ˈwʌrid/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worri/worried__us_1.mp3",
@@ -18832,7 +18832,7 @@
   },
   {
     "word": "worry",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worry/worry__gb_1.mp3",
     "phonetic_text": "/ˈwʌri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worry/worry__us_2.mp3",
@@ -19051,7 +19051,7 @@
   },
   {
     "word": "worse",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worse/worse__gb_1.mp3",
     "phonetic_text": "/wɜːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worse/worse__us_1.mp3",
@@ -19182,7 +19182,7 @@
   },
   {
     "word": "worse",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worse/worse__gb_1.mp3",
     "phonetic_text": "/wɜːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worse/worse__us_1.mp3",
@@ -19257,7 +19257,7 @@
   },
   {
     "word": "worse",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worse/worse__gb_1.mp3",
     "phonetic_text": "/wɜːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worse/worse__us_1.mp3",
@@ -19336,7 +19336,7 @@
   },
   {
     "word": "worship",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worsh/worship__gb_1.mp3",
     "phonetic_text": "/ˈwɜːʃɪp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worsh/worship__us_1.mp3",
@@ -19425,7 +19425,7 @@
   },
   {
     "word": "worst",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worst/worst__gb_1.mp3",
     "phonetic_text": "/wɜːst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worst/worst__us_1.mp3",
@@ -19477,7 +19477,7 @@
   },
   {
     "word": "worst",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worst/worst__gb_1.mp3",
     "phonetic_text": "/wɜːst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worst/worst__us_1.mp3",
@@ -19512,7 +19512,7 @@
   },
   {
     "word": "worst",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worst/worst__gb_1.mp3",
     "phonetic_text": "/wɜːst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worst/worst__us_1.mp3",
@@ -19620,7 +19620,7 @@
   },
   {
     "word": "worth",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worth/worth__gb_1.mp3",
     "phonetic_text": "/wɜːθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worth/worth__us_1.mp3",
@@ -19802,7 +19802,7 @@
   },
   {
     "word": "worth",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worth/worth__gb_1.mp3",
     "phonetic_text": "/wɜːθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worth/worth__us_1.mp3",
@@ -19867,7 +19867,7 @@
   },
   {
     "word": "worthwhile",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worth/worthwhile__gb_1.mp3",
     "phonetic_text": "/ˌwɜːθˈwaɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worth/worthwhile__us_1.mp3",
@@ -19910,7 +19910,7 @@
   },
   {
     "word": "worthy",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worth/worthy__gb_1.mp3",
     "phonetic_text": "/ˈwɜːði/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worth/worthy__us_1.mp3",
@@ -19997,7 +19997,7 @@
   },
   {
     "word": "would",
-    "pos": "verb",
+    "pos": "modal verb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wou/would/would__gb_3.mp3",
     "phonetic_text": "/wʊd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wou/would/would__us_8_rr.mp3",
@@ -20197,7 +20197,7 @@
   },
   {
     "word": "wound1",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wou/wound/wound__gb_2.mp3",
     "phonetic_text": "/wuːnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wou/wound/wound__us_2.mp3",
@@ -20351,7 +20351,7 @@
   },
   {
     "word": "wow",
-    "pos": "verb",
+    "pos": "exclamation",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wow/wow__/wow__gb_1.mp3",
     "phonetic_text": "/waʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wow/wow__/wow__us_1.mp3",
@@ -20494,7 +20494,7 @@
   },
   {
     "word": "wrist",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wri/wrist/wrist__gb_1.mp3",
     "phonetic_text": "/rɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wri/wrist/wrist__us_1.mp3",
@@ -20759,7 +20759,7 @@
   },
   {
     "word": "writer",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wri/write/writer__gb_1.mp3",
     "phonetic_text": "/ˈraɪtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wri/write/writer__us_3.mp3",
@@ -20820,7 +20820,7 @@
   },
   {
     "word": "writing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wri/writi/writing__gb_1.mp3",
     "phonetic_text": "/ˈraɪtɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wri/writi/writing__us_4.mp3",
@@ -20942,7 +20942,7 @@
   },
   {
     "word": "written",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wri/writt/written__gb_2.mp3",
     "phonetic_text": "/ˈrɪtn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wri/writt/written__us_3.mp3",
@@ -21020,7 +21020,7 @@
   },
   {
     "word": "wrong",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wro/wrong/wrong__gb_1.mp3",
     "phonetic_text": "/rɒŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wro/wrong/wrong__us_1.mp3",
@@ -21306,7 +21306,7 @@
   },
   {
     "word": "wrong",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wro/wrong/wrong__gb_1.mp3",
     "phonetic_text": "/rɒŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wro/wrong/wrong__us_1.mp3",
@@ -21441,7 +21441,7 @@
   },
   {
     "word": "wrong",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wro/wrong/wrong__gb_1.mp3",
     "phonetic_text": "/rɒŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wro/wrong/wrong__us_1.mp3",

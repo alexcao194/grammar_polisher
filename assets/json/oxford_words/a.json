@@ -1,7 +1,7 @@
 [
   {
     "word": "a",
-    "pos": "verb",
+    "pos": "indefinite article",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/a__/a__gb/a__gb_2.mp3",
     "phonetic_text": "/ə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/a__/a__us/a__us_2_rr.mp3",
@@ -236,7 +236,7 @@
   },
   {
     "word": "ability",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abi/abili/ability__gb_1.mp3",
     "phonetic_text": "/əˈbɪləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abi/abili/ability__us_4.mp3",
@@ -300,7 +300,7 @@
   },
   {
     "word": "able",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abl/able_/able__gb_1.mp3",
     "phonetic_text": "/ˈeɪbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abl/able_/able__us_2.mp3",
@@ -375,7 +375,7 @@
   },
   {
     "word": "abortion",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/abort/abortion__gb_1.mp3",
     "phonetic_text": "/əˈbɔːʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/abort/abortion__us_1.mp3",
@@ -423,7 +423,7 @@
   },
   {
     "word": "about",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/about/about__gb_1.mp3",
     "phonetic_text": "/əˈbaʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/about/about__us_1.mp3",
@@ -560,7 +560,7 @@
   },
   {
     "word": "about",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/about/about__gb_1.mp3",
     "phonetic_text": "/əˈbaʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/about/about__us_1.mp3",
@@ -699,7 +699,7 @@
   },
   {
     "word": "above",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/above/above__gb_1.mp3",
     "phonetic_text": "/əˈbʌv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/above/above__us_2.mp3",
@@ -773,7 +773,7 @@
   },
   {
     "word": "above",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/above/above__gb_1.mp3",
     "phonetic_text": "/əˈbʌv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/above/above__us_2.mp3",
@@ -878,7 +878,7 @@
   },
   {
     "word": "abroad",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abr/abroa/abroad__gb_2.mp3",
     "phonetic_text": "/əˈbrɔːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abr/abroa/abroad__us_4.mp3",
@@ -926,7 +926,7 @@
   },
   {
     "word": "absence",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absen/absence__gb_1.mp3",
     "phonetic_text": "/ˈæbsəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absen/absence__us_1.mp3",
@@ -983,7 +983,7 @@
   },
   {
     "word": "absent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absen/absent__gb_4.mp3",
     "phonetic_text": "/ˈæbsənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absen/absent__us_1.mp3",
@@ -1028,7 +1028,7 @@
   },
   {
     "word": "absolute",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absol/absolute__gb_1.mp3",
     "phonetic_text": "/ˈæbsəluːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absol/absolute__us_1_rr.mp3",
@@ -1136,7 +1136,7 @@
   },
   {
     "word": "absolutely",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absol/absolutely__gb_6.mp3",
     "phonetic_text": "/ˈæbsəluːtli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absol/absolutely__us_1_rr.mp3",
@@ -1378,7 +1378,7 @@
   },
   {
     "word": "abstract",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/abstr/abstract__gb_5.mp3",
     "phonetic_text": "/ˈæbstrækt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/abstr/abstract__us_2_rr.mp3",
@@ -1419,7 +1419,7 @@
   },
   {
     "word": "absurd",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absur/absurd__gb_1.mp3",
     "phonetic_text": "/əbˈsɜːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absur/absurd__us_1_rr.mp3",
@@ -1451,7 +1451,7 @@
   },
   {
     "word": "abundance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abu/abund/abundance__gb_1.mp3",
     "phonetic_text": "/əˈbʌndəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abu/abund/abundance__us_1.mp3",
@@ -1491,7 +1491,7 @@
   },
   {
     "word": "abuse",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abu/abuse/abuse__gb_1.mp3",
     "phonetic_text": "/əˈbjuːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abu/abuse/abuse__us_3.mp3",
@@ -1634,7 +1634,7 @@
   },
   {
     "word": "academic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aca/acade/academic__gb_2.mp3",
     "phonetic_text": "/ˌækəˈdemɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aca/acade/academic__us_2.mp3",
@@ -1720,7 +1720,7 @@
   },
   {
     "word": "academic",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aca/acade/academic__gb_2.mp3",
     "phonetic_text": "/ˌækəˈdemɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aca/acade/academic__us_2.mp3",
@@ -1743,7 +1743,7 @@
   },
   {
     "word": "academy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aca/acade/academy__gb_1.mp3",
     "phonetic_text": "/əˈkædəmi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aca/acade/academy__us_1.mp3",
@@ -1832,7 +1832,7 @@
   },
   {
     "word": "accent",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accen/accent__gb_1.mp3",
     "phonetic_text": "/ˈæksent/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accen/accent__us_1_rr.mp3",
@@ -2088,7 +2088,7 @@
   },
   {
     "word": "acceptable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accep/acceptable__gb_1.mp3",
     "phonetic_text": "/əkˈseptəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accep/acceptable__us_3.mp3",
@@ -2145,7 +2145,7 @@
   },
   {
     "word": "acceptance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accep/acceptance__gb_1.mp3",
     "phonetic_text": "/əkˈseptəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accep/acceptance__us_1.mp3",
@@ -2211,7 +2211,7 @@
   },
   {
     "word": "access",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/acces/access__gb_4.mp3",
     "phonetic_text": "/ˈækses/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/acces/access__us_2.mp3",
@@ -2356,7 +2356,7 @@
   },
   {
     "word": "accessible",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/acces/accessible__gb_4.mp3",
     "phonetic_text": "/əkˈsesəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/acces/accessible__us_1.mp3",
@@ -2409,7 +2409,7 @@
   },
   {
     "word": "accident",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accid/accident__gb_2.mp3",
     "phonetic_text": "/ˈæksɪdənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accid/accident__us_2_rr.mp3",
@@ -2544,7 +2544,7 @@
   },
   {
     "word": "accidentally",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accid/accidentally__gb_1.mp3",
     "phonetic_text": "/ˌæksɪˈdentəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accid/accidentally__us_1.mp3",
@@ -2638,7 +2638,7 @@
   },
   {
     "word": "accommodation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accommodation__gb_2.mp3",
     "phonetic_text": "/əˌkɒməˈdeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accommodation__us_2.mp3",
@@ -2807,7 +2807,7 @@
   },
   {
     "word": "accomplishment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accomplishment__gb_1.mp3",
     "phonetic_text": "/əˈkʌmplɪʃmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accomplishment__us_1.mp3",
@@ -2856,7 +2856,7 @@
   },
   {
     "word": "accordance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accor/accordance__gb_1.mp3",
     "phonetic_text": "/əˈkɔːdns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accor/accordance__us_1.mp3",
@@ -2879,7 +2879,7 @@
   },
   {
     "word": "accordingly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accor/accordingly__gb_1.mp3",
     "phonetic_text": "/əˈkɔːdɪŋli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accor/accordingly__us_1.mp3",
@@ -2907,7 +2907,7 @@
   },
   {
     "word": "account",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accou/account__gb_1.mp3",
     "phonetic_text": "/əˈkaʊnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accou/account__us_1.mp3",
@@ -3248,7 +3248,7 @@
   },
   {
     "word": "accountability",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accou/accountability__gb_1.mp3",
     "phonetic_text": "/əˌkaʊntəˈbɪləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accou/accountability__us_1.mp3",
@@ -3271,7 +3271,7 @@
   },
   {
     "word": "accountable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accou/accountable__gb_2.mp3",
     "phonetic_text": "/əˈkaʊntəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accou/accountable__us_1.mp3",
@@ -3298,7 +3298,7 @@
   },
   {
     "word": "accountant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accou/accountant__gb_1.mp3",
     "phonetic_text": "/əˈkaʊntənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accou/accountant__us_1.mp3",
@@ -3321,7 +3321,7 @@
   },
   {
     "word": "accounting",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accou/accounting__gb_1.mp3",
     "phonetic_text": "/əˈkaʊntɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accou/accounting__us_1.mp3",
@@ -3384,7 +3384,7 @@
   },
   {
     "word": "accumulation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accum/accumulation__gb_1.mp3",
     "phonetic_text": "/əˌkjuːmjəˈleɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accum/accumulation__us_1.mp3",
@@ -3412,7 +3412,7 @@
   },
   {
     "word": "accuracy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accur/accuracy__gb_1.mp3",
     "phonetic_text": "/ˈækjərəsi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accur/accuracy__us_1.mp3",
@@ -3452,7 +3452,7 @@
   },
   {
     "word": "accurate",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accur/accurate__gb_3.mp3",
     "phonetic_text": "/ˈækjərət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accur/accurate__us_1.mp3",
@@ -3533,7 +3533,7 @@
   },
   {
     "word": "accurately",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accur/accurately__gb_1.mp3",
     "phonetic_text": "/ˈækjərətli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accur/accurately__us_1.mp3",
@@ -3574,7 +3574,7 @@
   },
   {
     "word": "accusation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accus/accusation__gb_1.mp3",
     "phonetic_text": "/ˌækjuˈzeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accus/accusation__us_1.mp3",
@@ -3644,7 +3644,7 @@
   },
   {
     "word": "the accused",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accus/accused_the_1_gb_1.mp3",
     "phonetic_text": "/ði əˈkjuːzd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/the_a/the_accused_1_us_1.mp3",
@@ -3736,7 +3736,7 @@
   },
   {
     "word": "achievement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ach/achie/achievement__gb_1.mp3",
     "phonetic_text": "/əˈtʃiːvmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ach/achie/achievement__us_1.mp3",
@@ -3801,7 +3801,7 @@
   },
   {
     "word": "acid",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aci/acid_/acid__gb_1.mp3",
     "phonetic_text": "/ˈæsɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aci/acid_/acid__us_1.mp3",
@@ -3842,7 +3842,7 @@
   },
   {
     "word": "acid",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aci/acid_/acid__gb_1.mp3",
     "phonetic_text": "/ˈæsɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aci/acid_/acid__us_1.mp3",
@@ -4058,7 +4058,7 @@
   },
   {
     "word": "acquisition",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acq/acqui/acquisition__gb_1.mp3",
     "phonetic_text": "/ˌækwɪˈzɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acq/acqui/acquisition__us_1.mp3",
@@ -4111,7 +4111,7 @@
   },
   {
     "word": "acre",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acr/acre_/acre__gb_1.mp3",
     "phonetic_text": "/ˈeɪkə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acr/acre_/acre__us_1.mp3",
@@ -4138,7 +4138,7 @@
   },
   {
     "word": "across",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acr/acros/across__gb_1.mp3",
     "phonetic_text": "/əˈkrɒs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acr/acros/across__us_1.mp3",
@@ -4188,7 +4188,7 @@
   },
   {
     "word": "across",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acr/acros/across__gb_1.mp3",
     "phonetic_text": "/əˈkrɒs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acr/acros/across__us_1.mp3",
@@ -4267,7 +4267,7 @@
   },
   {
     "word": "act",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/act__/act__gb_2.mp3",
     "phonetic_text": "/ækt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/act__/act__us_2.mp3",
@@ -4640,7 +4640,7 @@
   },
   {
     "word": "action",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/actio/action__gb_1.mp3",
     "phonetic_text": "/ˈækʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/actio/action__us_2.mp3",
@@ -4921,7 +4921,7 @@
   },
   {
     "word": "activation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activation__gb_1.mp3",
     "phonetic_text": "/ˌæktɪˈveɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activation__us_1.mp3",
@@ -4944,7 +4944,7 @@
   },
   {
     "word": "active",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/active__gb_2.mp3",
     "phonetic_text": "/ˈæktɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/active__us_2.mp3",
@@ -5081,7 +5081,7 @@
   },
   {
     "word": "activist",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activist__gb_1.mp3",
     "phonetic_text": "/ˈæktɪvɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activist__us_1.mp3",
@@ -5108,7 +5108,7 @@
   },
   {
     "word": "activity",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activity__gb_5.mp3",
     "phonetic_text": "/ækˈtɪvəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activity__us_4.mp3",
@@ -5177,7 +5177,7 @@
   },
   {
     "word": "actor",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/actor/actor__gb_2.mp3",
     "phonetic_text": "/ˈæktə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/actor/actor__us_2.mp3",
@@ -5230,7 +5230,7 @@
   },
   {
     "word": "actress",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/actre/actress__gb_1.mp3",
     "phonetic_text": "/ˈæktrəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/actre/actress__us_2.mp3",
@@ -5266,7 +5266,7 @@
   },
   {
     "word": "actual",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/actua/actual__gb_1.mp3",
     "phonetic_text": "/ˈæktʃuəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/actua/actual__us_1_rr.mp3",
@@ -5318,7 +5318,7 @@
   },
   {
     "word": "actually",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/actua/actually__gb_5.mp3",
     "phonetic_text": "/ˈæktʃuəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/actua/actually__us_1_rr.mp3",
@@ -5416,7 +5416,7 @@
   },
   {
     "word": "acute",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acu/acute/acute__gb_1.mp3",
     "phonetic_text": "/əˈkjuːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acu/acute/acute__us_1.mp3",
@@ -5503,7 +5503,7 @@
   },
   {
     "word": "ad",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ad_/ad__g/ad__gb_2.mp3",
     "phonetic_text": "/æd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ad_/ad__u/ad__us_2.mp3",
@@ -5619,7 +5619,7 @@
   },
   {
     "word": "adaptation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ada/adapt/adaptation__gb_1.mp3",
     "phonetic_text": "/ˌædæpˈteɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ada/adapt/adaptation__us_1.mp3",
@@ -5804,7 +5804,7 @@
   },
   {
     "word": "addiction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/add/addic/addiction__gb_1.mp3",
     "phonetic_text": "/əˈdɪkʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/add/addic/addiction__us_1.mp3",
@@ -5831,7 +5831,7 @@
   },
   {
     "word": "addition",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/add/addit/addition__gb_1.mp3",
     "phonetic_text": "/əˈdɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/add/addit/addition__us_2.mp3",
@@ -5906,7 +5906,7 @@
   },
   {
     "word": "additional",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/add/addit/additional__gb_1.mp3",
     "phonetic_text": "/əˈdɪʃənl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/add/addit/additional__us_3.mp3",
@@ -5933,7 +5933,7 @@
   },
   {
     "word": "additionally",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/add/addit/additionally__gb_1.mp3",
     "phonetic_text": "/əˈdɪʃənəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/add/addit/additionally__us_1.mp3",
@@ -5952,7 +5952,7 @@
   },
   {
     "word": "address",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/add/addre/address__gb_3.mp3",
     "phonetic_text": "/əˈdres/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/add/addre/address__us_2_rr.mp3",
@@ -6120,7 +6120,7 @@
   },
   {
     "word": "adequate",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ade/adequ/adequate__gb_3.mp3",
     "phonetic_text": "/ˈædɪkwət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ade/adequ/adequate__us_1.mp3",
@@ -6159,7 +6159,7 @@
   },
   {
     "word": "adequately",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ade/adequ/adequately__gb_1.mp3",
     "phonetic_text": "/ˈædɪkwətli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ade/adequ/adequately__us_1.mp3",
@@ -6209,7 +6209,7 @@
   },
   {
     "word": "adjacent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adj/adjac/adjacent__gb_1.mp3",
     "phonetic_text": "/əˈdʒeɪsnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adj/adjac/adjacent__us_1.mp3",
@@ -6322,7 +6322,7 @@
   },
   {
     "word": "adjustment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adj/adjus/adjustment__gb_1.mp3",
     "phonetic_text": "/əˈdʒʌstmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adj/adjus/adjustment__us_1.mp3",
@@ -6441,7 +6441,7 @@
   },
   {
     "word": "administration",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admin/administration__gb_2.mp3",
     "phonetic_text": "/ədˌmɪnɪˈstreɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admin/administration__us_1.mp3",
@@ -6530,7 +6530,7 @@
   },
   {
     "word": "administrative",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admin/administrative__gb_1.mp3",
     "phonetic_text": "/ədˈmɪnɪstrətɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admin/administrative__us_1_rr.mp3",
@@ -6549,7 +6549,7 @@
   },
   {
     "word": "administrator",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admin/administrator__gb_1.mp3",
     "phonetic_text": "/ədˈmɪnɪstreɪtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admin/administrator__us_1.mp3",
@@ -6641,7 +6641,7 @@
   },
   {
     "word": "admission",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admis/admission__gb_1.mp3",
     "phonetic_text": "/ədˈmɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admis/admission__us_1.mp3",
@@ -6882,7 +6882,7 @@
   },
   {
     "word": "adolescent",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ado/adole/adolescent__gb_1.mp3",
     "phonetic_text": "/ˌædəˈlesnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ado/adole/adolescent__us_1.mp3",
@@ -7009,7 +7009,7 @@
   },
   {
     "word": "adoption",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ado/adopt/adoption__gb_1.mp3",
     "phonetic_text": "/əˈdɒpʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ado/adopt/adoption__us_1.mp3",
@@ -7062,7 +7062,7 @@
   },
   {
     "word": "adult",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adu/adult/adult__gb_3.mp3",
     "phonetic_text": "/ˈædʌlt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adu/adult/adult__us_2_rr.mp3",
@@ -7119,7 +7119,7 @@
   },
   {
     "word": "adult",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adu/adult/adult__gb_3.mp3",
     "phonetic_text": "/ˈædʌlt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adu/adult/adult__us_2_rr.mp3",
@@ -7159,7 +7159,7 @@
   },
   {
     "word": "advance",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/advan/advance__gb_1.mp3",
     "phonetic_text": "/ədˈvɑːns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adv/advan/advance__us_1.mp3",
@@ -7195,7 +7195,7 @@
   },
   {
     "word": "advance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/advan/advance__gb_1.mp3",
     "phonetic_text": "/ədˈvɑːns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adv/advan/advance__us_1.mp3",
@@ -7458,7 +7458,7 @@
   },
   {
     "word": "advanced",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/advan/advanced__gb_1.mp3",
     "phonetic_text": "/ədˈvɑːnst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adv/advan/advanced__us_1.mp3",
@@ -7540,7 +7540,7 @@
   },
   {
     "word": "advantage",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/advan/advantage__gb_4.mp3",
     "phonetic_text": "/ədˈvɑːntɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adv/advan/advantage__us_1.mp3",
@@ -7678,7 +7678,7 @@
   },
   {
     "word": "adventure",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/adven/adventure__gb_1.mp3",
     "phonetic_text": "/ədˈventʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adv/adven/adventure__us_3.mp3",
@@ -7738,7 +7738,7 @@
   },
   {
     "word": "adverse",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/adver/adverse__gb_1.mp3",
     "phonetic_text": "/ˈædvɜːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adv/adver/adverse__us_2_rr.mp3",
@@ -7850,7 +7850,7 @@
   },
   {
     "word": "advertisement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/adver/advertisement__gb_1.mp3",
     "phonetic_text": "/ədˈvɜːtɪsmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adv/adver/advertisement__us_2_rr.mp3",
@@ -7903,7 +7903,7 @@
   },
   {
     "word": "advertising",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/adver/advertising__gb_1.mp3",
     "phonetic_text": "/ˈædvətaɪzɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adv/adver/advertising__us_1.mp3",
@@ -7954,7 +7954,7 @@
   },
   {
     "word": "advice",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/advic/advice__gb_1.mp3",
     "phonetic_text": "/ədˈvaɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adv/advic/advice__us_1.mp3",
@@ -8162,7 +8162,7 @@
   },
   {
     "word": "advocate",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/advoc/advocate__gb_2.mp3",
     "phonetic_text": "/ˈædvəkət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adv/advoc/advocate__us_2.mp3",
@@ -8241,7 +8241,7 @@
   },
   {
     "word": "aesthetic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aes/aesth/aesthetic__gb_1.mp3",
     "phonetic_text": "/iːsˈθetɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aes/aesth/aesthetic__us_1_rr.mp3",
@@ -8281,7 +8281,7 @@
   },
   {
     "word": "affair",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aff/affai/affair__gb_1.mp3",
     "phonetic_text": "/əˈfeə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aff/affai/affair__us_2.mp3",
@@ -8493,7 +8493,7 @@
   },
   {
     "word": "affection",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aff/affec/affection__gb_1.mp3",
     "phonetic_text": "/əˈfekʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aff/affec/affection__us_1.mp3",
@@ -8642,7 +8642,7 @@
   },
   {
     "word": "affordable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aff/affor/affordable__gb_1.mp3",
     "phonetic_text": "/əˈfɔːdəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aff/affor/affordable__us_1.mp3",
@@ -8669,7 +8669,7 @@
   },
   {
     "word": "afraid",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/afr/afrai/afraid__gb_1.mp3",
     "phonetic_text": "/əˈfreɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/afr/afrai/afraid__us_2.mp3",
@@ -8787,7 +8787,7 @@
   },
   {
     "word": "after",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aft/after/after__gb_1.mp3",
     "phonetic_text": "/ˈɑːftə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aft/after/after__us_2.mp3",
@@ -8814,7 +8814,7 @@
   },
   {
     "word": "after",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aft/after/after__gb_1.mp3",
     "phonetic_text": "/ˈɑːftə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aft/after/after__us_2.mp3",
@@ -8837,7 +8837,7 @@
   },
   {
     "word": "after",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aft/after/after__gb_1.mp3",
     "phonetic_text": "/ˈɑːftə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aft/after/after__us_2.mp3",
@@ -9040,7 +9040,7 @@
   },
   {
     "word": "aftermath",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aft/after/aftermath__gb_1.mp3",
     "phonetic_text": "/ˈɑːftəmæθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aft/after/aftermath__us_1.mp3",
@@ -9071,7 +9071,7 @@
   },
   {
     "word": "afternoon",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aft/after/afternoon__gb_1.mp3",
     "phonetic_text": "/ˌɑːftəˈnuːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aft/after/afternoon__us_2.mp3",
@@ -9122,7 +9122,7 @@
   },
   {
     "word": "afterwards",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aft/after/afterwards__gb_3.mp3",
     "phonetic_text": "/ˈɑːftəwədz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aft/after/afterwards__us_2.mp3",
@@ -9153,7 +9153,7 @@
   },
   {
     "word": "again",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aga/again/again__gb_1.mp3",
     "phonetic_text": "/əˈɡen/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aga/again/again__us_1.mp3",
@@ -9304,7 +9304,7 @@
   },
   {
     "word": "against",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aga/again/against__gb_1.mp3",
     "phonetic_text": "/əˈɡenst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aga/again/against__us_1.mp3",
@@ -9459,7 +9459,7 @@
   },
   {
     "word": "age",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/age/age__/age__gb_1.mp3",
     "phonetic_text": "/eɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/age/age__/age__us_1.mp3",
@@ -9793,7 +9793,7 @@
   },
   {
     "word": "aged",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/age/aged_/aged__gb_1.mp3",
     "phonetic_text": "/eɪdʒd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/age/aged_/aged__us_1.mp3",
@@ -9846,7 +9846,7 @@
   },
   {
     "word": "agency",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/age/agenc/agency__gb_2.mp3",
     "phonetic_text": "/ˈeɪdʒənsi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/age/agenc/agency__us_2.mp3",
@@ -9891,7 +9891,7 @@
   },
   {
     "word": "agenda",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/age/agend/agenda__gb_1.mp3",
     "phonetic_text": "/əˈdʒendə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/age/agend/agenda__us_2.mp3",
@@ -9956,7 +9956,7 @@
   },
   {
     "word": "agent",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/age/agent/agent__gb_1.mp3",
     "phonetic_text": "/ˈeɪdʒənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/age/agent/agent__us_2.mp3",
@@ -10039,7 +10039,7 @@
   },
   {
     "word": "aggression",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/agg/aggre/aggression__gb_1.mp3",
     "phonetic_text": "/əˈɡreʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/agg/aggre/aggression__us_1.mp3",
@@ -10071,7 +10071,7 @@
   },
   {
     "word": "aggressive",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/agg/aggre/aggressive__gb_2.mp3",
     "phonetic_text": "/əˈɡresɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/agg/aggre/aggressive__us_1.mp3",
@@ -10137,7 +10137,7 @@
   },
   {
     "word": "ago",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ago/ago__/ago__gb_1.mp3",
     "phonetic_text": "/əˈɡəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ago/ago__/ago__us_1.mp3",
@@ -10374,7 +10374,7 @@
   },
   {
     "word": "agreement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/agr/agree/agreement__gb_1.mp3",
     "phonetic_text": "/əˈɡriːmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/agr/agree/agreement__us_1.mp3",
@@ -10484,7 +10484,7 @@
   },
   {
     "word": "agricultural",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/agr/agric/agricultural__gb_1.mp3",
     "phonetic_text": "/ˌæɡrɪˈkʌltʃərəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/agr/agric/agricultural__us_1.mp3",
@@ -10503,7 +10503,7 @@
   },
   {
     "word": "agriculture",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/agr/agric/agriculture__gb_1.mp3",
     "phonetic_text": "/ˈæɡrɪkʌltʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/agr/agric/agriculture__us_1.mp3",
@@ -10526,7 +10526,7 @@
   },
   {
     "word": "ah",
-    "pos": "verb",
+    "pos": "exclamation",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ah_/ah__g/ah__gb_2.mp3",
     "phonetic_text": "/ɑː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ah_/ah__u/ah__us_2.mp3",
@@ -10557,7 +10557,7 @@
   },
   {
     "word": "ahead",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ahe/ahead/ahead__gb_1.mp3",
     "phonetic_text": "/əˈhed/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ahe/ahead/ahead__us_1.mp3",
@@ -10614,7 +10614,7 @@
   },
   {
     "word": "aid",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aid/aid__/aid__gb_2.mp3",
     "phonetic_text": "/eɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aid/aid__/aid__us_1.mp3",
@@ -10766,7 +10766,7 @@
   },
   {
     "word": "aide",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aid/aid__/aid__gb_2.mp3",
     "phonetic_text": "/eɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aid/aide_/aide__us_1.mp3",
@@ -10785,7 +10785,7 @@
   },
   {
     "word": "AIDS",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aid/aids_/aids__gb_1.mp3",
     "phonetic_text": "/eɪdz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aid/aids_/aids__us_1.mp3",
@@ -10820,7 +10820,7 @@
   },
   {
     "word": "aim",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aim/aim__/aim__gb_2.mp3",
     "phonetic_text": "/eɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aim/aim__/aim__us_1.mp3",
@@ -10994,7 +10994,7 @@
   },
   {
     "word": "air",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/air/air__/air__gb_1.mp3",
     "phonetic_text": "/eə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/air/air__/air__us_1.mp3",
@@ -11280,7 +11280,7 @@
   },
   {
     "word": "aircraft",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/air/aircr/aircraft__gb_1.mp3",
     "phonetic_text": "/ˈeəkrɑːft/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/air/aircr/aircraft__us_1.mp3",
@@ -11311,7 +11311,7 @@
   },
   {
     "word": "airline",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/air/airli/airline__gb_1.mp3",
     "phonetic_text": "/ˈeəlaɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/air/airli/airline__us_1.mp3",
@@ -11350,7 +11350,7 @@
   },
   {
     "word": "airport",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/air/airpo/airport__gb_3.mp3",
     "phonetic_text": "/ˈeəpɔːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/air/airpo/airport__us_1.mp3",
@@ -11398,7 +11398,7 @@
   },
   {
     "word": "alarm",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ala/alarm/alarm__gb_1.mp3",
     "phonetic_text": "/əˈlɑːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ala/alarm/alarm__us_1.mp3",
@@ -11524,7 +11524,7 @@
   },
   {
     "word": "albeit",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alb/albei/albeit__gb_2.mp3",
     "phonetic_text": "/ˌɔːlˈbiːɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alb/albei/albeit__us_1_rr.mp3",
@@ -11543,7 +11543,7 @@
   },
   {
     "word": "album",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alb/album/album__gb_1.mp3",
     "phonetic_text": "/ˈælbəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alb/album/album__us_2.mp3",
@@ -11603,7 +11603,7 @@
   },
   {
     "word": "alcohol",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alc/alcoh/alcohol__gb_1.mp3",
     "phonetic_text": "/ˈælkəhɒl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alc/alcoh/alcohol__us_1_rr.mp3",
@@ -11675,7 +11675,7 @@
   },
   {
     "word": "alcoholic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alc/alcoh/alcoholic__gb_1.mp3",
     "phonetic_text": "/ˌælkəˈhɒlɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alc/alcoh/alcoholic__us_2_rr.mp3",
@@ -11716,7 +11716,7 @@
   },
   {
     "word": "alert",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ale/alert/alert__gb_1.mp3",
     "phonetic_text": "/əˈlɜːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ale/alert/alert__us_1.mp3",
@@ -11764,7 +11764,7 @@
   },
   {
     "word": "alert",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ale/alert/alert__gb_1.mp3",
     "phonetic_text": "/əˈlɜːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ale/alert/alert__us_1.mp3",
@@ -11845,7 +11845,7 @@
   },
   {
     "word": "alien",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/alien/alien__gb_2.mp3",
     "phonetic_text": "/ˈeɪliən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/alien/alien__us_1_rr.mp3",
@@ -11907,7 +11907,7 @@
   },
   {
     "word": "alien",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/alien/alien__gb_2.mp3",
     "phonetic_text": "/ˈeɪliən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/alien/alien__us_1_rr.mp3",
@@ -11967,7 +11967,7 @@
   },
   {
     "word": "alignment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/align/alignment__gb_1.mp3",
     "phonetic_text": "/əˈlaɪnmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/align/alignment__us_1.mp3",
@@ -12020,7 +12020,7 @@
   },
   {
     "word": "alike",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/alike/alike__gb_2.mp3",
     "phonetic_text": "/əˈlaɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/alike/alike__us_1.mp3",
@@ -12047,7 +12047,7 @@
   },
   {
     "word": "alike",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/alike/alike__gb_2.mp3",
     "phonetic_text": "/əˈlaɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/alike/alike__us_1.mp3",
@@ -12083,7 +12083,7 @@
   },
   {
     "word": "alive",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/alive/alive__gb_1.mp3",
     "phonetic_text": "/əˈlaɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/alive/alive__us_2.mp3",
@@ -12280,7 +12280,7 @@
   },
   {
     "word": "all",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/all__/all__gb_1.mp3",
     "phonetic_text": "/ɔːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/all__/all__us_1.mp3",
@@ -12521,7 +12521,7 @@
   },
   {
     "word": "all",
-    "pos": "verb",
+    "pos": "determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/all__/all__gb_1.mp3",
     "phonetic_text": "/ɔːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/all__/all__us_1.mp3",
@@ -12713,7 +12713,7 @@
   },
   {
     "word": "all",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/all__/all__gb_1.mp3",
     "phonetic_text": "/ɔːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/all__/all__us_1.mp3",
@@ -12923,7 +12923,7 @@
   },
   {
     "word": "allegation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alleg/allegation__gb_1.mp3",
     "phonetic_text": "/ˌæləˈɡeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alleg/allegation__us_1.mp3",
@@ -12989,7 +12989,7 @@
   },
   {
     "word": "allegedly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alleg/allegedly__gb_1.mp3",
     "phonetic_text": "/əˈledʒɪdli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alleg/allegedly__us_1.mp3",
@@ -13008,7 +13008,7 @@
   },
   {
     "word": "alliance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/allia/alliance__gb_1.mp3",
     "phonetic_text": "/əˈlaɪəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/allia/alliance__us_1.mp3",
@@ -13079,7 +13079,7 @@
   },
   {
     "word": "allocation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alloc/allocation__gb_2.mp3",
     "phonetic_text": "/ˌæləˈkeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alloc/allocation__us_1.mp3",
@@ -13293,7 +13293,7 @@
   },
   {
     "word": "allowance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/allow/allowance__gb_1.mp3",
     "phonetic_text": "/əˈlaʊəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/allow/allowance__us_1.mp3",
@@ -13372,7 +13372,7 @@
   },
   {
     "word": "ally",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/ally_/ally__gb_1.mp3",
     "phonetic_text": "/ˈælaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/ally_/ally__us_1.mp3",
@@ -13438,7 +13438,7 @@
   },
   {
     "word": "almost",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alm/almos/almost__gb_1.mp3",
     "phonetic_text": "/ˈɔːlməʊst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alm/almos/almost__us_1_rr.mp3",
@@ -13501,7 +13501,7 @@
   },
   {
     "word": "alone",
-    "pos": "verb",
+    "pos": "adjective, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alo/alone/alone__gb_1.mp3",
     "phonetic_text": "/əˈləʊn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alo/alone/alone__us_1.mp3",
@@ -13663,7 +13663,7 @@
   },
   {
     "word": "alone",
-    "pos": "verb",
+    "pos": "adjective, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alo/alone/alone__gb_1.mp3",
     "phonetic_text": "/əˈləʊn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alo/alone/alone__us_1.mp3",
@@ -13825,7 +13825,7 @@
   },
   {
     "word": "along",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alo/along/along__gb_1.mp3",
     "phonetic_text": "/əˈlɒŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alo/along/along__us_2.mp3",
@@ -13879,7 +13879,7 @@
   },
   {
     "word": "along",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alo/along/along__gb_1.mp3",
     "phonetic_text": "/əˈlɒŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alo/along/along__us_2.mp3",
@@ -13920,7 +13920,7 @@
   },
   {
     "word": "alongside",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alo/along/alongside__gb_1.mp3",
     "phonetic_text": "/əˌlɒŋˈsaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alo/along/alongside__us_2.mp3",
@@ -13956,7 +13956,7 @@
   },
   {
     "word": "already",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alr/alrea/already__gb_1.mp3",
     "phonetic_text": "/ɔːlˈredi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alr/alrea/already__us_3.mp3",
@@ -14030,7 +14030,7 @@
   },
   {
     "word": "also",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/als/also_/also__gb_1.mp3",
     "phonetic_text": "/ˈɔːlsəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/als/also_/also__us_3.mp3",
@@ -14133,7 +14133,7 @@
   },
   {
     "word": "alternative",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alt/alter/alternative__gb_3.mp3",
     "phonetic_text": "/ɔːlˈtɜːnətɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alt/alter/alternative__us_1.mp3",
@@ -14181,7 +14181,7 @@
   },
   {
     "word": "alternative",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alt/alter/alternative__gb_3.mp3",
     "phonetic_text": "/ɔːlˈtɜːnətɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alt/alter/alternative__us_1.mp3",
@@ -14224,7 +14224,7 @@
   },
   {
     "word": "although",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alt/altho/although__gb_3.mp3",
     "phonetic_text": "/ɔːlˈðəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alt/altho/although__us_3.mp3",
@@ -14256,7 +14256,7 @@
   },
   {
     "word": "altogether",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alt/altog/altogether__gb_1.mp3",
     "phonetic_text": "/ˌɔːltəˈɡeðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alt/altog/altogether__us_1_rr.mp3",
@@ -14309,7 +14309,7 @@
   },
   {
     "word": "aluminium",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alu/alumi/aluminium__gb_1.mp3",
     "phonetic_text": "/ˌæljəˈmɪniəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alu/alumi/aluminium__us_1.mp3",
@@ -14332,7 +14332,7 @@
   },
   {
     "word": "always",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alw/alway/always__gb_1.mp3",
     "phonetic_text": "/ˈɔːlweɪz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alw/alway/always__us_1_rr.mp3",
@@ -14457,7 +14457,7 @@
   },
   {
     "word": "amateur",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ama/amate/amateur__gb_1.mp3",
     "phonetic_text": "/ˈæmətə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ama/amate/amateur__us_1.mp3",
@@ -14494,7 +14494,7 @@
   },
   {
     "word": "amateur",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ama/amate/amateur__gb_1.mp3",
     "phonetic_text": "/ˈæmətə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ama/amate/amateur__us_1.mp3",
@@ -14526,7 +14526,7 @@
   },
   {
     "word": "amazed",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ama/amaze/amazed__gb_1.mp3",
     "phonetic_text": "/əˈmeɪzd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ama/amaze/amazed__us_2.mp3",
@@ -14585,7 +14585,7 @@
   },
   {
     "word": "amazing",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ama/amazi/amazing__gb_1.mp3",
     "phonetic_text": "/əˈmeɪzɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ama/amazi/amazing__us_2.mp3",
@@ -14645,7 +14645,7 @@
   },
   {
     "word": "ambassador",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amb/ambas/ambassador__gb_1.mp3",
     "phonetic_text": "/æmˈbæsədə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amb/ambas/ambassador__us_1_rr.mp3",
@@ -14677,7 +14677,7 @@
   },
   {
     "word": "ambition",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amb/ambit/ambition__gb_1.mp3",
     "phonetic_text": "/æmˈbɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amb/ambit/ambition__us_2.mp3",
@@ -14733,7 +14733,7 @@
   },
   {
     "word": "ambitious",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amb/ambit/ambitious__gb_1.mp3",
     "phonetic_text": "/æmˈbɪʃəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amb/ambit/ambitious__us_2.mp3",
@@ -14773,7 +14773,7 @@
   },
   {
     "word": "ambulance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amb/ambul/ambulance__gb_5.mp3",
     "phonetic_text": "/ˈæmbjələns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amb/ambul/ambulance__us_1.mp3",
@@ -14827,7 +14827,7 @@
   },
   {
     "word": "amendment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ame/amend/amendment__gb_1.mp3",
     "phonetic_text": "/əˈmendmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ame/amend/amendment__us_1.mp3",
@@ -14863,7 +14863,7 @@
   },
   {
     "word": "amid",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ami/amid_/amid__gb_1.mp3",
     "phonetic_text": "/əˈmɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ami/amid_/amid__us_1.mp3",
@@ -14895,7 +14895,7 @@
   },
   {
     "word": "among",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amo/among/among__gb_1.mp3",
     "phonetic_text": "/əˈmʌŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amo/among/among__us_2.mp3",
@@ -14960,7 +14960,7 @@
   },
   {
     "word": "amount",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amo/amoun/amount__gb_2.mp3",
     "phonetic_text": "/əˈmaʊnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amo/amoun/amount__us_1.mp3",
@@ -15055,7 +15055,7 @@
   },
   {
     "word": "amusing",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amu/amusi/amusing__gb_1.mp3",
     "phonetic_text": "/əˈmjuːzɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amu/amusi/amusing__us_1.mp3",
@@ -15086,7 +15086,7 @@
   },
   {
     "word": "analogy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ana/analo/analogy__gb_2.mp3",
     "phonetic_text": "/əˈnælədʒi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ana/analo/analogy__us_1.mp3",
@@ -15169,7 +15169,7 @@
   },
   {
     "word": "analysis",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ana/analy/analysis__gb_4.mp3",
     "phonetic_text": "/əˈnæləsɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ana/analy/analysis__us_2.mp3",
@@ -15243,7 +15243,7 @@
   },
   {
     "word": "analyst",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ana/analy/analyst__gb_1.mp3",
     "phonetic_text": "/ˈænəlɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ana/analy/analyst__us_1.mp3",
@@ -15286,7 +15286,7 @@
   },
   {
     "word": "ancestor",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anc/ances/ancestor__gb_4.mp3",
     "phonetic_text": "/ˈænsestə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anc/ances/ancestor__us_1.mp3",
@@ -15323,7 +15323,7 @@
   },
   {
     "word": "anchor",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anc/ancho/anchor__gb_1.mp3",
     "phonetic_text": "/ˈæŋkə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anc/ancho/anchor__us_1.mp3",
@@ -15376,7 +15376,7 @@
   },
   {
     "word": "ancient",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anc/ancie/ancient__gb_2.mp3",
     "phonetic_text": "/ˈeɪnʃənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anc/ancie/ancient__us_1.mp3",
@@ -15428,7 +15428,7 @@
   },
   {
     "word": "and",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/and/and__/and__gb_1.mp3",
     "phonetic_text": "/ənd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/and/and__/and__us_1.mp3",
@@ -15546,7 +15546,7 @@
   },
   {
     "word": "angel",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ang/angel/angel__gb_1.mp3",
     "phonetic_text": "/ˈeɪndʒl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ang/angel/angel__us_1.mp3",
@@ -15612,7 +15612,7 @@
   },
   {
     "word": "anger",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ang/anger/anger__gb_1.mp3",
     "phonetic_text": "/ˈæŋɡə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ang/anger/anger__us_2.mp3",
@@ -15671,7 +15671,7 @@
   },
   {
     "word": "angle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ang/angle/angle__gb_1.mp3",
     "phonetic_text": "/ˈæŋɡl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ang/angle/angle__us_1.mp3",
@@ -15766,7 +15766,7 @@
   },
   {
     "word": "angrily",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ang/angri/angrily__gb_1.mp3",
     "phonetic_text": "/ˈæŋɡrəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ang/angri/angrily__us_1.mp3",
@@ -15801,7 +15801,7 @@
   },
   {
     "word": "angry",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ang/angry/angry__gb_2.mp3",
     "phonetic_text": "/ˈæŋɡri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ang/angry/angry__us_1.mp3",
@@ -15877,7 +15877,7 @@
   },
   {
     "word": "animal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ani/anima/animal__gb_1.mp3",
     "phonetic_text": "/ˈænɪml/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ani/anima/animal__us_1.mp3",
@@ -15972,7 +15972,7 @@
   },
   {
     "word": "animation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ani/anima/animation__gb_1.mp3",
     "phonetic_text": "/ˌænɪˈmeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ani/anima/animation__us_1.mp3",
@@ -16013,7 +16013,7 @@
   },
   {
     "word": "ankle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ank/ankle/ankle__gb_1.mp3",
     "phonetic_text": "/ˈæŋkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ank/ankle/ankle__us_1.mp3",
@@ -16060,7 +16060,7 @@
   },
   {
     "word": "anniversary",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ann/anniv/anniversary__gb_1.mp3",
     "phonetic_text": "/ˌænɪˈvɜːsəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ann/anniv/anniversary__us_1.mp3",
@@ -16201,7 +16201,7 @@
   },
   {
     "word": "announcement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ann/annou/announcement__gb_1.mp3",
     "phonetic_text": "/əˈnaʊnsmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ann/annou/announcement__us_1.mp3",
@@ -16305,7 +16305,7 @@
   },
   {
     "word": "annoyed",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ann/annoy/annoyed__gb_1.mp3",
     "phonetic_text": "/əˈnɔɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ann/annoy/annoyed__us_3.mp3",
@@ -16348,7 +16348,7 @@
   },
   {
     "word": "annoying",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ann/annoy/annoying__gb_1.mp3",
     "phonetic_text": "/əˈnɔɪɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ann/annoy/annoying__us_3.mp3",
@@ -16375,7 +16375,7 @@
   },
   {
     "word": "annual",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ann/annua/annual__gb_4.mp3",
     "phonetic_text": "/ˈænjuəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ann/annua/annual__us_1.mp3",
@@ -16431,7 +16431,7 @@
   },
   {
     "word": "annually",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ann/annua/annually__gb_1.mp3",
     "phonetic_text": "/ˈænjuəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ann/annua/annually__us_1.mp3",
@@ -16450,7 +16450,7 @@
   },
   {
     "word": "anonymous",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ano/anony/anonymous__gb_1.mp3",
     "phonetic_text": "/əˈnɒnɪməs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ano/anony/anonymous__us_1.mp3",
@@ -16499,7 +16499,7 @@
   },
   {
     "word": "another",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ano/anoth/another__gb_1.mp3",
     "phonetic_text": "/əˈnʌðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ano/anoth/another__us_2.mp3",
@@ -16586,7 +16586,7 @@
   },
   {
     "word": "another",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ano/anoth/another__gb_1.mp3",
     "phonetic_text": "/əˈnʌðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ano/anoth/another__us_2.mp3",
@@ -16673,7 +16673,7 @@
   },
   {
     "word": "answer",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ans/answe/answer__gb_1.mp3",
     "phonetic_text": "/ˈɑːnsə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ans/answe/answer__us_1.mp3",
@@ -17030,7 +17030,7 @@
   },
   {
     "word": "anxiety",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anx/anxie/anxiety__gb_1.mp3",
     "phonetic_text": "/æŋˈzaɪəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anx/anxie/anxiety__us_1.mp3",
@@ -17096,7 +17096,7 @@
   },
   {
     "word": "anxious",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anx/anxio/anxious__gb_1.mp3",
     "phonetic_text": "/ˈæŋkʃəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anx/anxio/anxious__us_1.mp3",
@@ -17169,7 +17169,7 @@
   },
   {
     "word": "any",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/any__/any__gb_1.mp3",
     "phonetic_text": "/ˈeni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/any__/any__us_1.mp3",
@@ -17213,7 +17213,7 @@
   },
   {
     "word": "any",
-    "pos": "verb",
+    "pos": "determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/any__/any__gb_1.mp3",
     "phonetic_text": "/ˈeni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/any__/any__us_1.mp3",
@@ -17278,7 +17278,7 @@
   },
   {
     "word": "any",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/any__/any__gb_1.mp3",
     "phonetic_text": "/ˈeni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/any__/any__us_1.mp3",
@@ -17335,7 +17335,7 @@
   },
   {
     "word": "anybody",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/anybo/anybody__gb_1.mp3",
     "phonetic_text": "/ˈenibɒdi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/anybo/anybody__us_4_rr.mp3",
@@ -17370,7 +17370,7 @@
   },
   {
     "word": "anyone",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/anyon/anyone__gb_1.mp3",
     "phonetic_text": "/ˈeniwʌn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/anyon/anyone__us_1_rr.mp3",
@@ -17427,7 +17427,7 @@
   },
   {
     "word": "anything",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/anyth/anything__gb_1.mp3",
     "phonetic_text": "/ˈeniθɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/anyth/anything__us_1.mp3",
@@ -17543,7 +17543,7 @@
   },
   {
     "word": "anyway",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/anywa/anyway__gb_1.mp3",
     "phonetic_text": "/ˈeniweɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/anywa/anyway__us_1.mp3",
@@ -17625,7 +17625,7 @@
   },
   {
     "word": "anywhere",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/anywh/anywhere__gb_1.mp3",
     "phonetic_text": "/ˈeniweə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/anywh/anywhere__us_1.mp3",
@@ -17704,7 +17704,7 @@
   },
   {
     "word": "anywhere",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/anywh/anywhere__gb_1.mp3",
     "phonetic_text": "/ˈeniweə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/anywh/anywhere__us_1.mp3",
@@ -17727,7 +17727,7 @@
   },
   {
     "word": "apart",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/apa/apart/apart__gb_1.mp3",
     "phonetic_text": "/əˈpɑːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/apa/apart/apart__us_1.mp3",
@@ -17844,7 +17844,7 @@
   },
   {
     "word": "apartment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/apa/apart/apartment__gb_1.mp3",
     "phonetic_text": "/əˈpɑːtmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/apa/apart/apartment__us_1.mp3",
@@ -17968,7 +17968,7 @@
   },
   {
     "word": "apology",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/apo/apolo/apology__gb_1.mp3",
     "phonetic_text": "/əˈpɒlədʒi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/apo/apolo/apology__us_1.mp3",
@@ -18016,7 +18016,7 @@
   },
   {
     "word": "app",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/app__/app__gb_1.mp3",
     "phonetic_text": "/æp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/app__/app__us_1.mp3",
@@ -18068,7 +18068,7 @@
   },
   {
     "word": "apparatus",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appar/apparatus__gb_1.mp3",
     "phonetic_text": "/ˌæpəˈreɪtəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appar/apparatus__us_1_rr.mp3",
@@ -18117,7 +18117,7 @@
   },
   {
     "word": "apparent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appar/apparent__gb_2.mp3",
     "phonetic_text": "/əˈpærənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appar/apparent__us_1.mp3",
@@ -18177,7 +18177,7 @@
   },
   {
     "word": "apparently",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appar/apparently__gb_1.mp3",
     "phonetic_text": "/əˈpærəntli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appar/apparently__us_3.mp3",
@@ -18212,7 +18212,7 @@
   },
   {
     "word": "appeal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appea/appeal__gb_1.mp3",
     "phonetic_text": "/əˈpiːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appea/appeal__us_2.mp3",
@@ -18416,7 +18416,7 @@
   },
   {
     "word": "appealing",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appea/appealing__gb_1.mp3",
     "phonetic_text": "/əˈpiːlɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appea/appealing__us_1.mp3",
@@ -18667,7 +18667,7 @@
   },
   {
     "word": "appearance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appea/appearance__gb_1.mp3",
     "phonetic_text": "/əˈpɪərəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appea/appearance__us_1.mp3",
@@ -18783,7 +18783,7 @@
   },
   {
     "word": "appetite",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appet/appetite__gb_1.mp3",
     "phonetic_text": "/ˈæpɪtaɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appet/appetite__us_1.mp3",
@@ -18883,7 +18883,7 @@
   },
   {
     "word": "apple",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/apple/apple__gb_5.mp3",
     "phonetic_text": "/ˈæpl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/apple/apple__us_1.mp3",
@@ -18956,7 +18956,7 @@
   },
   {
     "word": "applicable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appli/applicable__gb_1.mp3",
     "phonetic_text": "/əˈplɪkəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appli/applicable__us_2_rr.mp3",
@@ -18979,7 +18979,7 @@
   },
   {
     "word": "applicant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appli/applicant__gb_1.mp3",
     "phonetic_text": "/ˈæplɪkənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appli/applicant__us_1.mp3",
@@ -19002,7 +19002,7 @@
   },
   {
     "word": "application",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appli/application__gb_2.mp3",
     "phonetic_text": "/ˌæplɪˈkeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appli/application__us_2.mp3",
@@ -19314,7 +19314,7 @@
   },
   {
     "word": "appointment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appoi/appointment__gb_1.mp3",
     "phonetic_text": "/əˈpɔɪntmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appoi/appointment__us_1.mp3",
@@ -19534,7 +19534,7 @@
   },
   {
     "word": "appreciation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appre/appreciation__gb_1.mp3",
     "phonetic_text": "/əˌpriːʃiˈeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appre/appreciation__us_1.mp3",
@@ -19609,7 +19609,7 @@
   },
   {
     "word": "approach",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appro/approach__gb_2.mp3",
     "phonetic_text": "/əˈprəʊtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appro/approach__us_1.mp3",
@@ -19861,7 +19861,7 @@
   },
   {
     "word": "appropriate",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appro/appropriate__gb_4.mp3",
     "phonetic_text": "/əˈprəʊpriət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appro/appropriate__us_1.mp3",
@@ -19920,7 +19920,7 @@
   },
   {
     "word": "appropriately",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appro/appropriately__gb_1.mp3",
     "phonetic_text": "/əˈprəʊpriətli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appro/appropriately__us_1.mp3",
@@ -19943,7 +19943,7 @@
   },
   {
     "word": "approval",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appro/approval__gb_1.mp3",
     "phonetic_text": "/əˈpruːvl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appro/approval__us_1.mp3",
@@ -20116,7 +20116,7 @@
   },
   {
     "word": "approximately",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appro/approximately__gb_2.mp3",
     "phonetic_text": "/əˈprɒksɪmətli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appro/approximately__us_1.mp3",
@@ -20143,7 +20143,7 @@
   },
   {
     "word": "April",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/apr/april/april_1_gb_2.mp3",
     "phonetic_text": "/ˈeɪprəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/apr/april/april__us_1.mp3",
@@ -20194,7 +20194,7 @@
   },
   {
     "word": "arbitrary",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arb/arbit/arbitrary__gb_1.mp3",
     "phonetic_text": "/ˈɑːbɪtrəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arb/arbit/arbitrary__us_1.mp3",
@@ -20226,7 +20226,7 @@
   },
   {
     "word": "architect",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arc/archi/architect__gb_1.mp3",
     "phonetic_text": "/ˈɑːkɪtekt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arc/archi/architect__us_1.mp3",
@@ -20275,7 +20275,7 @@
   },
   {
     "word": "architectural",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arc/archi/architectural__gb_1.mp3",
     "phonetic_text": "/ˌɑːkɪˈtektʃərəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arc/archi/architectural__us_1.mp3",
@@ -20294,7 +20294,7 @@
   },
   {
     "word": "architecture",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arc/archi/architecture__gb_1.mp3",
     "phonetic_text": "/ˈɑːkɪtektʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arc/archi/architecture__us_1.mp3",
@@ -20342,7 +20342,7 @@
   },
   {
     "word": "archive",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arc/archi/archive__gb_1.mp3",
     "phonetic_text": "/ˈɑːkaɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arc/archi/archive__us_1.mp3",
@@ -20378,7 +20378,7 @@
   },
   {
     "word": "area",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/are/area_/area__gb_3.mp3",
     "phonetic_text": "/ˈeəriə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/are/area_/area__us_2.mp3",
@@ -20538,7 +20538,7 @@
   },
   {
     "word": "arena",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/are/arena/arena__gb_1.mp3",
     "phonetic_text": "/əˈriːnə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/are/arena/arena__us_1.mp3",
@@ -20578,7 +20578,7 @@
   },
   {
     "word": "arguably",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arg/argua/arguably__gb_2.mp3",
     "phonetic_text": "/ˈɑːɡjuəbli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arg/argua/arguably__us_1.mp3",
@@ -20690,7 +20690,7 @@
   },
   {
     "word": "argument",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arg/argum/argument__gb_3.mp3",
     "phonetic_text": "/ˈɑːɡjumənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arg/argum/argument__us_1.mp3",
@@ -20870,7 +20870,7 @@
   },
   {
     "word": "arm",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arm/arm__/arm__gb_2.mp3",
     "phonetic_text": "/ɑːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arm/arm__/arm__us_1.mp3",
@@ -21124,7 +21124,7 @@
   },
   {
     "word": "armed",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arm/armed/armed__gb_1.mp3",
     "phonetic_text": "/ɑːmd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arm/armed/armed__us_1.mp3",
@@ -21193,7 +21193,7 @@
   },
   {
     "word": "arms",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arm/arms_/arms__gb_1.mp3",
     "phonetic_text": "/ɑːmz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arm/arms_/arms__us_1.mp3",
@@ -21301,7 +21301,7 @@
   },
   {
     "word": "army",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arm/army_/army__gb_1.mp3",
     "phonetic_text": "/ˈɑːmi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arm/army_/army__us_2.mp3",
@@ -21378,7 +21378,7 @@
   },
   {
     "word": "around",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aro/aroun/around__gb_1.mp3",
     "phonetic_text": "/əˈraʊnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aro/aroun/around__us_2.mp3",
@@ -21525,7 +21525,7 @@
   },
   {
     "word": "around",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aro/aroun/around__gb_1.mp3",
     "phonetic_text": "/əˈraʊnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aro/aroun/around__us_2.mp3",
@@ -21698,7 +21698,7 @@
   },
   {
     "word": "arrangement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arr/arran/arrangement__gb_1.mp3",
     "phonetic_text": "/əˈreɪndʒmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arr/arran/arrangement__us_1.mp3",
@@ -21789,7 +21789,7 @@
   },
   {
     "word": "array",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arr/array/array__gb_1.mp3",
     "phonetic_text": "/əˈreɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arr/array/array__us_1.mp3",
@@ -21820,7 +21820,7 @@
   },
   {
     "word": "arrest",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arr/arres/arrest__gb_1.mp3",
     "phonetic_text": "/əˈrest/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arr/arres/arrest__us_1.mp3",
@@ -21930,7 +21930,7 @@
   },
   {
     "word": "arrival",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arr/arriv/arrival__gb_3.mp3",
     "phonetic_text": "/əˈraɪvl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arr/arriv/arrival__us_3.mp3",
@@ -22152,7 +22152,7 @@
   },
   {
     "word": "arrow",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arr/arrow/arrow__gb_2.mp3",
     "phonetic_text": "/ˈærəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arr/arrow/arrow__us_1.mp3",
@@ -22192,7 +22192,7 @@
   },
   {
     "word": "art",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/art/art__/art__gb_3.mp3",
     "phonetic_text": "/ɑːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/art/art__/art__us_1.mp3",
@@ -22330,7 +22330,7 @@
   },
   {
     "word": "article",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/art/artic/article__gb_1.mp3",
     "phonetic_text": "/ˈɑːtɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/art/artic/article__us_1.mp3",
@@ -22462,7 +22462,7 @@
   },
   {
     "word": "artificial",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/art/artif/artificial__gb_1.mp3",
     "phonetic_text": "/ˌɑːtɪˈfɪʃl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/art/artif/artificial__us_3.mp3",
@@ -22507,7 +22507,7 @@
   },
   {
     "word": "artist",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/art/artis/artist__gb_2.mp3",
     "phonetic_text": "/ˈɑːtɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/art/artis/artist__us_1.mp3",
@@ -22567,7 +22567,7 @@
   },
   {
     "word": "artistic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/art/artis/artistic__gb_1.mp3",
     "phonetic_text": "/ɑːˈtɪstɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/art/artis/artistic__us_2.mp3",
@@ -22628,7 +22628,7 @@
   },
   {
     "word": "artwork",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/art/artwo/artwork__gb_1.mp3",
     "phonetic_text": "/ˈɑːtwɜːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/art/artwo/artwork__us_1.mp3",
@@ -22660,7 +22660,7 @@
   },
   {
     "word": "as",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/as_/as__g/as__gb_1.mp3",
     "phonetic_text": "/əz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/as_/as__u/as__us_1_rr.mp3",
@@ -22737,7 +22737,7 @@
   },
   {
     "word": "as",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/as_/as__g/as__gb_1.mp3",
     "phonetic_text": "/əz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/as_/as__u/as__us_1_rr.mp3",
@@ -22963,7 +22963,7 @@
   },
   {
     "word": "as",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/as_/as__g/as__gb_1.mp3",
     "phonetic_text": "/əz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/as_/as__u/as__us_1_rr.mp3",
@@ -23015,7 +23015,7 @@
   },
   {
     "word": "ash",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ash/ash__/ash__gb_2.mp3",
     "phonetic_text": "/æʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ash/ash__/ash__us_2.mp3",
@@ -23096,7 +23096,7 @@
   },
   {
     "word": "ashamed",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ash/asham/ashamed__gb_1.mp3",
     "phonetic_text": "/əˈʃeɪmd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ash/asham/ashamed__us_2.mp3",
@@ -23164,7 +23164,7 @@
   },
   {
     "word": "aside",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/asi/aside/aside__gb_1.mp3",
     "phonetic_text": "/əˈsaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/asi/aside/aside__us_1.mp3",
@@ -23533,7 +23533,7 @@
   },
   {
     "word": "asleep",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/asl/aslee/asleep__gb_3.mp3",
     "phonetic_text": "/əˈsliːp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/asl/aslee/asleep__us_2.mp3",
@@ -23598,7 +23598,7 @@
   },
   {
     "word": "aspect",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/asp/aspec/aspect__gb_2.mp3",
     "phonetic_text": "/ˈæspekt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/asp/aspec/aspect__us_1.mp3",
@@ -23671,7 +23671,7 @@
   },
   {
     "word": "aspiration",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/asp/aspir/aspiration__gb_1.mp3",
     "phonetic_text": "/ˌæspəˈreɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/asp/aspir/aspiration__us_1.mp3",
@@ -23725,7 +23725,7 @@
   },
   {
     "word": "assassination",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assas/assassination__gb_2.mp3",
     "phonetic_text": "/əˌsæsɪˈneɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assas/assassination__us_1.mp3",
@@ -23748,7 +23748,7 @@
   },
   {
     "word": "assault",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assau/assault__gb_1.mp3",
     "phonetic_text": "/əˈsɔːlt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assau/assault__us_1.mp3",
@@ -23902,7 +23902,7 @@
   },
   {
     "word": "assembly",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assem/assembly__gb_2.mp3",
     "phonetic_text": "/əˈsembli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assem/assembly__us_1.mp3",
@@ -24058,7 +24058,7 @@
   },
   {
     "word": "assertion",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/asser/assertion__gb_1.mp3",
     "phonetic_text": "/əˈsɜːʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/asser/assertion__us_1.mp3",
@@ -24162,7 +24162,7 @@
   },
   {
     "word": "assessment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/asses/assessment__gb_2.mp3",
     "phonetic_text": "/əˈsesmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/asses/assessment__us_1.mp3",
@@ -24228,7 +24228,7 @@
   },
   {
     "word": "asset",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/asset/asset__gb_3.mp3",
     "phonetic_text": "/ˈæset/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/asset/asset__us_1.mp3",
@@ -24384,7 +24384,7 @@
   },
   {
     "word": "assignment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assig/assignment__gb_2.mp3",
     "phonetic_text": "/əˈsaɪnmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assig/assignment__us_1.mp3",
@@ -24500,7 +24500,7 @@
   },
   {
     "word": "assistance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assis/assistance__gb_2.mp3",
     "phonetic_text": "/əˈsɪstəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assis/assistance__us_1.mp3",
@@ -24547,7 +24547,7 @@
   },
   {
     "word": "assistant",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assis/assistant__gb_1.mp3",
     "phonetic_text": "/əˈsɪstənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assis/assistant__us_1.mp3",
@@ -24586,7 +24586,7 @@
   },
   {
     "word": "assistant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assis/assistant__gb_1.mp3",
     "phonetic_text": "/əˈsɪstənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assis/assistant__us_1.mp3",
@@ -24687,7 +24687,7 @@
   },
   {
     "word": "associated",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assoc/associated__gb_2.mp3",
     "phonetic_text": "/əˈsəʊsieɪtɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assoc/associated__us_4.mp3",
@@ -24744,7 +24744,7 @@
   },
   {
     "word": "association",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assoc/association__gb_2.mp3",
     "phonetic_text": "/əˌsəʊsiˈeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assoc/association__us_2_rr.mp3",
@@ -24932,7 +24932,7 @@
   },
   {
     "word": "assumption",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assum/assumption__gb_2.mp3",
     "phonetic_text": "/əˈsʌmpʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assum/assumption__us_1.mp3",
@@ -24984,7 +24984,7 @@
   },
   {
     "word": "assurance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assur/assurance__gb_1.mp3",
     "phonetic_text": "/əˈʃʊərəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assur/assurance__us_1.mp3",
@@ -25115,7 +25115,7 @@
   },
   {
     "word": "astonishing",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ast/aston/astonishing__gb_1.mp3",
     "phonetic_text": "/əˈstɒnɪʃɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ast/aston/astonishing__us_1.mp3",
@@ -25138,7 +25138,7 @@
   },
   {
     "word": "asylum",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/asy/asylu/asylum__gb_1.mp3",
     "phonetic_text": "/əˈsaɪləm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/asy/asylu/asylum__us_1.mp3",
@@ -25165,7 +25165,7 @@
   },
   {
     "word": "at",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/at_/at__g/at__gb_1.mp3",
     "phonetic_text": "/ət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/at_/at__u/at__us_3_rr.mp3",
@@ -25436,7 +25436,7 @@
   },
   {
     "word": "athlete",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ath/athle/athlete__gb_1.mp3",
     "phonetic_text": "/ˈæθliːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ath/athle/athlete__us_1.mp3",
@@ -25489,7 +25489,7 @@
   },
   {
     "word": "atmosphere",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/atm/atmos/atmosphere__gb_1.mp3",
     "phonetic_text": "/ˈætməsfɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/atm/atmos/atmosphere__us_2.mp3",
@@ -25599,7 +25599,7 @@
   },
   {
     "word": "atrocity",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/atr/atroc/atrocity__gb_1.mp3",
     "phonetic_text": "/əˈtrɒsəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/atr/atroc/atrocity__us_1.mp3",
@@ -25705,7 +25705,7 @@
   },
   {
     "word": "attachment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attac/attachment__gb_1.mp3",
     "phonetic_text": "/əˈtætʃmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attac/attachment__us_1.mp3",
@@ -25785,7 +25785,7 @@
   },
   {
     "word": "attack",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attac/attack__gb_1.mp3",
     "phonetic_text": "/əˈtæk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attac/attack__us_2.mp3",
@@ -26088,7 +26088,7 @@
   },
   {
     "word": "attempt",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attem/attempt__gb_2.mp3",
     "phonetic_text": "/əˈtempt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attem/attempt__us_1.mp3",
@@ -26308,7 +26308,7 @@
   },
   {
     "word": "attendance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/atten/attendance__gb_1.mp3",
     "phonetic_text": "/əˈtendəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/atten/attendance__us_1.mp3",
@@ -26383,7 +26383,7 @@
   },
   {
     "word": "attention",
-    "pos": "verb",
+    "pos": "exclamation",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/atten/attention__gb_1.mp3",
     "phonetic_text": "/əˈtenʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/atten/attention__us_1.mp3",
@@ -26406,7 +26406,7 @@
   },
   {
     "word": "attention",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/atten/attention__gb_1.mp3",
     "phonetic_text": "/əˈtenʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/atten/attention__us_1.mp3",
@@ -26536,7 +26536,7 @@
   },
   {
     "word": "attitude",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attit/attitude__gb_2.mp3",
     "phonetic_text": "/ˈætɪtjuːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attit/attitude__us_1.mp3",
@@ -26626,7 +26626,7 @@
   },
   {
     "word": "attorney",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attor/attorney__gb_1.mp3",
     "phonetic_text": "/əˈtɜːni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attor/attorney__us_1.mp3",
@@ -26748,7 +26748,7 @@
   },
   {
     "word": "attraction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attra/attraction__gb_3.mp3",
     "phonetic_text": "/əˈtrækʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attra/attraction__us_1.mp3",
@@ -26854,7 +26854,7 @@
   },
   {
     "word": "attractive",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attra/attractive__gb_2.mp3",
     "phonetic_text": "/əˈtræktɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attra/attractive__us_2.mp3",
@@ -26927,7 +26927,7 @@
   },
   {
     "word": "attribute",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attri/attribute__gb_2.mp3",
     "phonetic_text": "/ˈætrɪbjuːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attri/attribute__us_2.mp3",
@@ -27003,7 +27003,7 @@
   },
   {
     "word": "auction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/auc/aucti/auction__gb_1.mp3",
     "phonetic_text": "/ˈɔːkʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/auc/aucti/auction__us_1.mp3",
@@ -27034,7 +27034,7 @@
   },
   {
     "word": "audience",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aud/audie/audience__gb_1.mp3",
     "phonetic_text": "/ˈɔːdiəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aud/audie/audience__us_1.mp3",
@@ -27115,7 +27115,7 @@
   },
   {
     "word": "audio",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aud/audio/audio__gb_1.mp3",
     "phonetic_text": "/ˈɔːdiəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aud/audio/audio__us_1.mp3",
@@ -27138,7 +27138,7 @@
   },
   {
     "word": "audit",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aud/audit/audit__gb_1.mp3",
     "phonetic_text": "/ˈɔːdɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aud/audit/audit__us_1.mp3",
@@ -27174,7 +27174,7 @@
   },
   {
     "word": "August",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aug/augus/august_1_gb_1.mp3",
     "phonetic_text": "/ˈɔːɡəst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aug/augus/august__us_1.mp3",
@@ -27217,7 +27217,7 @@
   },
   {
     "word": "aunt",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aun/aunt_/aunt__gb_2.mp3",
     "phonetic_text": "/ɑːnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aun/aunt_/aunt__us_1_rr.mp3",
@@ -27252,7 +27252,7 @@
   },
   {
     "word": "authentic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/authe/authentic__gb_1.mp3",
     "phonetic_text": "/ɔːˈθentɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/authe/authentic__us_1.mp3",
@@ -27297,7 +27297,7 @@
   },
   {
     "word": "author",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autho/author__gb_2.mp3",
     "phonetic_text": "/ˈɔːθə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autho/author__us_1.mp3",
@@ -27365,7 +27365,7 @@
   },
   {
     "word": "authority",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autho/authority__gb_3.mp3",
     "phonetic_text": "/ɔːˈθɒrəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autho/authority__us_1_rr.mp3",
@@ -27529,7 +27529,7 @@
   },
   {
     "word": "auto",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/auto_/auto__gb_1.mp3",
     "phonetic_text": "/ˈɔːtəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/auto_/auto__us_1.mp3",
@@ -27548,7 +27548,7 @@
   },
   {
     "word": "automatic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autom/automatic__gb_1.mp3",
     "phonetic_text": "/ˌɔːtəˈmætɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autom/automatic__us_1.mp3",
@@ -27609,7 +27609,7 @@
   },
   {
     "word": "automatically",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autom/automatically__gb_2.mp3",
     "phonetic_text": "/ˌɔːtəˈmætɪkli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autom/automatically__us_1.mp3",
@@ -27646,7 +27646,7 @@
   },
   {
     "word": "autonomy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/auton/autonomy__gb_1.mp3",
     "phonetic_text": "/ɔːˈtɒnəmi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/auton/autonomy__us_1.mp3",
@@ -27674,7 +27674,7 @@
   },
   {
     "word": "autumn",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autum/autumn__gb_2.mp3",
     "phonetic_text": "/ˈɔːtəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autum/autumn__us_3.mp3",
@@ -27725,7 +27725,7 @@
   },
   {
     "word": "availability",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ava/avail/availability__gb_1.mp3",
     "phonetic_text": "/əˌveɪləˈbɪləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ava/avail/availability__us_1.mp3",
@@ -27757,7 +27757,7 @@
   },
   {
     "word": "available",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ava/avail/available__gb_2.mp3",
     "phonetic_text": "/əˈveɪləbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ava/avail/available__us_1.mp3",
@@ -27846,7 +27846,7 @@
   },
   {
     "word": "average",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ave/avera/average__gb_2.mp3",
     "phonetic_text": "/ˈævərɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ave/avera/average__us_2.mp3",
@@ -27927,7 +27927,7 @@
   },
   {
     "word": "average",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ave/avera/average__gb_2.mp3",
     "phonetic_text": "/ˈævərɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ave/avera/average__us_2.mp3",
@@ -28187,7 +28187,7 @@
   },
   {
     "word": "award",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/awa/award/award__gb_1.mp3",
     "phonetic_text": "/əˈwɔːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/awa/award/award__us_1.mp3",
@@ -28320,7 +28320,7 @@
   },
   {
     "word": "aware",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/awa/aware/aware__gb_3.mp3",
     "phonetic_text": "/əˈweə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/awa/aware/aware__us_1.mp3",
@@ -28400,7 +28400,7 @@
   },
   {
     "word": "awareness",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/awa/aware/awareness__gb_2.mp3",
     "phonetic_text": "/əˈweənəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/awa/aware/awareness__us_1.mp3",
@@ -28460,7 +28460,7 @@
   },
   {
     "word": "away",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/awa/away_/away__gb_1.mp3",
     "phonetic_text": "/əˈweɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/awa/away_/away__us_1.mp3",
@@ -28617,7 +28617,7 @@
   },
   {
     "word": "awful",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/awf/awful/awful__gb_1.mp3",
     "phonetic_text": "/ˈɔːfl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/awf/awful/awful__us_2.mp3",
@@ -28706,7 +28706,7 @@
   },
   {
     "word": "awkward",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/awk/awkwa/awkward__gb_1.mp3",
     "phonetic_text": "/ˈɔːkwəd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/awk/awkwa/awkward__us_1.mp3",

@@ -1,7 +1,7 @@
 [
   {
     "word": "jacket",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jac/jacke/jacket__gb_2.mp3",
     "phonetic_text": "/ˈdʒækɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jac/jacke/jacket__us_1.mp3",
@@ -49,7 +49,7 @@
   },
   {
     "word": "jail",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jai/jail_/jail__gb_1.mp3",
     "phonetic_text": "/dʒeɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jai/jail_/jail__us_1.mp3",
@@ -99,7 +99,7 @@
   },
   {
     "word": "jam",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jam/jam__/jam__gb_2.mp3",
     "phonetic_text": "/dʒæm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jam/jam__/jam__us_1.mp3",
@@ -187,7 +187,7 @@
   },
   {
     "word": "January",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jan/janua/january__gb_1.mp3",
     "phonetic_text": "/ˈdʒænjuəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jan/janua/january__us_2.mp3",
@@ -234,7 +234,7 @@
   },
   {
     "word": "jazz",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jaz/jazz_/jazz__gb_1.mp3",
     "phonetic_text": "/dʒæz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jaz/jazz_/jazz__us_1.mp3",
@@ -274,7 +274,7 @@
   },
   {
     "word": "jeans",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jea/jeans/jeans__gb_2.mp3",
     "phonetic_text": "/dʒiːnz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jea/jeans/jeans__us_1.mp3",
@@ -309,7 +309,7 @@
   },
   {
     "word": "jet",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jet/jet__/jet__gb_1.mp3",
     "phonetic_text": "/dʒet/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jet/jet__/jet__us_1.mp3",
@@ -362,7 +362,7 @@
   },
   {
     "word": "jewellery",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jew/jewel/jewellery__gb_1.mp3",
     "phonetic_text": "/ˈdʒuːəlri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jew/jewel/jewellery__us_1.mp3",
@@ -405,7 +405,7 @@
   },
   {
     "word": "job",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/job/job__/job__gb_4.mp3",
     "phonetic_text": "/dʒɒb/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/job/job__/job__us_2.mp3",
@@ -951,7 +951,7 @@
   },
   {
     "word": "joint",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/joi/joint/joint__gb_1.mp3",
     "phonetic_text": "/dʒɔɪnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/joi/joint/joint__us_1.mp3",
@@ -982,7 +982,7 @@
   },
   {
     "word": "joint",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/joi/joint/joint__gb_1.mp3",
     "phonetic_text": "/dʒɔɪnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/joi/joint/joint__us_1.mp3",
@@ -1070,7 +1070,7 @@
   },
   {
     "word": "joke",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jok/joke_/joke__gb_1.mp3",
     "phonetic_text": "/dʒəʊk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jok/joke_/joke__us_1.mp3",
@@ -1248,7 +1248,7 @@
   },
   {
     "word": "journal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jou/journ/journal__gb_2.mp3",
     "phonetic_text": "/ˈdʒɜːnl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jou/journ/journal__us_1.mp3",
@@ -1317,7 +1317,7 @@
   },
   {
     "word": "journalism",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jou/journ/journalism__gb_1.mp3",
     "phonetic_text": "/ˈdʒɜːnəlɪzəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jou/journ/journalism__us_1.mp3",
@@ -1340,7 +1340,7 @@
   },
   {
     "word": "journalist",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jou/journ/journalist__gb_1.mp3",
     "phonetic_text": "/ˈdʒɜːnəlɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jou/journ/journalist__us_1.mp3",
@@ -1367,7 +1367,7 @@
   },
   {
     "word": "journey",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jou/journ/journey__gb_2.mp3",
     "phonetic_text": "/ˈdʒɜːni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jou/journ/journey__us_1.mp3",
@@ -1451,7 +1451,7 @@
   },
   {
     "word": "joy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/joy/joy__/joy__gb_1.mp3",
     "phonetic_text": "/dʒɔɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/joy/joy__/joy__us_1.mp3",
@@ -1557,7 +1557,7 @@
   },
   {
     "word": "judge",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jud/judge/judge__gb_2.mp3",
     "phonetic_text": "/dʒʌdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jud/judge/judge__us_1.mp3",
@@ -1769,7 +1769,7 @@
   },
   {
     "word": "judgement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jud/judge/judgement__gb_1.mp3",
     "phonetic_text": "/ˈdʒʌdʒmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jud/judge/judgement__us_1.mp3",
@@ -1880,7 +1880,7 @@
   },
   {
     "word": "judicial",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jud/judic/judicial__gb_1.mp3",
     "phonetic_text": "/dʒuˈdɪʃl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jud/judic/judicial__us_1.mp3",
@@ -1911,7 +1911,7 @@
   },
   {
     "word": "juice",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jui/juice/juice__gb_2.mp3",
     "phonetic_text": "/dʒuːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jui/juice/juice__us_1.mp3",
@@ -2016,7 +2016,7 @@
   },
   {
     "word": "July",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jul/july_/july__gb_1.mp3",
     "phonetic_text": "/dʒuˈlaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jul/july_/july__us_1.mp3",
@@ -2059,7 +2059,7 @@
   },
   {
     "word": "jump",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jum/jump_/jump__gb_1.mp3",
     "phonetic_text": "/dʒʌmp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jum/jump_/jump__us_1.mp3",
@@ -2478,7 +2478,7 @@
   },
   {
     "word": "junction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jun/junct/junction__gb_1.mp3",
     "phonetic_text": "/ˈdʒʌŋkʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jun/junct/junction__us_1.mp3",
@@ -2522,7 +2522,7 @@
   },
   {
     "word": "June",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jun/june_/june__gb_1.mp3",
     "phonetic_text": "/dʒuːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jun/june_/june__us_1.mp3",
@@ -2569,7 +2569,7 @@
   },
   {
     "word": "junior",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jun/junio/junior__gb_1.mp3",
     "phonetic_text": "/ˈdʒuːniə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jun/junio/junior__us_2.mp3",
@@ -2627,7 +2627,7 @@
   },
   {
     "word": "jurisdiction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jur/juris/jurisdiction__gb_1.mp3",
     "phonetic_text": "/ˌdʒʊərɪsˈdɪkʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jur/juris/jurisdiction__us_1.mp3",
@@ -2663,7 +2663,7 @@
   },
   {
     "word": "jury",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jur/jury_/jury__gb_2.mp3",
     "phonetic_text": "/ˈdʒʊəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jur/jury_/jury__us_1.mp3",
@@ -2712,7 +2712,7 @@
   },
   {
     "word": "just",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jus/just_/just__gb_1.mp3",
     "phonetic_text": "/dʒʌst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jus/just_/just__us_1.mp3",
@@ -2752,7 +2752,7 @@
   },
   {
     "word": "just",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jus/just_/just__gb_1.mp3",
     "phonetic_text": "/dʒʌst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jus/just_/just__us_1.mp3",
@@ -3239,7 +3239,7 @@
   },
   {
     "word": "justice",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jus/justi/justice__gb_1.mp3",
     "phonetic_text": "/ˈdʒʌstɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jus/justi/justice__us_1.mp3",
@@ -3364,7 +3364,7 @@
   },
   {
     "word": "justification",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jus/justi/justification__gb_1.mp3",
     "phonetic_text": "/ˌdʒʌstɪfɪˈkeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jus/justi/justification__us_1.mp3",

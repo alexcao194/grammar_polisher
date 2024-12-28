@@ -1,7 +1,7 @@
 [
   {
     "word": "all right",
-    "pos": "verb",
+    "pos": "adjective, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/all_r/all_right_1_gb_2.mp3",
     "phonetic_text": "/ɔːl ˈraɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/all_r/all_right_1_us_3.mp3",
@@ -93,7 +93,7 @@
   },
   {
     "word": "all right",
-    "pos": "verb",
+    "pos": "adjective, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/all_r/all_right_1_gb_2.mp3",
     "phonetic_text": "/ɔːl ˈraɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/all_r/all_right_1_us_3.mp3",
@@ -185,7 +185,7 @@
   },
   {
     "word": "all right",
-    "pos": "verb",
+    "pos": "exclamation",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/all_r/all_right_1_gb_2.mp3",
     "phonetic_text": "/ɔːl ˈraɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/all_r/all_right_1_us_3.mp3",
@@ -240,7 +240,7 @@
   },
   {
     "word": "race",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rac/race_/race__gb_2.mp3",
     "phonetic_text": "/reɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rac/race_/race__us_1.mp3",
@@ -519,7 +519,7 @@
   },
   {
     "word": "racial",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rac/racia/racial__gb_1.mp3",
     "phonetic_text": "/ˈreɪʃl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rac/racia/racial__us_1.mp3",
@@ -567,7 +567,7 @@
   },
   {
     "word": "racing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rac/racin/racing__gb_1.mp3",
     "phonetic_text": "/ˈreɪsɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rac/racin/racing__us_3.mp3",
@@ -619,7 +619,7 @@
   },
   {
     "word": "racism",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rac/racis/racism__gb_1.mp3",
     "phonetic_text": "/ˈreɪsɪzəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rac/racis/racism__us_1.mp3",
@@ -671,7 +671,7 @@
   },
   {
     "word": "racist",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rac/racis/racist__gb_1.mp3",
     "phonetic_text": "/ˈreɪsɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rac/racis/racist__us_1.mp3",
@@ -698,7 +698,7 @@
   },
   {
     "word": "racist",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rac/racis/racist__gb_1.mp3",
     "phonetic_text": "/ˈreɪsɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rac/racis/racist__us_1.mp3",
@@ -721,7 +721,7 @@
   },
   {
     "word": "radar",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rad/radar/radar__gb_1.mp3",
     "phonetic_text": "/ˈreɪdɑː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rad/radar/radar__us_1.mp3",
@@ -770,7 +770,7 @@
   },
   {
     "word": "radiation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rad/radia/radiation__gb_1.mp3",
     "phonetic_text": "/ˌreɪdiˈeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rad/radia/radiation__us_1.mp3",
@@ -826,7 +826,7 @@
   },
   {
     "word": "radical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rad/radic/radical__gb_1.mp3",
     "phonetic_text": "/ˈrædɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rad/radic/radical__us_1.mp3",
@@ -895,7 +895,7 @@
   },
   {
     "word": "radio",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rad/radio/radio__gb_2.mp3",
     "phonetic_text": "/ˈreɪdiəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rad/radio/radio__us_2.mp3",
@@ -1021,7 +1021,7 @@
   },
   {
     "word": "rage",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rag/rage_/rage__gb_1.mp3",
     "phonetic_text": "/reɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rag/rage_/rage__us_1.mp3",
@@ -1070,7 +1070,7 @@
   },
   {
     "word": "raid",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rai/raid_/raid__gb_1.mp3",
     "phonetic_text": "/reɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/raid_/raid__us_1.mp3",
@@ -1172,7 +1172,7 @@
   },
   {
     "word": "rail",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rai/rail_/rail__gb_1.mp3",
     "phonetic_text": "/reɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rail_/rail__us_1.mp3",
@@ -1261,7 +1261,7 @@
   },
   {
     "word": "railway",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rai/railw/railway__gb_1.mp3",
     "phonetic_text": "/ˈreɪlweɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/railw/railway__us_2.mp3",
@@ -1321,7 +1321,7 @@
   },
   {
     "word": "rain",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rai/rain_/rain__gb_2.mp3",
     "phonetic_text": "/reɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rain_/rain__us_1.mp3",
@@ -1903,7 +1903,7 @@
   },
   {
     "word": "rally",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ral/rally/rally__gb_1.mp3",
     "phonetic_text": "/ˈræli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ral/rally/rally__us_1.mp3",
@@ -2030,7 +2030,7 @@
   },
   {
     "word": "random",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ran/rando/random__gb_2.mp3",
     "phonetic_text": "/ˈrændəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ran/rando/random__us_1.mp3",
@@ -2095,7 +2095,7 @@
   },
   {
     "word": "range",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ran/range/range__gb_2.mp3",
     "phonetic_text": "/reɪndʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ran/range/range__us_1.mp3",
@@ -2392,7 +2392,7 @@
   },
   {
     "word": "rank",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ran/rank_/rank__gb_2.mp3",
     "phonetic_text": "/ræŋk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ran/rank_/rank__us_1.mp3",
@@ -2655,7 +2655,7 @@
   },
   {
     "word": "ranking",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ran/ranki/ranking__gb_1.mp3",
     "phonetic_text": "/ˈræŋkɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ran/ranki/ranking__us_1.mp3",
@@ -2687,7 +2687,7 @@
   },
   {
     "word": "rape",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rap/rape_/rape__gb_1.mp3",
     "phonetic_text": "/reɪp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rap/rape_/rape__us_1.mp3",
@@ -2754,7 +2754,7 @@
   },
   {
     "word": "rapid",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rap/rapid/rapid__gb_2.mp3",
     "phonetic_text": "/ˈræpɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rap/rapid/rapid__us_1.mp3",
@@ -2805,7 +2805,7 @@
   },
   {
     "word": "rapidly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rap/rapid/rapidly__gb_1.mp3",
     "phonetic_text": "/ˈræpɪdli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rap/rapid/rapidly__us_2.mp3",
@@ -2844,7 +2844,7 @@
   },
   {
     "word": "rare",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rar/rare_/rare__gb_1.mp3",
     "phonetic_text": "/reə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rar/rare_/rare__us_1.mp3",
@@ -2937,7 +2937,7 @@
   },
   {
     "word": "rarely",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rar/rarel/rarely__gb_1.mp3",
     "phonetic_text": "/ˈreəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rar/rarel/rarely__us_2.mp3",
@@ -2984,7 +2984,7 @@
   },
   {
     "word": "rat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rat/rat__/rat__gb_1.mp3",
     "phonetic_text": "/ræt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rat/rat__/rat__us_1.mp3",
@@ -3024,7 +3024,7 @@
   },
   {
     "word": "rate",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rat/rate_/rate__gb_2.mp3",
     "phonetic_text": "/reɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rat/rate_/rate__us_1.mp3",
@@ -3290,7 +3290,7 @@
   },
   {
     "word": "rather",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rat/rathe/rather__gb_1.mp3",
     "phonetic_text": "/ˈrɑːðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rat/rathe/rather__us_1.mp3",
@@ -3451,7 +3451,7 @@
   },
   {
     "word": "rating",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rat/ratin/rating__gb_1.mp3",
     "phonetic_text": "/ˈreɪtɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rat/ratin/rating__us_1.mp3",
@@ -3532,7 +3532,7 @@
   },
   {
     "word": "ratio",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rat/ratio/ratio__gb_1.mp3",
     "phonetic_text": "/ˈreɪʃiəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rat/ratio/ratio__us_1_rr.mp3",
@@ -3559,7 +3559,7 @@
   },
   {
     "word": "rational",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rat/ratio/rational__gb_1.mp3",
     "phonetic_text": "/ˈræʃnəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rat/ratio/rational__us_1.mp3",
@@ -3607,7 +3607,7 @@
   },
   {
     "word": "raw",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/raw/raw__/raw__gb_1.mp3",
     "phonetic_text": "/rɔː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/raw/raw__/raw__us_1.mp3",
@@ -3746,7 +3746,7 @@
   },
   {
     "word": "ray",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ray/ray__/ray__gb_1.mp3",
     "phonetic_text": "/reɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ray/ray__/ray__us_1.mp3",
@@ -3807,7 +3807,7 @@
   },
   {
     "word": "reach",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reach/reach__gb_1.mp3",
     "phonetic_text": "/riːtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reach/reach__us_1.mp3",
@@ -4262,7 +4262,7 @@
   },
   {
     "word": "reaction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/react/reaction__gb_3.mp3",
     "phonetic_text": "/riˈækʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/react/reaction__us_2.mp3",
@@ -4681,7 +4681,7 @@
   },
   {
     "word": "reader",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reade/reader__gb_1.mp3",
     "phonetic_text": "/ˈriːdə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reade/reader__us_1.mp3",
@@ -4783,7 +4783,7 @@
   },
   {
     "word": "readily",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/readi/readily__gb_1.mp3",
     "phonetic_text": "/ˈredɪli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/readi/readily__us_1.mp3",
@@ -4811,7 +4811,7 @@
   },
   {
     "word": "reading",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/readi/reading__gb_1.mp3",
     "phonetic_text": "/ˈriːdɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/readi/reading__us_1.mp3",
@@ -4973,7 +4973,7 @@
   },
   {
     "word": "ready",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/ready/ready__gb_1.mp3",
     "phonetic_text": "/ˈredi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/ready/ready__us_1.mp3",
@@ -5149,7 +5149,7 @@
   },
   {
     "word": "real",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/real_/real__gb_2.mp3",
     "phonetic_text": "/ˈriːəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/real_/real__us_2_rr.mp3",
@@ -5393,7 +5393,7 @@
   },
   {
     "word": "realistic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reali/realistic__gb_3.mp3",
     "phonetic_text": "/ˌriːəˈlɪstɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reali/realistic__us_2.mp3",
@@ -5474,7 +5474,7 @@
   },
   {
     "word": "reality",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reali/reality__gb_1.mp3",
     "phonetic_text": "/riˈæləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reali/reality__us_1.mp3",
@@ -5572,7 +5572,7 @@
   },
   {
     "word": "realization",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reali/realization__gb_1.mp3",
     "phonetic_text": "/ˌriːəlaɪˈzeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reali/realization__us_1.mp3",
@@ -5739,7 +5739,7 @@
   },
   {
     "word": "really",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reall/really__gb_1.mp3",
     "phonetic_text": "/ˈriːəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reall/really__us_3_rr.mp3",
@@ -5936,7 +5936,7 @@
   },
   {
     "word": "realm",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/realm/realm__gb_1.mp3",
     "phonetic_text": "/relm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/realm/realm__us_1.mp3",
@@ -5981,7 +5981,7 @@
   },
   {
     "word": "rear",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/rear_/rear__gb_1.mp3",
     "phonetic_text": "/rɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/rear_/rear__us_1.mp3",
@@ -6004,7 +6004,7 @@
   },
   {
     "word": "rear",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/rear_/rear__gb_1.mp3",
     "phonetic_text": "/rɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/rear_/rear__us_1.mp3",
@@ -6053,7 +6053,7 @@
   },
   {
     "word": "reason",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reaso/reason__gb_2.mp3",
     "phonetic_text": "/ˈriːzn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reaso/reason__us_4.mp3",
@@ -6265,7 +6265,7 @@
   },
   {
     "word": "reasonable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reaso/reasonable__gb_1.mp3",
     "phonetic_text": "/ˈriːznəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reaso/reasonable__us_2_rr.mp3",
@@ -6395,7 +6395,7 @@
   },
   {
     "word": "reasonably",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reaso/reasonably__gb_1.mp3",
     "phonetic_text": "/ˈriːznəbli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reaso/reasonably__us_2_rr.mp3",
@@ -6440,7 +6440,7 @@
   },
   {
     "word": "reasoning",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reaso/reasoning__gb_1.mp3",
     "phonetic_text": "/ˈriːzənɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reaso/reasoning__us_1.mp3",
@@ -6490,7 +6490,7 @@
   },
   {
     "word": "rebel",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reb/rebel/rebel__gb_1.mp3",
     "phonetic_text": "/ˈrebl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reb/rebel/rebel__us_1.mp3",
@@ -6543,7 +6543,7 @@
   },
   {
     "word": "rebellion",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reb/rebel/rebellion__gb_1.mp3",
     "phonetic_text": "/rɪˈbeljən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reb/rebel/rebellion__us_1.mp3",
@@ -6746,7 +6746,7 @@
   },
   {
     "word": "receipt",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recei/receipt__gb_2.mp3",
     "phonetic_text": "/rɪˈsiːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recei/receipt__us_1.mp3",
@@ -7000,7 +7000,7 @@
   },
   {
     "word": "receiver",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recei/receiver__gb_1.mp3",
     "phonetic_text": "/rɪˈsiːvə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recei/receiver__us_1.mp3",
@@ -7070,7 +7070,7 @@
   },
   {
     "word": "recent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recen/recent__gb_2.mp3",
     "phonetic_text": "/ˈriːsnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recen/recent__us_1.mp3",
@@ -7113,7 +7113,7 @@
   },
   {
     "word": "recently",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recen/recently__gb_2.mp3",
     "phonetic_text": "/ˈriːsntli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recen/recently__us_2.mp3",
@@ -7176,7 +7176,7 @@
   },
   {
     "word": "reception",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recep/reception__gb_1.mp3",
     "phonetic_text": "/rɪˈsepʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recep/reception__us_3.mp3",
@@ -7313,7 +7313,7 @@
   },
   {
     "word": "recession",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/reces/recession__gb_1.mp3",
     "phonetic_text": "/rɪˈseʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/reces/recession__us_1.mp3",
@@ -7353,7 +7353,7 @@
   },
   {
     "word": "recipe",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recip/recipe__gb_1.mp3",
     "phonetic_text": "/ˈresəpi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recip/recipe__us_2.mp3",
@@ -7425,7 +7425,7 @@
   },
   {
     "word": "recipient",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recip/recipient__gb_1.mp3",
     "phonetic_text": "/rɪˈsɪpiənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recip/recipient__us_1.mp3",
@@ -7561,7 +7561,7 @@
   },
   {
     "word": "recognition",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recog/recognition__gb_1.mp3",
     "phonetic_text": "/ˌrekəɡˈnɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recog/recognition__us_1.mp3",
@@ -7875,7 +7875,7 @@
   },
   {
     "word": "recommendation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recom/recommendation__gb_1.mp3",
     "phonetic_text": "/ˌrekəmenˈdeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recom/recommendation__us_1.mp3",
@@ -7964,7 +7964,7 @@
   },
   {
     "word": "reconstruction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recon/reconstruction__gb_1.mp3",
     "phonetic_text": "/ˌriːkənˈstrʌkʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recon/reconstruction__us_1.mp3",
@@ -8026,7 +8026,7 @@
   },
   {
     "word": "record",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recor/record__gb_3.mp3",
     "phonetic_text": "/ˈrekɔːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recor/record__us_1.mp3",
@@ -8349,7 +8349,7 @@
   },
   {
     "word": "recording",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recor/recording__gb_1.mp3",
     "phonetic_text": "/rɪˈkɔːdɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recor/recording__us_1.mp3",
@@ -8553,7 +8553,7 @@
   },
   {
     "word": "recovery",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recov/recovery__gb_1.mp3",
     "phonetic_text": "/rɪˈkʌvəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recov/recovery__us_1.mp3",
@@ -8619,7 +8619,7 @@
   },
   {
     "word": "recruit",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recru/recruit__gb_1.mp3",
     "phonetic_text": "/rɪˈkruːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recru/recruit__us_1.mp3",
@@ -8700,7 +8700,7 @@
   },
   {
     "word": "recruitment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recru/recruitment__gb_1.mp3",
     "phonetic_text": "/rɪˈkruːtmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recru/recruitment__us_1.mp3",
@@ -8783,7 +8783,7 @@
   },
   {
     "word": "red",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/red/red__/red__gb_1.mp3",
     "phonetic_text": "/red/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/red/red__/red__us_1.mp3",
@@ -8932,7 +8932,7 @@
   },
   {
     "word": "red",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/red/red__/red__gb_1.mp3",
     "phonetic_text": "/red/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/red/red__/red__us_1.mp3",
@@ -9086,7 +9086,7 @@
   },
   {
     "word": "reduction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/red/reduc/reduction__gb_1.mp3",
     "phonetic_text": "/rɪˈdʌkʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/red/reduc/reduction__us_3.mp3",
@@ -9222,7 +9222,7 @@
   },
   {
     "word": "referee",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ref/refer/referee__gb_1.mp3",
     "phonetic_text": "/ˌrefəˈriː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ref/refer/referee__us_1.mp3",
@@ -9272,7 +9272,7 @@
   },
   {
     "word": "reference",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ref/refer/reference__gb_2.mp3",
     "phonetic_text": "/ˈrefrəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ref/refer/reference__us_1.mp3",
@@ -9442,7 +9442,7 @@
   },
   {
     "word": "referendum",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ref/refer/referendum__gb_1.mp3",
     "phonetic_text": "/ˌrefəˈrendəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ref/refer/referendum__us_1.mp3",
@@ -9580,7 +9580,7 @@
   },
   {
     "word": "reflection",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ref/refle/reflection__gb_1.mp3",
     "phonetic_text": "/rɪˈflekʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ref/refle/reflection__us_1.mp3",
@@ -9660,7 +9660,7 @@
   },
   {
     "word": "reform",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ref/refor/reform__gb_1.mp3",
     "phonetic_text": "/rɪˈfɔːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ref/refor/reform__us_1.mp3",
@@ -9735,7 +9735,7 @@
   },
   {
     "word": "refuge",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ref/refug/refuge__gb_1.mp3",
     "phonetic_text": "/ˈrefjuːdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ref/refug/refuge__us_1.mp3",
@@ -9796,7 +9796,7 @@
   },
   {
     "word": "refugee",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ref/refug/refugee__gb_1.mp3",
     "phonetic_text": "/ˌrefjuˈdʒiː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ref/refug/refugee__us_1.mp3",
@@ -9827,7 +9827,7 @@
   },
   {
     "word": "refusal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ref/refus/refusal__gb_1.mp3",
     "phonetic_text": "/rɪˈfjuːzl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ref/refus/refusal__us_1.mp3",
@@ -10020,7 +10020,7 @@
   },
   {
     "word": "regard",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regar/regard__gb_1.mp3",
     "phonetic_text": "/rɪˈɡɑːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regar/regard__us_1.mp3",
@@ -10181,7 +10181,7 @@
   },
   {
     "word": "regardless",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regar/regardless__gb_1.mp3",
     "phonetic_text": "/rɪˈɡɑːdləs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regar/regardless__us_1.mp3",
@@ -10200,7 +10200,7 @@
   },
   {
     "word": "regime",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regim/regime__gb_2.mp3",
     "phonetic_text": "/reɪˈʒiːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regim/regime__us_2_rr.mp3",
@@ -10241,7 +10241,7 @@
   },
   {
     "word": "region",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regio/region__gb_2.mp3",
     "phonetic_text": "/ˈriːdʒən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regio/region__us_1.mp3",
@@ -10324,7 +10324,7 @@
   },
   {
     "word": "regional",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regio/regional__gb_1.mp3",
     "phonetic_text": "/ˈriːdʒənl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regio/regional__us_3.mp3",
@@ -10363,7 +10363,7 @@
   },
   {
     "word": "register",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regis/register__gb_2.mp3",
     "phonetic_text": "/ˈredʒɪstə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regis/register__us_1.mp3",
@@ -10608,7 +10608,7 @@
   },
   {
     "word": "registration",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regis/registration__gb_1.mp3",
     "phonetic_text": "/ˌredʒɪˈstreɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regis/registration__us_1.mp3",
@@ -10669,7 +10669,7 @@
   },
   {
     "word": "regret",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regre/regret__gb_1.mp3",
     "phonetic_text": "/rɪˈɡret/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regre/regret__us_1.mp3",
@@ -10816,7 +10816,7 @@
   },
   {
     "word": "regular",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regul/regular__gb_1.mp3",
     "phonetic_text": "/ˈreɡjələ(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regul/regular__us_2.mp3",
@@ -11034,7 +11034,7 @@
   },
   {
     "word": "regularly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regul/regularly__gb_2.mp3",
     "phonetic_text": "/ˈreɡjələli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regul/regularly__us_1.mp3",
@@ -11135,7 +11135,7 @@
   },
   {
     "word": "regulation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regul/regulation__gb_3.mp3",
     "phonetic_text": "/ˌreɡjuˈleɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regul/regulation__us_2.mp3",
@@ -11183,7 +11183,7 @@
   },
   {
     "word": "regulator",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regul/regulator__gb_1.mp3",
     "phonetic_text": "/ˈreɡjuleɪtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regul/regulator__us_1.mp3",
@@ -11215,7 +11215,7 @@
   },
   {
     "word": "regulatory",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regul/regulatory__gb_1.mp3",
     "phonetic_text": "/ˈreɡjələtəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regul/regulatory__us_1.mp3",
@@ -11238,7 +11238,7 @@
   },
   {
     "word": "rehabilitation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reh/rehab/rehabilitation__gb_1.mp3",
     "phonetic_text": "/ˌriːəˌbɪlɪˈteɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reh/rehab/rehabilitation__us_1_rr.mp3",
@@ -11279,7 +11279,7 @@
   },
   {
     "word": "reign",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rei/reign/reign__gb_1.mp3",
     "phonetic_text": "/reɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rei/reign/reign__us_1.mp3",
@@ -11528,7 +11528,7 @@
   },
   {
     "word": "rejection",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rej/rejec/rejection__gb_1.mp3",
     "phonetic_text": "/rɪˈdʒekʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rej/rejec/rejection__us_1.mp3",
@@ -11639,7 +11639,7 @@
   },
   {
     "word": "related",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relat/related__gb_1.mp3",
     "phonetic_text": "/rɪˈleɪtɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relat/related__us_1.mp3",
@@ -11748,7 +11748,7 @@
   },
   {
     "word": "relation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relat/relation__gb_1.mp3",
     "phonetic_text": "/rɪˈleɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relat/relation__us_3.mp3",
@@ -11845,7 +11845,7 @@
   },
   {
     "word": "relationship",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relat/relationship__gb_2.mp3",
     "phonetic_text": "/rɪˈleɪʃnʃɪp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relat/relationship__us_1.mp3",
@@ -11991,7 +11991,7 @@
   },
   {
     "word": "relative",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relat/relative__gb_1.mp3",
     "phonetic_text": "/ˈrelətɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relat/relative__us_4.mp3",
@@ -12074,7 +12074,7 @@
   },
   {
     "word": "relative",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relat/relative__gb_1.mp3",
     "phonetic_text": "/ˈrelətɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relat/relative__us_4.mp3",
@@ -12114,7 +12114,7 @@
   },
   {
     "word": "relatively",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relat/relatively__gb_2.mp3",
     "phonetic_text": "/ˈrelətɪvli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relat/relatively__us_1.mp3",
@@ -12309,7 +12309,7 @@
   },
   {
     "word": "relaxed",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relax/relaxed__gb_1.mp3",
     "phonetic_text": "/rɪˈlækst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relax/relaxed__us_1.mp3",
@@ -12366,7 +12366,7 @@
   },
   {
     "word": "relaxing",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relax/relaxing__gb_1.mp3",
     "phonetic_text": "/rɪˈlæksɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relax/relaxing__us_6.mp3",
@@ -12397,7 +12397,7 @@
   },
   {
     "word": "release",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relea/release__gb_1.mp3",
     "phonetic_text": "/rɪˈliːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relea/release__us_1.mp3",
@@ -12752,7 +12752,7 @@
   },
   {
     "word": "relevance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relev/relevance__gb_1.mp3",
     "phonetic_text": "/ˈreləvəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relev/relevance__us_1.mp3",
@@ -12784,7 +12784,7 @@
   },
   {
     "word": "relevant",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relev/relevant__gb_3.mp3",
     "phonetic_text": "/ˈreləvənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relev/relevant__us_1.mp3",
@@ -12844,7 +12844,7 @@
   },
   {
     "word": "reliability",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relia/reliability__gb_1.mp3",
     "phonetic_text": "/rɪˌlaɪəˈbɪləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relia/reliability__us_1.mp3",
@@ -12885,7 +12885,7 @@
   },
   {
     "word": "reliable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relia/reliable__gb_2.mp3",
     "phonetic_text": "/rɪˈlaɪəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relia/reliable__us_3.mp3",
@@ -12946,7 +12946,7 @@
   },
   {
     "word": "relief",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relie/relief__gb_2.mp3",
     "phonetic_text": "/rɪˈliːf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relie/relief__us_1.mp3",
@@ -13241,7 +13241,7 @@
   },
   {
     "word": "relieved",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relie/relieved__gb_1.mp3",
     "phonetic_text": "/rɪˈliːvd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relie/relieved__us_1.mp3",
@@ -13276,7 +13276,7 @@
   },
   {
     "word": "religion",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relig/religion__gb_1.mp3",
     "phonetic_text": "/rɪˈlɪdʒən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relig/religion__us_4.mp3",
@@ -13338,7 +13338,7 @@
   },
   {
     "word": "religious",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relig/religious__gb_2.mp3",
     "phonetic_text": "/rɪˈlɪdʒəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relig/religious__us_1.mp3",
@@ -13430,7 +13430,7 @@
   },
   {
     "word": "reluctant",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/reluc/reluctant__gb_2.mp3",
     "phonetic_text": "/rɪˈlʌktənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/reluc/reluctant__us_1.mp3",
@@ -13678,7 +13678,7 @@
   },
   {
     "word": "remainder",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remai/remainder__gb_1.mp3",
     "phonetic_text": "/rɪˈmeɪndə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remai/remainder__us_1.mp3",
@@ -13710,7 +13710,7 @@
   },
   {
     "word": "remains",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remai/remains__gb_1.mp3",
     "phonetic_text": "/rɪˈmeɪnz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remai/remains__us_1.mp3",
@@ -13751,7 +13751,7 @@
   },
   {
     "word": "remark",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remar/remark__gb_1.mp3",
     "phonetic_text": "/rɪˈmɑːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remar/remark__us_1.mp3",
@@ -13846,7 +13846,7 @@
   },
   {
     "word": "remarkable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remar/remarkable__gb_1.mp3",
     "phonetic_text": "/rɪˈmɑːkəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remar/remarkable__us_1.mp3",
@@ -13881,7 +13881,7 @@
   },
   {
     "word": "remarkably",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remar/remarkably__gb_1.mp3",
     "phonetic_text": "/rɪˈmɑːkəbli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remar/remarkably__us_1.mp3",
@@ -13908,7 +13908,7 @@
   },
   {
     "word": "remedy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remed/remedy__gb_1.mp3",
     "phonetic_text": "/ˈremədi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remed/remedy__us_1.mp3",
@@ -14253,7 +14253,7 @@
   },
   {
     "word": "reminder",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remin/reminder__gb_1.mp3",
     "phonetic_text": "/rɪˈmaɪndə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remin/reminder__us_1.mp3",
@@ -14289,7 +14289,7 @@
   },
   {
     "word": "remote",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remot/remote__gb_3.mp3",
     "phonetic_text": "/rɪˈməʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remot/remote__us_1.mp3",
@@ -14435,7 +14435,7 @@
   },
   {
     "word": "removal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remov/removal__gb_1.mp3",
     "phonetic_text": "/rɪˈmuːvl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remov/removal__us_1.mp3",
@@ -14782,7 +14782,7 @@
   },
   {
     "word": "renowned",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ren/renow/renowned__gb_1.mp3",
     "phonetic_text": "/rɪˈnaʊnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ren/renow/renowned__us_1.mp3",
@@ -14813,7 +14813,7 @@
   },
   {
     "word": "rent",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ren/rent_/rent__gb_2.mp3",
     "phonetic_text": "/rent/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ren/rent_/rent__us_2.mp3",
@@ -14986,7 +14986,7 @@
   },
   {
     "word": "rental",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ren/renta/rental__gb_1.mp3",
     "phonetic_text": "/ˈrentl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ren/renta/rental__us_1.mp3",
@@ -15031,7 +15031,7 @@
   },
   {
     "word": "repair",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repai/repair__gb_1.mp3",
     "phonetic_text": "/rɪˈpeə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repai/repair__us_7.mp3",
@@ -15187,7 +15187,7 @@
   },
   {
     "word": "repeat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repea/repeat__gb_2.mp3",
     "phonetic_text": "/rɪˈpiːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repea/repeat__us_1.mp3",
@@ -15428,7 +15428,7 @@
   },
   {
     "word": "repeated",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repea/repeated__gb_1.mp3",
     "phonetic_text": "/rɪˈpiːtɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repea/repeated__us_1.mp3",
@@ -15577,7 +15577,7 @@
   },
   {
     "word": "replacement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repla/replacement__gb_1.mp3",
     "phonetic_text": "/rɪˈpleɪsmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repla/replacement__us_1.mp3",
@@ -15622,7 +15622,7 @@
   },
   {
     "word": "reply",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/reply/reply__gb_1.mp3",
     "phonetic_text": "/rɪˈplaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/reply/reply__us_1.mp3",
@@ -15725,7 +15725,7 @@
   },
   {
     "word": "report",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repor/report__gb_2.mp3",
     "phonetic_text": "/rɪˈpɔːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repor/report__us_1.mp3",
@@ -16049,7 +16049,7 @@
   },
   {
     "word": "reportedly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repor/reportedly__gb_1.mp3",
     "phonetic_text": "/rɪˈpɔːtɪdli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repor/reportedly__us_1.mp3",
@@ -16072,7 +16072,7 @@
   },
   {
     "word": "reporter",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repor/reporter__gb_1.mp3",
     "phonetic_text": "/rɪˈpɔːtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repor/reporter__us_1.mp3",
@@ -16103,7 +16103,7 @@
   },
   {
     "word": "reporting",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repor/reporting__gb_1.mp3",
     "phonetic_text": "/rɪˈpɔːtɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repor/reporting__us_1.mp3",
@@ -16322,7 +16322,7 @@
   },
   {
     "word": "representation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repre/representation__gb_1.mp3",
     "phonetic_text": "/ˌreprɪzenˈteɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repre/representation__us_1_rr.mp3",
@@ -16367,7 +16367,7 @@
   },
   {
     "word": "representative",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repre/representative__gb_3.mp3",
     "phonetic_text": "/ˌreprɪˈzentətɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repre/representative__us_4.mp3",
@@ -16424,7 +16424,7 @@
   },
   {
     "word": "representative",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repre/representative__gb_3.mp3",
     "phonetic_text": "/ˌreprɪˈzentətɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repre/representative__us_4.mp3",
@@ -16550,7 +16550,7 @@
   },
   {
     "word": "reproduction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repro/reproduction__gb_1.mp3",
     "phonetic_text": "/ˌriːprəˈdʌkʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repro/reproduction__us_1.mp3",
@@ -16604,7 +16604,7 @@
   },
   {
     "word": "republic",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repub/republic__gb_1.mp3",
     "phonetic_text": "/rɪˈpʌblɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repub/republic__us_1.mp3",
@@ -16627,7 +16627,7 @@
   },
   {
     "word": "reputation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/reput/reputation__gb_1.mp3",
     "phonetic_text": "/ˌrepjuˈteɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/reput/reputation__us_1.mp3",
@@ -16682,7 +16682,7 @@
   },
   {
     "word": "request",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/req/reque/request__gb_1.mp3",
     "phonetic_text": "/rɪˈkwest/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/req/reque/request__us_1.mp3",
@@ -16902,7 +16902,7 @@
   },
   {
     "word": "requirement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/req/requi/requirement__gb_2.mp3",
     "phonetic_text": "/rɪˈkwaɪəmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/req/requi/requirement__us_1.mp3",
@@ -16954,7 +16954,7 @@
   },
   {
     "word": "rescue",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/rescu/rescue__gb_1.mp3",
     "phonetic_text": "/ˈreskjuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/rescu/rescue__us_2.mp3",
@@ -17053,7 +17053,7 @@
   },
   {
     "word": "research",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resea/research__gb_6.mp3",
     "phonetic_text": "/rɪˈsɜːtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resea/research__us_2_rr.mp3",
@@ -17159,7 +17159,7 @@
   },
   {
     "word": "researcher",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resea/researcher__gb_4.mp3",
     "phonetic_text": "/rɪˈsɜːtʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resea/researcher__us_6.mp3",
@@ -17221,7 +17221,7 @@
   },
   {
     "word": "reservation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/reser/reservation__gb_2.mp3",
     "phonetic_text": "/ˌrezəˈveɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/reser/reservation__us_2.mp3",
@@ -17269,7 +17269,7 @@
   },
   {
     "word": "reserve",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/reser/reserve__gb_1.mp3",
     "phonetic_text": "/rɪˈzɜːv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/reser/reserve__us_4.mp3",
@@ -17479,7 +17479,7 @@
   },
   {
     "word": "residence",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resid/residence__gb_1.mp3",
     "phonetic_text": "/ˈrezɪdəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resid/residence__us_1_rr.mp3",
@@ -17541,7 +17541,7 @@
   },
   {
     "word": "resident",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resid/resident__gb_2.mp3",
     "phonetic_text": "/ˈrezɪdənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resid/resident__us_1_rr.mp3",
@@ -17568,7 +17568,7 @@
   },
   {
     "word": "resident",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resid/resident__gb_2.mp3",
     "phonetic_text": "/ˈrezɪdənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resid/resident__us_1_rr.mp3",
@@ -17604,7 +17604,7 @@
   },
   {
     "word": "residential",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resid/residential__gb_2.mp3",
     "phonetic_text": "/ˌrezɪˈdenʃl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resid/residential__us_1.mp3",
@@ -17640,7 +17640,7 @@
   },
   {
     "word": "residue",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resid/residue__gb_1.mp3",
     "phonetic_text": "/ˈrezɪdjuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resid/residue__us_1.mp3",
@@ -17703,7 +17703,7 @@
   },
   {
     "word": "resignation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resig/resignation__gb_1.mp3",
     "phonetic_text": "/ˌrezɪɡˈneɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resig/resignation__us_1.mp3",
@@ -17838,7 +17838,7 @@
   },
   {
     "word": "resistance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resis/resistance__gb_1.mp3",
     "phonetic_text": "/rɪˈzɪstəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resis/resistance__us_1.mp3",
@@ -17921,7 +17921,7 @@
   },
   {
     "word": "resolution",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resol/resolution__gb_1.mp3",
     "phonetic_text": "/ˌrezəˈluːʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resol/resolution__us_1.mp3",
@@ -18097,7 +18097,7 @@
   },
   {
     "word": "resort",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resor/resort__gb_1.mp3",
     "phonetic_text": "/rɪˈzɔːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resor/resort__us_1.mp3",
@@ -18158,7 +18158,7 @@
   },
   {
     "word": "resource",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resou/resource__gb_1.mp3",
     "phonetic_text": "/rɪˈsɔːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resou/resource__us_1_rr.mp3",
@@ -18247,7 +18247,7 @@
   },
   {
     "word": "respect",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/respe/respect__gb_1.mp3",
     "phonetic_text": "/rɪˈspekt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/respe/respect__us_1.mp3",
@@ -18438,7 +18438,7 @@
   },
   {
     "word": "respective",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/respe/respective__gb_1.mp3",
     "phonetic_text": "/rɪˈspektɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/respe/respective__us_1.mp3",
@@ -18461,7 +18461,7 @@
   },
   {
     "word": "respectively",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/respe/respectively__gb_2.mp3",
     "phonetic_text": "/rɪˈspektɪvli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/respe/respectively__us_1.mp3",
@@ -18578,7 +18578,7 @@
   },
   {
     "word": "response",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/respo/response__gb_2.mp3",
     "phonetic_text": "/rɪˈspɒns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/respo/response__us_4.mp3",
@@ -18659,7 +18659,7 @@
   },
   {
     "word": "responsibility",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/respo/responsibility__gb_1.mp3",
     "phonetic_text": "/rɪˌspɒnsəˈbɪləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/respo/responsibility__us_5.mp3",
@@ -18760,7 +18760,7 @@
   },
   {
     "word": "responsible",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/respo/responsible__gb_2.mp3",
     "phonetic_text": "/rɪˈspɒnsəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/respo/responsible__us_2.mp3",
@@ -18880,7 +18880,7 @@
   },
   {
     "word": "rest",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/rest_/rest__gb_1.mp3",
     "phonetic_text": "/rest/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/rest_/rest__us_1.mp3",
@@ -19201,7 +19201,7 @@
   },
   {
     "word": "restaurant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resta/restaurant__gb_3.mp3",
     "phonetic_text": "/ˈrestrɒnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resta/restaurant__us_2_rr.mp3",
@@ -19236,7 +19236,7 @@
   },
   {
     "word": "restoration",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resto/restoration__gb_1.mp3",
     "phonetic_text": "/ˌrestəˈreɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resto/restoration__us_1.mp3",
@@ -19377,7 +19377,7 @@
   },
   {
     "word": "restraint",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/restr/restraint__gb_1.mp3",
     "phonetic_text": "/rɪˈstreɪnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/restr/restraint__us_1.mp3",
@@ -19510,7 +19510,7 @@
   },
   {
     "word": "restriction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/restr/restriction__gb_1.mp3",
     "phonetic_text": "/rɪˈstrɪkʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/restr/restriction__us_1.mp3",
@@ -19563,7 +19563,7 @@
   },
   {
     "word": "result",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resul/result__gb_3.mp3",
     "phonetic_text": "/rɪˈzʌlt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resul/result__us_1.mp3",
@@ -19845,7 +19845,7 @@
   },
   {
     "word": "retail",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ret/retai/retail__gb_1.mp3",
     "phonetic_text": "/ˈriːteɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ret/retai/retail__us_1.mp3",
@@ -20032,7 +20032,7 @@
   },
   {
     "word": "retired",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ret/retir/retired__gb_1.mp3",
     "phonetic_text": "/rɪˈtaɪəd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ret/retir/retired__us_4.mp3",
@@ -20059,7 +20059,7 @@
   },
   {
     "word": "retirement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ret/retir/retirement__gb_1.mp3",
     "phonetic_text": "/rɪˈtaɪəmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ret/retir/retirement__us_1.mp3",
@@ -20124,7 +20124,7 @@
   },
   {
     "word": "retreat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ret/retre/retreat__gb_1.mp3",
     "phonetic_text": "/rɪˈtriːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ret/retre/retreat__us_1.mp3",
@@ -20336,7 +20336,7 @@
   },
   {
     "word": "return",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ret/retur/return__gb_1.mp3",
     "phonetic_text": "/rɪˈtɜːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ret/retur/return__us_2.mp3",
@@ -20909,7 +20909,7 @@
   },
   {
     "word": "revelation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/revel/revelation__gb_1.mp3",
     "phonetic_text": "/ˌrevəˈleɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/revel/revelation__us_1.mp3",
@@ -20963,7 +20963,7 @@
   },
   {
     "word": "revenge",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/reven/revenge__gb_1.mp3",
     "phonetic_text": "/rɪˈvendʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/reven/revenge__us_1.mp3",
@@ -21011,7 +21011,7 @@
   },
   {
     "word": "revenue",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/reven/revenue__gb_2.mp3",
     "phonetic_text": "/ˈrevənjuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/reven/revenue__us_1.mp3",
@@ -21042,7 +21042,7 @@
   },
   {
     "word": "reverse",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/rever/reverse__gb_2.mp3",
     "phonetic_text": "/rɪˈvɜːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/rever/reverse__us_1.mp3",
@@ -21086,7 +21086,7 @@
   },
   {
     "word": "reverse",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/rever/reverse__gb_2.mp3",
     "phonetic_text": "/rɪˈvɜːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/rever/reverse__us_1.mp3",
@@ -21303,7 +21303,7 @@
   },
   {
     "word": "review",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/revie/review__gb_2.mp3",
     "phonetic_text": "/rɪˈvjuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/revie/review__us_4.mp3",
@@ -21631,7 +21631,7 @@
   },
   {
     "word": "revision",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/revis/revision__gb_1.mp3",
     "phonetic_text": "/rɪˈvɪʒn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/revis/revision__us_1.mp3",
@@ -21680,7 +21680,7 @@
   },
   {
     "word": "revival",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/reviv/revival__gb_1.mp3",
     "phonetic_text": "/rɪˈvaɪvl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/reviv/revival__us_1.mp3",
@@ -21794,7 +21794,7 @@
   },
   {
     "word": "revolution",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/revol/revolution__gb_2.mp3",
     "phonetic_text": "/ˌrevəˈluːʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/revol/revolution__us_2.mp3",
@@ -21863,7 +21863,7 @@
   },
   {
     "word": "revolutionary",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/revol/revolutionary__gb_1.mp3",
     "phonetic_text": "/ˌrevəˈluːʃənəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/revol/revolutionary__us_1.mp3",
@@ -21911,7 +21911,7 @@
   },
   {
     "word": "reward",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rew/rewar/reward__gb_1.mp3",
     "phonetic_text": "/rɪˈwɔːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rew/rewar/reward__us_1.mp3",
@@ -22014,7 +22014,7 @@
   },
   {
     "word": "rhetoric",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rhe/rheto/rhetoric__gb_1.mp3",
     "phonetic_text": "/ˈretərɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rhe/rheto/rhetoric__us_1.mp3",
@@ -22045,7 +22045,7 @@
   },
   {
     "word": "rhythm",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rhy/rhyth/rhythm__gb_1.mp3",
     "phonetic_text": "/ˈrɪðəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rhy/rhyth/rhythm__us_2.mp3",
@@ -22113,7 +22113,7 @@
   },
   {
     "word": "rice",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ric/rice_/rice__gb_2.mp3",
     "phonetic_text": "/raɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ric/rice_/rice__us_1.mp3",
@@ -22168,7 +22168,7 @@
   },
   {
     "word": "rich",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ric/rich_/rich__gb_2.mp3",
     "phonetic_text": "/rɪtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ric/rich_/rich__us_1.mp3",
@@ -22421,7 +22421,7 @@
   },
   {
     "word": "ride",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rid/ride_/ride__gb_2.mp3",
     "phonetic_text": "/raɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rid/ride_/ride__us_1.mp3",
@@ -22748,7 +22748,7 @@
   },
   {
     "word": "ridiculous",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rid/ridic/ridiculous__gb_1.mp3",
     "phonetic_text": "/rɪˈdɪkjələs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rid/ridic/ridiculous__us_1.mp3",
@@ -22783,7 +22783,7 @@
   },
   {
     "word": "rifle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rif/rifle/rifle__gb_1.mp3",
     "phonetic_text": "/ˈraɪfl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rif/rifle/rifle__us_1.mp3",
@@ -22806,7 +22806,7 @@
   },
   {
     "word": "right",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rig/right/right__gb_4.mp3",
     "phonetic_text": "/raɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rig/right/right__us_1.mp3",
@@ -23180,7 +23180,7 @@
   },
   {
     "word": "right",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rig/right/right__gb_4.mp3",
     "phonetic_text": "/raɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rig/right/right__us_1.mp3",
@@ -23410,7 +23410,7 @@
   },
   {
     "word": "right",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rig/right/right__gb_4.mp3",
     "phonetic_text": "/raɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rig/right/right__us_1.mp3",
@@ -23683,7 +23683,7 @@
   },
   {
     "word": "ring1",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rin/ring_/ring__gb_1.mp3",
     "phonetic_text": "/rɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rin/ring_/ring__us_1.mp3",
@@ -23857,7 +23857,7 @@
   },
   {
     "word": "riot",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rio/riot_/riot__gb_1.mp3",
     "phonetic_text": "/ˈraɪət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rio/riot_/riot__us_1.mp3",
@@ -24065,7 +24065,7 @@
   },
   {
     "word": "rise",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ris/rise_/rise__gb_2.mp3",
     "phonetic_text": "/raɪz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ris/rise_/rise__us_1.mp3",
@@ -24500,7 +24500,7 @@
   },
   {
     "word": "risk",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ris/risk_/risk__gb_2.mp3",
     "phonetic_text": "/rɪsk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ris/risk_/risk__us_1.mp3",
@@ -24777,7 +24777,7 @@
   },
   {
     "word": "risky",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ris/risky/risky__gb_1.mp3",
     "phonetic_text": "/ˈrɪski/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ris/risky/risky__us_1.mp3",
@@ -24804,7 +24804,7 @@
   },
   {
     "word": "ritual",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rit/ritua/ritual__gb_1.mp3",
     "phonetic_text": "/ˈrɪtʃuəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rit/ritua/ritual__us_1.mp3",
@@ -24836,7 +24836,7 @@
   },
   {
     "word": "rival",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/riv/rival/rival__gb_1.mp3",
     "phonetic_text": "/ˈraɪvl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/riv/rival/rival__us_1.mp3",
@@ -24863,7 +24863,7 @@
   },
   {
     "word": "rival",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/riv/rival/rival__gb_1.mp3",
     "phonetic_text": "/ˈraɪvl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/riv/rival/rival__us_1.mp3",
@@ -24906,7 +24906,7 @@
   },
   {
     "word": "river",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/riv/river/river__gb_1.mp3",
     "phonetic_text": "/ˈrɪvə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/riv/river/river__us_3.mp3",
@@ -24982,7 +24982,7 @@
   },
   {
     "word": "road",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/roa/road_/road__gb_1.mp3",
     "phonetic_text": "/rəʊd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roa/road_/road__us_1.mp3",
@@ -25261,7 +25261,7 @@
   },
   {
     "word": "robbery",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rob/robbe/robbery__gb_1.mp3",
     "phonetic_text": "/ˈrɒbəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rob/robbe/robbery__us_1.mp3",
@@ -25292,7 +25292,7 @@
   },
   {
     "word": "robot",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rob/robot/robot__gb_2.mp3",
     "phonetic_text": "/ˈrəʊbɒt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rob/robot/robot__us_1.mp3",
@@ -25337,7 +25337,7 @@
   },
   {
     "word": "robust",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rob/robus/robust__gb_3.mp3",
     "phonetic_text": "/rəʊˈbʌst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rob/robus/robust__us_1_rr.mp3",
@@ -25387,7 +25387,7 @@
   },
   {
     "word": "rock",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/roc/rock_/rock__gb_1.mp3",
     "phonetic_text": "/rɒk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roc/rock_/rock__us_1.mp3",
@@ -25669,7 +25669,7 @@
   },
   {
     "word": "rocket",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/roc/rocke/rocket__gb_1.mp3",
     "phonetic_text": "/ˈrɒkɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roc/rocke/rocket__us_1.mp3",
@@ -25721,7 +25721,7 @@
   },
   {
     "word": "rod",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rod/rod__/rod__gb_1.mp3",
     "phonetic_text": "/rɒd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rod/rod__/rod__us_1.mp3",
@@ -25778,7 +25778,7 @@
   },
   {
     "word": "role",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rol/role_/role__gb_2.mp3",
     "phonetic_text": "/rəʊl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rol/role_/role__us_1.mp3",
@@ -25871,7 +25871,7 @@
   },
   {
     "word": "roll",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rol/role_/role__gb_2.mp3",
     "phonetic_text": "/rəʊl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rol/roll_/roll__us_1.mp3",
@@ -26390,7 +26390,7 @@
   },
   {
     "word": "romance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rom/roman/romance__gb_3.mp3",
     "phonetic_text": "/rəʊˈmæns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rom/roman/romance__us_4_rr.mp3",
@@ -26453,7 +26453,7 @@
   },
   {
     "word": "romantic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rom/roman/romantic__gb_1.mp3",
     "phonetic_text": "/rəʊˈmæntɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rom/roman/romantic__us_1.mp3",
@@ -26560,7 +26560,7 @@
   },
   {
     "word": "roof",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/roo/roof_/roof__gb_3.mp3",
     "phonetic_text": "/ruːf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roo/roof_/roof__us_1_rr.mp3",
@@ -26703,7 +26703,7 @@
   },
   {
     "word": "room",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/roo/room_/room__gb_3.mp3",
     "phonetic_text": "/ruːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roo/room_/room__us_1_rr.mp3",
@@ -26882,7 +26882,7 @@
   },
   {
     "word": "root",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/route/route__gb_3.mp3",
     "phonetic_text": "/ruːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roo/root_/root__us_1_rr.mp3",
@@ -27050,7 +27050,7 @@
   },
   {
     "word": "rope",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rop/rope_/rope__gb_1.mp3",
     "phonetic_text": "/rəʊp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rop/rope_/rope__us_1.mp3",
@@ -27141,7 +27141,7 @@
   },
   {
     "word": "rose",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ros/rose_/rose__gb_3.mp3",
     "phonetic_text": "/rəʊz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ros/rose_/rose__us_2.mp3",
@@ -27259,7 +27259,7 @@
   },
   {
     "word": "rotation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rot/rotat/rotation__gb_1.mp3",
     "phonetic_text": "/rəʊˈteɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rot/rotat/rotation__us_1.mp3",
@@ -27312,7 +27312,7 @@
   },
   {
     "word": "rough",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/rough/rough__gb_1.mp3",
     "phonetic_text": "/rʌf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/rough/rough__us_1.mp3",
@@ -27542,7 +27542,7 @@
   },
   {
     "word": "roughly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/rough/roughly__gb_1.mp3",
     "phonetic_text": "/ˈrʌfli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/rough/roughly__us_1.mp3",
@@ -27595,7 +27595,7 @@
   },
   {
     "word": "round",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/round/round__gb_1.mp3",
     "phonetic_text": "/raʊnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/round/round__us_1.mp3",
@@ -27692,7 +27692,7 @@
   },
   {
     "word": "round",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/round/round__gb_1.mp3",
     "phonetic_text": "/raʊnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/round/round__us_1.mp3",
@@ -27865,7 +27865,7 @@
   },
   {
     "word": "round",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/round/round__gb_1.mp3",
     "phonetic_text": "/raʊnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/round/round__us_1.mp3",
@@ -28080,7 +28080,7 @@
   },
   {
     "word": "round",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/round/round__gb_1.mp3",
     "phonetic_text": "/raʊnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/round/round__us_1.mp3",
@@ -28177,7 +28177,7 @@
   },
   {
     "word": "route",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/route/route__gb_4.mp3",
     "phonetic_text": "/ruːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/route/route__us_1_rr.mp3",
@@ -28295,7 +28295,7 @@
   },
   {
     "word": "routine",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/routi/routine__gb_1.mp3",
     "phonetic_text": "/ruːˈtiːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/routi/routine__us_1.mp3",
@@ -28360,7 +28360,7 @@
   },
   {
     "word": "routine",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/routi/routine__gb_1.mp3",
     "phonetic_text": "/ruːˈtiːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/routi/routine__us_1.mp3",
@@ -28437,7 +28437,7 @@
   },
   {
     "word": "row1",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/row/row__/row__gb_1.mp3",
     "phonetic_text": "/rəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/row/row__/row__us_1.mp3",
@@ -28563,7 +28563,7 @@
   },
   {
     "word": "royal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/roy/royal/royal__gb_1.mp3",
     "phonetic_text": "/ˈrɔɪəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roy/royal/royal__us_1.mp3",
@@ -28780,7 +28780,7 @@
   },
   {
     "word": "rubber",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rub/rubbe/rubber__gb_2.mp3",
     "phonetic_text": "/ˈrʌbə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rub/rubbe/rubber__us_1.mp3",
@@ -28807,7 +28807,7 @@
   },
   {
     "word": "rubber",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rub/rubbe/rubber__gb_2.mp3",
     "phonetic_text": "/ˈrʌbə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rub/rubbe/rubber__us_1.mp3",
@@ -28867,7 +28867,7 @@
   },
   {
     "word": "rubbish",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rub/rubbi/rubbish__gb_1.mp3",
     "phonetic_text": "/ˈrʌbɪʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rub/rubbi/rubbish__us_1.mp3",
@@ -28952,7 +28952,7 @@
   },
   {
     "word": "rude",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rud/rude_/rude__gb_1.mp3",
     "phonetic_text": "/ruːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rud/rude_/rude__us_1.mp3",
@@ -29062,7 +29062,7 @@
   },
   {
     "word": "rugby",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rug/rugby/rugby__gb_1.mp3",
     "phonetic_text": "/ˈrʌɡbi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rug/rugby/rugby__us_2.mp3",
@@ -29093,7 +29093,7 @@
   },
   {
     "word": "ruin",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rui/ruin_/ruin__gb_1.mp3",
     "phonetic_text": "/ˈruːɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rui/ruin_/ruin__us_1.mp3",
@@ -29241,7 +29241,7 @@
   },
   {
     "word": "rule",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rul/rule_/rule__gb_1.mp3",
     "phonetic_text": "/ruːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rul/rule_/rule__us_1.mp3",
@@ -29587,7 +29587,7 @@
   },
   {
     "word": "ruling",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rul/rulin/ruling__gb_1.mp3",
     "phonetic_text": "/ˈruːlɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rul/rulin/ruling__us_1.mp3",
@@ -29610,7 +29610,7 @@
   },
   {
     "word": "rumour",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rum/rumou/rumour__gb_1.mp3",
     "phonetic_text": "/ˈruːmə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rum/rumou/rumour__us_1.mp3",
@@ -29653,7 +29653,7 @@
   },
   {
     "word": "run",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/run/run__/run__gb_1.mp3",
     "phonetic_text": "/rʌn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/run/run__/run__us_1.mp3",
@@ -30526,7 +30526,7 @@
   },
   {
     "word": "runner",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/run/runne/runner__gb_1.mp3",
     "phonetic_text": "/ˈrʌnə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/run/runne/runner__us_2.mp3",
@@ -30595,7 +30595,7 @@
   },
   {
     "word": "running",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/run/runni/running__gb_3.mp3",
     "phonetic_text": "/ˈrʌnɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/run/runni/running__us_3.mp3",
@@ -30664,7 +30664,7 @@
   },
   {
     "word": "rural",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rur/rural/rural__gb_4.mp3",
     "phonetic_text": "/ˈrʊərəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rur/rural/rural__us_1.mp3",
@@ -30711,7 +30711,7 @@
   },
   {
     "word": "rush",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rus/rush_/rush__gb_1.mp3",
     "phonetic_text": "/rʌʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rus/rush_/rush__us_1.mp3",

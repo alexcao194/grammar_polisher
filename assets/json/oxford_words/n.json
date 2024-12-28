@@ -1,7 +1,7 @@
 [
   {
     "word": "nail",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nai/nail_/nail__gb_1.mp3",
     "phonetic_text": "/neɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nai/nail_/nail__us_1.mp3",
@@ -85,7 +85,7 @@
   },
   {
     "word": "naked",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nak/naked/naked__gb_1.mp3",
     "phonetic_text": "/ˈneɪkɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nak/naked/naked__us_1.mp3",
@@ -184,7 +184,7 @@
   },
   {
     "word": "name",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nam/name_/name__gb_1.mp3",
     "phonetic_text": "/neɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nam/name_/name__us_1.mp3",
@@ -758,7 +758,7 @@
   },
   {
     "word": "namely",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nam/namel/namely__gb_2.mp3",
     "phonetic_text": "/ˈneɪmli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nam/namel/namely__us_1.mp3",
@@ -777,7 +777,7 @@
   },
   {
     "word": "narrative",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nar/narra/narrative__gb_1.mp3",
     "phonetic_text": "/ˈnærətɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nar/narra/narrative__us_1.mp3",
@@ -804,7 +804,7 @@
   },
   {
     "word": "narrative",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nar/narra/narrative__gb_1.mp3",
     "phonetic_text": "/ˈnærətɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nar/narra/narrative__us_1.mp3",
@@ -873,7 +873,7 @@
   },
   {
     "word": "narrow",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nar/narro/narrow__gb_2.mp3",
     "phonetic_text": "/ˈnærəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nar/narro/narrow__us_2.mp3",
@@ -1049,7 +1049,7 @@
   },
   {
     "word": "nasty",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nas/nasty/nasty__gb_1.mp3",
     "phonetic_text": "/ˈnɑːsti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nas/nasty/nasty__us_1.mp3",
@@ -1199,7 +1199,7 @@
   },
   {
     "word": "nation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/natio/nation__gb_3.mp3",
     "phonetic_text": "/ˈneɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/natio/nation__us_2.mp3",
@@ -1268,7 +1268,7 @@
   },
   {
     "word": "national",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/natio/national__gb_2.mp3",
     "phonetic_text": "/ˈnæʃnəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/natio/national__us_3.mp3",
@@ -1340,7 +1340,7 @@
   },
   {
     "word": "national",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/natio/national__gb_2.mp3",
     "phonetic_text": "/ˈnæʃnəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/natio/national__us_3.mp3",
@@ -1367,7 +1367,7 @@
   },
   {
     "word": "nationwide",
-    "pos": "verb",
+    "pos": "adjective, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/natio/nationwide__gb_2.mp3",
     "phonetic_text": "/ˌneɪʃnˈwaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/natio/nationwide__us_1.mp3",
@@ -1394,7 +1394,7 @@
   },
   {
     "word": "native",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/nativ/native__gb_1.mp3",
     "phonetic_text": "/ˈneɪtɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/nativ/native__us_2.mp3",
@@ -1516,7 +1516,7 @@
   },
   {
     "word": "native",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/nativ/native__gb_1.mp3",
     "phonetic_text": "/ˈneɪtɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/nativ/native__us_2.mp3",
@@ -1578,7 +1578,7 @@
   },
   {
     "word": "natural",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/natur/natural__gb_6.mp3",
     "phonetic_text": "/ˈnætʃrəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/natur/natural__us_1_rr.mp3",
@@ -1774,7 +1774,7 @@
   },
   {
     "word": "naturally",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/natur/naturally__gb_1.mp3",
     "phonetic_text": "/ˈnætʃrəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/natur/naturally__us_1_rr.mp3",
@@ -1882,7 +1882,7 @@
   },
   {
     "word": "nature",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/natur/nature__gb_2.mp3",
     "phonetic_text": "/ˈneɪtʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/natur/nature__us_1.mp3",
@@ -2073,7 +2073,7 @@
   },
   {
     "word": "naval",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nav/naval/naval__gb_1.mp3",
     "phonetic_text": "/ˈneɪvl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nav/naval/naval__us_1.mp3",
@@ -2096,7 +2096,7 @@
   },
   {
     "word": "navigation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nav/navig/navigation__gb_1.mp3",
     "phonetic_text": "/ˌnævɪˈɡeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nav/navig/navigation__us_1.mp3",
@@ -2141,7 +2141,7 @@
   },
   {
     "word": "near",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nea/near_/near__gb_2.mp3",
     "phonetic_text": "/nɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nea/near_/near__us_1.mp3",
@@ -2255,7 +2255,7 @@
   },
   {
     "word": "near",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nea/near_/near__gb_2.mp3",
     "phonetic_text": "/nɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nea/near_/near__us_1.mp3",
@@ -2357,7 +2357,7 @@
   },
   {
     "word": "near",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nea/near_/near__gb_2.mp3",
     "phonetic_text": "/nɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nea/near_/near__us_1.mp3",
@@ -2470,7 +2470,7 @@
   },
   {
     "word": "nearby",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nea/nearb/nearby__gb_1.mp3",
     "phonetic_text": "/ˌnɪəˈbaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nea/nearb/nearby__us_2_rr.mp3",
@@ -2493,7 +2493,7 @@
   },
   {
     "word": "nearby",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nea/nearb/nearby__gb_1.mp3",
     "phonetic_text": "/ˌnɪəˈbaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nea/nearb/nearby__us_2_rr.mp3",
@@ -2516,7 +2516,7 @@
   },
   {
     "word": "nearly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nea/nearl/nearly__gb_1.mp3",
     "phonetic_text": "/ˈnɪəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nea/nearl/nearly__us_2.mp3",
@@ -2589,7 +2589,7 @@
   },
   {
     "word": "neat",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nea/neat_/neat__gb_1.mp3",
     "phonetic_text": "/niːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nea/neat_/neat__us_1.mp3",
@@ -2701,7 +2701,7 @@
   },
   {
     "word": "necessarily",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nec/neces/necessarily__gb_1.mp3",
     "phonetic_text": "/ˌnesəˈserəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nec/neces/necessarily__us_1.mp3",
@@ -2749,7 +2749,7 @@
   },
   {
     "word": "necessary",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nec/neces/necessary__gb_2.mp3",
     "phonetic_text": "/ˈnesəsəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nec/neces/necessary__us_1.mp3",
@@ -2826,7 +2826,7 @@
   },
   {
     "word": "necessity",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nec/neces/necessity__gb_1.mp3",
     "phonetic_text": "/nəˈsesəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nec/neces/necessity__us_1.mp3",
@@ -2904,7 +2904,7 @@
   },
   {
     "word": "neck",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nec/neck_/neck__gb_2.mp3",
     "phonetic_text": "/nek/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nec/neck_/neck__us_1.mp3",
@@ -3149,7 +3149,7 @@
   },
   {
     "word": "need",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nee/need_/need__gb_2.mp3",
     "phonetic_text": "/niːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nee/need_/need__us_1.mp3",
@@ -3393,7 +3393,7 @@
   },
   {
     "word": "need",
-    "pos": "verb",
+    "pos": "modal verb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nee/need_/need__gb_2.mp3",
     "phonetic_text": "/niːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nee/need_/need__us_1.mp3",
@@ -3432,7 +3432,7 @@
   },
   {
     "word": "needle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nee/needl/needle__gb_1.mp3",
     "phonetic_text": "/ˈniːdl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nee/needl/needle__us_2.mp3",
@@ -3546,7 +3546,7 @@
   },
   {
     "word": "negative",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/neg/negat/negative__gb_2.mp3",
     "phonetic_text": "/ˈneɡətɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/neg/negat/negative__us_1.mp3",
@@ -3672,7 +3672,7 @@
   },
   {
     "word": "negative",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/neg/negat/negative__gb_2.mp3",
     "phonetic_text": "/ˈneɡətɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/neg/negat/negative__us_1.mp3",
@@ -3731,7 +3731,7 @@
   },
   {
     "word": "neglect",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/neg/negle/neglect__gb_1.mp3",
     "phonetic_text": "/nɪˈɡlekt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/neg/negle/neglect__us_1.mp3",
@@ -3880,7 +3880,7 @@
   },
   {
     "word": "negotiation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/neg/negot/negotiation__gb_1.mp3",
     "phonetic_text": "/nɪˌɡəʊʃiˈeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/neg/negot/negotiation__us_1.mp3",
@@ -3931,7 +3931,7 @@
   },
   {
     "word": "neighbour",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nei/neigh/neighbour__gb_1.mp3",
     "phonetic_text": "/ˈneɪbə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nei/neigh/neighbour__us_1.mp3",
@@ -3997,7 +3997,7 @@
   },
   {
     "word": "neighbourhood",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nei/neigh/neighbourhood__gb_1.mp3",
     "phonetic_text": "/ˈneɪbəhʊd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nei/neigh/neighbourhood__us_1.mp3",
@@ -4062,7 +4062,7 @@
   },
   {
     "word": "neighbouring",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nei/neigh/neighbouring__gb_1.mp3",
     "phonetic_text": "/ˈneɪbərɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nei/neigh/neighbouring__us_1.mp3",
@@ -4089,7 +4089,7 @@
   },
   {
     "word": "neither",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nei/neith/neither__gb_1.mp3",
     "phonetic_text": "/ˈnaɪðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nei/neith/neither__us_2_rr.mp3",
@@ -4137,7 +4137,7 @@
   },
   {
     "word": "neither",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nei/neith/neither__gb_1.mp3",
     "phonetic_text": "/ˈnaɪðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nei/neith/neither__us_2_rr.mp3",
@@ -4168,7 +4168,7 @@
   },
   {
     "word": "neither",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nei/neith/neither__gb_1.mp3",
     "phonetic_text": "/ˈnaɪðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nei/neith/neither__us_2_rr.mp3",
@@ -4199,7 +4199,7 @@
   },
   {
     "word": "nerve",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/ner/nerve/nerve__gb_1.mp3",
     "phonetic_text": "/nɜːv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/ner/nerve/nerve__us_1.mp3",
@@ -4404,7 +4404,7 @@
   },
   {
     "word": "nervous",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/ner/nervo/nervous__gb_1.mp3",
     "phonetic_text": "/ˈnɜːvəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/ner/nervo/nervous__us_1.mp3",
@@ -4493,7 +4493,7 @@
   },
   {
     "word": "nest",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nes/nest_/nest__gb_1.mp3",
     "phonetic_text": "/nest/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nes/nest_/nest__us_1.mp3",
@@ -4595,7 +4595,7 @@
   },
   {
     "word": "net",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/net/net__/net__gb_2.mp3",
     "phonetic_text": "/net/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/net/net__/net__us_1.mp3",
@@ -4648,7 +4648,7 @@
   },
   {
     "word": "net",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/net/net__/net__gb_2.mp3",
     "phonetic_text": "/net/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/net/net__/net__us_1.mp3",
@@ -4764,7 +4764,7 @@
   },
   {
     "word": "network",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/net/netwo/network__gb_2.mp3",
     "phonetic_text": "/ˈnetwɜːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/net/netwo/network__us_1.mp3",
@@ -4879,7 +4879,7 @@
   },
   {
     "word": "neutral",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/neu/neutr/neutral__gb_2.mp3",
     "phonetic_text": "/ˈnjuːtrəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/neu/neutr/neutral__us_1.mp3",
@@ -4968,7 +4968,7 @@
   },
   {
     "word": "never",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nev/never/never__gb_1.mp3",
     "phonetic_text": "/ˈnevə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nev/never/never__us_1.mp3",
@@ -5087,7 +5087,7 @@
   },
   {
     "word": "nevertheless",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nev/never/nevertheless__gb_2.mp3",
     "phonetic_text": "/ˌnevəðəˈles/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nev/never/nevertheless__us_1.mp3",
@@ -5114,7 +5114,7 @@
   },
   {
     "word": "new",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/new/new__/new__gb_2.mp3",
     "phonetic_text": "/njuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/new/new__/new__us_1.mp3",
@@ -5510,7 +5510,7 @@
   },
   {
     "word": "newly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/new/newly/newly__gb_1.mp3",
     "phonetic_text": "/ˈnjuːli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/new/newly/newly__us_1.mp3",
@@ -5537,7 +5537,7 @@
   },
   {
     "word": "news",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/new/news_/news__gb_2.mp3",
     "phonetic_text": "/njuːz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/new/news_/news__us_1.mp3",
@@ -5723,7 +5723,7 @@
   },
   {
     "word": "newsletter",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/new/newsl/newsletter__gb_1.mp3",
     "phonetic_text": "/ˈnjuːzletə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/new/newsl/newsletter__us_1.mp3",
@@ -5746,7 +5746,7 @@
   },
   {
     "word": "newspaper",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/new/newsp/newspaper__gb_1.mp3",
     "phonetic_text": "/ˈnjuːzpeɪpə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/new/newsp/newspaper__us_1.mp3",
@@ -5834,7 +5834,7 @@
   },
   {
     "word": "next",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nex/next_/next__gb_1.mp3",
     "phonetic_text": "/nekst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nex/next_/next__us_1.mp3",
@@ -5959,7 +5959,7 @@
   },
   {
     "word": "next",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nex/next_/next__gb_1.mp3",
     "phonetic_text": "/nekst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nex/next_/next__us_1.mp3",
@@ -6025,7 +6025,7 @@
   },
   {
     "word": "next",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nex/next_/next__gb_1.mp3",
     "phonetic_text": "/nekst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nex/next_/next__us_1.mp3",
@@ -6052,7 +6052,7 @@
   },
   {
     "word": "nice",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nic/nice_/nice__gb_1.mp3",
     "phonetic_text": "/naɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nic/nice_/nice__us_1.mp3",
@@ -6255,7 +6255,7 @@
   },
   {
     "word": "niche",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nic/niche/niche__gb_1.mp3",
     "phonetic_text": "/niːʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nic/niche/niche__us_3_rr.mp3",
@@ -6313,7 +6313,7 @@
   },
   {
     "word": "night",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nig/night/night__gb_2.mp3",
     "phonetic_text": "/naɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nig/night/night__us_1.mp3",
@@ -6583,7 +6583,7 @@
   },
   {
     "word": "nightmare",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nig/night/nightmare__gb_1.mp3",
     "phonetic_text": "/ˈnaɪtmeə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nig/night/nightmare__us_1.mp3",
@@ -6639,7 +6639,7 @@
   },
   {
     "word": "nine",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nin/nine_/nine__gb_1.mp3",
     "phonetic_text": "/naɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nin/nine_/nine__us_1.mp3",
@@ -6753,7 +6753,7 @@
   },
   {
     "word": "nineteen",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nin/ninet/nineteen__gb_1.mp3",
     "phonetic_text": "/ˌnaɪnˈtiːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nin/ninet/nineteen__us_1.mp3",
@@ -6776,7 +6776,7 @@
   },
   {
     "word": "ninety",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nin/ninet/ninety__gb_2.mp3",
     "phonetic_text": "/ˈnaɪnti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nin/ninet/ninety__us_1.mp3",
@@ -6807,7 +6807,7 @@
   },
   {
     "word": "no",
-    "pos": "verb",
+    "pos": "determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/no_/no__g/no__gb_1.mp3",
     "phonetic_text": "/nəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/no_/no__u/no__us_1.mp3",
@@ -6869,7 +6869,7 @@
   },
   {
     "word": "no",
-    "pos": "verb",
+    "pos": "exclamation",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/no_/no__g/no__gb_1.mp3",
     "phonetic_text": "/nəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/no_/no__u/no__us_1.mp3",
@@ -6947,7 +6947,7 @@
   },
   {
     "word": "noble",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nob/noble/noble__gb_1.mp3",
     "phonetic_text": "/ˈnəʊbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nob/noble/noble__us_1.mp3",
@@ -7008,7 +7008,7 @@
   },
   {
     "word": "nobody",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nob/nobod/nobody__gb_1.mp3",
     "phonetic_text": "/ˈnəʊbədi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nob/nobod/nobody__us_1_rr.mp3",
@@ -7109,7 +7109,7 @@
   },
   {
     "word": "noise",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/noi/noise/noise__gb_1.mp3",
     "phonetic_text": "/nɔɪz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/noi/noise/noise__us_1.mp3",
@@ -7213,7 +7213,7 @@
   },
   {
     "word": "noisy",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/noi/noisy/noisy__gb_1.mp3",
     "phonetic_text": "/ˈnɔɪzi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/noi/noisy/noisy__us_1.mp3",
@@ -7334,7 +7334,7 @@
   },
   {
     "word": "nomination",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nom/nomin/nomination__gb_1.mp3",
     "phonetic_text": "/ˌnɒmɪˈneɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nom/nomin/nomination__us_1.mp3",
@@ -7365,7 +7365,7 @@
   },
   {
     "word": "nominee",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nom/nomin/nominee__gb_1.mp3",
     "phonetic_text": "/ˌnɒmɪˈniː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nom/nomin/nominee__us_1.mp3",
@@ -7397,7 +7397,7 @@
   },
   {
     "word": "none",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/non/none_/none__gb_1.mp3",
     "phonetic_text": "/nʌn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/non/none_/none__us_1.mp3",
@@ -7475,7 +7475,7 @@
   },
   {
     "word": "nonetheless",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/non/nonet/nonetheless__gb_2.mp3",
     "phonetic_text": "/ˌnʌnðəˈles/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/non/nonet/nonetheless__us_1.mp3",
@@ -7498,7 +7498,7 @@
   },
   {
     "word": "nonsense",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/non/nonse/nonsense__gb_1.mp3",
     "phonetic_text": "/ˈnɒnsns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/non/nonse/nonsense__us_1_rr.mp3",
@@ -7588,7 +7588,7 @@
   },
   {
     "word": "noon",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/noo/noon_/noon__gb_1.mp3",
     "phonetic_text": "/nuːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/noo/noon_/noon__us_1.mp3",
@@ -7636,7 +7636,7 @@
   },
   {
     "word": "nor",
-    "pos": "verb",
+    "pos": "conjunction, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nor/nor__/nor__gb_1.mp3",
     "phonetic_text": "/nɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nor/nor__/nor__us_1.mp3",
@@ -7676,7 +7676,7 @@
   },
   {
     "word": "nor",
-    "pos": "verb",
+    "pos": "conjunction, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nor/nor__/nor__gb_1.mp3",
     "phonetic_text": "/nɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nor/nor__/nor__us_1.mp3",
@@ -7716,7 +7716,7 @@
   },
   {
     "word": "norm",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nor/norm_/norm__gb_2.mp3",
     "phonetic_text": "/nɔːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nor/norm_/norm__us_1.mp3",
@@ -7769,7 +7769,7 @@
   },
   {
     "word": "normal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nor/norma/normal__gb_1.mp3",
     "phonetic_text": "/ˈnɔːml/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nor/norma/normal__us_1.mp3",
@@ -7866,7 +7866,7 @@
   },
   {
     "word": "normal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nor/norma/normal__gb_1.mp3",
     "phonetic_text": "/ˈnɔːml/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nor/norma/normal__us_1.mp3",
@@ -7931,7 +7931,7 @@
   },
   {
     "word": "normally",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nor/norma/normally__gb_4.mp3",
     "phonetic_text": "/ˈnɔːməli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nor/norma/normally__us_1.mp3",
@@ -7991,7 +7991,7 @@
   },
   {
     "word": "north",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nor/north/north__gb_1.mp3",
     "phonetic_text": "/nɔːθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nor/north/north__us_1.mp3",
@@ -8035,7 +8035,7 @@
   },
   {
     "word": "north",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nor/north/north__gb_1.mp3",
     "phonetic_text": "/nɔːθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nor/north/north__us_1.mp3",
@@ -8093,7 +8093,7 @@
   },
   {
     "word": "north",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nor/north/north__gb_1.mp3",
     "phonetic_text": "/nɔːθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nor/north/north__us_1.mp3",
@@ -8175,7 +8175,7 @@
   },
   {
     "word": "northern",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nor/north/northern__gb_1.mp3",
     "phonetic_text": "/ˈnɔːðən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nor/north/northern__us_1.mp3",
@@ -8218,7 +8218,7 @@
   },
   {
     "word": "nose",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nos/nose_/nose__gb_1.mp3",
     "phonetic_text": "/nəʊz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nos/nose_/nose__us_1.mp3",
@@ -8551,7 +8551,7 @@
   },
   {
     "word": "not",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/not__/not__gb_1.mp3",
     "phonetic_text": "/nɒt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/not__/not__us_1.mp3",
@@ -8745,7 +8745,7 @@
   },
   {
     "word": "notable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/notab/notable__gb_1.mp3",
     "phonetic_text": "/ˈnəʊtəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/notab/notable__us_1.mp3",
@@ -8776,7 +8776,7 @@
   },
   {
     "word": "notably",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/notab/notably__gb_1.mp3",
     "phonetic_text": "/ˈnəʊtəbli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/notab/notably__us_1.mp3",
@@ -8808,7 +8808,7 @@
   },
   {
     "word": "note",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/note_/note__gb_2.mp3",
     "phonetic_text": "/nəʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/note_/note__us_1.mp3",
@@ -9152,7 +9152,7 @@
   },
   {
     "word": "notebook",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/noteb/notebook__gb_1.mp3",
     "phonetic_text": "/ˈnəʊtbʊk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/noteb/notebook__us_1.mp3",
@@ -9183,7 +9183,7 @@
   },
   {
     "word": "nothing",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/nothi/nothing__gb_1.mp3",
     "phonetic_text": "/ˈnʌθɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/nothi/nothing__us_1.mp3",
@@ -9426,7 +9426,7 @@
   },
   {
     "word": "notice",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/notic/notice__gb_1.mp3",
     "phonetic_text": "/ˈnəʊtɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/notic/notice__us_1.mp3",
@@ -9713,7 +9713,7 @@
   },
   {
     "word": "notion",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/notio/notion__gb_1.mp3",
     "phonetic_text": "/ˈnəʊʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/notio/notion__us_1.mp3",
@@ -9760,7 +9760,7 @@
   },
   {
     "word": "notorious",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/notor/notorious__gb_1.mp3",
     "phonetic_text": "/nəʊˈtɔːriəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/notor/notorious__us_1.mp3",
@@ -9795,7 +9795,7 @@
   },
   {
     "word": "novel",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nov/novel/novel__gb_1.mp3",
     "phonetic_text": "/ˈnɒvl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nov/novel/novel__us_1.mp3",
@@ -9826,7 +9826,7 @@
   },
   {
     "word": "novel",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nov/novel/novel__gb_1.mp3",
     "phonetic_text": "/ˈnɒvl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nov/novel/novel__us_1.mp3",
@@ -9874,7 +9874,7 @@
   },
   {
     "word": "novelist",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nov/novel/novelist__gb_1.mp3",
     "phonetic_text": "/ˈnɒvəlɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nov/novel/novelist__us_1.mp3",
@@ -9893,7 +9893,7 @@
   },
   {
     "word": "November",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nov/novem/november__gb_1.mp3",
     "phonetic_text": "/nəʊˈvembə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nov/novem/november__us_1.mp3",
@@ -9936,7 +9936,7 @@
   },
   {
     "word": "now",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/now/now__/now__gb_1.mp3",
     "phonetic_text": "/naʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/now/now__/now__us_1.mp3",
@@ -10112,7 +10112,7 @@
   },
   {
     "word": "now",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/now/now__/now__gb_1.mp3",
     "phonetic_text": "/naʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/now/now__/now__us_1.mp3",
@@ -10131,7 +10131,7 @@
   },
   {
     "word": "nowadays",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/now/nowad/nowadays__gb_1.mp3",
     "phonetic_text": "/ˈnaʊədeɪz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/now/nowad/nowadays__us_1.mp3",
@@ -10150,7 +10150,7 @@
   },
   {
     "word": "nowhere",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/now/nowhe/nowhere__gb_1.mp3",
     "phonetic_text": "/ˈnəʊweə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/now/nowhe/nowhere__us_1.mp3",
@@ -10288,7 +10288,7 @@
   },
   {
     "word": "nuclear",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nuc/nucle/nuclear__gb_2.mp3",
     "phonetic_text": "/ˈnjuːkliə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nuc/nucle/nuclear__us_1.mp3",
@@ -10385,7 +10385,7 @@
   },
   {
     "word": "number",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/num/numbe/number__gb_1.mp3",
     "phonetic_text": "/ˈnʌmbə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/num/numbe/number__us_2.mp3",
@@ -10766,7 +10766,7 @@
   },
   {
     "word": "numerous",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/num/numer/numerous__gb_2.mp3",
     "phonetic_text": "/ˈnjuːmərəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/num/numer/numerous__us_1.mp3",
@@ -10813,7 +10813,7 @@
   },
   {
     "word": "nurse",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nur/nurse/nurse__gb_1.mp3",
     "phonetic_text": "/nɜːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nur/nurse/nurse__us_1.mp3",
@@ -10880,7 +10880,7 @@
   },
   {
     "word": "nursery",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nur/nurse/nursery__gb_1.mp3",
     "phonetic_text": "/ˈnɜːsəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nur/nurse/nursery__us_1.mp3",
@@ -10915,7 +10915,7 @@
   },
   {
     "word": "nursing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nur/nursi/nursing__gb_1.mp3",
     "phonetic_text": "/ˈnɜːsɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nur/nursi/nursing__us_1.mp3",
@@ -10942,7 +10942,7 @@
   },
   {
     "word": "nut",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nut/nut__/nut__gb_1.mp3",
     "phonetic_text": "/nʌt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nut/nut__/nut__us_1.mp3",
@@ -11061,7 +11061,7 @@
   },
   {
     "word": "nutrition",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nut/nutri/nutrition__gb_1.mp3",
     "phonetic_text": "/njuˈtrɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nut/nutri/nutrition__us_1.mp3",

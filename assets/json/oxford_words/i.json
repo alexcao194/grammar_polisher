@@ -1,7 +1,7 @@
 [
   {
     "word": "I",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/i_1/i_1_g/i_1_gb_1_abbr.mp3",
     "phonetic_text": "/aɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/i__/i__us/i__us_1.mp3",
@@ -40,7 +40,7 @@
   },
   {
     "word": "ice",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ice/ice__/ice__gb_1.mp3",
     "phonetic_text": "/aɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ice/ice__/ice__us_1.mp3",
@@ -179,7 +179,7 @@
   },
   {
     "word": "icon",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ico/icon_/icon__gb_1.mp3",
     "phonetic_text": "/ˈaɪkɒn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ico/icon_/icon__us_1.mp3",
@@ -223,7 +223,7 @@
   },
   {
     "word": "ID",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/i_d/i_d__/i_d__1_gb_1_abbr.mp3",
     "phonetic_text": "/ˌaɪ ˈdiː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/i_d/i_d__/i_d__1_us_1_abbr.mp3",
@@ -259,7 +259,7 @@
   },
   {
     "word": "idea",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ide/idea_/idea__gb_1.mp3",
     "phonetic_text": "/aɪˈdɪə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ide/idea_/idea__us_2.mp3",
@@ -520,7 +520,7 @@
   },
   {
     "word": "ideal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ide/ideal/ideal__gb_1.mp3",
     "phonetic_text": "/aɪˈdiːəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ide/ideal/ideal__us_2.mp3",
@@ -581,7 +581,7 @@
   },
   {
     "word": "ideal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ide/ideal/ideal__gb_1.mp3",
     "phonetic_text": "/aɪˈdiːəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ide/ideal/ideal__us_2.mp3",
@@ -621,7 +621,7 @@
   },
   {
     "word": "identical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ide/ident/identical__gb_2.mp3",
     "phonetic_text": "/aɪˈdentɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ide/ident/identical__us_1.mp3",
@@ -661,7 +661,7 @@
   },
   {
     "word": "identification",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ide/ident/identification__gb_1.mp3",
     "phonetic_text": "/aɪˌdentɪfɪˈkeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ide/ident/identification__us_1.mp3",
@@ -821,7 +821,7 @@
   },
   {
     "word": "identity",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ide/ident/identity__gb_3.mp3",
     "phonetic_text": "/aɪˈdentəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ide/ident/identity__us_1.mp3",
@@ -918,7 +918,7 @@
   },
   {
     "word": "ideological",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ide/ideol/ideological__gb_1.mp3",
     "phonetic_text": "/ˌaɪdiəˈlɒdʒɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ide/ideol/ideological__us_1_rr.mp3",
@@ -945,7 +945,7 @@
   },
   {
     "word": "ideology",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ide/ideol/ideology__gb_2.mp3",
     "phonetic_text": "/ˌaɪdiˈɒlədʒi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ide/ideol/ideology__us_1_rr.mp3",
@@ -977,7 +977,7 @@
   },
   {
     "word": "idiot",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/idi/idiot/idiot__gb_1.mp3",
     "phonetic_text": "/ˈɪdiət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/idi/idiot/idiot__us_1.mp3",
@@ -1004,7 +1004,7 @@
   },
   {
     "word": "if",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/if_/if__g/if__gb_1.mp3",
     "phonetic_text": "/ɪf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/if_/if__u/if__us_1.mp3",
@@ -1307,7 +1307,7 @@
   },
   {
     "word": "ignorance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ign/ignor/ignorance__gb_1.mp3",
     "phonetic_text": "/ˈɪɡnərəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ign/ignor/ignorance__us_1.mp3",
@@ -1432,7 +1432,7 @@
   },
   {
     "word": "ill",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ill/ill__/ill__gb_1.mp3",
     "phonetic_text": "/ɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ill/ill__/ill__us_1.mp3",
@@ -1552,7 +1552,7 @@
   },
   {
     "word": "illegal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ill/illeg/illegal__gb_2.mp3",
     "phonetic_text": "/ɪˈliːɡl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ill/illeg/illegal__us_1.mp3",
@@ -1599,7 +1599,7 @@
   },
   {
     "word": "illness",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ill/illne/illness__gb_1.mp3",
     "phonetic_text": "/ˈɪlnəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ill/illne/illness__us_1.mp3",
@@ -1651,7 +1651,7 @@
   },
   {
     "word": "illusion",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ill/illus/illusion__gb_1.mp3",
     "phonetic_text": "/ɪˈluːʒn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ill/illus/illusion__us_1.mp3",
@@ -1764,7 +1764,7 @@
   },
   {
     "word": "illustration",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ill/illus/illustration__gb_2.mp3",
     "phonetic_text": "/ˌɪləˈstreɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ill/illus/illustration__us_2.mp3",
@@ -1821,7 +1821,7 @@
   },
   {
     "word": "image",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ima/image/image__gb_1.mp3",
     "phonetic_text": "/ˈɪmɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ima/image/image__us_1.mp3",
@@ -1973,7 +1973,7 @@
   },
   {
     "word": "imagery",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ima/image/imagery__gb_1.mp3",
     "phonetic_text": "/ˈɪmɪdʒəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ima/image/imagery__us_1.mp3",
@@ -2001,7 +2001,7 @@
   },
   {
     "word": "imaginary",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ima/imagi/imaginary__gb_1.mp3",
     "phonetic_text": "/ɪˈmædʒɪnəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ima/imagi/imaginary__us_1.mp3",
@@ -2032,7 +2032,7 @@
   },
   {
     "word": "imagination",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ima/imagi/imagination__gb_1.mp3",
     "phonetic_text": "/ɪˌmædʒɪˈneɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ima/imagi/imagination__us_1.mp3",
@@ -2236,7 +2236,7 @@
   },
   {
     "word": "immediate",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imm/immed/immediate__gb_1.mp3",
     "phonetic_text": "/ɪˈmiːdiət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imm/immed/immediate__us_1.mp3",
@@ -2352,7 +2352,7 @@
   },
   {
     "word": "immediately",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imm/immed/immediately__gb_1.mp3",
     "phonetic_text": "/ɪˈmiːdiətli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imm/immed/immediately__us_1.mp3",
@@ -2429,7 +2429,7 @@
   },
   {
     "word": "immense",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imm/immen/immense__gb_1.mp3",
     "phonetic_text": "/ɪˈmens/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imm/immen/immense__us_1.mp3",
@@ -2460,7 +2460,7 @@
   },
   {
     "word": "immigrant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imm/immig/immigrant__gb_2.mp3",
     "phonetic_text": "/ˈɪmɪɡrənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imm/immig/immigrant__us_1.mp3",
@@ -2499,7 +2499,7 @@
   },
   {
     "word": "immigration",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imm/immig/immigration__gb_1.mp3",
     "phonetic_text": "/ˌɪmɪˈɡreɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imm/immig/immigration__us_1.mp3",
@@ -2551,7 +2551,7 @@
   },
   {
     "word": "imminent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imm/immin/imminent__gb_1.mp3",
     "phonetic_text": "/ˈɪmɪnənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imm/immin/imminent__us_1.mp3",
@@ -2582,7 +2582,7 @@
   },
   {
     "word": "immune",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imm/immun/immune__gb_1.mp3",
     "phonetic_text": "/ɪˈmjuːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imm/immun/immune__us_1.mp3",
@@ -2631,7 +2631,7 @@
   },
   {
     "word": "impact",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impac/impact__gb_3.mp3",
     "phonetic_text": "/ˈɪmpækt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impac/impact__us_1.mp3",
@@ -2758,7 +2758,7 @@
   },
   {
     "word": "impatient",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impat/impatient__gb_1.mp3",
     "phonetic_text": "/ɪmˈpeɪʃnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impat/impatient__us_1.mp3",
@@ -2842,7 +2842,7 @@
   },
   {
     "word": "implementation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/imple/implementation__gb_1.mp3",
     "phonetic_text": "/ˌɪmplɪmenˈteɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/imple/implementation__us_1.mp3",
@@ -2861,7 +2861,7 @@
   },
   {
     "word": "implication",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impli/implication__gb_2.mp3",
     "phonetic_text": "/ˌɪmplɪˈkeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impli/implication__us_1.mp3",
@@ -2971,7 +2971,7 @@
   },
   {
     "word": "import",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impor/import__gb_1.mp3",
     "phonetic_text": "/ˈɪmpɔːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impor/import__us_1.mp3",
@@ -3089,7 +3089,7 @@
   },
   {
     "word": "importance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impor/importance__gb_2.mp3",
     "phonetic_text": "/ɪmˈpɔːtns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impor/importance__us_1.mp3",
@@ -3140,7 +3140,7 @@
   },
   {
     "word": "important",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impor/important__gb_2.mp3",
     "phonetic_text": "/ɪmˈpɔːtnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impor/important__us_1.mp3",
@@ -3319,7 +3319,7 @@
   },
   {
     "word": "impossible",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impos/impossible__gb_3.mp3",
     "phonetic_text": "/ɪmˈpɒsəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impos/impossible__us_1.mp3",
@@ -3474,7 +3474,7 @@
   },
   {
     "word": "impressed",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impre/impressed__gb_1.mp3",
     "phonetic_text": "/ɪmˈprest/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impre/impressed__us_1.mp3",
@@ -3517,7 +3517,7 @@
   },
   {
     "word": "impression",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impre/impression__gb_1.mp3",
     "phonetic_text": "/ɪmˈpreʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impre/impression__us_1.mp3",
@@ -3666,7 +3666,7 @@
   },
   {
     "word": "impressive",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impre/impressive__gb_1.mp3",
     "phonetic_text": "/ɪmˈpresɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impre/impressive__us_1.mp3",
@@ -3736,7 +3736,7 @@
   },
   {
     "word": "imprisonment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impri/imprisonment__gb_1.mp3",
     "phonetic_text": "/ɪmˈprɪznmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impri/imprisonment__us_1.mp3",
@@ -3822,7 +3822,7 @@
   },
   {
     "word": "improvement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impro/improvement__gb_1.mp3",
     "phonetic_text": "/ɪmˈpruːvmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impro/improvement__us_1.mp3",
@@ -3898,7 +3898,7 @@
   },
   {
     "word": "in",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/in_/in__g/in__gb_1.mp3",
     "phonetic_text": "/ɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/in_/in__u/in__us_1.mp3",
@@ -4048,7 +4048,7 @@
   },
   {
     "word": "in",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/in_/in__g/in__gb_1.mp3",
     "phonetic_text": "/ɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/in_/in__u/in__us_1.mp3",
@@ -4385,7 +4385,7 @@
   },
   {
     "word": "inability",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ina/inabi/inability__gb_1.mp3",
     "phonetic_text": "/ˌɪnəˈbɪləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ina/inabi/inability__us_1.mp3",
@@ -4408,7 +4408,7 @@
   },
   {
     "word": "inadequate",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ina/inade/inadequate__gb_1.mp3",
     "phonetic_text": "/ɪnˈædɪkwət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ina/inade/inadequate__us_1.mp3",
@@ -4444,7 +4444,7 @@
   },
   {
     "word": "inappropriate",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ina/inapp/inappropriate__gb_1.mp3",
     "phonetic_text": "/ˌɪnəˈprəʊpriət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ina/inapp/inappropriate__us_1.mp3",
@@ -4471,7 +4471,7 @@
   },
   {
     "word": "incentive",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/incen/incentive__gb_2.mp3",
     "phonetic_text": "/ɪnˈsentɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/incen/incentive__us_1.mp3",
@@ -4503,7 +4503,7 @@
   },
   {
     "word": "inch",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/inch_/inch__gb_1.mp3",
     "phonetic_text": "/ɪntʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/inch_/inch__us_1.mp3",
@@ -4644,7 +4644,7 @@
   },
   {
     "word": "incidence",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/incid/incidence__gb_2.mp3",
     "phonetic_text": "/ˈɪnsɪdəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/incid/incidence__us_1.mp3",
@@ -4672,7 +4672,7 @@
   },
   {
     "word": "incident",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/incid/incident__gb_1.mp3",
     "phonetic_text": "/ˈɪnsɪdənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/incid/incident__us_1.mp3",
@@ -4753,7 +4753,7 @@
   },
   {
     "word": "inclined",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/incli/inclined__gb_1.mp3",
     "phonetic_text": "/ɪnˈklaɪnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/incli/inclined__us_1.mp3",
@@ -4875,7 +4875,7 @@
   },
   {
     "word": "included",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/inclu/included__gb_2.mp3",
     "phonetic_text": "/ɪnˈkluːdɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/inclu/included__us_5.mp3",
@@ -4906,7 +4906,7 @@
   },
   {
     "word": "including",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/inclu/including__gb_1.mp3",
     "phonetic_text": "/ɪnˈkluːdɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/inclu/including__us_1.mp3",
@@ -4933,7 +4933,7 @@
   },
   {
     "word": "inclusion",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/inclu/inclusion__gb_1.mp3",
     "phonetic_text": "/ɪnˈkluːʒn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/inclu/inclusion__us_1.mp3",
@@ -4974,7 +4974,7 @@
   },
   {
     "word": "income",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/incom/income__gb_3.mp3",
     "phonetic_text": "/ˈɪnkʌm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/incom/income__us_1_rr.mp3",
@@ -5081,7 +5081,7 @@
   },
   {
     "word": "incorrect",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/incor/incorrect__gb_1.mp3",
     "phonetic_text": "/ˌɪnkəˈrekt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/incor/incorrect__us_1.mp3",
@@ -5108,7 +5108,7 @@
   },
   {
     "word": "increase",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/incre/increase__gb_3.mp3",
     "phonetic_text": "/ˈɪŋkriːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/incre/increase__us_2.mp3",
@@ -5246,7 +5246,7 @@
   },
   {
     "word": "increasingly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/incre/increasingly__gb_2.mp3",
     "phonetic_text": "/ɪnˈkriːsɪŋli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/incre/increasingly__us_1.mp3",
@@ -5285,7 +5285,7 @@
   },
   {
     "word": "incredible",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/incre/incredible__gb_1.mp3",
     "phonetic_text": "/ɪnˈkredəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/incre/incredible__us_1.mp3",
@@ -5370,7 +5370,7 @@
   },
   {
     "word": "incredibly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inc/incre/incredibly__gb_1.mp3",
     "phonetic_text": "/ɪnˈkredəbli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inc/incre/incredibly__us_1.mp3",
@@ -5442,7 +5442,7 @@
   },
   {
     "word": "indeed",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indee/indeed__gb_1.mp3",
     "phonetic_text": "/ɪnˈdiːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indee/indeed__us_1.mp3",
@@ -5525,7 +5525,7 @@
   },
   {
     "word": "independence",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indep/independence__gb_1.mp3",
     "phonetic_text": "/ˌɪndɪˈpendəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indep/independence__us_1.mp3",
@@ -5570,7 +5570,7 @@
   },
   {
     "word": "independent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indep/independent__gb_3.mp3",
     "phonetic_text": "/ˌɪndɪˈpendənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indep/independent__us_1.mp3",
@@ -5724,7 +5724,7 @@
   },
   {
     "word": "index",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/index/index__gb_2.mp3",
     "phonetic_text": "/ˈɪndeks/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/index/index__us_1.mp3",
@@ -5978,7 +5978,7 @@
   },
   {
     "word": "indication",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indic/indication__gb_1.mp3",
     "phonetic_text": "/ˌɪndɪˈkeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indic/indication__us_1.mp3",
@@ -6018,7 +6018,7 @@
   },
   {
     "word": "indicator",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indic/indicator__gb_2.mp3",
     "phonetic_text": "/ˈɪndɪkeɪtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indic/indicator__us_1.mp3",
@@ -6063,7 +6063,7 @@
   },
   {
     "word": "indictment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indic/indictment__gb_1.mp3",
     "phonetic_text": "/ɪnˈdaɪtmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indic/indictment__us_1.mp3",
@@ -6136,7 +6136,7 @@
   },
   {
     "word": "indigenous",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indig/indigenous__gb_1.mp3",
     "phonetic_text": "/ɪnˈdɪdʒənəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indig/indigenous__us_1.mp3",
@@ -6180,7 +6180,7 @@
   },
   {
     "word": "indirect",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indir/indirect__gb_1.mp3",
     "phonetic_text": "/ˌɪndəˈrekt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indir/indirect__us_1_rr.mp3",
@@ -6246,7 +6246,7 @@
   },
   {
     "word": "individual",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indiv/individual__gb_3.mp3",
     "phonetic_text": "/ˌɪndɪˈvɪdʒuəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indiv/individual__us_1.mp3",
@@ -6307,7 +6307,7 @@
   },
   {
     "word": "individual",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indiv/individual__gb_3.mp3",
     "phonetic_text": "/ˌɪndɪˈvɪdʒuəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indiv/individual__us_1.mp3",
@@ -6397,7 +6397,7 @@
   },
   {
     "word": "indoor",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indoo/indoor__gb_1.mp3",
     "phonetic_text": "/ˈɪndɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indoo/indoor__us_1.mp3",
@@ -6433,7 +6433,7 @@
   },
   {
     "word": "indoors",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indoo/indoors__gb_1.mp3",
     "phonetic_text": "/ˌɪnˈdɔːz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indoo/indoors__us_4.mp3",
@@ -6590,7 +6590,7 @@
   },
   {
     "word": "industrial",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indus/industrial__gb_1.mp3",
     "phonetic_text": "/ɪnˈdʌstriəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indus/industrial__us_1.mp3",
@@ -6676,7 +6676,7 @@
   },
   {
     "word": "industry",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indus/industry__gb_2.mp3",
     "phonetic_text": "/ˈɪndəstri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ind/indus/industry__us_1.mp3",
@@ -6749,7 +6749,7 @@
   },
   {
     "word": "inequality",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ine/inequ/inequality__gb_3.mp3",
     "phonetic_text": "/ˌɪnɪˈkwɒləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ine/inequ/inequality__us_1.mp3",
@@ -6776,7 +6776,7 @@
   },
   {
     "word": "inevitable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ine/inevi/inevitable__gb_2.mp3",
     "phonetic_text": "/ɪnˈevɪtəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ine/inevi/inevitable__us_1.mp3",
@@ -6825,7 +6825,7 @@
   },
   {
     "word": "inevitably",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ine/inevi/inevitably__gb_1.mp3",
     "phonetic_text": "/ɪnˈevɪtəbli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ine/inevi/inevitably__us_1.mp3",
@@ -6853,7 +6853,7 @@
   },
   {
     "word": "infamous",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inf/infam/infamous__gb_1.mp3",
     "phonetic_text": "/ˈɪnfəməs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inf/infam/infamous__us_1.mp3",
@@ -6880,7 +6880,7 @@
   },
   {
     "word": "infant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inf/infan/infant__gb_1.mp3",
     "phonetic_text": "/ˈɪnfənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inf/infan/infant__us_1.mp3",
@@ -6973,7 +6973,7 @@
   },
   {
     "word": "infection",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inf/infec/infection__gb_2.mp3",
     "phonetic_text": "/ɪnˈfekʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inf/infec/infection__us_3.mp3",
@@ -7089,7 +7089,7 @@
   },
   {
     "word": "inflation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inf/infla/inflation__gb_1.mp3",
     "phonetic_text": "/ɪnˈfleɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inf/infla/inflation__us_1.mp3",
@@ -7193,7 +7193,7 @@
   },
   {
     "word": "influence",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inf/influ/influence__gb_1.mp3",
     "phonetic_text": "/ˈɪnfluəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inf/influ/influence__us_1.mp3",
@@ -7383,7 +7383,7 @@
   },
   {
     "word": "influential",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inf/influ/influential__gb_1.mp3",
     "phonetic_text": "/ˌɪnfluˈenʃl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inf/influ/influential__us_1.mp3",
@@ -7414,7 +7414,7 @@
   },
   {
     "word": "info",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inf/info_/info__gb_1.mp3",
     "phonetic_text": "/ˈɪnfəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inf/info_/info__us_1.mp3",
@@ -7535,7 +7535,7 @@
   },
   {
     "word": "informal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inf/infor/informal__gb_1.mp3",
     "phonetic_text": "/ɪnˈfɔːml/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inf/infor/informal__us_1.mp3",
@@ -7621,7 +7621,7 @@
   },
   {
     "word": "information",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inf/infor/information__gb_2.mp3",
     "phonetic_text": "/ˌɪnfəˈmeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inf/infor/information__us_1.mp3",
@@ -7761,7 +7761,7 @@
   },
   {
     "word": "infrastructure",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inf/infra/infrastructure__gb_2.mp3",
     "phonetic_text": "/ˈɪnfrəstrʌktʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inf/infra/infrastructure__us_1.mp3",
@@ -7775,7 +7775,7 @@
   },
   {
     "word": "ingredient",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ing/ingre/ingredient__gb_1.mp3",
     "phonetic_text": "/ɪnˈɡriːdiənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ing/ingre/ingredient__us_1.mp3",
@@ -7827,7 +7827,7 @@
   },
   {
     "word": "inhabitant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inh/inhab/inhabitant__gb_1.mp3",
     "phonetic_text": "/ɪnˈhæbɪtənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inh/inhab/inhabitant__us_1.mp3",
@@ -7850,7 +7850,7 @@
   },
   {
     "word": "inherent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inh/inher/inherent__gb_2.mp3",
     "phonetic_text": "/ɪnˈherənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inh/inher/inherent__us_2_rr.mp3",
@@ -7978,7 +7978,7 @@
   },
   {
     "word": "initial",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ini/initi/initial__gb_2.mp3",
     "phonetic_text": "/ɪˈnɪʃl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ini/initi/initial__us_1.mp3",
@@ -8021,7 +8021,7 @@
   },
   {
     "word": "initially",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ini/initi/initially__gb_4.mp3",
     "phonetic_text": "/ɪˈnɪʃəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ini/initi/initially__us_1.mp3",
@@ -8097,7 +8097,7 @@
   },
   {
     "word": "initiative",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ini/initi/initiative__gb_1.mp3",
     "phonetic_text": "/ɪˈnɪʃətɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ini/initi/initiative__us_1.mp3",
@@ -8273,7 +8273,7 @@
   },
   {
     "word": "injection",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inj/injec/injection__gb_1.mp3",
     "phonetic_text": "/ɪnˈdʒekʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inj/injec/injection__us_1.mp3",
@@ -8382,7 +8382,7 @@
   },
   {
     "word": "injured",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inj/injur/injured__gb_1.mp3",
     "phonetic_text": "/ˈɪndʒəd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inj/injur/injured__us_1.mp3",
@@ -8447,7 +8447,7 @@
   },
   {
     "word": "injury",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inj/injur/injury__gb_2.mp3",
     "phonetic_text": "/ˈɪndʒəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inj/injur/injury__us_1.mp3",
@@ -8544,7 +8544,7 @@
   },
   {
     "word": "injustice",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inj/injus/injustice__gb_1.mp3",
     "phonetic_text": "/ɪnˈdʒʌstɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inj/injus/injustice__us_1.mp3",
@@ -8592,7 +8592,7 @@
   },
   {
     "word": "ink",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ink/ink__/ink__gb_1.mp3",
     "phonetic_text": "/ɪŋk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ink/ink__/ink__us_1.mp3",
@@ -8628,7 +8628,7 @@
   },
   {
     "word": "inmate",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inm/inmat/inmate__gb_1.mp3",
     "phonetic_text": "/ˈɪnmeɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inm/inmat/inmate__us_1.mp3",
@@ -8651,7 +8651,7 @@
   },
   {
     "word": "inner",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inn/inner/inner__gb_1.mp3",
     "phonetic_text": "/ˈɪnə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inn/inner/inner__us_1.mp3",
@@ -8703,7 +8703,7 @@
   },
   {
     "word": "innocent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inn/innoc/innocent__gb_2.mp3",
     "phonetic_text": "/ˈɪnəsnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inn/innoc/innocent__us_1.mp3",
@@ -8793,7 +8793,7 @@
   },
   {
     "word": "innovation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inn/innov/innovation__gb_2.mp3",
     "phonetic_text": "/ˌɪnəˈveɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inn/innov/innovation__us_1.mp3",
@@ -8837,7 +8837,7 @@
   },
   {
     "word": "innovative",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inn/innov/innovative__gb_1.mp3",
     "phonetic_text": "/ˈɪnəveɪtɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inn/innov/innovative__us_1.mp3",
@@ -8856,7 +8856,7 @@
   },
   {
     "word": "input",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inp/input/input__gb_2.mp3",
     "phonetic_text": "/ˈɪnpʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inp/input/input__us_1.mp3",
@@ -8921,7 +8921,7 @@
   },
   {
     "word": "inquiry",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/enq/enqui/enquiry__gb_1.mp3",
     "phonetic_text": "/ɪnˈkwaɪəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/enq/enqui/enquiry__us_3.mp3",
@@ -9007,7 +9007,7 @@
   },
   {
     "word": "insect",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insec/insect__gb_2.mp3",
     "phonetic_text": "/ˈɪnsekt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insec/insect__us_1.mp3",
@@ -9098,7 +9098,7 @@
   },
   {
     "word": "insertion",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/inser/insertion__gb_1.mp3",
     "phonetic_text": "/ɪnˈsɜːʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/inser/insertion__us_1.mp3",
@@ -9130,7 +9130,7 @@
   },
   {
     "word": "inside",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insid/inside__gb_2.mp3",
     "phonetic_text": "/ˈɪnsaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insid/inside__us_4_rr.mp3",
@@ -9174,7 +9174,7 @@
   },
   {
     "word": "inside",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insid/inside__gb_1.mp3",
     "phonetic_text": "/ˌɪnˈsaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insid/inside__us_5.mp3",
@@ -9218,7 +9218,7 @@
   },
   {
     "word": "inside",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insid/inside__gb_1.mp3",
     "phonetic_text": "/ˌɪnˈsaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insid/inside__us_5.mp3",
@@ -9337,7 +9337,7 @@
   },
   {
     "word": "inside",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insid/inside__gb_1.mp3",
     "phonetic_text": "/ˌɪnˈsaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insid/inside__us_5.mp3",
@@ -9381,7 +9381,7 @@
   },
   {
     "word": "insider",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insid/insider__gb_1.mp3",
     "phonetic_text": "/ɪnˈsaɪdə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insid/insider__us_2_rr.mp3",
@@ -9404,7 +9404,7 @@
   },
   {
     "word": "insight",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insig/insight__gb_2.mp3",
     "phonetic_text": "/ˈɪnsaɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insig/insight__us_1.mp3",
@@ -9564,7 +9564,7 @@
   },
   {
     "word": "inspection",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/inspe/inspection__gb_1.mp3",
     "phonetic_text": "/ɪnˈspekʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/inspe/inspection__us_1.mp3",
@@ -9608,7 +9608,7 @@
   },
   {
     "word": "inspector",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/inspe/inspector__gb_1.mp3",
     "phonetic_text": "/ɪnˈspektə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/inspe/inspector__us_1.mp3",
@@ -9644,7 +9644,7 @@
   },
   {
     "word": "inspiration",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/inspi/inspiration__gb_1.mp3",
     "phonetic_text": "/ˌɪnspəˈreɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/inspi/inspiration__us_1.mp3",
@@ -9849,7 +9849,7 @@
   },
   {
     "word": "installation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insta/installation__gb_1.mp3",
     "phonetic_text": "/ˌɪnstəˈleɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insta/installation__us_1.mp3",
@@ -9912,7 +9912,7 @@
   },
   {
     "word": "instance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insta/instance__gb_1.mp3",
     "phonetic_text": "/ˈɪnstəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insta/instance__us_2.mp3",
@@ -9985,7 +9985,7 @@
   },
   {
     "word": "instant",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insta/instant__gb_1.mp3",
     "phonetic_text": "/ˈɪnstənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insta/instant__us_1.mp3",
@@ -10021,7 +10021,7 @@
   },
   {
     "word": "instantly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insta/instantly__gb_1.mp3",
     "phonetic_text": "/ˈɪnstəntli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insta/instantly__us_1.mp3",
@@ -10044,7 +10044,7 @@
   },
   {
     "word": "instead",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/inste/instead__gb_1.mp3",
     "phonetic_text": "/ɪnˈsted/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/inste/instead__us_3.mp3",
@@ -10083,7 +10083,7 @@
   },
   {
     "word": "instinct",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insti/instinct__gb_1.mp3",
     "phonetic_text": "/ˈɪnstɪŋkt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insti/instinct__us_1.mp3",
@@ -10143,7 +10143,7 @@
   },
   {
     "word": "institute",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insti/institute__gb_1.mp3",
     "phonetic_text": "/ˈɪnstɪtjuːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insti/institute__us_2.mp3",
@@ -10174,7 +10174,7 @@
   },
   {
     "word": "institution",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insti/institution__gb_2.mp3",
     "phonetic_text": "/ˌɪnstɪˈtjuːʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insti/institution__us_2.mp3",
@@ -10253,7 +10253,7 @@
   },
   {
     "word": "institutional",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insti/institutional__gb_1.mp3",
     "phonetic_text": "/ˌɪnstɪˈtjuːʃənl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insti/institutional__us_1.mp3",
@@ -10355,7 +10355,7 @@
   },
   {
     "word": "instruction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/instr/instruction__gb_2.mp3",
     "phonetic_text": "/ɪnˈstrʌkʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/instr/instruction__us_3.mp3",
@@ -10490,7 +10490,7 @@
   },
   {
     "word": "instructor",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/instr/instructor__gb_1.mp3",
     "phonetic_text": "/ɪnˈstrʌktə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/instr/instructor__us_4.mp3",
@@ -10521,7 +10521,7 @@
   },
   {
     "word": "instrument",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/instr/instrument__gb_3.mp3",
     "phonetic_text": "/ˈɪnstrəmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/instr/instrument__us_1.mp3",
@@ -10633,7 +10633,7 @@
   },
   {
     "word": "instrumental",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/instr/instrumental__gb_1.mp3",
     "phonetic_text": "/ˌɪnstrəˈmentl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/instr/instrumental__us_1.mp3",
@@ -10682,7 +10682,7 @@
   },
   {
     "word": "insufficient",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insuf/insufficient__gb_1.mp3",
     "phonetic_text": "/ˌɪnsəˈfɪʃnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insuf/insufficient__us_1.mp3",
@@ -10721,7 +10721,7 @@
   },
   {
     "word": "insult",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insul/insult__gb_2.mp3",
     "phonetic_text": "/ˈɪnsʌlt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insul/insult__us_2.mp3",
@@ -10792,7 +10792,7 @@
   },
   {
     "word": "insurance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insur/insurance__gb_1.mp3",
     "phonetic_text": "/ɪnˈʃʊərəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insur/insurance__us_3.mp3",
@@ -10910,7 +10910,7 @@
   },
   {
     "word": "intact",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/intac/intact__gb_1.mp3",
     "phonetic_text": "/ɪnˈtækt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/intac/intact__us_1.mp3",
@@ -10933,7 +10933,7 @@
   },
   {
     "word": "intake",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/intak/intake__gb_1.mp3",
     "phonetic_text": "/ˈɪnteɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/intak/intake__us_1.mp3",
@@ -10995,7 +10995,7 @@
   },
   {
     "word": "integral",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/integ/integral__gb_1.mp3",
     "phonetic_text": "/ˈɪntɪɡrəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/integ/integral__us_1_rr.mp3",
@@ -11072,7 +11072,7 @@
   },
   {
     "word": "integrated",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/integ/integrated__gb_1.mp3",
     "phonetic_text": "/ˈɪntɪɡreɪtɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/integ/integrated__us_1.mp3",
@@ -11108,7 +11108,7 @@
   },
   {
     "word": "integration",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/integ/integration__gb_1.mp3",
     "phonetic_text": "/ˌɪntɪˈɡreɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/integ/integration__us_1.mp3",
@@ -11148,7 +11148,7 @@
   },
   {
     "word": "integrity",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/integ/integrity__gb_1.mp3",
     "phonetic_text": "/ɪnˈteɡrəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/integ/integrity__us_1.mp3",
@@ -11184,7 +11184,7 @@
   },
   {
     "word": "intellectual",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/intel/intellectual__gb_1.mp3",
     "phonetic_text": "/ˌɪntəˈlektʃuəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/intel/intellectual__us_1.mp3",
@@ -11216,7 +11216,7 @@
   },
   {
     "word": "intellectual",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/intel/intellectual__gb_1.mp3",
     "phonetic_text": "/ˌɪntəˈlektʃuəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/intel/intellectual__us_1.mp3",
@@ -11235,7 +11235,7 @@
   },
   {
     "word": "intelligence",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/intel/intelligence__gb_1.mp3",
     "phonetic_text": "/ɪnˈtelɪdʒəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/intel/intelligence__us_3.mp3",
@@ -11315,7 +11315,7 @@
   },
   {
     "word": "intelligent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/intel/intelligent__gb_1.mp3",
     "phonetic_text": "/ɪnˈtelɪdʒənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/intel/intelligent__us_1.mp3",
@@ -11436,7 +11436,7 @@
   },
   {
     "word": "intended",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inten/intended__gb_1.mp3",
     "phonetic_text": "/ɪnˈtendɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inten/intended__us_3.mp3",
@@ -11492,7 +11492,7 @@
   },
   {
     "word": "intense",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inten/intense__gb_1.mp3",
     "phonetic_text": "/ɪnˈtens/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inten/intense__us_3.mp3",
@@ -11592,7 +11592,7 @@
   },
   {
     "word": "intensity",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inten/intensity__gb_1.mp3",
     "phonetic_text": "/ɪnˈtensəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inten/intensity__us_1.mp3",
@@ -11636,7 +11636,7 @@
   },
   {
     "word": "intensive",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inten/intensive__gb_1.mp3",
     "phonetic_text": "/ɪnˈtensɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inten/intensive__us_1.mp3",
@@ -11689,7 +11689,7 @@
   },
   {
     "word": "intent",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inten/intent__gb_1.mp3",
     "phonetic_text": "/ɪnˈtent/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inten/intent__us_1.mp3",
@@ -11733,7 +11733,7 @@
   },
   {
     "word": "intention",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inten/intention__gb_1.mp3",
     "phonetic_text": "/ɪnˈtenʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inten/intention__us_2.mp3",
@@ -11836,7 +11836,7 @@
   },
   {
     "word": "interaction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interaction__gb_2.mp3",
     "phonetic_text": "/ˌɪntərˈækʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interaction__us_1.mp3",
@@ -11864,7 +11864,7 @@
   },
   {
     "word": "interactive",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interactive__gb_1.mp3",
     "phonetic_text": "/ˌɪntərˈæktɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interactive__us_1.mp3",
@@ -11908,7 +11908,7 @@
   },
   {
     "word": "interest",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interest__gb_1.mp3",
     "phonetic_text": "/ˈɪntrəst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interest__us_1_rr.mp3",
@@ -12221,7 +12221,7 @@
   },
   {
     "word": "interested",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interested__gb_1.mp3",
     "phonetic_text": "/ˈɪntrəstɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interested__us_1_rr.mp3",
@@ -12285,7 +12285,7 @@
   },
   {
     "word": "interesting",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interesting__gb_6.mp3",
     "phonetic_text": "/ˈɪntrəstɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interesting__us_1_rr.mp3",
@@ -12372,7 +12372,7 @@
   },
   {
     "word": "interface",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interface__gb_1.mp3",
     "phonetic_text": "/ˈɪntəfeɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interface__us_1.mp3",
@@ -12432,7 +12432,7 @@
   },
   {
     "word": "interference",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interference__gb_1.mp3",
     "phonetic_text": "/ˌɪntəˈfɪərəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interference__us_1.mp3",
@@ -12476,7 +12476,7 @@
   },
   {
     "word": "interim",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interim__gb_1.mp3",
     "phonetic_text": "/ˈɪntərɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interim__us_1.mp3",
@@ -12516,7 +12516,7 @@
   },
   {
     "word": "interior",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interior__gb_2.mp3",
     "phonetic_text": "/ɪnˈtɪəriə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interior__us_1.mp3",
@@ -12553,7 +12553,7 @@
   },
   {
     "word": "interior",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interior__gb_2.mp3",
     "phonetic_text": "/ɪnˈtɪəriə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interior__us_1.mp3",
@@ -12594,7 +12594,7 @@
   },
   {
     "word": "intermediate",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/intermediate__gb_1.mp3",
     "phonetic_text": "/ˌɪntəˈmiːdiət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/intermediate__us_1.mp3",
@@ -12634,7 +12634,7 @@
   },
   {
     "word": "internal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/internal__gb_2.mp3",
     "phonetic_text": "/ɪnˈtɜːnl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/internal__us_3.mp3",
@@ -12746,7 +12746,7 @@
   },
   {
     "word": "international",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/international__gb_2.mp3",
     "phonetic_text": "/ˌɪntəˈnæʃnəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/international__us_3.mp3",
@@ -12822,7 +12822,7 @@
   },
   {
     "word": "internet",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/internet__gb_2.mp3",
     "phonetic_text": "/ˈɪntənet/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/internet__us_1.mp3",
@@ -12943,7 +12943,7 @@
   },
   {
     "word": "interpretation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interpretation__gb_1.mp3",
     "phonetic_text": "/ɪnˌtɜːprəˈteɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interpretation__us_1.mp3",
@@ -13044,7 +13044,7 @@
   },
   {
     "word": "interval",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interval__gb_2.mp3",
     "phonetic_text": "/ˈɪntəvl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interval__us_1.mp3",
@@ -13203,7 +13203,7 @@
   },
   {
     "word": "intervention",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/intervention__gb_1.mp3",
     "phonetic_text": "/ˌɪntəˈvenʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/intervention__us_1.mp3",
@@ -13274,7 +13274,7 @@
   },
   {
     "word": "interview",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interview__gb_1.mp3",
     "phonetic_text": "/ˈɪntəvjuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interview__us_2.mp3",
@@ -13445,7 +13445,7 @@
   },
   {
     "word": "intimate",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/intim/intimate__gb_1.mp3",
     "phonetic_text": "/ˈɪntɪmət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/intim/intimate__us_1.mp3",
@@ -13516,7 +13516,7 @@
   },
   {
     "word": "into",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/into_/into__gb_1.mp3",
     "phonetic_text": "/ˈɪntə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/into_/into__us_1_rr.mp3",
@@ -13652,7 +13652,7 @@
   },
   {
     "word": "intriguing",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/intri/intriguing__gb_1.mp3",
     "phonetic_text": "/ɪnˈtriːɡɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/intri/intriguing__us_1.mp3",
@@ -13887,7 +13887,7 @@
   },
   {
     "word": "introduction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/intro/introduction__gb_2.mp3",
     "phonetic_text": "/ˌɪntrəˈdʌkʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/intro/introduction__us_2.mp3",
@@ -14069,7 +14069,7 @@
   },
   {
     "word": "invasion",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/invas/invasion__gb_1.mp3",
     "phonetic_text": "/ɪnˈveɪʒn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/invas/invasion__us_1.mp3",
@@ -14162,7 +14162,7 @@
   },
   {
     "word": "invention",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/inven/invention__gb_2.mp3",
     "phonetic_text": "/ɪnˈvenʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/inven/invention__us_2.mp3",
@@ -14411,7 +14411,7 @@
   },
   {
     "word": "investigation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/inves/investigation__gb_2.mp3",
     "phonetic_text": "/ɪnˌvestɪˈɡeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/inves/investigation__us_3.mp3",
@@ -14483,7 +14483,7 @@
   },
   {
     "word": "investigator",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/inves/investigator__gb_1.mp3",
     "phonetic_text": "/ɪnˈvestɪɡeɪtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/inves/investigator__us_1.mp3",
@@ -14506,7 +14506,7 @@
   },
   {
     "word": "investment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/inves/investment__gb_2.mp3",
     "phonetic_text": "/ɪnˈvestmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/inves/investment__us_1.mp3",
@@ -14612,7 +14612,7 @@
   },
   {
     "word": "investor",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/inves/investor__gb_1.mp3",
     "phonetic_text": "/ɪnˈvestə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/inves/investor__us_1.mp3",
@@ -14635,7 +14635,7 @@
   },
   {
     "word": "invisible",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/invis/invisible__gb_1.mp3",
     "phonetic_text": "/ɪnˈvɪzəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/invis/invisible__us_1.mp3",
@@ -14684,7 +14684,7 @@
   },
   {
     "word": "invitation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/invit/invitation__gb_1.mp3",
     "phonetic_text": "/ˌɪnvɪˈteɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/invit/invitation__us_1.mp3",
@@ -14992,7 +14992,7 @@
   },
   {
     "word": "involved",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/invol/involved__gb_1.mp3",
     "phonetic_text": "/ɪnˈvɒlvd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/invol/involved__us_1.mp3",
@@ -15082,7 +15082,7 @@
   },
   {
     "word": "involvement",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/invol/involvement__gb_1.mp3",
     "phonetic_text": "/ɪnˈvɒlvmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/invol/involvement__us_1.mp3",
@@ -15135,7 +15135,7 @@
   },
   {
     "word": "iron",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/iro/iron_/iron__gb_1.mp3",
     "phonetic_text": "/ˈaɪən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/iro/iron_/iron__us_2.mp3",
@@ -15256,7 +15256,7 @@
   },
   {
     "word": "ironic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/iro/ironi/ironic__gb_1.mp3",
     "phonetic_text": "/aɪˈrɒnɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/iro/ironi/ironic__us_1.mp3",
@@ -15284,7 +15284,7 @@
   },
   {
     "word": "ironically",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/iro/ironi/ironically__gb_1.mp3",
     "phonetic_text": "/aɪˈrɒnɪkli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/iro/ironi/ironically__us_1.mp3",
@@ -15312,7 +15312,7 @@
   },
   {
     "word": "irony",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/iro/irony/irony__gb_1.mp3",
     "phonetic_text": "/ˈaɪrəni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/iro/irony/irony__us_1_rr.mp3",
@@ -15352,7 +15352,7 @@
   },
   {
     "word": "irrelevant",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/irr/irrel/irrelevant__gb_1.mp3",
     "phonetic_text": "/ɪˈreləvənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/irr/irrel/irrelevant__us_1.mp3",
@@ -15387,7 +15387,7 @@
   },
   {
     "word": "island",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/isl/islan/island__gb_2.mp3",
     "phonetic_text": "/ˈaɪlənd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/isl/islan/island__us_1.mp3",
@@ -15496,7 +15496,7 @@
   },
   {
     "word": "isolated",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/iso/isola/isolated__gb_3.mp3",
     "phonetic_text": "/ˈaɪsəleɪtɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/iso/isola/isolated__us_1.mp3",
@@ -15541,7 +15541,7 @@
   },
   {
     "word": "isolation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/iso/isola/isolation__gb_1.mp3",
     "phonetic_text": "/ˌaɪsəˈleɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/iso/isola/isolation__us_1.mp3",
@@ -15598,7 +15598,7 @@
   },
   {
     "word": "issue",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/iss/issue/issue__gb_3.mp3",
     "phonetic_text": "/ˈɪʃuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/iss/issue/issue__us_2.mp3",
@@ -15888,7 +15888,7 @@
   },
   {
     "word": "IT",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/i_t/i_t__/i_t__1_gb_1_abbr.mp3",
     "phonetic_text": "/ˌaɪ ˈtiː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/i_t/i_t__/i_t__1_us_1_abbr.mp3",
@@ -15927,7 +15927,7 @@
   },
   {
     "word": "it",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/it_/it__g/it__gb_2.mp3",
     "phonetic_text": "/ɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/it_/it__u/it__us_2.mp3",
@@ -16146,7 +16146,7 @@
   },
   {
     "word": "item",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ite/item_/item__gb_2.mp3",
     "phonetic_text": "/ˈaɪtəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ite/item_/item__us_1.mp3",
@@ -16244,7 +16244,7 @@
   },
   {
     "word": "its",
-    "pos": "verb",
+    "pos": "determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/its/its__/its__gb_1.mp3",
     "phonetic_text": "/ɪts/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/its/its__/its__us_1.mp3",
@@ -16275,7 +16275,7 @@
   },
   {
     "word": "itself",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/its/itsel/itself__gb_1.mp3",
     "phonetic_text": "/ɪtˈself/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/its/itsel/itself__us_1.mp3",
@@ -16360,7 +16360,7 @@
   },
   {
     "word": "impossible",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impos/impossible__gb_3.mp3",
     "phonetic_text": "/ɪmˈpɒsəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impos/impossible__us_1.mp3",

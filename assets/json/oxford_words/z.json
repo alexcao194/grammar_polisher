@@ -1,7 +1,7 @@
 [
   {
     "word": "zero",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/z/zer/zero_/zero__gb_1.mp3",
     "phonetic_text": "/ˈzɪərəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zer/zero_/zero__us_1_rr.mp3",
@@ -46,7 +46,7 @@
   },
   {
     "word": "zone",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/z/zon/zone_/zone__gb_1.mp3",
     "phonetic_text": "/zəʊn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zon/zone_/zone__us_1.mp3",

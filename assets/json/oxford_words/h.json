@@ -1,7 +1,7 @@
 [
   {
     "word": "habit",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hab/habit/habit__gb_2.mp3",
     "phonetic_text": "/ˈhæbɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hab/habit/habit__us_1.mp3",
@@ -99,7 +99,7 @@
   },
   {
     "word": "habitat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hab/habit/habitat__gb_4.mp3",
     "phonetic_text": "/ˈhæbɪtæt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hab/habit/habitat__us_1.mp3",
@@ -188,7 +188,7 @@
   },
   {
     "word": "hair",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hai/hair_/hair__gb_1.mp3",
     "phonetic_text": "/heə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hai/hair_/hair__us_1.mp3",
@@ -371,7 +371,7 @@
   },
   {
     "word": "half",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hal/half_/half__gb_3.mp3",
     "phonetic_text": "/hɑːf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hal/half_/half__us_1.mp3",
@@ -497,7 +497,7 @@
   },
   {
     "word": "half",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hal/half_/half__gb_3.mp3",
     "phonetic_text": "/hɑːf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hal/half_/half__us_1.mp3",
@@ -567,7 +567,7 @@
   },
   {
     "word": "half",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hal/half_/half__gb_3.mp3",
     "phonetic_text": "/hɑːf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hal/half_/half__us_1.mp3",
@@ -743,7 +743,7 @@
   },
   {
     "word": "half",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hal/half_/half__gb_3.mp3",
     "phonetic_text": "/hɑːf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hal/half_/half__us_1.mp3",
@@ -813,7 +813,7 @@
   },
   {
     "word": "halfway",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hal/halfw/halfway__gb_2.mp3",
     "phonetic_text": "/ˌhɑːfˈweɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hal/halfw/halfway__us_1.mp3",
@@ -867,7 +867,7 @@
   },
   {
     "word": "hall",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hal/hall_/hall__gb_2.mp3",
     "phonetic_text": "/hɔːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hal/hall_/hall__us_1.mp3",
@@ -958,7 +958,7 @@
   },
   {
     "word": "halt",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hal/halt_/halt__gb_3.mp3",
     "phonetic_text": "/hɔːlt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hal/halt_/halt__us_1.mp3",
@@ -1067,7 +1067,7 @@
   },
   {
     "word": "hand",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/han/hand_/hand__gb_2.mp3",
     "phonetic_text": "/hænd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/han/hand_/hand__us_1.mp3",
@@ -2142,7 +2142,7 @@
   },
   {
     "word": "handful",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/han/handf/handful__gb_1.mp3",
     "phonetic_text": "/ˈhændfʊl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/han/handf/handful__us_1.mp3",
@@ -2187,7 +2187,7 @@
   },
   {
     "word": "handle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/han/handl/handle__gb_1.mp3",
     "phonetic_text": "/ˈhændl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/han/handl/handle__us_2.mp3",
@@ -2379,7 +2379,7 @@
   },
   {
     "word": "handling",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/han/handl/handling__gb_1.mp3",
     "phonetic_text": "/ˈhændlɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/han/handl/handling__us_1.mp3",
@@ -2458,7 +2458,7 @@
   },
   {
     "word": "handy",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/han/handy/handy__gb_1.mp3",
     "phonetic_text": "/ˈhændi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/han/handy/handy__us_1.mp3",
@@ -3013,7 +3013,7 @@
   },
   {
     "word": "happily",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hap/happi/happily__gb_1.mp3",
     "phonetic_text": "/ˈhæpɪli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hap/happi/happily__us_2.mp3",
@@ -3075,7 +3075,7 @@
   },
   {
     "word": "happiness",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hap/happi/happiness__gb_1.mp3",
     "phonetic_text": "/ˈhæpinəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hap/happi/happiness__us_1.mp3",
@@ -3119,7 +3119,7 @@
   },
   {
     "word": "happy",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hap/happy/happy__gb_1.mp3",
     "phonetic_text": "/ˈhæpi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hap/happy/happy__us_2.mp3",
@@ -3309,7 +3309,7 @@
   },
   {
     "word": "harassment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/haras/harassment__gb_3.mp3",
     "phonetic_text": "/ˈhærəsmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/haras/harassment__us_5.mp3",
@@ -3341,7 +3341,7 @@
   },
   {
     "word": "harbour",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/harbo/harbour__gb_1.mp3",
     "phonetic_text": "/ˈhɑːbə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/harbo/harbour__us_1.mp3",
@@ -3372,7 +3372,7 @@
   },
   {
     "word": "hard",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/hard_/hard__gb_1.mp3",
     "phonetic_text": "/hɑːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/hard_/hard__us_1.mp3",
@@ -3795,7 +3795,7 @@
   },
   {
     "word": "hard",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/hard_/hard__gb_1.mp3",
     "phonetic_text": "/hɑːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/hard_/hard__us_1.mp3",
@@ -3964,7 +3964,7 @@
   },
   {
     "word": "hardly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/hardl/hardly__gb_1.mp3",
     "phonetic_text": "/ˈhɑːdli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/hardl/hardly__us_1.mp3",
@@ -4074,7 +4074,7 @@
   },
   {
     "word": "hardware",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/hardw/hardware__gb_1.mp3",
     "phonetic_text": "/ˈhɑːdweə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/hardw/hardware__us_1.mp3",
@@ -4111,7 +4111,7 @@
   },
   {
     "word": "harm",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/harm_/harm__gb_1.mp3",
     "phonetic_text": "/hɑːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/harm_/harm__us_1.mp3",
@@ -4261,7 +4261,7 @@
   },
   {
     "word": "harmful",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/harmf/harmful__gb_3.mp3",
     "phonetic_text": "/ˈhɑːmfl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/harmf/harmful__us_1.mp3",
@@ -4300,7 +4300,7 @@
   },
   {
     "word": "harmony",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/harmo/harmony__gb_1.mp3",
     "phonetic_text": "/ˈhɑːməni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/harmo/harmony__us_1.mp3",
@@ -4357,7 +4357,7 @@
   },
   {
     "word": "harsh",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/harsh/harsh__gb_1.mp3",
     "phonetic_text": "/hɑːʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/harsh/harsh__us_1.mp3",
@@ -4452,7 +4452,7 @@
   },
   {
     "word": "harvest",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/harve/harvest__gb_1.mp3",
     "phonetic_text": "/ˈhɑːvɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/harve/harvest__us_1.mp3",
@@ -4528,7 +4528,7 @@
   },
   {
     "word": "hat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hat/hat__/hat__gb_2.mp3",
     "phonetic_text": "/hæt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hat/hat__/hat__us_1.mp3",
@@ -4653,7 +4653,7 @@
   },
   {
     "word": "hate",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hat/hate_/hate__gb_3.mp3",
     "phonetic_text": "/heɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hat/hate_/hate__us_1.mp3",
@@ -4829,7 +4829,7 @@
   },
   {
     "word": "hatred",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hat/hatre/hatred__gb_1.mp3",
     "phonetic_text": "/ˈheɪtrɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hat/hatre/hatred__us_1.mp3",
@@ -5472,7 +5472,7 @@
   },
   {
     "word": "have",
-    "pos": "verb",
+    "pos": "auxiliary verb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hav/have_/have__gb_1.mp3",
     "phonetic_text": "/həv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hav/have_/have__us_1_rr.mp3",
@@ -5515,7 +5515,7 @@
   },
   {
     "word": "hazard",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/haz/hazar/hazard__gb_1.mp3",
     "phonetic_text": "/ˈhæzəd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/haz/hazar/hazard__us_1.mp3",
@@ -5546,7 +5546,7 @@
   },
   {
     "word": "he",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/he_/he__g/he__gb_1.mp3",
     "phonetic_text": "/hi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/he_/he__u/he__us_1.mp3",
@@ -5586,7 +5586,7 @@
   },
   {
     "word": "head",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/head_/head__gb_1.mp3",
     "phonetic_text": "/hed/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/head_/head__us_1.mp3",
@@ -6510,7 +6510,7 @@
   },
   {
     "word": "headache",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/heada/headache__gb_1.mp3",
     "phonetic_text": "/ˈhedeɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/heada/headache__us_1.mp3",
@@ -6562,7 +6562,7 @@
   },
   {
     "word": "headline",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/headl/headline__gb_1.mp3",
     "phonetic_text": "/ˈhedlaɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/headl/headline__us_1.mp3",
@@ -6615,7 +6615,7 @@
   },
   {
     "word": "headquarters",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/headq/headquarters__gb_1.mp3",
     "phonetic_text": "/ˌhedˈkwɔːtəz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/headq/headquarters__us_1_rr.mp3",
@@ -6707,7 +6707,7 @@
   },
   {
     "word": "health",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/healt/health__gb_2.mp3",
     "phonetic_text": "/helθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/healt/health__us_1.mp3",
@@ -6871,7 +6871,7 @@
   },
   {
     "word": "healthcare",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/healt/health_care_1_gb_2.mp3",
     "phonetic_text": "/ˈhelθ keə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/healt/health_care_1_us_1.mp3",
@@ -6898,7 +6898,7 @@
   },
   {
     "word": "healthy",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/healt/healthy__gb_2.mp3",
     "phonetic_text": "/ˈhelθi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/healt/healthy__us_1.mp3",
@@ -7293,7 +7293,7 @@
   },
   {
     "word": "hearing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/heari/hearing__gb_1.mp3",
     "phonetic_text": "/ˈhɪərɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/heari/hearing__us_3.mp3",
@@ -7384,7 +7384,7 @@
   },
   {
     "word": "heart",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/heart/heart__gb_1.mp3",
     "phonetic_text": "/hɑːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/heart/heart__us_1.mp3",
@@ -8028,7 +8028,7 @@
   },
   {
     "word": "heat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/heat_/heat__gb_1.mp3",
     "phonetic_text": "/hiːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/heat_/heat__us_1.mp3",
@@ -8267,7 +8267,7 @@
   },
   {
     "word": "heating",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/heati/heating__gb_1.mp3",
     "phonetic_text": "/ˈhiːtɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/heati/heating__us_1.mp3",
@@ -8310,7 +8310,7 @@
   },
   {
     "word": "heaven",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/heave/heaven__gb_1.mp3",
     "phonetic_text": "/ˈhevn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/heave/heaven__us_2.mp3",
@@ -8520,7 +8520,7 @@
   },
   {
     "word": "heavily",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/heavi/heavily__gb_1.mp3",
     "phonetic_text": "/ˈhevɪli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/heavi/heavily__us_1.mp3",
@@ -8652,7 +8652,7 @@
   },
   {
     "word": "heavy",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/heavy/heavy__gb_1.mp3",
     "phonetic_text": "/ˈhevi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/heavy/heavy__us_1.mp3",
@@ -9023,7 +9023,7 @@
   },
   {
     "word": "heel",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hee/heel_/heel__gb_1.mp3",
     "phonetic_text": "/hiːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hee/heel_/heel__us_1.mp3",
@@ -9221,7 +9221,7 @@
   },
   {
     "word": "height",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hei/heigh/height__gb_1.mp3",
     "phonetic_text": "/haɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hei/heigh/height__us_1.mp3",
@@ -9443,7 +9443,7 @@
   },
   {
     "word": "helicopter",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hel/helic/helicopter__gb_2.mp3",
     "phonetic_text": "/ˈhelɪkɒptə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hel/helic/helicopter__us_1.mp3",
@@ -9478,7 +9478,7 @@
   },
   {
     "word": "hell",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hel/hell_/hell__gb_1.mp3",
     "phonetic_text": "/hel/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hel/hell_/hell__us_1.mp3",
@@ -9822,7 +9822,7 @@
   },
   {
     "word": "hello",
-    "pos": "verb",
+    "pos": "exclamation, noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hel/hello/hello__gb_1.mp3",
     "phonetic_text": "/həˈləʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hel/hello/hello__us_1_rr.mp3",
@@ -9875,7 +9875,7 @@
   },
   {
     "word": "hello",
-    "pos": "verb",
+    "pos": "exclamation, noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hel/hello/hello__gb_1.mp3",
     "phonetic_text": "/həˈləʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hel/hello/hello__us_1_rr.mp3",
@@ -9928,7 +9928,7 @@
   },
   {
     "word": "helmet",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hel/helme/helmet__gb_1.mp3",
     "phonetic_text": "/ˈhelmɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hel/helme/helmet__us_1.mp3",
@@ -9955,7 +9955,7 @@
   },
   {
     "word": "help",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hel/help_/help__gb_1.mp3",
     "phonetic_text": "/help/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hel/help_/help__us_1.mp3",
@@ -10326,7 +10326,7 @@
   },
   {
     "word": "helpful",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hel/helpf/helpful__gb_1.mp3",
     "phonetic_text": "/ˈhelpfl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hel/helpf/helpful__us_1.mp3",
@@ -10398,7 +10398,7 @@
   },
   {
     "word": "hence",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hen/hence/hence__gb_2.mp3",
     "phonetic_text": "/hens/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hen/hence/hence__us_1.mp3",
@@ -10426,7 +10426,7 @@
   },
   {
     "word": "her",
-    "pos": "verb",
+    "pos": "determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/her/her__/her__gb_1.mp3",
     "phonetic_text": "/hə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/her/her__/her__us_3_rr.mp3",
@@ -10449,7 +10449,7 @@
   },
   {
     "word": "her",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/her/her__/her__gb_1.mp3",
     "phonetic_text": "/hə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/her/her__/her__us_3_rr.mp3",
@@ -10480,7 +10480,7 @@
   },
   {
     "word": "herb",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/her/herb_/herb__gb_1.mp3",
     "phonetic_text": "/hɜːb/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/her/herb_/herb__us_1.mp3",
@@ -10507,7 +10507,7 @@
   },
   {
     "word": "here",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/her/here_/here__gb_1.mp3",
     "phonetic_text": "/hɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/her/here_/here__us_1.mp3",
@@ -10695,7 +10695,7 @@
   },
   {
     "word": "heritage",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/her/herit/heritage__gb_1.mp3",
     "phonetic_text": "/ˈherɪtɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/her/herit/heritage__us_1.mp3",
@@ -10752,7 +10752,7 @@
   },
   {
     "word": "hero",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/her/hero_/hero__gb_1.mp3",
     "phonetic_text": "/ˈhɪərəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/her/hero_/hero__us_1_rr.mp3",
@@ -10825,7 +10825,7 @@
   },
   {
     "word": "hers",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/her/hers_/hers__gb_1.mp3",
     "phonetic_text": "/hɜːz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/her/hers_/hers__us_1.mp3",
@@ -10852,7 +10852,7 @@
   },
   {
     "word": "herself",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/her/herse/herself__gb_1.mp3",
     "phonetic_text": "/hɜːˈself/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/her/herse/herself__us_3.mp3",
@@ -10993,7 +10993,7 @@
   },
   {
     "word": "hey",
-    "pos": "verb",
+    "pos": "exclamation",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hey/hey__/hey__gb_1.mp3",
     "phonetic_text": "/heɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hey/hey__/hey__us_1.mp3",
@@ -11056,7 +11056,7 @@
   },
   {
     "word": "hi",
-    "pos": "verb",
+    "pos": "exclamation",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hi_/hi__g/hi__gb_1.mp3",
     "phonetic_text": "/haɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hi_/hi__u/hi__us_1.mp3",
@@ -11083,7 +11083,7 @@
   },
   {
     "word": "hidden",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hid/hidde/hidden__gb_1.mp3",
     "phonetic_text": "/ˈhɪdn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hid/hidde/hidden__us_1.mp3",
@@ -11238,7 +11238,7 @@
   },
   {
     "word": "hierarchy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hie/hiera/hierarchy__gb_2.mp3",
     "phonetic_text": "/ˈhaɪərɑːki/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hie/hiera/hierarchy__us_1.mp3",
@@ -11283,7 +11283,7 @@
   },
   {
     "word": "high",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hig/high_/high__gb_1.mp3",
     "phonetic_text": "/haɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hig/high_/high__us_1.mp3",
@@ -11674,7 +11674,7 @@
   },
   {
     "word": "high",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hig/high_/high__gb_1.mp3",
     "phonetic_text": "/haɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hig/high_/high__us_1.mp3",
@@ -11797,7 +11797,7 @@
   },
   {
     "word": "high",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hig/high_/high__gb_1.mp3",
     "phonetic_text": "/haɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hig/high_/high__us_1.mp3",
@@ -11900,7 +11900,7 @@
   },
   {
     "word": "highlight",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hig/highl/highlight__gb_2.mp3",
     "phonetic_text": "/ˈhaɪlaɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hig/highl/highlight__us_1.mp3",
@@ -12001,7 +12001,7 @@
   },
   {
     "word": "highly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hig/highl/highly__gb_1.mp3",
     "phonetic_text": "/ˈhaɪli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hig/highl/highly__us_1.mp3",
@@ -12082,7 +12082,7 @@
   },
   {
     "word": "highway",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hig/highw/highway__gb_1.mp3",
     "phonetic_text": "/ˈhaɪweɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hig/highw/highway__us_1.mp3",
@@ -12122,7 +12122,7 @@
   },
   {
     "word": "hilarious",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hil/hilar/hilarious__gb_1.mp3",
     "phonetic_text": "/hɪˈleəriəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hil/hilar/hilarious__us_1.mp3",
@@ -12149,7 +12149,7 @@
   },
   {
     "word": "hill",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hil/hill_/hill__gb_1.mp3",
     "phonetic_text": "/hɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hil/hill_/hill__us_1.mp3",
@@ -12238,7 +12238,7 @@
   },
   {
     "word": "him",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/him/him__/him__gb_1.mp3",
     "phonetic_text": "/hɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/him/him__/him__us_1_rr.mp3",
@@ -12273,7 +12273,7 @@
   },
   {
     "word": "himself",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/him/himse/himself__gb_1.mp3",
     "phonetic_text": "/hɪmˈself/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/him/himse/himself__us_1_rr.mp3",
@@ -12354,7 +12354,7 @@
   },
   {
     "word": "hint",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hin/hint_/hint__gb_1.mp3",
     "phonetic_text": "/hɪnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hin/hint_/hint__us_1.mp3",
@@ -12472,7 +12472,7 @@
   },
   {
     "word": "hip",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hip/hip__/hip__gb_1.mp3",
     "phonetic_text": "/hɪp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hip/hip__/hip__us_1.mp3",
@@ -12528,7 +12528,7 @@
   },
   {
     "word": "hire",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hir/hire_/hire__gb_1.mp3",
     "phonetic_text": "/ˈhaɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hir/hire_/hire__us_1.mp3",
@@ -12650,7 +12650,7 @@
   },
   {
     "word": "his",
-    "pos": "verb",
+    "pos": "determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/his/his__/his__gb_1.mp3",
     "phonetic_text": "/hɪz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/his/his__/his__us_3_rr.mp3",
@@ -12681,7 +12681,7 @@
   },
   {
     "word": "his",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/his/his__/his__gb_1.mp3",
     "phonetic_text": "/hɪz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/his/his__/his__us_3_rr.mp3",
@@ -12708,7 +12708,7 @@
   },
   {
     "word": "historian",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/his/histo/historian__gb_1.mp3",
     "phonetic_text": "/hɪˈstɔːriən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/his/histo/historian__us_1.mp3",
@@ -12755,7 +12755,7 @@
   },
   {
     "word": "historic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/his/histo/historic__gb_2.mp3",
     "phonetic_text": "/hɪˈstɒrɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/his/histo/historic__us_1_rr.mp3",
@@ -12828,7 +12828,7 @@
   },
   {
     "word": "historical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/his/histo/historical__gb_1.mp3",
     "phonetic_text": "/hɪˈstɒrɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/his/histo/historical__us_1_rr.mp3",
@@ -12889,7 +12889,7 @@
   },
   {
     "word": "history",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/his/histo/history__gb_3.mp3",
     "phonetic_text": "/ˈhɪstri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/his/histo/history__us_2_rr.mp3",
@@ -13116,7 +13116,7 @@
   },
   {
     "word": "hit",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hit/hit__/hit__gb_1.mp3",
     "phonetic_text": "/hɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hit/hit__/hit__us_1.mp3",
@@ -13744,7 +13744,7 @@
   },
   {
     "word": "hobby",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hob/hobby/hobby__gb_1.mp3",
     "phonetic_text": "/ˈhɒbi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hob/hobby/hobby__us_1.mp3",
@@ -13779,7 +13779,7 @@
   },
   {
     "word": "hockey",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hoc/hocke/hockey__gb_1.mp3",
     "phonetic_text": "/ˈhɒki/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hoc/hocke/hockey__us_1.mp3",
@@ -13819,7 +13819,7 @@
   },
   {
     "word": "hold",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hol/hold_/hold__gb_1.mp3",
     "phonetic_text": "/həʊld/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hol/hold_/hold__us_1.mp3",
@@ -14492,7 +14492,7 @@
   },
   {
     "word": "hole",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hol/hole_/hole__gb_1.mp3",
     "phonetic_text": "/həʊl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hol/hole_/hole__us_1.mp3",
@@ -14681,7 +14681,7 @@
   },
   {
     "word": "holiday",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hol/holid/holiday__gb_1.mp3",
     "phonetic_text": "/ˈhɒlədeɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hol/holid/holiday__us_1.mp3",
@@ -14795,7 +14795,7 @@
   },
   {
     "word": "hollow",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hol/hollo/hollow__gb_1.mp3",
     "phonetic_text": "/ˈhɒləʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hol/hollo/hollow__us_1.mp3",
@@ -14904,7 +14904,7 @@
   },
   {
     "word": "holy",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hol/holy_/holy__gb_1.mp3",
     "phonetic_text": "/ˈhəʊli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hol/holy_/holy__us_1.mp3",
@@ -14965,7 +14965,7 @@
   },
   {
     "word": "home",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hom/home_/home__gb_1.mp3",
     "phonetic_text": "/həʊm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hom/home_/home__us_1.mp3",
@@ -15039,7 +15039,7 @@
   },
   {
     "word": "home",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hom/home_/home__gb_1.mp3",
     "phonetic_text": "/həʊm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hom/home_/home__us_1.mp3",
@@ -15222,7 +15222,7 @@
   },
   {
     "word": "home",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hom/home_/home__gb_1.mp3",
     "phonetic_text": "/həʊm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hom/home_/home__us_1.mp3",
@@ -15595,7 +15595,7 @@
   },
   {
     "word": "homeland",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hom/homel/homeland__gb_1.mp3",
     "phonetic_text": "/ˈhəʊmlænd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hom/homel/homeland__us_1.mp3",
@@ -15623,7 +15623,7 @@
   },
   {
     "word": "homeless",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hom/homel/homeless__gb_1.mp3",
     "phonetic_text": "/ˈhəʊmləs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hom/homel/homeless__us_1.mp3",
@@ -15659,7 +15659,7 @@
   },
   {
     "word": "homework",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hom/homew/homework__gb_1.mp3",
     "phonetic_text": "/ˈhəʊmwɜːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hom/homew/homework__us_1.mp3",
@@ -15707,7 +15707,7 @@
   },
   {
     "word": "honest",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hon/hones/honest__gb_2.mp3",
     "phonetic_text": "/ˈɒnɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hon/hones/honest__us_1.mp3",
@@ -15839,7 +15839,7 @@
   },
   {
     "word": "honesty",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hon/hones/honesty__gb_1.mp3",
     "phonetic_text": "/ˈɒnəsti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hon/hones/honesty__us_1.mp3",
@@ -15879,7 +15879,7 @@
   },
   {
     "word": "honour",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hon/honou/honour__gb_1.mp3",
     "phonetic_text": "/ˈɒnə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hon/honou/honour__us_1.mp3",
@@ -16235,7 +16235,7 @@
   },
   {
     "word": "hook",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hoo/hook_/hook__gb_1.mp3",
     "phonetic_text": "/hʊk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hoo/hook_/hook__us_1.mp3",
@@ -16442,7 +16442,7 @@
   },
   {
     "word": "hope",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hop/hope_/hope__gb_1.mp3",
     "phonetic_text": "/həʊp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hop/hope_/hope__us_1.mp3",
@@ -16751,7 +16751,7 @@
   },
   {
     "word": "hopeful",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hop/hopef/hopeful__gb_1.mp3",
     "phonetic_text": "/ˈhəʊpfl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hop/hopef/hopeful__us_1.mp3",
@@ -16800,7 +16800,7 @@
   },
   {
     "word": "hopefully",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hop/hopef/hopefully__gb_1.mp3",
     "phonetic_text": "/ˈhəʊpfəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hop/hopef/hopefully__us_1.mp3",
@@ -16828,7 +16828,7 @@
   },
   {
     "word": "horizon",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hor/horiz/horizon__gb_1.mp3",
     "phonetic_text": "/həˈraɪzn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horiz/horizon__us_1.mp3",
@@ -16873,7 +16873,7 @@
   },
   {
     "word": "horn",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hor/horn_/horn__gb_1.mp3",
     "phonetic_text": "/hɔːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horn_/horn__us_1.mp3",
@@ -16980,7 +16980,7 @@
   },
   {
     "word": "horrible",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hor/horri/horrible__gb_1.mp3",
     "phonetic_text": "/ˈhɒrəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horri/horrible__us_1_rr.mp3",
@@ -17065,7 +17065,7 @@
   },
   {
     "word": "horror",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hor/horro/horror__gb_2.mp3",
     "phonetic_text": "/ˈhɒrə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horro/horror__us_1_rr.mp3",
@@ -17207,7 +17207,7 @@
   },
   {
     "word": "horse",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hor/horse/horse__gb_1.mp3",
     "phonetic_text": "/hɔːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horse/horse__us_1.mp3",
@@ -17354,7 +17354,7 @@
   },
   {
     "word": "hospital",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hos/hospi/hospital__gb_2.mp3",
     "phonetic_text": "/ˈhɒspɪtl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hos/hospi/hospital__us_2.mp3",
@@ -17473,7 +17473,7 @@
   },
   {
     "word": "host",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hos/host_/host__gb_1.mp3",
     "phonetic_text": "/həʊst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hos/host_/host__us_1.mp3",
@@ -17639,7 +17639,7 @@
   },
   {
     "word": "hostage",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hos/hosta/hostage__gb_1.mp3",
     "phonetic_text": "/ˈhɒstɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hos/hosta/hostage__us_1.mp3",
@@ -17682,7 +17682,7 @@
   },
   {
     "word": "hostile",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hos/hosti/hostile__gb_1.mp3",
     "phonetic_text": "/ˈhɒstaɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hos/hosti/hostile__us_1_rr.mp3",
@@ -17749,7 +17749,7 @@
   },
   {
     "word": "hostility",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hos/hosti/hostility__gb_1.mp3",
     "phonetic_text": "/hɒˈstɪləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hos/hosti/hostility__us_1.mp3",
@@ -17802,7 +17802,7 @@
   },
   {
     "word": "hot",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hot/hot__/hot__gb_4.mp3",
     "phonetic_text": "/hɒt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hot/hot__/hot__us_1.mp3",
@@ -18174,7 +18174,7 @@
   },
   {
     "word": "hotel",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hot/hotel/hotel__gb_4.mp3",
     "phonetic_text": "/həʊˈtel/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hot/hotel/hotel__us_2.mp3",
@@ -18221,7 +18221,7 @@
   },
   {
     "word": "hour",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hou/hour_/hour__gb_1.mp3",
     "phonetic_text": "/ˈaʊə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hou/hour_/hour__us_2.mp3",
@@ -18521,7 +18521,7 @@
   },
   {
     "word": "house",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hou/house/house__gb_3.mp3",
     "phonetic_text": "/haʊs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hou/house/house__us_1.mp3",
@@ -18861,7 +18861,7 @@
   },
   {
     "word": "household",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hou/house/household__gb_1.mp3",
     "phonetic_text": "/ˈhaʊshəʊld/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hou/house/household__us_1_rr.mp3",
@@ -18908,7 +18908,7 @@
   },
   {
     "word": "housing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hou/housi/housing__gb_1.mp3",
     "phonetic_text": "/ˈhaʊzɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hou/housi/housing__us_3.mp3",
@@ -18981,7 +18981,7 @@
   },
   {
     "word": "how",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/how/how__/how__gb_1.mp3",
     "phonetic_text": "/haʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/how/how__/how__us_1.mp3",
@@ -19179,7 +19179,7 @@
   },
   {
     "word": "however",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/how/howev/however__gb_2.mp3",
     "phonetic_text": "/haʊˈevə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/how/howev/however__us_2.mp3",
@@ -19232,7 +19232,7 @@
   },
   {
     "word": "huge",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hug/huge_/huge__gb_1.mp3",
     "phonetic_text": "/hjuːdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hug/huge_/huge__us_1.mp3",
@@ -19288,7 +19288,7 @@
   },
   {
     "word": "human",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hum/human/human__gb_1.mp3",
     "phonetic_text": "/ˈhjuːmən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hum/human/human__us_2.mp3",
@@ -19395,7 +19395,7 @@
   },
   {
     "word": "human",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hum/human/human__gb_1.mp3",
     "phonetic_text": "/ˈhjuːmən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hum/human/human__us_2.mp3",
@@ -19422,7 +19422,7 @@
   },
   {
     "word": "humanitarian",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hum/human/humanitarian__gb_1.mp3",
     "phonetic_text": "/hjuːˌmænɪˈteəriən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hum/human/humanitarian__us_1.mp3",
@@ -19470,7 +19470,7 @@
   },
   {
     "word": "humanity",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hum/human/humanity__gb_1.mp3",
     "phonetic_text": "/hjuːˈmænəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hum/human/humanity__us_1.mp3",
@@ -19528,7 +19528,7 @@
   },
   {
     "word": "humble",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hum/humbl/humble__gb_1.mp3",
     "phonetic_text": "/ˈhʌmbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hum/humbl/humble__us_1.mp3",
@@ -19602,7 +19602,7 @@
   },
   {
     "word": "humorous",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hum/humor/humorous__gb_1.mp3",
     "phonetic_text": "/ˈhjuːmərəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hum/humor/humorous__us_2.mp3",
@@ -19633,7 +19633,7 @@
   },
   {
     "word": "humour",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hum/humou/humour__gb_1.mp3",
     "phonetic_text": "/ˈhjuːmə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hum/humou/humour__us_2.mp3",
@@ -19705,7 +19705,7 @@
   },
   {
     "word": "hundred",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hun/hundr/hundred__gb_1.mp3",
     "phonetic_text": "/ˈhʌndrəd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hun/hundr/hundred__us_2.mp3",
@@ -19831,7 +19831,7 @@
   },
   {
     "word": "hunger",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hun/hunge/hunger__gb_1.mp3",
     "phonetic_text": "/ˈhʌŋɡə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hun/hunge/hunger__us_1.mp3",
@@ -19880,7 +19880,7 @@
   },
   {
     "word": "hungry",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hun/hungr/hungry__gb_2.mp3",
     "phonetic_text": "/ˈhʌŋɡri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hun/hungr/hungry__us_2.mp3",
@@ -19974,7 +19974,7 @@
   },
   {
     "word": "hunt",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hun/hunt_/hunt__gb_1.mp3",
     "phonetic_text": "/hʌnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hun/hunt_/hunt__us_1.mp3",
@@ -20139,7 +20139,7 @@
   },
   {
     "word": "hunting",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hun/hunti/hunting__gb_1.mp3",
     "phonetic_text": "/ˈhʌntɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hun/hunti/hunting__us_4.mp3",
@@ -20187,7 +20187,7 @@
   },
   {
     "word": "hurricane",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hur/hurri/hurricane__gb_3.mp3",
     "phonetic_text": "/ˈhʌrɪkən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hur/hurri/hurricane__us_4.mp3",
@@ -20226,7 +20226,7 @@
   },
   {
     "word": "hurry",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hur/hurry/hurry__gb_1.mp3",
     "phonetic_text": "/ˈhʌri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hur/hurry/hurry__us_1.mp3",
@@ -20414,7 +20414,7 @@
   },
   {
     "word": "hurt",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hur/hurt_/hurt__gb_1.mp3",
     "phonetic_text": "/hɜːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hur/hurt_/hurt__us_1.mp3",
@@ -20462,7 +20462,7 @@
   },
   {
     "word": "hurt",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hur/hurt_/hurt__gb_1.mp3",
     "phonetic_text": "/hɜːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hur/hurt_/hurt__us_1.mp3",
@@ -20642,7 +20642,7 @@
   },
   {
     "word": "husband",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hus/husba/husband__gb_1.mp3",
     "phonetic_text": "/ˈhʌzbənd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hus/husba/husband__us_4.mp3",
@@ -20698,7 +20698,7 @@
   },
   {
     "word": "hydrogen",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hyd/hydro/hydrogen__gb_1.mp3",
     "phonetic_text": "/ˈhaɪdrədʒən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hyd/hydro/hydrogen__us_1.mp3",
@@ -20712,7 +20712,7 @@
   },
   {
     "word": "hypothesis",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hyp/hypot/hypothesis__gb_5.mp3",
     "phonetic_text": "/haɪˈpɒθəsɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hyp/hypot/hypothesis__us_1.mp3",

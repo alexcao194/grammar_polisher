@@ -1,7 +1,7 @@
 [
   {
     "word": "line-up",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lin/line_/line_up_1_gb_1.mp3",
     "phonetic_text": "/ˈlaɪn ʌp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lin/line_/line_up_1_us_1.mp3",
@@ -50,7 +50,7 @@
   },
   {
     "word": "make-up",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mak/make_/make_up_1_gb_1.mp3",
     "phonetic_text": "/ˈmeɪk ʌp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mak/make_/make_up_1_us_1.mp3",
@@ -131,7 +131,7 @@
   },
   {
     "word": "set-up",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/set/set_u/set_up_1_gb_1.mp3",
     "phonetic_text": "/ˈset ʌp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/set/set_u/set_up_1_us_1.mp3",
@@ -163,7 +163,7 @@
   },
   {
     "word": "ugly",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/ugl/ugly_/ugly__gb_2.mp3",
     "phonetic_text": "/ˈʌɡli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/ugl/ugly_/ugly__us_2.mp3",
@@ -227,7 +227,7 @@
   },
   {
     "word": "ultimate",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/ult/ultim/ultimate__gb_1.mp3",
     "phonetic_text": "/ˈʌltɪmət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/ult/ultim/ultimate__us_1.mp3",
@@ -284,7 +284,7 @@
   },
   {
     "word": "ultimately",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/ult/ultim/ultimately__gb_2.mp3",
     "phonetic_text": "/ˈʌltɪmətli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/ult/ultim/ultimately__us_1.mp3",
@@ -336,7 +336,7 @@
   },
   {
     "word": "umbrella",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/umb/umbre/umbrella__gb_2.mp3",
     "phonetic_text": "/ʌmˈbrelə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/umb/umbre/umbrella__us_1.mp3",
@@ -401,7 +401,7 @@
   },
   {
     "word": "unable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/una/unabl/unable__gb_1.mp3",
     "phonetic_text": "/ʌnˈeɪbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/una/unabl/unable__us_2.mp3",
@@ -476,7 +476,7 @@
   },
   {
     "word": "unacceptable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/una/unacc/unacceptable__gb_1.mp3",
     "phonetic_text": "/ˌʌnəkˈseptəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/una/unacc/unacceptable__us_1.mp3",
@@ -499,7 +499,7 @@
   },
   {
     "word": "uncertainty",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unc/uncer/uncertainty__gb_1.mp3",
     "phonetic_text": "/ʌnˈsɜːtnti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unc/uncer/uncertainty__us_1.mp3",
@@ -535,7 +535,7 @@
   },
   {
     "word": "uncle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unc/uncle/uncle__gb_2.mp3",
     "phonetic_text": "/ˈʌŋkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unc/uncle/uncle__us_1.mp3",
@@ -600,7 +600,7 @@
   },
   {
     "word": "uncomfortable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unc/uncom/uncomfortable__gb_1.mp3",
     "phonetic_text": "/ʌnˈkʌmftəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unc/uncom/uncomfortable__us_4.mp3",
@@ -710,7 +710,7 @@
   },
   {
     "word": "unconscious",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unc/uncon/unconscious__gb_1.mp3",
     "phonetic_text": "/ʌnˈkɒnʃəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unc/uncon/unconscious__us_1.mp3",
@@ -783,7 +783,7 @@
   },
   {
     "word": "under",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/und/under/under__gb_1.mp3",
     "phonetic_text": "/ˈʌndə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/und/under/under__us_1.mp3",
@@ -837,7 +837,7 @@
   },
   {
     "word": "under",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/und/under/under__gb_1.mp3",
     "phonetic_text": "/ˈʌndə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/und/under/under__us_1.mp3",
@@ -1015,7 +1015,7 @@
   },
   {
     "word": "undergraduate",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/und/under/undergraduate__gb_2.mp3",
     "phonetic_text": "/ˌʌndəˈɡrædʒuət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/und/under/undergraduate__us_1.mp3",
@@ -1050,7 +1050,7 @@
   },
   {
     "word": "underground",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/und/under/underground__gb_1.mp3",
     "phonetic_text": "/ˌʌndəˈɡraʊnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/und/under/underground__us_5.mp3",
@@ -1106,7 +1106,7 @@
   },
   {
     "word": "underground",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/und/under/underground__gb_1.mp3",
     "phonetic_text": "/ˌʌndəˈɡraʊnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/und/under/underground__us_5.mp3",
@@ -1154,7 +1154,7 @@
   },
   {
     "word": "underlying",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/und/under/underlying__gb_3.mp3",
     "phonetic_text": "/ˌʌndəˈlaɪɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/und/under/underlying__us_1.mp3",
@@ -1415,7 +1415,7 @@
   },
   {
     "word": "understanding",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/und/under/understanding__gb_1.mp3",
     "phonetic_text": "/ˌʌndəˈstændɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/und/under/understanding__us_1.mp3",
@@ -1582,7 +1582,7 @@
   },
   {
     "word": "underwear",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/und/under/underwear__gb_1.mp3",
     "phonetic_text": "/ˈʌndəweə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/und/under/underwear__us_1.mp3",
@@ -1617,7 +1617,7 @@
   },
   {
     "word": "undoubtedly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/und/undou/undoubtedly__gb_3.mp3",
     "phonetic_text": "/ʌnˈdaʊtɪdli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/und/undou/undoubtedly__us_1.mp3",
@@ -1636,7 +1636,7 @@
   },
   {
     "word": "unemployed",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/une/unemp/unemployed__gb_1.mp3",
     "phonetic_text": "/ˌʌnɪmˈplɔɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/une/unemp/unemployed__us_2.mp3",
@@ -1679,7 +1679,7 @@
   },
   {
     "word": "unemployment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/une/unemp/unemployment__gb_1.mp3",
     "phonetic_text": "/ˌʌnɪmˈplɔɪmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/une/unemp/unemployment__us_1.mp3",
@@ -1768,7 +1768,7 @@
   },
   {
     "word": "unexpected",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/une/unexp/unexpected__gb_1.mp3",
     "phonetic_text": "/ˌʌnɪkˈspektɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/une/unexp/unexpected__us_2.mp3",
@@ -1815,7 +1815,7 @@
   },
   {
     "word": "unfair",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unf/unfai/unfair__gb_1.mp3",
     "phonetic_text": "/ˌʌnˈfeə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unf/unfai/unfair__us_1.mp3",
@@ -1918,7 +1918,7 @@
   },
   {
     "word": "unfortunate",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unf/unfor/unfortunate__gb_1.mp3",
     "phonetic_text": "/ʌnˈfɔːtʃənət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unf/unfor/unfortunate__us_1.mp3",
@@ -1971,7 +1971,7 @@
   },
   {
     "word": "unfortunately",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unf/unfor/unfortunately__gb_2.mp3",
     "phonetic_text": "/ʌnˈfɔːtʃənətli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unf/unfor/unfortunately__us_1.mp3",
@@ -2006,7 +2006,7 @@
   },
   {
     "word": "unhappy",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unh/unhap/unhappy__gb_1.mp3",
     "phonetic_text": "/ʌnˈhæpi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unh/unhap/unhappy__us_1.mp3",
@@ -2091,7 +2091,7 @@
   },
   {
     "word": "uniform",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uni/unifo/uniform__gb_2.mp3",
     "phonetic_text": "/ˈjuːnɪfɔːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/uni/unifo/uniform__us_1.mp3",
@@ -2203,7 +2203,7 @@
   },
   {
     "word": "union",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uni/union/union__gb_1.mp3",
     "phonetic_text": "/ˈjuːniən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/uni/union/union__us_2.mp3",
@@ -2335,7 +2335,7 @@
   },
   {
     "word": "unique",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uni/uniqu/unique__gb_2.mp3",
     "phonetic_text": "/juˈniːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/uni/uniqu/unique__us_1.mp3",
@@ -2428,7 +2428,7 @@
   },
   {
     "word": "unit",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uni/unit_/unit__gb_2.mp3",
     "phonetic_text": "/ˈjuːnɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/uni/unit_/unit__us_1.mp3",
@@ -2708,7 +2708,7 @@
   },
   {
     "word": "united",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uni/unite/united__gb_1.mp3",
     "phonetic_text": "/juˈnaɪtɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/uni/unite/united__us_1.mp3",
@@ -2786,7 +2786,7 @@
   },
   {
     "word": "unity",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uni/unity/unity__gb_1.mp3",
     "phonetic_text": "/ˈjuːnəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/uni/unity/unity__us_1.mp3",
@@ -2848,7 +2848,7 @@
   },
   {
     "word": "universal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uni/unive/universal__gb_1.mp3",
     "phonetic_text": "/ˌjuːnɪˈvɜːsl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/uni/unive/universal__us_1.mp3",
@@ -2884,7 +2884,7 @@
   },
   {
     "word": "universe",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uni/unive/universe__gb_1.mp3",
     "phonetic_text": "/ˈjuːnɪvɜːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/uni/unive/universe__us_1.mp3",
@@ -2937,7 +2937,7 @@
   },
   {
     "word": "university",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uni/unive/university__gb_3.mp3",
     "phonetic_text": "/ˌjuːnɪˈvɜːsəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/uni/unive/university__us_1.mp3",
@@ -3001,7 +3001,7 @@
   },
   {
     "word": "unknown",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unk/unkno/unknown__gb_1.mp3",
     "phonetic_text": "/ˌʌnˈnəʊn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unk/unkno/unknown__us_1.mp3",
@@ -3095,7 +3095,7 @@
   },
   {
     "word": "unless",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unl/unles/unless__gb_1.mp3",
     "phonetic_text": "/ənˈles/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unl/unles/unless__us_1.mp3",
@@ -3143,7 +3143,7 @@
   },
   {
     "word": "unlike",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unl/unlik/unlike__gb_3.mp3",
     "phonetic_text": "/ˌʌnˈlaɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unl/unlik/unlike__us_1.mp3",
@@ -3184,7 +3184,7 @@
   },
   {
     "word": "unlikely",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unl/unlik/unlikely__gb_1.mp3",
     "phonetic_text": "/ʌnˈlaɪkli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unl/unlik/unlikely__us_1.mp3",
@@ -3253,7 +3253,7 @@
   },
   {
     "word": "unnecessary",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unn/unnec/unnecessary__gb_2.mp3",
     "phonetic_text": "/ʌnˈnesəsəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unn/unnec/unnecessary__us_1.mp3",
@@ -3313,7 +3313,7 @@
   },
   {
     "word": "unpleasant",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unp/unple/unpleasant__gb_1.mp3",
     "phonetic_text": "/ʌnˈpleznt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unp/unple/unpleasant__us_1.mp3",
@@ -3381,7 +3381,7 @@
   },
   {
     "word": "unprecedented",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unp/unpre/unprecedented__gb_1.mp3",
     "phonetic_text": "/ʌnˈpresɪdentɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unp/unpre/unprecedented__us_1.mp3",
@@ -3404,7 +3404,7 @@
   },
   {
     "word": "until",
-    "pos": "verb",
+    "pos": "conjunction, preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unt/until/until__gb_1.mp3",
     "phonetic_text": "/ənˈtɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unt/until/until__us_1_rr.mp3",
@@ -3451,7 +3451,7 @@
   },
   {
     "word": "until",
-    "pos": "verb",
+    "pos": "conjunction, preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unt/until/until__gb_1.mp3",
     "phonetic_text": "/ənˈtɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unt/until/until__us_1_rr.mp3",
@@ -3498,7 +3498,7 @@
   },
   {
     "word": "unusual",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unu/unusu/unusual__gb_1.mp3",
     "phonetic_text": "/ʌnˈjuːʒuəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unu/unusu/unusual__us_1_rr.mp3",
@@ -3603,7 +3603,7 @@
   },
   {
     "word": "up",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/up_/up__g/up__gb_1.mp3",
     "phonetic_text": "/ʌp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/up_/up__u/up__us_1.mp3",
@@ -4047,7 +4047,7 @@
   },
   {
     "word": "up",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/up_/up__g/up__gb_1.mp3",
     "phonetic_text": "/ʌp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/up_/up__u/up__us_1.mp3",
@@ -4101,7 +4101,7 @@
   },
   {
     "word": "upcoming",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/upc/upcom/upcoming__gb_1.mp3",
     "phonetic_text": "/ˈʌpkʌmɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/upc/upcom/upcoming__us_1.mp3",
@@ -4124,7 +4124,7 @@
   },
   {
     "word": "update",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/upd/updat/update__gb_2.mp3",
     "phonetic_text": "/ˈʌpdeɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/upd/updat/update__us_2.mp3",
@@ -4248,7 +4248,7 @@
   },
   {
     "word": "upgrade",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/upg/upgra/upgrade__gb_2.mp3",
     "phonetic_text": "/ˈʌpɡreɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/upg/upgra/upgrade__us_2.mp3",
@@ -4374,7 +4374,7 @@
   },
   {
     "word": "upon",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/upo/upon_/upon__gb_1.mp3",
     "phonetic_text": "/əˈpɒn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/upo/upon_/upon__us_1_rr.mp3",
@@ -4415,7 +4415,7 @@
   },
   {
     "word": "upper",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/upp/upper/upper__gb_1.mp3",
     "phonetic_text": "/ˈʌpə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/upp/upper/upper__us_2.mp3",
@@ -4505,7 +4505,7 @@
   },
   {
     "word": "upset",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/ups/upset/upset__gb_2.mp3",
     "phonetic_text": "/ˌʌpˈset/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/ups/upset/upset__us_2.mp3",
@@ -4618,7 +4618,7 @@
   },
   {
     "word": "upstairs",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/ups/upsta/upstairs__gb_3.mp3",
     "phonetic_text": "/ˌʌpˈsteəz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/ups/upsta/upstairs__us_4.mp3",
@@ -4649,7 +4649,7 @@
   },
   {
     "word": "upstairs",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/ups/upsta/upstairs__gb_3.mp3",
     "phonetic_text": "/ˌʌpˈsteəz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/ups/upsta/upstairs__us_4.mp3",
@@ -4684,7 +4684,7 @@
   },
   {
     "word": "upwards",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/upw/upwar/upwards__gb_1.mp3",
     "phonetic_text": "/ˈʌpwədz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/upw/upwar/upwards__us_2.mp3",
@@ -4741,7 +4741,7 @@
   },
   {
     "word": "urban",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/urb/urban/urban__gb_2.mp3",
     "phonetic_text": "/ˈɜːbən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/urb/urban/urban__us_2.mp3",
@@ -4902,7 +4902,7 @@
   },
   {
     "word": "urgent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/urg/urgen/urgent__gb_1.mp3",
     "phonetic_text": "/ˈɜːdʒənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/urg/urgen/urgent__us_1.mp3",
@@ -4958,7 +4958,7 @@
   },
   {
     "word": "us",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/us_/us__g/us__gb_2.mp3",
     "phonetic_text": "/əs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/us_/us__u/us__us_2_rr.mp3",
@@ -4994,7 +4994,7 @@
   },
   {
     "word": "usage",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/usa/usage/usage__gb_1.mp3",
     "phonetic_text": "/ˈjuːsɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/usa/usage/usage__us_1.mp3",
@@ -5030,7 +5030,7 @@
   },
   {
     "word": "use",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/use/use__/use__gb_4.mp3",
     "phonetic_text": "/juːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/use/use__/use__us_2.mp3",
@@ -5411,7 +5411,7 @@
   },
   {
     "word": "used1",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/use/used_/used__gb_2.mp3",
     "phonetic_text": "/juːst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/use/used_/used__us_2.mp3",
@@ -5454,7 +5454,7 @@
   },
   {
     "word": "useful",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/use/usefu/useful__gb_3.mp3",
     "phonetic_text": "/ˈjuːsfl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/use/usefu/useful__us_2.mp3",
@@ -5542,7 +5542,7 @@
   },
   {
     "word": "useless",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/use/usele/useless__gb_1.mp3",
     "phonetic_text": "/ˈjuːsləs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/use/usele/useless__us_1.mp3",
@@ -5602,7 +5602,7 @@
   },
   {
     "word": "user",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/use/user_/user__gb_1.mp3",
     "phonetic_text": "/ˈjuːzə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/use/user_/user__us_2.mp3",
@@ -5681,7 +5681,7 @@
   },
   {
     "word": "usual",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/usu/usual/usual__gb_1.mp3",
     "phonetic_text": "/ˈjuːʒuəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/usu/usual/usual__us_1_rr.mp3",
@@ -5796,7 +5796,7 @@
   },
   {
     "word": "usually",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/usu/usual/usually__gb_1.mp3",
     "phonetic_text": "/ˈjuːʒuəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/usu/usual/usually__us_1_rr.mp3",
@@ -5859,7 +5859,7 @@
   },
   {
     "word": "utility",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uti/utili/utility__gb_1.mp3",
     "phonetic_text": "/juːˈtɪləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/uti/utili/utility__us_1.mp3",
@@ -5926,7 +5926,7 @@
   },
   {
     "word": "utterly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/utt/utter/utterly__gb_1.mp3",
     "phonetic_text": "/ˈʌtəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/utt/utter/utterly__us_1.mp3",

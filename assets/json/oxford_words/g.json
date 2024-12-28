@@ -1,7 +1,7 @@
 [
   {
     "word": "gain",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gai/gain_/gain__gb_2.mp3",
     "phonetic_text": "/ɡeɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gai/gain_/gain__us_1.mp3",
@@ -235,7 +235,7 @@
   },
   {
     "word": "gallery",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gal/galle/gallery__gb_1.mp3",
     "phonetic_text": "/ˈɡæləri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gal/galle/gallery__us_1.mp3",
@@ -308,7 +308,7 @@
   },
   {
     "word": "gallon",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gal/gallo/gallon__gb_2.mp3",
     "phonetic_text": "/ˈɡælən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gal/gallo/gallon__us_1.mp3",
@@ -327,7 +327,7 @@
   },
   {
     "word": "gambling",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gam/gambl/gambling__gb_7.mp3",
     "phonetic_text": "/ˈɡæmblɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gam/gambl/gambling__us_1.mp3",
@@ -366,7 +366,7 @@
   },
   {
     "word": "game",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gam/game_/game__gb_2.mp3",
     "phonetic_text": "/ɡeɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gam/game_/game__us_1.mp3",
@@ -783,7 +783,7 @@
   },
   {
     "word": "gaming",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gam/gamin/gaming__gb_2.mp3",
     "phonetic_text": "/ˈɡeɪmɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gam/gamin/gaming__us_1.mp3",
@@ -815,7 +815,7 @@
   },
   {
     "word": "gang",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gan/gang_/gang__gb_2.mp3",
     "phonetic_text": "/ɡæŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gan/gang_/gang__us_1.mp3",
@@ -901,7 +901,7 @@
   },
   {
     "word": "gap",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gap/gap__/gap__gb_3.mp3",
     "phonetic_text": "/ɡæp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gap/gap__/gap__us_1.mp3",
@@ -1007,7 +1007,7 @@
   },
   {
     "word": "garage",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gar/garag/garage__gb_6.mp3",
     "phonetic_text": "/ˈɡærɑːʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garag/garage__us_1_rr.mp3",
@@ -1071,7 +1071,7 @@
   },
   {
     "word": "garden",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gar/garde/garden__gb_2.mp3",
     "phonetic_text": "/ˈɡɑːdn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garde/garden__us_1.mp3",
@@ -1157,7 +1157,7 @@
   },
   {
     "word": "gas",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gas/gas__/gas__gb_2.mp3",
     "phonetic_text": "/ɡæs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gas/gas__/gas__us_1.mp3",
@@ -1298,7 +1298,7 @@
   },
   {
     "word": "gate",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gat/gate_/gate__gb_2.mp3",
     "phonetic_text": "/ɡeɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gat/gate_/gate__us_1.mp3",
@@ -1685,7 +1685,7 @@
   },
   {
     "word": "gathering",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gat/gathe/gathering__gb_1.mp3",
     "phonetic_text": "/ˈɡæðərɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gat/gathe/gathering__us_1.mp3",
@@ -1717,7 +1717,7 @@
   },
   {
     "word": "gay",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gay/gay__/gay__gb_2.mp3",
     "phonetic_text": "/ɡeɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gay/gay__/gay__us_1.mp3",
@@ -1791,7 +1791,7 @@
   },
   {
     "word": "gaze",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gaz/gaze_/gaze__gb_2.mp3",
     "phonetic_text": "/ɡeɪz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gaz/gaze_/gaze__us_1.mp3",
@@ -1841,7 +1841,7 @@
   },
   {
     "word": "gear",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gea/gear_/gear__gb_1.mp3",
     "phonetic_text": "/ɡɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gea/gear_/gear__us_1.mp3",
@@ -1992,7 +1992,7 @@
   },
   {
     "word": "gender",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/gende/gender__gb_2.mp3",
     "phonetic_text": "/ˈdʒendə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/gende/gender__us_1.mp3",
@@ -2040,7 +2040,7 @@
   },
   {
     "word": "gene",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/gene_/gene__gb_2.mp3",
     "phonetic_text": "/dʒiːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/gene_/gene_1_us_3.mp3",
@@ -2072,7 +2072,7 @@
   },
   {
     "word": "general",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/gener/general__gb_1.mp3",
     "phonetic_text": "/ˈdʒenrəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/gener/general__us_2_rr.mp3",
@@ -2219,7 +2219,7 @@
   },
   {
     "word": "generally",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/gener/generally__gb_4.mp3",
     "phonetic_text": "/ˈdʒenrəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/gener/generally__us_2_rr.mp3",
@@ -2345,7 +2345,7 @@
   },
   {
     "word": "generation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/gener/generation__gb_2.mp3",
     "phonetic_text": "/ˌdʒenəˈreɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/gener/generation__us_1.mp3",
@@ -2473,7 +2473,7 @@
   },
   {
     "word": "generic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/gener/generic__gb_1.mp3",
     "phonetic_text": "/dʒəˈnerɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/gener/generic__us_1.mp3",
@@ -2510,7 +2510,7 @@
   },
   {
     "word": "generous",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/gener/generous__gb_1.mp3",
     "phonetic_text": "/ˈdʒenərəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/gener/generous__us_1.mp3",
@@ -2591,7 +2591,7 @@
   },
   {
     "word": "genetic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/genet/genetic__gb_3.mp3",
     "phonetic_text": "/dʒəˈnetɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/genet/genetic__us_1.mp3",
@@ -2622,7 +2622,7 @@
   },
   {
     "word": "genius",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/geniu/genius__gb_2.mp3",
     "phonetic_text": "/ˈdʒiːniəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/geniu/genius__us_1.mp3",
@@ -2679,7 +2679,7 @@
   },
   {
     "word": "genocide",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/genoc/genocide__gb_2.mp3",
     "phonetic_text": "/ˈdʒenəsaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/genoc/genocide__us_1.mp3",
@@ -2702,7 +2702,7 @@
   },
   {
     "word": "genre",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/genre/genre__gb_1.mp3",
     "phonetic_text": "/ˈʒɒ̃rə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/genre/genre__us_1.mp3",
@@ -2733,7 +2733,7 @@
   },
   {
     "word": "gentle",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/gentl/gentle__gb_2.mp3",
     "phonetic_text": "/ˈdʒentl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/gentl/gentle__us_3.mp3",
@@ -2823,7 +2823,7 @@
   },
   {
     "word": "gentleman",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/gentl/gentlemen__gb_2.mp3",
     "phonetic_text": "/ˈdʒentlmən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/gentl/gentleman__us_3.mp3",
@@ -2904,7 +2904,7 @@
   },
   {
     "word": "genuine",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/genui/genuine__gb_3.mp3",
     "phonetic_text": "/ˈdʒenjuɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/genui/genuine__us_1.mp3",
@@ -2952,7 +2952,7 @@
   },
   {
     "word": "genuinely",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/genui/genuinely__gb_1.mp3",
     "phonetic_text": "/ˈdʒenjuɪnli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/genui/genuinely__us_1.mp3",
@@ -2988,7 +2988,7 @@
   },
   {
     "word": "geography",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/geo/geogr/geography__gb_1.mp3",
     "phonetic_text": "/dʒiˈɒɡrəfi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/geo/geogr/geography__us_1.mp3",
@@ -3054,7 +3054,7 @@
   },
   {
     "word": "gesture",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/ges/gestu/gesture__gb_1.mp3",
     "phonetic_text": "/ˈdʒestʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/ges/gestu/gesture__us_1_rr.mp3",
@@ -3888,7 +3888,7 @@
   },
   {
     "word": "ghost",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gho/ghost/ghost__gb_2.mp3",
     "phonetic_text": "/ɡəʊst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gho/ghost/ghost__us_1.mp3",
@@ -3967,7 +3967,7 @@
   },
   {
     "word": "giant",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gia/giant/giant__gb_2.mp3",
     "phonetic_text": "/ˈdʒaɪənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gia/giant/giant__us_1.mp3",
@@ -3998,7 +3998,7 @@
   },
   {
     "word": "giant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gia/giant/giant__gb_2.mp3",
     "phonetic_text": "/ˈdʒaɪənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gia/giant/giant__us_1.mp3",
@@ -4056,7 +4056,7 @@
   },
   {
     "word": "gift",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gif/gift_/gift__gb_2.mp3",
     "phonetic_text": "/ɡɪft/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gif/gift_/gift__us_1.mp3",
@@ -4185,7 +4185,7 @@
   },
   {
     "word": "gig",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gig/gig__/gig__gb_2.mp3",
     "phonetic_text": "/ɡɪɡ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gig/gig__/gig__us_1.mp3",
@@ -4233,7 +4233,7 @@
   },
   {
     "word": "girl",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gir/girl_/girl__gb_2.mp3",
     "phonetic_text": "/ɡɜːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gir/girl_/girl__us_1.mp3",
@@ -4337,7 +4337,7 @@
   },
   {
     "word": "girlfriend",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gir/girlf/girlfriend__gb_1.mp3",
     "phonetic_text": "/ˈɡɜːlfrend/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gir/girlf/girlfriend__us_1.mp3",
@@ -4842,7 +4842,7 @@
   },
   {
     "word": "glad",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gla/glad_/glad__gb_2.mp3",
     "phonetic_text": "/ɡlæd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gla/glad_/glad__us_1.mp3",
@@ -4957,7 +4957,7 @@
   },
   {
     "word": "glance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gla/glanc/glance__gb_5.mp3",
     "phonetic_text": "/ɡlɑːns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gla/glanc/glance__us_1.mp3",
@@ -5066,7 +5066,7 @@
   },
   {
     "word": "glass",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gla/glass/glass__gb_5.mp3",
     "phonetic_text": "/ɡlɑːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gla/glass/glass__us_1.mp3",
@@ -5224,7 +5224,7 @@
   },
   {
     "word": "glimpse",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gli/glimp/glimpse__gb_2.mp3",
     "phonetic_text": "/ɡlɪmps/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gli/glimp/glimpse__us_1.mp3",
@@ -5272,7 +5272,7 @@
   },
   {
     "word": "global",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/glo/globa/global__gb_2.mp3",
     "phonetic_text": "/ˈɡləʊbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/glo/globa/global__us_2.mp3",
@@ -5341,7 +5341,7 @@
   },
   {
     "word": "globalization",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/glo/globa/globalization__gb_4.mp3",
     "phonetic_text": "/ˌɡləʊbəlaɪˈzeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/glo/globa/globalization__us_1.mp3",
@@ -5355,7 +5355,7 @@
   },
   {
     "word": "globe",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/glo/globe/globe__gb_3.mp3",
     "phonetic_text": "/ɡləʊb/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/glo/globe/globe__us_1.mp3",
@@ -5404,7 +5404,7 @@
   },
   {
     "word": "glorious",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/glo/glori/glorious__gb_1.mp3",
     "phonetic_text": "/ˈɡlɔːriəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/glo/glori/glorious__us_1.mp3",
@@ -5462,7 +5462,7 @@
   },
   {
     "word": "glory",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/glo/glory/glory__gb_1.mp3",
     "phonetic_text": "/ˈɡlɔːri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/glo/glory/glory__us_1.mp3",
@@ -5536,7 +5536,7 @@
   },
   {
     "word": "glove",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/glo/glove/glove__gb_2.mp3",
     "phonetic_text": "/ɡlʌv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/glo/glove/glove__us_1.mp3",
@@ -5610,7 +5610,7 @@
   },
   {
     "word": "go",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/go_/go__g/go__gb_4.mp3",
     "phonetic_text": "/ɡəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/go_/go__u/go__us_1.mp3",
@@ -6730,7 +6730,7 @@
   },
   {
     "word": "goal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/goa/goal_/goal__gb_3.mp3",
     "phonetic_text": "/ɡəʊl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/goa/goal_/goal__us_1.mp3",
@@ -6815,7 +6815,7 @@
   },
   {
     "word": "god",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/god/god__/god__gb_2.mp3",
     "phonetic_text": "/ɡɒd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/god/god__/god__us_1.mp3",
@@ -7090,7 +7090,7 @@
   },
   {
     "word": "gold",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gol/gold_/gold__gb_3.mp3",
     "phonetic_text": "/ɡəʊld/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gol/gold_/gold__us_1.mp3",
@@ -7113,7 +7113,7 @@
   },
   {
     "word": "gold",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gol/gold_/gold__gb_3.mp3",
     "phonetic_text": "/ɡəʊld/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gol/gold_/gold__us_1.mp3",
@@ -7246,7 +7246,7 @@
   },
   {
     "word": "golden",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gol/golde/golden__gb_2.mp3",
     "phonetic_text": "/ˈɡəʊldən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gol/golde/golden__us_1.mp3",
@@ -7324,7 +7324,7 @@
   },
   {
     "word": "golf",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gol/golf_/golf__gb_2.mp3",
     "phonetic_text": "/ɡɒlf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gol/golf_/golf__us_1_rr.mp3",
@@ -7347,7 +7347,7 @@
   },
   {
     "word": "good",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/goo/good_/good__gb_2.mp3",
     "phonetic_text": "/ɡʊd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/goo/good_/good__us_1.mp3",
@@ -7886,7 +7886,7 @@
   },
   {
     "word": "good",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/goo/good_/good__gb_2.mp3",
     "phonetic_text": "/ɡʊd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/goo/good_/good__us_1.mp3",
@@ -8082,7 +8082,7 @@
   },
   {
     "word": "goodbye",
-    "pos": "verb",
+    "pos": "exclamation, noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/goo/goodb/goodbye__gb_2.mp3",
     "phonetic_text": "/ˌɡʊdˈbaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/goo/goodb/goodbye__us_1_rr.mp3",
@@ -8134,7 +8134,7 @@
   },
   {
     "word": "goodbye",
-    "pos": "verb",
+    "pos": "exclamation, noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/goo/goodb/goodbye__gb_2.mp3",
     "phonetic_text": "/ˌɡʊdˈbaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/goo/goodb/goodbye__us_1_rr.mp3",
@@ -8186,7 +8186,7 @@
   },
   {
     "word": "goodness",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/goo/goodn/goodness__gb_2.mp3",
     "phonetic_text": "/ˈɡʊdnəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/goo/goodn/goodness__us_1.mp3",
@@ -8313,7 +8313,7 @@
   },
   {
     "word": "goods",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/goo/goods/goods__gb_2.mp3",
     "phonetic_text": "/ɡʊdz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/goo/goods/goods__us_1.mp3",
@@ -8403,7 +8403,7 @@
   },
   {
     "word": "gorgeous",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gor/gorge/gorgeous__gb_2.mp3",
     "phonetic_text": "/ˈɡɔːdʒəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gor/gorge/gorgeous__us_1.mp3",
@@ -8491,7 +8491,7 @@
   },
   {
     "word": "governance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gov/gover/governance__gb_3.mp3",
     "phonetic_text": "/ˈɡʌvənəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gov/gover/governance__us_1.mp3",
@@ -8518,7 +8518,7 @@
   },
   {
     "word": "government",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gov/gover/government__gb_3.mp3",
     "phonetic_text": "/ˈɡʌvənmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gov/gover/government__us_1_rr.mp3",
@@ -8639,7 +8639,7 @@
   },
   {
     "word": "governor",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gov/gover/governor__gb_1.mp3",
     "phonetic_text": "/ˈɡʌvənə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gov/gover/governor__us_1_rr.mp3",
@@ -8859,7 +8859,7 @@
   },
   {
     "word": "grace",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grace/grace__gb_1.mp3",
     "phonetic_text": "/ɡreɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grace/grace__us_1.mp3",
@@ -9022,7 +9022,7 @@
   },
   {
     "word": "grade",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grade/grade__gb_1.mp3",
     "phonetic_text": "/ɡreɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grade/grade__us_1.mp3",
@@ -9177,7 +9177,7 @@
   },
   {
     "word": "gradually",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/gradu/gradually__gb_1.mp3",
     "phonetic_text": "/ˈɡrædʒuəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/gradu/gradually__us_1_rr.mp3",
@@ -9208,7 +9208,7 @@
   },
   {
     "word": "graduate",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/gradu/graduate__gb_4.mp3",
     "phonetic_text": "/ˈɡrædʒuət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/gradu/graduate__us_1.mp3",
@@ -9342,7 +9342,7 @@
   },
   {
     "word": "grain",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grain/grain__gb_1.mp3",
     "phonetic_text": "/ɡreɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grain/grain__us_1.mp3",
@@ -9448,7 +9448,7 @@
   },
   {
     "word": "grand",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grand/grand__gb_1.mp3",
     "phonetic_text": "/ɡrænd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grand/grand__us_1.mp3",
@@ -9575,7 +9575,7 @@
   },
   {
     "word": "grandfather",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grand/grandfather__gb_1.mp3",
     "phonetic_text": "/ˈɡrænfɑːðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grand/grandfather__us_1.mp3",
@@ -9594,7 +9594,7 @@
   },
   {
     "word": "grandmother",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grand/grandmother__gb_1.mp3",
     "phonetic_text": "/ˈɡrænmʌðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grand/grandmother__us_1.mp3",
@@ -9617,7 +9617,7 @@
   },
   {
     "word": "grandparent",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grand/grandparent__gb_1.mp3",
     "phonetic_text": "/ˈɡrænpeərənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grand/grandparent__us_1.mp3",
@@ -9644,7 +9644,7 @@
   },
   {
     "word": "grant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grant/grant__gb_1.mp3",
     "phonetic_text": "/ɡrɑːnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grant/grant__us_1.mp3",
@@ -9793,7 +9793,7 @@
   },
   {
     "word": "graphic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/graph/graphic__gb_1.mp3",
     "phonetic_text": "/ˈɡræfɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/graph/graphic__us_1.mp3",
@@ -9833,7 +9833,7 @@
   },
   {
     "word": "graphics",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/graph/graphics__gb_1.mp3",
     "phonetic_text": "/ˈɡræfɪks/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/graph/graphics__us_1.mp3",
@@ -9869,7 +9869,7 @@
   },
   {
     "word": "grasp",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grasp/grasp__gb_1.mp3",
     "phonetic_text": "/ɡrɑːsp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grasp/grasp__us_1.mp3",
@@ -9997,7 +9997,7 @@
   },
   {
     "word": "grass",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grass/grass_1_gb_1.mp3",
     "phonetic_text": "/ɡrɑːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grass/grass__us_1.mp3",
@@ -10088,7 +10088,7 @@
   },
   {
     "word": "grateful",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grate/grateful__gb_1.mp3",
     "phonetic_text": "/ˈɡreɪtfl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grate/grateful__us_1.mp3",
@@ -10152,7 +10152,7 @@
   },
   {
     "word": "grave1",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grave/grave__gb_1.mp3",
     "phonetic_text": "/ɡreɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grave/grave__us_1.mp3",
@@ -10192,7 +10192,7 @@
   },
   {
     "word": "grave1",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grave/grave__gb_1.mp3",
     "phonetic_text": "/ɡreɪv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grave/grave__us_1.mp3",
@@ -10261,7 +10261,7 @@
   },
   {
     "word": "gravity",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/gravi/gravity__gb_1.mp3",
     "phonetic_text": "/ˈɡrævəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/gravi/gravity__us_1.mp3",
@@ -10302,7 +10302,7 @@
   },
   {
     "word": "great",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gre/great/great__gb_1.mp3",
     "phonetic_text": "/ɡreɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gre/great/great__us_1.mp3",
@@ -10755,7 +10755,7 @@
   },
   {
     "word": "greatly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gre/great/greatly__gb_2.mp3",
     "phonetic_text": "/ˈɡreɪtli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gre/great/greatly__us_1.mp3",
@@ -10786,7 +10786,7 @@
   },
   {
     "word": "green",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gre/green/green__gb_1.mp3",
     "phonetic_text": "/ɡriːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gre/green/green__us_1.mp3",
@@ -10886,7 +10886,7 @@
   },
   {
     "word": "green",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gre/green/green__gb_1.mp3",
     "phonetic_text": "/ɡriːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gre/green/green__us_1.mp3",
@@ -10972,7 +10972,7 @@
   },
   {
     "word": "greenhouse",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gre/green/greenhouse__gb_1.mp3",
     "phonetic_text": "/ˈɡriːnhaʊs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gre/green/greenhouse__us_1.mp3",
@@ -11039,7 +11039,7 @@
   },
   {
     "word": "grey",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gre/grey_/grey_1_gb_1.mp3",
     "phonetic_text": "/ɡreɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gre/grey_/grey__us_1.mp3",
@@ -11144,7 +11144,7 @@
   },
   {
     "word": "grey",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gre/grey_/grey_1_gb_1.mp3",
     "phonetic_text": "/ɡreɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gre/grey_/grey__us_1.mp3",
@@ -11192,7 +11192,7 @@
   },
   {
     "word": "grid",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gri/grid_/grid__gb_1.mp3",
     "phonetic_text": "/ɡrɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gri/grid_/grid__us_1.mp3",
@@ -11267,7 +11267,7 @@
   },
   {
     "word": "grief",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gri/grief/grief__gb_1.mp3",
     "phonetic_text": "/ɡriːf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gri/grief/grief__us_1.mp3",
@@ -11355,7 +11355,7 @@
   },
   {
     "word": "grin",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gri/grin_/grin__gb_1.mp3",
     "phonetic_text": "/ɡrɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gri/grin_/grin__us_1.mp3",
@@ -11563,7 +11563,7 @@
   },
   {
     "word": "grip",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gri/grip_/grip__gb_1.mp3",
     "phonetic_text": "/ɡrɪp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gri/grip_/grip__us_1.mp3",
@@ -11780,7 +11780,7 @@
   },
   {
     "word": "grocery",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gro/groce/grocery__gb_1.mp3",
     "phonetic_text": "/ˈɡrəʊsəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gro/groce/grocery__us_1_rr.mp3",
@@ -11812,7 +11812,7 @@
   },
   {
     "word": "gross",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gro/gross/gross__gb_1.mp3",
     "phonetic_text": "/ɡrəʊs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gro/gross/gross__us_1.mp3",
@@ -11878,7 +11878,7 @@
   },
   {
     "word": "ground",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gro/groun/ground__gb_2.mp3",
     "phonetic_text": "/ɡraʊnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gro/groun/ground__us_2.mp3",
@@ -12411,7 +12411,7 @@
   },
   {
     "word": "group",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gro/group/group__gb_1.mp3",
     "phonetic_text": "/ɡruːp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gro/group/group__us_1.mp3",
@@ -12783,7 +12783,7 @@
   },
   {
     "word": "growth",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gro/growt/growth__gb_2.mp3",
     "phonetic_text": "/ɡrəʊθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gro/growt/growth__us_1.mp3",
@@ -12926,7 +12926,7 @@
   },
   {
     "word": "guarantee",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gua/guara/guarantee__gb_2.mp3",
     "phonetic_text": "/ˌɡærənˈtiː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gua/guara/guarantee__us_1.mp3",
@@ -13117,7 +13117,7 @@
   },
   {
     "word": "guard",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gua/guard/guard__gb_2.mp3",
     "phonetic_text": "/ɡɑːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gua/guard/guard__us_1.mp3",
@@ -13342,7 +13342,7 @@
   },
   {
     "word": "guerrilla",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gue/guerr/guerrilla__gb_1.mp3",
     "phonetic_text": "/ɡəˈrɪlə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gue/guerr/guerrilla__us_1.mp3",
@@ -13369,7 +13369,7 @@
   },
   {
     "word": "guess",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gue/guess/guess__gb_2.mp3",
     "phonetic_text": "/ɡes/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gue/guess/guess__us_1.mp3",
@@ -13579,7 +13579,7 @@
   },
   {
     "word": "guest",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gue/guest/guest__gb_2.mp3",
     "phonetic_text": "/ɡest/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gue/guest/guest__us_1.mp3",
@@ -13687,7 +13687,7 @@
   },
   {
     "word": "guidance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gui/guida/guidance__gb_2.mp3",
     "phonetic_text": "/ˈɡaɪdns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gui/guida/guidance__us_1.mp3",
@@ -13723,7 +13723,7 @@
   },
   {
     "word": "guide",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gui/guide/guide__gb_3.mp3",
     "phonetic_text": "/ɡaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gui/guide/guide__us_1.mp3",
@@ -13896,7 +13896,7 @@
   },
   {
     "word": "guideline",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gui/guide/guideline__gb_2.mp3",
     "phonetic_text": "/ˈɡaɪdlaɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gui/guide/guideline__us_1.mp3",
@@ -13924,7 +13924,7 @@
   },
   {
     "word": "guilt",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gui/guilt/guilt__gb_2.mp3",
     "phonetic_text": "/ɡɪlt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gui/guilt/guilt__us_1.mp3",
@@ -13990,7 +13990,7 @@
   },
   {
     "word": "guilty",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gui/guilt/guilty__gb_2.mp3",
     "phonetic_text": "/ˈɡɪlti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gui/guilt/guilty__us_2.mp3",
@@ -14071,7 +14071,7 @@
   },
   {
     "word": "guitar",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gui/guita/guitar__gb_2.mp3",
     "phonetic_text": "/ɡɪˈtɑː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gui/guita/guitar__us_2.mp3",
@@ -14122,7 +14122,7 @@
   },
   {
     "word": "gun",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gun/gun__/gun__gb_2.mp3",
     "phonetic_text": "/ɡʌn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gun/gun__/gun__us_1.mp3",
@@ -14262,7 +14262,7 @@
   },
   {
     "word": "gut",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gut/gut__/gut__gb_2.mp3",
     "phonetic_text": "/ɡʌt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gut/gut__/gut__us_1.mp3",
@@ -14408,7 +14408,7 @@
   },
   {
     "word": "guy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/guy/guy__/guy__gb_2.mp3",
     "phonetic_text": "/ɡaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/guy/guy__/guy__us_1.mp3",
@@ -14480,7 +14480,7 @@
   },
   {
     "word": "gym",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gym/gym__/gym__gb_2.mp3",
     "phonetic_text": "/dʒɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gym/gym__/gym__us_1.mp3",

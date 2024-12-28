@@ -1,7 +1,7 @@
 [
   {
     "word": "qualification",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quali/qualification__gb_1.mp3",
     "phonetic_text": "/ˌkwɒlɪfɪˈkeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quali/qualification__us_4.mp3",
@@ -83,7 +83,7 @@
   },
   {
     "word": "qualified",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quali/qualified__gb_1.mp3",
     "phonetic_text": "/ˈkwɒlɪfaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quali/qualified__us_4.mp3",
@@ -277,7 +277,7 @@
   },
   {
     "word": "quality",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quali/quality__gb_3.mp3",
     "phonetic_text": "/ˈkwɒləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quali/quality__us_2.mp3",
@@ -391,7 +391,7 @@
   },
   {
     "word": "quantity",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quant/quantity__gb_3.mp3",
     "phonetic_text": "/ˈkwɒntəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quant/quantity__us_1.mp3",
@@ -472,7 +472,7 @@
   },
   {
     "word": "quarter",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quart/quarter__gb_1.mp3",
     "phonetic_text": "/ˈkwɔːtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quart/quarter__us_3.mp3",
@@ -644,7 +644,7 @@
   },
   {
     "word": "queen",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/queen/queen_1_gb_1.mp3",
     "phonetic_text": "/kwiːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/queen/queen__us_1.mp3",
@@ -751,7 +751,7 @@
   },
   {
     "word": "query",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/query/query__gb_1.mp3",
     "phonetic_text": "/ˈkwɪəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/query/query__us_1_rr.mp3",
@@ -783,7 +783,7 @@
   },
   {
     "word": "quest",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/quest/quest__gb_1.mp3",
     "phonetic_text": "/kwest/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/quest/quest__us_1.mp3",
@@ -810,7 +810,7 @@
   },
   {
     "word": "question",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/quest/question__gb_2.mp3",
     "phonetic_text": "/ˈkwestʃən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/quest/question__us_4.mp3",
@@ -1170,7 +1170,7 @@
   },
   {
     "word": "questionnaire",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/quest/questionnaire__gb_2.mp3",
     "phonetic_text": "/ˌkwestʃəˈneə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/quest/questionnaire__us_1.mp3",
@@ -1197,7 +1197,7 @@
   },
   {
     "word": "queue",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/queue/queue__gb_1.mp3",
     "phonetic_text": "/kjuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/queue/queue__us_1.mp3",
@@ -1308,7 +1308,7 @@
   },
   {
     "word": "quick",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quick/quick__gb_1.mp3",
     "phonetic_text": "/kwɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qui/quick/quick__us_1.mp3",
@@ -1494,7 +1494,7 @@
   },
   {
     "word": "quickly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quick/quickly__gb_1.mp3",
     "phonetic_text": "/ˈkwɪkli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qui/quick/quickly__us_3.mp3",
@@ -1586,7 +1586,7 @@
   },
   {
     "word": "quiet",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quiet/quiet__gb_2.mp3",
     "phonetic_text": "/ˈkwaɪət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qui/quiet/quiet__us_1.mp3",
@@ -1718,7 +1718,7 @@
   },
   {
     "word": "quietly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quiet/quietly__gb_1.mp3",
     "phonetic_text": "/ˈkwaɪətli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qui/quiet/quietly__us_3.mp3",
@@ -1874,7 +1874,7 @@
   },
   {
     "word": "quite",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quite/quite__gb_1.mp3",
     "phonetic_text": "/kwaɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qui/quite/quite__us_1.mp3",
@@ -2085,7 +2085,7 @@
   },
   {
     "word": "quota",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/quo/quota/quota__gb_1.mp3",
     "phonetic_text": "/ˈkwəʊtə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/quo/quota/quota__us_1.mp3",
@@ -2126,7 +2126,7 @@
   },
   {
     "word": "quotation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/quo/quota/quotation__gb_2.mp3",
     "phonetic_text": "/kwəʊˈteɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/quo/quota/quotation__us_2.mp3",
@@ -2192,7 +2192,7 @@
   },
   {
     "word": "quote",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/quo/quote/quote__gb_2.mp3",
     "phonetic_text": "/kwəʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/quo/quote/quote__us_1.mp3",

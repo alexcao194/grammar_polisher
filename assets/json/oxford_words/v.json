@@ -1,7 +1,7 @@
 [
   {
     "word": "vacation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vac/vacat/vacation__gb_2.mp3",
     "phonetic_text": "/veɪˈkeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vac/vacat/vacation__us_4.mp3",
@@ -65,7 +65,7 @@
   },
   {
     "word": "vacuum",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vac/vacuu/vacuum__gb_2.mp3",
     "phonetic_text": "/ˈvækjuːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vac/vacuu/vacuum__us_3.mp3",
@@ -119,7 +119,7 @@
   },
   {
     "word": "vague",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vag/vague/vague__gb_1.mp3",
     "phonetic_text": "/veɪɡ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vag/vague/vague__us_1.mp3",
@@ -189,7 +189,7 @@
   },
   {
     "word": "valid",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/val/valid/valid__gb_2.mp3",
     "phonetic_text": "/ˈvælɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/valid/valid__us_1.mp3",
@@ -242,7 +242,7 @@
   },
   {
     "word": "validity",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/val/valid/validity__gb_1.mp3",
     "phonetic_text": "/vəˈlɪdəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/valid/validity__us_1.mp3",
@@ -270,7 +270,7 @@
   },
   {
     "word": "valley",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/val/valle/valley__gb_1.mp3",
     "phonetic_text": "/ˈvæli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/valle/valley__us_2.mp3",
@@ -317,7 +317,7 @@
   },
   {
     "word": "valuable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/val/valua/valuable__gb_3.mp3",
     "phonetic_text": "/ˈvæljuəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/valua/valuable__us_2_rr.mp3",
@@ -397,7 +397,7 @@
   },
   {
     "word": "value",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/val/value/value__gb_2.mp3",
     "phonetic_text": "/ˈvæljuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/value/value__us_2.mp3",
@@ -596,7 +596,7 @@
   },
   {
     "word": "van",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/van/van__/van__gb_10.mp3",
     "phonetic_text": "/væn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/van/van__/van__us_1.mp3",
@@ -744,7 +744,7 @@
   },
   {
     "word": "variable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/varia/variable__gb_4.mp3",
     "phonetic_text": "/ˈveəriəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/varia/variable__us_1.mp3",
@@ -784,7 +784,7 @@
   },
   {
     "word": "variable",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/varia/variable__gb_4.mp3",
     "phonetic_text": "/ˈveəriəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/varia/variable__us_1.mp3",
@@ -807,7 +807,7 @@
   },
   {
     "word": "variation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/varia/variation__gb_3.mp3",
     "phonetic_text": "/ˌveəriˈeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/varia/variation__us_1.mp3",
@@ -856,7 +856,7 @@
   },
   {
     "word": "varied",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/varie/varied__gb_1.mp3",
     "phonetic_text": "/ˈveərid/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/varie/varied__us_1.mp3",
@@ -892,7 +892,7 @@
   },
   {
     "word": "variety",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/varie/variety__gb_1.mp3",
     "phonetic_text": "/vəˈraɪəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/varie/variety__us_3.mp3",
@@ -1002,7 +1002,7 @@
   },
   {
     "word": "various",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/vario/various__gb_4.mp3",
     "phonetic_text": "/ˈveəriəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/vario/various__us_3.mp3",
@@ -1180,7 +1180,7 @@
   },
   {
     "word": "vast",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vas/vast_/vast__gb_1.mp3",
     "phonetic_text": "/vɑːst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vas/vast_/vast__us_1.mp3",
@@ -1251,7 +1251,7 @@
   },
   {
     "word": "vegetable",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/veg/veget/vegetable__gb_1.mp3",
     "phonetic_text": "/ˈvedʒtəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/veg/veget/vegetable__us_1.mp3",
@@ -1315,7 +1315,7 @@
   },
   {
     "word": "vehicle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/veh/vehic/vehicle__gb_5.mp3",
     "phonetic_text": "/ˈviːəkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/veh/vehic/vehicle__us_5.mp3",
@@ -1368,7 +1368,7 @@
   },
   {
     "word": "vein",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vei/vein_/vein__gb_1.mp3",
     "phonetic_text": "/veɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vei/vein_/vein__us_1.mp3",
@@ -1442,7 +1442,7 @@
   },
   {
     "word": "venture",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ven/ventu/venture__gb_1.mp3",
     "phonetic_text": "/ˈventʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ven/ventu/venture__us_1.mp3",
@@ -1522,7 +1522,7 @@
   },
   {
     "word": "venue",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ven/venue/venue__gb_1.mp3",
     "phonetic_text": "/ˈvenjuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ven/venue/venue__us_1.mp3",
@@ -1549,7 +1549,7 @@
   },
   {
     "word": "verbal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/verba/verbal__gb_1.mp3",
     "phonetic_text": "/ˈvɜːbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/verba/verbal__us_1.mp3",
@@ -1594,7 +1594,7 @@
   },
   {
     "word": "verdict",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/verdi/verdict__gb_1.mp3",
     "phonetic_text": "/ˈvɜːdɪkt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/verdi/verdict__us_1.mp3",
@@ -1678,7 +1678,7 @@
   },
   {
     "word": "verse",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/verse/verse__gb_1.mp3",
     "phonetic_text": "/vɜːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/verse/verse__us_1.mp3",
@@ -1733,7 +1733,7 @@
   },
   {
     "word": "version",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/versi/version__gb_1.mp3",
     "phonetic_text": "/ˈvɜːʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/versi/version__us_1.mp3",
@@ -1874,7 +1874,7 @@
   },
   {
     "word": "versus",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/versu/versus__gb_1.mp3",
     "phonetic_text": "/ˈvɜːsəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/versu/versus__us_1_rr.mp3",
@@ -1906,7 +1906,7 @@
   },
   {
     "word": "vertical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/verti/vertical__gb_1.mp3",
     "phonetic_text": "/ˈvɜːtɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/verti/vertical__us_1.mp3",
@@ -1951,7 +1951,7 @@
   },
   {
     "word": "very",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/very_/very__gb_1.mp3",
     "phonetic_text": "/ˈveri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/very_/very__us_1.mp3",
@@ -2061,7 +2061,7 @@
   },
   {
     "word": "very",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/very_/very__gb_1.mp3",
     "phonetic_text": "/ˈveri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/very_/very__us_1.mp3",
@@ -2186,7 +2186,7 @@
   },
   {
     "word": "vessel",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ves/vesse/vessel__gb_1.mp3",
     "phonetic_text": "/ˈvesl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ves/vesse/vessel__us_1.mp3",
@@ -2231,7 +2231,7 @@
   },
   {
     "word": "veteran",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vet/veter/veteran__gb_1.mp3",
     "phonetic_text": "/ˈvetərən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vet/veter/veteran__us_1.mp3",
@@ -2263,7 +2263,7 @@
   },
   {
     "word": "via",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/via/via__/via__gb_3.mp3",
     "phonetic_text": "/ˈvaɪə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/via/via__/via__us_1_rr.mp3",
@@ -2295,7 +2295,7 @@
   },
   {
     "word": "viable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/via/viabl/viable__gb_1.mp3",
     "phonetic_text": "/ˈvaɪəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/via/viabl/viable__us_1.mp3",
@@ -2335,7 +2335,7 @@
   },
   {
     "word": "vibrant",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vib/vibra/vibrant__gb_1.mp3",
     "phonetic_text": "/ˈvaɪbrənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vib/vibra/vibrant__us_1.mp3",
@@ -2376,7 +2376,7 @@
   },
   {
     "word": "vice",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vic/vice_/vice__gb_1.mp3",
     "phonetic_text": "/vaɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vic/vice_/vice__us_1.mp3",
@@ -2425,7 +2425,7 @@
   },
   {
     "word": "vicious",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vic/vicio/vicious__gb_1.mp3",
     "phonetic_text": "/ˈvɪʃəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vic/vicio/vicious__us_1.mp3",
@@ -2495,7 +2495,7 @@
   },
   {
     "word": "victim",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vic/victi/victim__gb_1.mp3",
     "phonetic_text": "/ˈvɪktɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vic/victi/victim__us_1.mp3",
@@ -2602,7 +2602,7 @@
   },
   {
     "word": "victory",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vic/victo/victory__gb_1.mp3",
     "phonetic_text": "/ˈvɪktəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vic/victo/victory__us_1.mp3",
@@ -2674,7 +2674,7 @@
   },
   {
     "word": "video",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vid/video/video__gb_1.mp3",
     "phonetic_text": "/ˈvɪdiəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vid/video/video__us_1.mp3",
@@ -2766,7 +2766,7 @@
   },
   {
     "word": "view",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vie/view_/view__gb_3.mp3",
     "phonetic_text": "/vjuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vie/view_/view__us_1.mp3",
@@ -3105,7 +3105,7 @@
   },
   {
     "word": "viewer",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vie/viewe/viewer__gb_1.mp3",
     "phonetic_text": "/ˈvjuːə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vie/viewe/viewer__us_1.mp3",
@@ -3161,7 +3161,7 @@
   },
   {
     "word": "viewpoint",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vie/viewp/viewpoint__gb_1.mp3",
     "phonetic_text": "/ˈvjuːpɔɪnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vie/viewp/viewpoint__us_1.mp3",
@@ -3197,7 +3197,7 @@
   },
   {
     "word": "village",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vil/villa/village__gb_1.mp3",
     "phonetic_text": "/ˈvɪlɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vil/villa/village__us_1.mp3",
@@ -3269,7 +3269,7 @@
   },
   {
     "word": "villager",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vil/villa/villager__gb_1.mp3",
     "phonetic_text": "/ˈvɪlɪdʒə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vil/villa/villager__us_1.mp3",
@@ -3334,7 +3334,7 @@
   },
   {
     "word": "violation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vio/viola/violation__gb_1.mp3",
     "phonetic_text": "/ˌvaɪəˈleɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vio/viola/violation__us_1.mp3",
@@ -3375,7 +3375,7 @@
   },
   {
     "word": "violence",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vio/viole/violence__gb_1.mp3",
     "phonetic_text": "/ˈvaɪələns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vio/viole/violence__us_1.mp3",
@@ -3452,7 +3452,7 @@
   },
   {
     "word": "violent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vio/viole/violent__gb_1.mp3",
     "phonetic_text": "/ˈvaɪələnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vio/viole/violent__us_1.mp3",
@@ -3554,7 +3554,7 @@
   },
   {
     "word": "virtual",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vir/virtu/virtual__gb_1.mp3",
     "phonetic_text": "/ˈvɜːtʃuəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vir/virtu/virtual__us_1.mp3",
@@ -3618,7 +3618,7 @@
   },
   {
     "word": "virtue",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vir/virtu/virtue__gb_1.mp3",
     "phonetic_text": "/ˈvɜːtʃuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vir/virtu/virtue__us_1.mp3",
@@ -3711,7 +3711,7 @@
   },
   {
     "word": "virus",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vir/virus/virus__gb_2.mp3",
     "phonetic_text": "/ˈvaɪrəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vir/virus/virus__us_1.mp3",
@@ -3792,7 +3792,7 @@
   },
   {
     "word": "visa",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visa_/visa__gb_1.mp3",
     "phonetic_text": "/ˈviːzə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visa_/visa__us_1_rr.mp3",
@@ -3815,7 +3815,7 @@
   },
   {
     "word": "visible",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visib/visible__gb_3.mp3",
     "phonetic_text": "/ˈvɪzəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visib/visible__us_1.mp3",
@@ -3867,7 +3867,7 @@
   },
   {
     "word": "vision",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visio/vision__gb_1.mp3",
     "phonetic_text": "/ˈvɪʒn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visio/vision__us_1.mp3",
@@ -3995,7 +3995,7 @@
   },
   {
     "word": "visit",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visit/visit__gb_1.mp3",
     "phonetic_text": "/ˈvɪzɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visit/visit__us_1.mp3",
@@ -4210,7 +4210,7 @@
   },
   {
     "word": "visitor",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visit/visitor__gb_1.mp3",
     "phonetic_text": "/ˈvɪzɪtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visit/visitor__us_1.mp3",
@@ -4262,7 +4262,7 @@
   },
   {
     "word": "visual",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visua/visual__gb_2.mp3",
     "phonetic_text": "/ˈvɪʒuəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visua/visual__us_1.mp3",
@@ -4313,7 +4313,7 @@
   },
   {
     "word": "vital",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vit/vital/vital__gb_1.mp3",
     "phonetic_text": "/ˈvaɪtl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vit/vital/vital__us_1.mp3",
@@ -4385,7 +4385,7 @@
   },
   {
     "word": "vitamin",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vit/vitam/vitamin__gb_1.mp3",
     "phonetic_text": "/ˈvɪtəmɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vit/vitam/vitamin__us_1.mp3",
@@ -4432,7 +4432,7 @@
   },
   {
     "word": "vocal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/voc/vocal/vocal__gb_1.mp3",
     "phonetic_text": "/ˈvəʊkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/voc/vocal/vocal__us_1.mp3",
@@ -4468,7 +4468,7 @@
   },
   {
     "word": "voice",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/voi/voice/voice__gb_1.mp3",
     "phonetic_text": "/vɔɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/voi/voice/voice__us_1.mp3",
@@ -4685,7 +4685,7 @@
   },
   {
     "word": "volume",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vol/volum/volume__gb_3.mp3",
     "phonetic_text": "/ˈvɒljuːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vol/volum/volume__us_2_rr.mp3",
@@ -4826,7 +4826,7 @@
   },
   {
     "word": "voluntary",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vol/volun/voluntary__gb_2.mp3",
     "phonetic_text": "/ˈvɒləntri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vol/volun/voluntary__us_1.mp3",
@@ -4891,7 +4891,7 @@
   },
   {
     "word": "volunteer",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vol/volun/volunteer__gb_1.mp3",
     "phonetic_text": "/ˌvɒlənˈtɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vol/volun/volunteer__us_1.mp3",
@@ -5057,7 +5057,7 @@
   },
   {
     "word": "vote",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vot/vote_/vote__gb_2.mp3",
     "phonetic_text": "/vəʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vot/vote_/vote__us_1.mp3",
@@ -5316,7 +5316,7 @@
   },
   {
     "word": "voting",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vot/votin/voting__gb_1.mp3",
     "phonetic_text": "/ˈvəʊtɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vot/votin/voting__us_1.mp3",
@@ -5382,7 +5382,7 @@
   },
   {
     "word": "vulnerability",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vul/vulne/vulnerability__gb_1.mp3",
     "phonetic_text": "/ˌvʌlnərəˈbɪləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vul/vulne/vulnerability__us_1.mp3",
@@ -5409,7 +5409,7 @@
   },
   {
     "word": "vulnerable",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vul/vulne/vulnerable__gb_1.mp3",
     "phonetic_text": "/ˈvʌlnərəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vul/vulne/vulnerable__us_1.mp3",

@@ -1,7 +1,7 @@
 [
   {
     "word": "according to",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accor/according_to_1_gb_1.mp3",
     "phonetic_text": "/əˈkɔːdɪŋ tə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accor/according_to_1_us_3.mp3",
@@ -50,7 +50,7 @@
   },
   {
     "word": "full-time",
-    "pos": "verb",
+    "pos": "adjective, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/ful/full_/full_time_1_gb_1.mp3",
     "phonetic_text": "/ˌfʊl ˈtaɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/ful/full_/full_time_1_us_1.mp3",
@@ -85,7 +85,7 @@
   },
   {
     "word": "full-time",
-    "pos": "verb",
+    "pos": "adjective, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/ful/full_/full_time_1_gb_1.mp3",
     "phonetic_text": "/ˌfʊl ˈtaɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/ful/full_/full_time_1_us_1.mp3",
@@ -120,7 +120,7 @@
   },
   {
     "word": "have to",
-    "pos": "verb",
+    "pos": "modal verb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hav/have_/have_to_1_gb_1.mp3",
     "phonetic_text": "/ˈhæv tə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hav/have_/have_to_1_us_1.mp3",
@@ -206,7 +206,7 @@
   },
   {
     "word": "long-term",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lon/long_/long_term_1_gb_2.mp3",
     "phonetic_text": "/ˌlɒŋ ˈtɜːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lon/long_/long_term_1_us_2.mp3",
@@ -261,7 +261,7 @@
   },
   {
     "word": "long-term",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lon/long_/long_term_1_gb_2.mp3",
     "phonetic_text": "/ˌlɒŋ ˈtɜːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lon/long_/long_term_1_us_2.mp3",
@@ -288,7 +288,7 @@
   },
   {
     "word": "long-time",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lon/long_/long_time_1_gb_2.mp3",
     "phonetic_text": "/ˈlɒŋ taɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lon/long_/long_time_1_us_2.mp3",
@@ -307,7 +307,7 @@
   },
   {
     "word": "next to",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nex/next_/next_to_1_gb_2.mp3",
     "phonetic_text": "/ˈnekst tə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nex/next_/next_to_1_us_3.mp3",
@@ -357,7 +357,7 @@
   },
   {
     "word": "ought to",
-    "pos": "verb",
+    "pos": "modal verb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/oug/ought/ought_to_1_gb_1.mp3",
     "phonetic_text": "/ˈɔːt tə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/oug/ought/ought_to_1_us_1.mp3",
@@ -439,7 +439,7 @@
   },
   {
     "word": "part-time",
-    "pos": "verb",
+    "pos": "adjective, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/part_/part_time_1_gb_1.mp3",
     "phonetic_text": "/ˌpɑːt ˈtaɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/part_/part_time_1_us_1.mp3",
@@ -474,7 +474,7 @@
   },
   {
     "word": "short-term",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sho/short/short_term_1_gb_2.mp3",
     "phonetic_text": "/ˌʃɔːt ˈtɜːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sho/short/short_term_1_us_1.mp3",
@@ -509,7 +509,7 @@
   },
   {
     "word": "table",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tab/table/table__gb_3.mp3",
     "phonetic_text": "/ˈteɪbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tab/table/table__us_1.mp3",
@@ -688,7 +688,7 @@
   },
   {
     "word": "tablet",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tab/table/tablet__gb_1.mp3",
     "phonetic_text": "/ˈtæblət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tab/table/tablet__us_1.mp3",
@@ -758,7 +758,7 @@
   },
   {
     "word": "tackle",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tac/tackl/tackle__gb_1.mp3",
     "phonetic_text": "/ˈtækl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tac/tackl/tackle__us_1.mp3",
@@ -865,7 +865,7 @@
   },
   {
     "word": "tactic",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tac/tacti/tactic__gb_1.mp3",
     "phonetic_text": "/ˈtæktɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tac/tacti/tactic__us_1.mp3",
@@ -908,7 +908,7 @@
   },
   {
     "word": "tactical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tac/tacti/tactical__gb_1.mp3",
     "phonetic_text": "/ˈtæktɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tac/tacti/tactical__us_1.mp3",
@@ -966,7 +966,7 @@
   },
   {
     "word": "tag",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tag/tag__/tag__gb_1.mp3",
     "phonetic_text": "/tæɡ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tag/tag__/tag__us_1.mp3",
@@ -1107,7 +1107,7 @@
   },
   {
     "word": "tail",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tai/tail_/tail__gb_2.mp3",
     "phonetic_text": "/teɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tai/tail_/tail__us_1.mp3",
@@ -2131,7 +2131,7 @@
   },
   {
     "word": "tale",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tal/tale_/tale__gb_1.mp3",
     "phonetic_text": "/teɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tal/tale_/tale__us_1.mp3",
@@ -2217,7 +2217,7 @@
   },
   {
     "word": "talent",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tal/talen/talent__gb_1.mp3",
     "phonetic_text": "/ˈtælənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tal/talen/talent__us_1.mp3",
@@ -2286,7 +2286,7 @@
   },
   {
     "word": "talented",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tal/talen/talented__gb_1.mp3",
     "phonetic_text": "/ˈtæləntɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tal/talen/talented__us_3.mp3",
@@ -2309,7 +2309,7 @@
   },
   {
     "word": "talk",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tal/talk_/talk__gb_1.mp3",
     "phonetic_text": "/tɔːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tal/talk_/talk__us_1.mp3",
@@ -2799,7 +2799,7 @@
   },
   {
     "word": "tall",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tal/tall_/tall__gb_2.mp3",
     "phonetic_text": "/tɔːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tal/tall_/tall__us_1.mp3",
@@ -2868,7 +2868,7 @@
   },
   {
     "word": "tank",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tan/tank_/tank__gb_1.mp3",
     "phonetic_text": "/tæŋk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tan/tank_/tank__us_1.mp3",
@@ -2921,7 +2921,7 @@
   },
   {
     "word": "tap",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tap/tap__/tap__gb_2.mp3",
     "phonetic_text": "/tæp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tap/tap__/tap__us_1.mp3",
@@ -3112,7 +3112,7 @@
   },
   {
     "word": "tape",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tap/tape_/tape__gb_1.mp3",
     "phonetic_text": "/teɪp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tap/tape_/tape__us_1.mp3",
@@ -3187,7 +3187,7 @@
   },
   {
     "word": "target",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tar/targe/target__gb_1.mp3",
     "phonetic_text": "/ˈtɑːɡɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tar/targe/target__us_1.mp3",
@@ -3336,7 +3336,7 @@
   },
   {
     "word": "task",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tas/task_/task__gb_3.mp3",
     "phonetic_text": "/tɑːsk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tas/task_/task__us_1.mp3",
@@ -3417,7 +3417,7 @@
   },
   {
     "word": "taste",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tas/taste/taste__gb_1.mp3",
     "phonetic_text": "/teɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tas/taste/taste__us_1.mp3",
@@ -3680,7 +3680,7 @@
   },
   {
     "word": "tax",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tax/tax__/tax__gb_1.mp3",
     "phonetic_text": "/tæks/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tax/tax__/tax__us_1.mp3",
@@ -3784,7 +3784,7 @@
   },
   {
     "word": "taxi",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tax/taxi_/taxi__gb_2.mp3",
     "phonetic_text": "/ˈtæksi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tax/taxi_/taxi__us_2.mp3",
@@ -3823,7 +3823,7 @@
   },
   {
     "word": "taxpayer",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tax/taxpa/taxpayer__gb_1.mp3",
     "phonetic_text": "/ˈtækspeɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tax/taxpa/taxpayer__us_1.mp3",
@@ -3846,7 +3846,7 @@
   },
   {
     "word": "tea",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tea/tea__/tea__gb_3.mp3",
     "phonetic_text": "/tiː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/tea__/tea__us_1.mp3",
@@ -4095,7 +4095,7 @@
   },
   {
     "word": "teacher",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tea/teach/teacher__gb_1.mp3",
     "phonetic_text": "/ˈtiːtʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/teach/teacher__us_1.mp3",
@@ -4122,7 +4122,7 @@
   },
   {
     "word": "teaching",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tea/teach/teaching__gb_1.mp3",
     "phonetic_text": "/ˈtiːtʃɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/teach/teaching__us_3.mp3",
@@ -4182,7 +4182,7 @@
   },
   {
     "word": "team",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tea/team_/team__gb_3.mp3",
     "phonetic_text": "/tiːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/team_/team__us_1.mp3",
@@ -4279,7 +4279,7 @@
   },
   {
     "word": "tear1",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tea/tear_/tear__gb_1.mp3",
     "phonetic_text": "/teə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/tear_/tear__us_1.mp3",
@@ -4529,7 +4529,7 @@
   },
   {
     "word": "technical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tec/techn/technical__gb_2.mp3",
     "phonetic_text": "/ˈteknɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tec/techn/technical__us_2.mp3",
@@ -4607,7 +4607,7 @@
   },
   {
     "word": "technique",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tec/techn/technique__gb_2.mp3",
     "phonetic_text": "/tekˈniːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tec/techn/technique__us_2.mp3",
@@ -4659,7 +4659,7 @@
   },
   {
     "word": "technological",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tec/techn/technological__gb_2.mp3",
     "phonetic_text": "/ˌteknəˈlɒdʒɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tec/techn/technological__us_1.mp3",
@@ -4686,7 +4686,7 @@
   },
   {
     "word": "technology",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tec/techn/technology__gb_2.mp3",
     "phonetic_text": "/tekˈnɒlədʒi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tec/techn/technology__us_1.mp3",
@@ -4750,7 +4750,7 @@
   },
   {
     "word": "teenage",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tee/teena/teenage__gb_1.mp3",
     "phonetic_text": "/ˈtiːneɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tee/teena/teenage__us_2.mp3",
@@ -4781,7 +4781,7 @@
   },
   {
     "word": "teenager",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tee/teena/teenager__gb_1.mp3",
     "phonetic_text": "/ˈtiːneɪdʒə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tee/teena/teenager__us_3.mp3",
@@ -4808,7 +4808,7 @@
   },
   {
     "word": "teens",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tee/teens/teens__gb_1.mp3",
     "phonetic_text": "/tiːnz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tee/teens/teens__us_1.mp3",
@@ -4831,7 +4831,7 @@
   },
   {
     "word": "telephone",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tel/telep/telephone__gb_1.mp3",
     "phonetic_text": "/ˈtelɪfəʊn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tel/telep/telephone__us_2.mp3",
@@ -4952,7 +4952,7 @@
   },
   {
     "word": "television",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tel/telev/television__gb_1.mp3",
     "phonetic_text": "/ˈtelɪvɪʒn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tel/telev/television__us_1.mp3",
@@ -5484,7 +5484,7 @@
   },
   {
     "word": "temperature",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tem/tempe/temperature__gb_1.mp3",
     "phonetic_text": "/ˈtemprətʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tem/tempe/temperature__us_1.mp3",
@@ -5577,7 +5577,7 @@
   },
   {
     "word": "temple",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tem/templ/temple__gb_1.mp3",
     "phonetic_text": "/ˈtempl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tem/templ/temple__us_1.mp3",
@@ -5617,7 +5617,7 @@
   },
   {
     "word": "temporarily",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tem/tempo/temporarily__gb_1.mp3",
     "phonetic_text": "/ˈtemprərəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tem/tempo/temporarily__us_1.mp3",
@@ -5640,7 +5640,7 @@
   },
   {
     "word": "temporary",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tem/tempo/temporary__gb_2.mp3",
     "phonetic_text": "/ˈtemprəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tem/tempo/temporary__us_1.mp3",
@@ -5736,7 +5736,7 @@
   },
   {
     "word": "ten",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ten/ten__/ten__gb_2.mp3",
     "phonetic_text": "/ten/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ten/ten__/ten__us_1.mp3",
@@ -5826,7 +5826,7 @@
   },
   {
     "word": "tenant",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ten/tenan/tenant__gb_1.mp3",
     "phonetic_text": "/ˈtenənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ten/tenan/tenant__us_1.mp3",
@@ -5943,7 +5943,7 @@
   },
   {
     "word": "tendency",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ten/tende/tendency__gb_1.mp3",
     "phonetic_text": "/ˈtendənsi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ten/tende/tendency__us_1.mp3",
@@ -6000,7 +6000,7 @@
   },
   {
     "word": "tender",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ten/tende/tender__gb_1.mp3",
     "phonetic_text": "/ˈtendə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ten/tende/tender__us_1.mp3",
@@ -6075,7 +6075,7 @@
   },
   {
     "word": "tennis",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ten/tenni/tennis__gb_1.mp3",
     "phonetic_text": "/ˈtenɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ten/tenni/tennis__us_3.mp3",
@@ -6114,7 +6114,7 @@
   },
   {
     "word": "tension",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ten/tensi/tension__gb_1.mp3",
     "phonetic_text": "/ˈtenʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ten/tensi/tension__us_1.mp3",
@@ -6209,7 +6209,7 @@
   },
   {
     "word": "tent",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ten/tent_/tent__gb_2.mp3",
     "phonetic_text": "/tent/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ten/tent_/tent__us_1.mp3",
@@ -6240,7 +6240,7 @@
   },
   {
     "word": "tenure",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ten/tenur/tenure__gb_1.mp3",
     "phonetic_text": "/ˈtenjə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ten/tenur/tenure__us_1.mp3",
@@ -6285,7 +6285,7 @@
   },
   {
     "word": "term",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/term_/term__gb_3.mp3",
     "phonetic_text": "/tɜːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/term_/term__us_1.mp3",
@@ -6459,7 +6459,7 @@
   },
   {
     "word": "terminal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/termi/terminal__gb_3.mp3",
     "phonetic_text": "/ˈtɜːmɪnl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/termi/terminal__us_1.mp3",
@@ -6517,7 +6517,7 @@
   },
   {
     "word": "terminal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/termi/terminal__gb_3.mp3",
     "phonetic_text": "/ˈtɜːmɪnl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/termi/terminal__us_1.mp3",
@@ -6603,7 +6603,7 @@
   },
   {
     "word": "terms",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/terms/terms__gb_1.mp3",
     "phonetic_text": "/tɜːmz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/terms/terms__us_1.mp3",
@@ -6801,7 +6801,7 @@
   },
   {
     "word": "terrain",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/terra/terrain__gb_1.mp3",
     "phonetic_text": "/təˈreɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/terra/terrain__us_1.mp3",
@@ -6824,7 +6824,7 @@
   },
   {
     "word": "terrible",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/terri/terrible__gb_1.mp3",
     "phonetic_text": "/ˈterəbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/terri/terrible__us_1.mp3",
@@ -6955,7 +6955,7 @@
   },
   {
     "word": "terribly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/terri/terribly__gb_1.mp3",
     "phonetic_text": "/ˈterəbli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/terri/terribly__us_1.mp3",
@@ -7003,7 +7003,7 @@
   },
   {
     "word": "terrific",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/terri/terrific__gb_1.mp3",
     "phonetic_text": "/təˈrɪfɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/terri/terrific__us_1.mp3",
@@ -7082,7 +7082,7 @@
   },
   {
     "word": "territory",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/terri/territory__gb_1.mp3",
     "phonetic_text": "/ˈterətri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/terri/territory__us_1.mp3",
@@ -7184,7 +7184,7 @@
   },
   {
     "word": "terrorism",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/terro/terrorism__gb_1.mp3",
     "phonetic_text": "/ˈterərɪzəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/terro/terrorism__us_1.mp3",
@@ -7211,7 +7211,7 @@
   },
   {
     "word": "terrorist",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/terro/terrorist__gb_1.mp3",
     "phonetic_text": "/ˈterərɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/terro/terrorist__us_1.mp3",
@@ -7234,7 +7234,7 @@
   },
   {
     "word": "test",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tes/test_/test__gb_1.mp3",
     "phonetic_text": "/test/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tes/test_/test__us_1.mp3",
@@ -7573,7 +7573,7 @@
   },
   {
     "word": "testimony",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tes/testi/testimony__gb_1.mp3",
     "phonetic_text": "/ˈtestɪməni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tes/testi/testimony__us_1.mp3",
@@ -7617,7 +7617,7 @@
   },
   {
     "word": "testing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tes/testi/testing__gb_1.mp3",
     "phonetic_text": "/ˈtestɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tes/testi/testing__us_1.mp3",
@@ -7640,7 +7640,7 @@
   },
   {
     "word": "text",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tex/text_/text__gb_1.mp3",
     "phonetic_text": "/tekst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tex/text_/text__us_1.mp3",
@@ -7768,7 +7768,7 @@
   },
   {
     "word": "textbook",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tex/textb/textbook__gb_2.mp3",
     "phonetic_text": "/ˈtekstbʊk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tex/textb/textbook__us_1.mp3",
@@ -7787,7 +7787,7 @@
   },
   {
     "word": "texture",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tex/textu/texture__gb_1.mp3",
     "phonetic_text": "/ˈtekstʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tex/textu/texture__us_1.mp3",
@@ -7836,7 +7836,7 @@
   },
   {
     "word": "than",
-    "pos": "verb",
+    "pos": "preposition, conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tha/than_/than__gb_1.mp3",
     "phonetic_text": "/ðən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tha/than_/than__us_3_rr.mp3",
@@ -7927,7 +7927,7 @@
   },
   {
     "word": "than",
-    "pos": "verb",
+    "pos": "preposition, conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tha/than_/than__gb_1.mp3",
     "phonetic_text": "/ðən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tha/than_/than__us_3_rr.mp3",
@@ -8118,7 +8118,7 @@
   },
   {
     "word": "thankfully",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tha/thank/thankfully__gb_1.mp3",
     "phonetic_text": "/ˈθæŋkfəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tha/thank/thankfully__us_1.mp3",
@@ -8154,7 +8154,7 @@
   },
   {
     "word": "thanks",
-    "pos": "verb",
+    "pos": "exclamation",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tha/thank/thanks__gb_1.mp3",
     "phonetic_text": "/θæŋks/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tha/thank/thanks__us_1.mp3",
@@ -8207,7 +8207,7 @@
   },
   {
     "word": "thanks",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tha/thank/thanks__gb_1.mp3",
     "phonetic_text": "/θæŋks/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tha/thank/thanks__us_1.mp3",
@@ -8306,7 +8306,7 @@
   },
   {
     "word": "that",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tha/that_/that__gb_1.mp3",
     "phonetic_text": "/ðæt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tha/that_/that__us_1.mp3",
@@ -8372,7 +8372,7 @@
   },
   {
     "word": "that",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tha/that_/that__gb_3.mp3",
     "phonetic_text": "/ðət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tha/that_/that__us_6_rr.mp3",
@@ -8421,7 +8421,7 @@
   },
   {
     "word": "that",
-    "pos": "verb",
+    "pos": "determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tha/that_/that__gb_1.mp3",
     "phonetic_text": "/ðæt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tha/that_/that__us_1.mp3",
@@ -8465,7 +8465,7 @@
   },
   {
     "word": "that",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tha/that_/that__gb_1.mp3",
     "phonetic_text": "/ðæt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tha/that_/that__us_1.mp3",
@@ -8646,7 +8646,7 @@
   },
   {
     "word": "the",
-    "pos": "verb",
+    "pos": "definite article",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/the__/the__gb_1.mp3",
     "phonetic_text": "/ðə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/the__/the__us_1_rr.mp3",
@@ -8851,7 +8851,7 @@
   },
   {
     "word": "theatre",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/theat/theatre__gb_2.mp3",
     "phonetic_text": "/ˈθɪətə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/theat/theatre__us_1.mp3",
@@ -8979,7 +8979,7 @@
   },
   {
     "word": "theatrical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/theat/theatrical__gb_1.mp3",
     "phonetic_text": "/θiˈætrɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/theat/theatrical__us_1.mp3",
@@ -9007,7 +9007,7 @@
   },
   {
     "word": "theft",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/theft/theft__gb_1.mp3",
     "phonetic_text": "/θeft/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/theft/theft__us_1.mp3",
@@ -9034,7 +9034,7 @@
   },
   {
     "word": "their",
-    "pos": "verb",
+    "pos": "determiner",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/their/their__gb_1.mp3",
     "phonetic_text": "/ðeə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/their/their__us_2_rr.mp3",
@@ -9066,7 +9066,7 @@
   },
   {
     "word": "theirs",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/their/theirs__gb_1.mp3",
     "phonetic_text": "/ðeəz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/their/theirs__us_1.mp3",
@@ -9089,7 +9089,7 @@
   },
   {
     "word": "them",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/them_/them__gb_1.mp3",
     "phonetic_text": "/ðəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/them_/them__us_3_rr.mp3",
@@ -9129,7 +9129,7 @@
   },
   {
     "word": "theme",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/theme/theme__gb_2.mp3",
     "phonetic_text": "/θiːm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/theme/theme__us_1.mp3",
@@ -9214,7 +9214,7 @@
   },
   {
     "word": "themselves",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/thems/themselves__gb_1.mp3",
     "phonetic_text": "/ðəmˈselvz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/thems/themselves__us_1_rr.mp3",
@@ -9285,7 +9285,7 @@
   },
   {
     "word": "then",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/then_/then__gb_1.mp3",
     "phonetic_text": "/ðen/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/then_/then__us_1.mp3",
@@ -9465,7 +9465,7 @@
   },
   {
     "word": "theology",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/theol/theology__gb_1.mp3",
     "phonetic_text": "/θiˈɒlədʒi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/theol/theology__us_1.mp3",
@@ -9501,7 +9501,7 @@
   },
   {
     "word": "theoretical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/theor/theoretical__gb_1.mp3",
     "phonetic_text": "/ˌθɪəˈretɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/theor/theoretical__us_1.mp3",
@@ -9537,7 +9537,7 @@
   },
   {
     "word": "theory",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/theor/theory__gb_3.mp3",
     "phonetic_text": "/ˈθɪəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/theor/theory__us_2_rr.mp3",
@@ -9639,7 +9639,7 @@
   },
   {
     "word": "therapist",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/thera/therapist__gb_1.mp3",
     "phonetic_text": "/ˈθerəpɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/thera/therapist__us_1.mp3",
@@ -9666,7 +9666,7 @@
   },
   {
     "word": "therapy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/thera/therapy__gb_1.mp3",
     "phonetic_text": "/ˈθerəpi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/thera/therapy__us_2.mp3",
@@ -9722,7 +9722,7 @@
   },
   {
     "word": "there",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/there/there__gb_1.mp3",
     "phonetic_text": "/ðeə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/there/there__us_1.mp3",
@@ -10101,7 +10101,7 @@
   },
   {
     "word": "thereafter",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/there/thereafter__gb_1.mp3",
     "phonetic_text": "/ˌðeərˈɑːftə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/there/thereafter__us_1.mp3",
@@ -10120,7 +10120,7 @@
   },
   {
     "word": "thereby",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/there/thereby__gb_5.mp3",
     "phonetic_text": "/ˌðeəˈbaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/there/thereby__us_1_rr.mp3",
@@ -10139,7 +10139,7 @@
   },
   {
     "word": "therefore",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/there/therefore__gb_2.mp3",
     "phonetic_text": "/ˈðeəfɔː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/there/therefore__us_1.mp3",
@@ -10162,7 +10162,7 @@
   },
   {
     "word": "thesis",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/thesi/thesis__gb_2.mp3",
     "phonetic_text": "/ˈθiːsɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/thesi/thesis__us_1.mp3",
@@ -10194,7 +10194,7 @@
   },
   {
     "word": "they",
-    "pos": "verb",
+    "pos": "pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/they_/they__gb_1.mp3",
     "phonetic_text": "/ðeɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/they_/they__us_1.mp3",
@@ -10248,7 +10248,7 @@
   },
   {
     "word": "thick",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/thick/thick__gb_1.mp3",
     "phonetic_text": "/θɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/thick/thick__us_1.mp3",
@@ -10480,7 +10480,7 @@
   },
   {
     "word": "thief",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/thief/thief__gb_1.mp3",
     "phonetic_text": "/θiːf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/thief/thief__us_1.mp3",
@@ -10523,7 +10523,7 @@
   },
   {
     "word": "thin",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/thin_/thin__gb_2.mp3",
     "phonetic_text": "/θɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/thin_/thin__us_1.mp3",
@@ -10798,7 +10798,7 @@
   },
   {
     "word": "thing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/thing/thing__gb_1.mp3",
     "phonetic_text": "/θɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/thing/thing__us_1.mp3",
@@ -12106,7 +12106,7 @@
   },
   {
     "word": "thinking",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/think/thinking__gb_1.mp3",
     "phonetic_text": "/ˈθɪŋkɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/think/thinking__us_3.mp3",
@@ -12158,7 +12158,7 @@
   },
   {
     "word": "third",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/third/third__gb_1.mp3",
     "phonetic_text": "/θɜːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/third/third__us_1.mp3",
@@ -12189,7 +12189,7 @@
   },
   {
     "word": "third",
-    "pos": "verb",
+    "pos": "ordinal number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/third/third__gb_1.mp3",
     "phonetic_text": "/θɜːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/third/third__us_1.mp3",
@@ -12244,7 +12244,7 @@
   },
   {
     "word": "thirsty",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/thirs/thirsty__gb_2.mp3",
     "phonetic_text": "/ˈθɜːsti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/thirs/thirsty__us_1.mp3",
@@ -12292,7 +12292,7 @@
   },
   {
     "word": "thirteen",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/thirt/thirteen__gb_3.mp3",
     "phonetic_text": "/ˌθɜːˈtiːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/thirt/thirteen__us_1.mp3",
@@ -12306,7 +12306,7 @@
   },
   {
     "word": "thirty",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/thirt/thirty__gb_2.mp3",
     "phonetic_text": "/ˈθɜːti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/thirt/thirty__us_1.mp3",
@@ -12328,7 +12328,7 @@
   },
   {
     "word": "this",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/this_/this__gb_1.mp3",
     "phonetic_text": "/ðɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/this_/this__us_1.mp3",
@@ -12359,7 +12359,7 @@
   },
   {
     "word": "this",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/this_/this__gb_1.mp3",
     "phonetic_text": "/ðɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/this_/this__us_1.mp3",
@@ -12501,7 +12501,7 @@
   },
   {
     "word": "this",
-    "pos": "verb",
+    "pos": "determiner, pronoun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/this_/this__gb_1.mp3",
     "phonetic_text": "/ðɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thi/this_/this__us_1.mp3",
@@ -12643,7 +12643,7 @@
   },
   {
     "word": "thorough",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tho/thoro/thorough__gb_1.mp3",
     "phonetic_text": "/ˈθʌrə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tho/thoro/thorough__us_1.mp3",
@@ -12692,7 +12692,7 @@
   },
   {
     "word": "thoroughly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tho/thoro/thoroughly__gb_1.mp3",
     "phonetic_text": "/ˈθʌrəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tho/thoro/thoroughly__us_1_rr.mp3",
@@ -12740,7 +12740,7 @@
   },
   {
     "word": "though",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tho/thoug/though__gb_1.mp3",
     "phonetic_text": "/ðəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tho/thoug/though__us_1.mp3",
@@ -12771,7 +12771,7 @@
   },
   {
     "word": "though",
-    "pos": "verb",
+    "pos": "conjunction",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tho/thoug/though__gb_1.mp3",
     "phonetic_text": "/ðəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tho/thoug/though__us_1.mp3",
@@ -12845,7 +12845,7 @@
   },
   {
     "word": "thought",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tho/thoug/thought__gb_2.mp3",
     "phonetic_text": "/θɔːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tho/thoug/thought__us_2.mp3",
@@ -13120,7 +13120,7 @@
   },
   {
     "word": "thoughtful",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tho/thoug/thoughtful__gb_1.mp3",
     "phonetic_text": "/ˈθɔːtfl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tho/thoug/thoughtful__us_1.mp3",
@@ -13165,7 +13165,7 @@
   },
   {
     "word": "thousand",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tho/thous/thousand__gb_1.mp3",
     "phonetic_text": "/ˈθaʊznd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tho/thous/thousand__us_2.mp3",
@@ -13206,7 +13206,7 @@
   },
   {
     "word": "thread",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/threa/thread__gb_1.mp3",
     "phonetic_text": "/θred/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thr/threa/thread__us_1.mp3",
@@ -13295,7 +13295,7 @@
   },
   {
     "word": "threat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/threa/threat__gb_2.mp3",
     "phonetic_text": "/θret/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thr/threa/threat__us_1.mp3",
@@ -13513,7 +13513,7 @@
   },
   {
     "word": "three",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/three/three__gb_2.mp3",
     "phonetic_text": "/θriː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thr/three/three__us_1.mp3",
@@ -13589,7 +13589,7 @@
   },
   {
     "word": "threshold",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/thres/threshold__gb_1.mp3",
     "phonetic_text": "/ˈθreʃhəʊld/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thr/thres/threshold__us_1_rr.mp3",
@@ -13638,7 +13638,7 @@
   },
   {
     "word": "thrilled",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/thril/thrilled__gb_1.mp3",
     "phonetic_text": "/θrɪld/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thr/thril/thrilled__us_1.mp3",
@@ -13696,7 +13696,7 @@
   },
   {
     "word": "throat",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/throa/throat__gb_1.mp3",
     "phonetic_text": "/θrəʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thr/throa/throat__us_1.mp3",
@@ -13790,7 +13790,7 @@
   },
   {
     "word": "through",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/throu/through__gb_1.mp3",
     "phonetic_text": "/θruː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thr/throu/through__us_1.mp3",
@@ -13887,7 +13887,7 @@
   },
   {
     "word": "through",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/throu/through__gb_1.mp3",
     "phonetic_text": "/θruː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thr/throu/through__us_1.mp3",
@@ -14015,7 +14015,7 @@
   },
   {
     "word": "throughout",
-    "pos": "verb",
+    "pos": "preposition, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/throu/throughout__gb_1.mp3",
     "phonetic_text": "/θruːˈaʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thr/throu/throughout__us_1.mp3",
@@ -14051,7 +14051,7 @@
   },
   {
     "word": "throughout",
-    "pos": "verb",
+    "pos": "preposition, adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/throu/throughout__gb_1.mp3",
     "phonetic_text": "/θruːˈaʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thr/throu/throughout__us_1.mp3",
@@ -14367,7 +14367,7 @@
   },
   {
     "word": "thumb",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thu/thumb/thumb__gb_2.mp3",
     "phonetic_text": "/θʌm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thu/thumb/thumb__us_1.mp3",
@@ -14469,7 +14469,7 @@
   },
   {
     "word": "Thursday",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thu/thurs/thursday_1_gb_1.mp3",
     "phonetic_text": "/ˈθɜːzdeɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thu/thurs/thursday__us_1_rr.mp3",
@@ -14552,7 +14552,7 @@
   },
   {
     "word": "thus",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thu/thus_/thus__gb_1.mp3",
     "phonetic_text": "/ðʌs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thu/thus_/thus__us_1.mp3",
@@ -14601,7 +14601,7 @@
   },
   {
     "word": "ticket",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tic/ticke/ticket__gb_1.mp3",
     "phonetic_text": "/ˈtɪkɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tic/ticke/ticket__us_1.mp3",
@@ -14767,7 +14767,7 @@
   },
   {
     "word": "tide",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tid/tide_/tide__gb_1.mp3",
     "phonetic_text": "/taɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tid/tide_/tide__us_1.mp3",
@@ -14867,7 +14867,7 @@
   },
   {
     "word": "tidy",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tid/tidy_/tidy__gb_1.mp3",
     "phonetic_text": "/ˈtaɪdi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tid/tidy_/tidy__us_2.mp3",
@@ -14959,7 +14959,7 @@
   },
   {
     "word": "tie",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tie/tie__/tie__gb_2.mp3",
     "phonetic_text": "/taɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tie/tie__/tie__us_1.mp3",
@@ -15291,7 +15291,7 @@
   },
   {
     "word": "tight",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tig/tight/tight__gb_1.mp3",
     "phonetic_text": "/taɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tig/tight/tight__us_1.mp3",
@@ -15635,7 +15635,7 @@
   },
   {
     "word": "till",
-    "pos": "verb",
+    "pos": "conjunction, preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/til/till_/till__gb_1.mp3",
     "phonetic_text": "/tɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/til/till_/till__us_1.mp3",
@@ -15662,7 +15662,7 @@
   },
   {
     "word": "till",
-    "pos": "verb",
+    "pos": "conjunction, preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/til/till_/till__gb_1.mp3",
     "phonetic_text": "/tɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/til/till_/till__us_1.mp3",
@@ -15689,7 +15689,7 @@
   },
   {
     "word": "timber",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tim/timbe/timber__gb_1.mp3",
     "phonetic_text": "/ˈtɪmbə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tim/timbe/timber__us_1.mp3",
@@ -15738,7 +15738,7 @@
   },
   {
     "word": "time",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tim/time_/time__gb_1.mp3",
     "phonetic_text": "/taɪm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tim/time_/time__us_1.mp3",
@@ -17075,7 +17075,7 @@
   },
   {
     "word": "timely",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tim/timel/timely__gb_1.mp3",
     "phonetic_text": "/ˈtaɪmli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tim/timel/timely__us_1.mp3",
@@ -17110,7 +17110,7 @@
   },
   {
     "word": "timing",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tim/timin/timing__gb_1.mp3",
     "phonetic_text": "/ˈtaɪmɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tim/timin/timing__us_1.mp3",
@@ -17159,7 +17159,7 @@
   },
   {
     "word": "tin",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tin/tin__/tin__gb_2.mp3",
     "phonetic_text": "/tɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tin/tin__/tin__us_1.mp3",
@@ -17264,7 +17264,7 @@
   },
   {
     "word": "tiny",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tin/tiny_/tiny__gb_1.mp3",
     "phonetic_text": "/ˈtaɪni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tin/tiny_/tiny__us_1.mp3",
@@ -17316,7 +17316,7 @@
   },
   {
     "word": "tip",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tip/tip__/tip__gb_1.mp3",
     "phonetic_text": "/tɪp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tip/tip__/tip__us_1.mp3",
@@ -17594,7 +17594,7 @@
   },
   {
     "word": "tired",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tir/tired/tired__gb_3.mp3",
     "phonetic_text": "/ˈtaɪəd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tir/tired/tired__us_1.mp3",
@@ -17675,7 +17675,7 @@
   },
   {
     "word": "tissue",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tis/tissu/tissue__gb_1.mp3",
     "phonetic_text": "/ˈtɪʃuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tis/tissu/tissue__us_1.mp3",
@@ -17723,7 +17723,7 @@
   },
   {
     "word": "title",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tit/title/title__gb_2.mp3",
     "phonetic_text": "/ˈtaɪtl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tit/title/title__us_4.mp3",
@@ -17870,7 +17870,7 @@
   },
   {
     "word": "to",
-    "pos": "verb",
+    "pos": "infinitive marker",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/to_/to__g/to__gb_7.mp3",
     "phonetic_text": "/tə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/to_/to__u/to__us_1_rr.mp3",
@@ -17979,7 +17979,7 @@
   },
   {
     "word": "to",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/to_/to__g/to__gb_7.mp3",
     "phonetic_text": "/tə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/to_/to__u/to__us_1_rr.mp3",
@@ -18275,7 +18275,7 @@
   },
   {
     "word": "tobacco",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tob/tobac/tobacco__gb_1.mp3",
     "phonetic_text": "/təˈbækəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tob/tobac/tobacco__us_1.mp3",
@@ -18302,7 +18302,7 @@
   },
   {
     "word": "today",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tod/today/today__gb_1.mp3",
     "phonetic_text": "/təˈdeɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tod/today/today__us_1.mp3",
@@ -18350,7 +18350,7 @@
   },
   {
     "word": "today",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tod/today/today__gb_1.mp3",
     "phonetic_text": "/təˈdeɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tod/today/today__us_1.mp3",
@@ -18414,7 +18414,7 @@
   },
   {
     "word": "toe",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/toe/toe__/toe__gb_2.mp3",
     "phonetic_text": "/təʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/toe/toe__/toe__us_1.mp3",
@@ -18546,7 +18546,7 @@
   },
   {
     "word": "together",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tog/toget/together__gb_1.mp3",
     "phonetic_text": "/təˈɡeðə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tog/toget/together__us_1.mp3",
@@ -18696,7 +18696,7 @@
   },
   {
     "word": "toilet",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/toi/toile/toilet__gb_3.mp3",
     "phonetic_text": "/ˈtɔɪlət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/toi/toile/toilet__us_1.mp3",
@@ -18797,7 +18797,7 @@
   },
   {
     "word": "tolerance",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tol/toler/tolerance__gb_1.mp3",
     "phonetic_text": "/ˈtɒlərəns/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tol/toler/tolerance__us_1.mp3",
@@ -18899,7 +18899,7 @@
   },
   {
     "word": "toll",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tol/toll_/toll__gb_1.mp3",
     "phonetic_text": "/təʊl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tol/toll_/toll__us_1.mp3",
@@ -18964,7 +18964,7 @@
   },
   {
     "word": "tomato",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tom/tomat/tomato__gb_2.mp3",
     "phonetic_text": "/təˈmɑːtəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tom/tomat/tomato__us_1.mp3",
@@ -19011,7 +19011,7 @@
   },
   {
     "word": "tomorrow",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tom/tomor/tomorrow__gb_1.mp3",
     "phonetic_text": "/təˈmɒrəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tom/tomor/tomorrow__us_1_rr.mp3",
@@ -19051,7 +19051,7 @@
   },
   {
     "word": "tomorrow",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tom/tomor/tomorrow__gb_1.mp3",
     "phonetic_text": "/təˈmɒrəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tom/tomor/tomorrow__us_1_rr.mp3",
@@ -19132,7 +19132,7 @@
   },
   {
     "word": "ton",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ton/ton__/ton__gb_1.mp3",
     "phonetic_text": "/tʌn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ton/ton__/ton__us_1.mp3",
@@ -19190,7 +19190,7 @@
   },
   {
     "word": "tone",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ton/tone_/tone__gb_1.mp3",
     "phonetic_text": "/təʊn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ton/tone_/tone__us_1.mp3",
@@ -19344,7 +19344,7 @@
   },
   {
     "word": "tongue",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ton/tongu/tongue__gb_2.mp3",
     "phonetic_text": "/tʌŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ton/tongu/tongue__us_1.mp3",
@@ -19523,7 +19523,7 @@
   },
   {
     "word": "tonight",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ton/tonig/tonight__gb_1.mp3",
     "phonetic_text": "/təˈnaɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ton/tonig/tonight__us_1.mp3",
@@ -19554,7 +19554,7 @@
   },
   {
     "word": "tonight",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ton/tonig/tonight__gb_1.mp3",
     "phonetic_text": "/təˈnaɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ton/tonig/tonight__us_1.mp3",
@@ -19577,7 +19577,7 @@
   },
   {
     "word": "tonne",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ton/tonne/tonne__gb_1.mp3",
     "phonetic_text": "/tʌn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ton/tonne/tonne__us_1.mp3",
@@ -19600,7 +19600,7 @@
   },
   {
     "word": "too",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/too/too__/too__gb_1.mp3",
     "phonetic_text": "/tuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/too/too__/too__us_1.mp3",
@@ -19752,7 +19752,7 @@
   },
   {
     "word": "tool",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/too/tool_/tool__gb_1.mp3",
     "phonetic_text": "/tuːl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/too/tool_/tool__us_1.mp3",
@@ -19850,7 +19850,7 @@
   },
   {
     "word": "tooth",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/too/tooth/tooth__gb_2.mp3",
     "phonetic_text": "/tuːθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/too/tooth/tooth__us_1.mp3",
@@ -20104,7 +20104,7 @@
   },
   {
     "word": "top",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/top/top__/top__gb_1.mp3",
     "phonetic_text": "/tɒp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/top/top__/top__us_1.mp3",
@@ -20209,7 +20209,7 @@
   },
   {
     "word": "top",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/top/top__/top__gb_1.mp3",
     "phonetic_text": "/tɒp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/top/top__/top__us_1.mp3",
@@ -20712,7 +20712,7 @@
   },
   {
     "word": "topic",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/top/topic/topic__gb_2.mp3",
     "phonetic_text": "/ˈtɒpɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/top/topic/topic__us_1.mp3",
@@ -20785,7 +20785,7 @@
   },
   {
     "word": "torture",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tor/tortu/torture__gb_1.mp3",
     "phonetic_text": "/ˈtɔːtʃə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tor/tortu/torture__us_1.mp3",
@@ -20968,7 +20968,7 @@
   },
   {
     "word": "total",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tot/total/total__gb_2.mp3",
     "phonetic_text": "/ˈtəʊtl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tot/total/total__us_1.mp3",
@@ -21040,7 +21040,7 @@
   },
   {
     "word": "total",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tot/total/total__gb_2.mp3",
     "phonetic_text": "/ˈtəʊtl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tot/total/total__us_1.mp3",
@@ -21128,7 +21128,7 @@
   },
   {
     "word": "totally",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tot/total/totally__gb_1.mp3",
     "phonetic_text": "/ˈtəʊtəli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tot/total/totally__us_1.mp3",
@@ -21171,7 +21171,7 @@
   },
   {
     "word": "touch",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tou/touch/touch__gb_1.mp3",
     "phonetic_text": "/tʌtʃ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tou/touch/touch__us_1.mp3",
@@ -21682,7 +21682,7 @@
   },
   {
     "word": "tough",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tou/tough/tough__gb_1.mp3",
     "phonetic_text": "/tʌf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tou/tough/tough__us_1.mp3",
@@ -21936,7 +21936,7 @@
   },
   {
     "word": "tour",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tou/tour_/tour__gb_5.mp3",
     "phonetic_text": "/tʊə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tou/tour_/tour__us_2.mp3",
@@ -22102,7 +22102,7 @@
   },
   {
     "word": "tourism",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tou/touri/tourism__gb_1.mp3",
     "phonetic_text": "/ˈtʊərɪzəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tou/touri/tourism__us_1.mp3",
@@ -22129,7 +22129,7 @@
   },
   {
     "word": "tourist",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tou/touri/tourist__gb_1.mp3",
     "phonetic_text": "/ˈtʊərɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tou/touri/tourist__us_1.mp3",
@@ -22176,7 +22176,7 @@
   },
   {
     "word": "tournament",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tou/tourn/tournament__gb_1.mp3",
     "phonetic_text": "/ˈtʊənəmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tou/tourn/tournament__us_1_rr.mp3",
@@ -22204,7 +22204,7 @@
   },
   {
     "word": "towards",
-    "pos": "verb",
+    "pos": "preposition",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tow/towar/towards__gb_1.mp3",
     "phonetic_text": "/təˈwɔːdz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tow/towar/towards__us_1.mp3",
@@ -22267,7 +22267,7 @@
   },
   {
     "word": "towel",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tow/towel/towel__gb_2.mp3",
     "phonetic_text": "/ˈtaʊəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tow/towel/towel__us_1.mp3",
@@ -22320,7 +22320,7 @@
   },
   {
     "word": "tower",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tow/tower/tower__gb_4.mp3",
     "phonetic_text": "/ˈtaʊə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tow/tower/tower__us_1.mp3",
@@ -22378,7 +22378,7 @@
   },
   {
     "word": "town",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tow/town_/town__gb_1.mp3",
     "phonetic_text": "/taʊn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tow/town_/town__us_1.mp3",
@@ -22520,7 +22520,7 @@
   },
   {
     "word": "toxic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tox/toxic/toxic__gb_1.mp3",
     "phonetic_text": "/ˈtɒksɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tox/toxic/toxic__us_1.mp3",
@@ -22572,7 +22572,7 @@
   },
   {
     "word": "toy",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/toy/toy__/toy__gb_1.mp3",
     "phonetic_text": "/tɔɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/toy/toy__/toy__us_1.mp3",
@@ -22604,7 +22604,7 @@
   },
   {
     "word": "toy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/toy/toy__/toy__gb_1.mp3",
     "phonetic_text": "/tɔɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/toy/toy__/toy__us_1.mp3",
@@ -22648,7 +22648,7 @@
   },
   {
     "word": "trace",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trace/trace__gb_2.mp3",
     "phonetic_text": "/treɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trace/trace__us_1.mp3",
@@ -22801,7 +22801,7 @@
   },
   {
     "word": "track",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/track/track__gb_1.mp3",
     "phonetic_text": "/træk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/track/track__us_1.mp3",
@@ -23165,7 +23165,7 @@
   },
   {
     "word": "trade",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trade/trade__gb_1.mp3",
     "phonetic_text": "/treɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trade/trade__us_1.mp3",
@@ -23425,7 +23425,7 @@
   },
   {
     "word": "trademark",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trade/trademark__gb_1.mp3",
     "phonetic_text": "/ˈtreɪdmɑːk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trade/trademark__us_1.mp3",
@@ -23457,7 +23457,7 @@
   },
   {
     "word": "trading",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/tradi/trading__gb_1.mp3",
     "phonetic_text": "/ˈtreɪdɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/tradi/trading__us_1.mp3",
@@ -23484,7 +23484,7 @@
   },
   {
     "word": "tradition",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/tradi/tradition__gb_2.mp3",
     "phonetic_text": "/trəˈdɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/tradi/tradition__us_1.mp3",
@@ -23555,7 +23555,7 @@
   },
   {
     "word": "traditional",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/tradi/traditional__gb_4.mp3",
     "phonetic_text": "/trəˈdɪʃənl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/tradi/traditional__us_1.mp3",
@@ -23623,7 +23623,7 @@
   },
   {
     "word": "traffic",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/traff/traffic__gb_1.mp3",
     "phonetic_text": "/ˈtræfɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/traff/traffic__us_1.mp3",
@@ -23734,7 +23734,7 @@
   },
   {
     "word": "tragedy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trage/tragedy__gb_1.mp3",
     "phonetic_text": "/ˈtrædʒədi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trage/tragedy__us_1.mp3",
@@ -23782,7 +23782,7 @@
   },
   {
     "word": "tragic",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/tragi/tragic__gb_1.mp3",
     "phonetic_text": "/ˈtrædʒɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/tragi/tragic__us_1.mp3",
@@ -23822,7 +23822,7 @@
   },
   {
     "word": "trail",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trail/trail__gb_1.mp3",
     "phonetic_text": "/treɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trail/trail__us_1.mp3",
@@ -24010,7 +24010,7 @@
   },
   {
     "word": "trailer",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trail/trailer__gb_1.mp3",
     "phonetic_text": "/ˈtreɪlə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trail/trailer__us_1.mp3",
@@ -24055,7 +24055,7 @@
   },
   {
     "word": "train",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/train/train__gb_2.mp3",
     "phonetic_text": "/treɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/train/train__us_1.mp3",
@@ -24303,7 +24303,7 @@
   },
   {
     "word": "trainer",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/train/trainer__gb_1.mp3",
     "phonetic_text": "/ˈtreɪnə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/train/trainer__us_2.mp3",
@@ -24347,7 +24347,7 @@
   },
   {
     "word": "training",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/train/training__gb_1.mp3",
     "phonetic_text": "/ˈtreɪnɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/train/training__us_1.mp3",
@@ -24403,7 +24403,7 @@
   },
   {
     "word": "trait",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trait/trait__gb_1.mp3",
     "phonetic_text": "/treɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trait/trait__us_1.mp3",
@@ -24426,7 +24426,7 @@
   },
   {
     "word": "transaction",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/transaction__gb_1.mp3",
     "phonetic_text": "/trænˈzækʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transaction__us_1_rr.mp3",
@@ -24458,7 +24458,7 @@
   },
   {
     "word": "transcript",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/transcript__gb_1.mp3",
     "phonetic_text": "/ˈtrænskrɪpt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transcript__us_1.mp3",
@@ -24485,7 +24485,7 @@
   },
   {
     "word": "transfer",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/transfer__gb_4.mp3",
     "phonetic_text": "/ˈtrænsfɜː(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transfer__us_2.mp3",
@@ -24832,7 +24832,7 @@
   },
   {
     "word": "transformation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/transformation__gb_1.mp3",
     "phonetic_text": "/ˌtrænsfəˈmeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transformation__us_1.mp3",
@@ -24868,7 +24868,7 @@
   },
   {
     "word": "transit",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/transit__gb_1.mp3",
     "phonetic_text": "/ˈtrænzɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transit__us_1_rr.mp3",
@@ -24917,7 +24917,7 @@
   },
   {
     "word": "transition",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/transition__gb_3.mp3",
     "phonetic_text": "/trænˈzɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transition__us_1.mp3",
@@ -25075,7 +25075,7 @@
   },
   {
     "word": "translation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/translation__gb_2.mp3",
     "phonetic_text": "/trænzˈleɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/translation__us_2_rr.mp3",
@@ -25176,7 +25176,7 @@
   },
   {
     "word": "transmission",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/transmission__gb_2.mp3",
     "phonetic_text": "/trænzˈmɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transmission__us_2_rr.mp3",
@@ -25286,7 +25286,7 @@
   },
   {
     "word": "transparency",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/transparency__gb_1.mp3",
     "phonetic_text": "/trænsˈpærənsi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transparency__us_1.mp3",
@@ -25331,7 +25331,7 @@
   },
   {
     "word": "transparent",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/transparent__gb_1.mp3",
     "phonetic_text": "/trænsˈpærənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transparent__us_1.mp3",
@@ -25380,7 +25380,7 @@
   },
   {
     "word": "transport",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/transport__gb_1.mp3",
     "phonetic_text": "/ˈtrænspɔːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transport__us_1.mp3",
@@ -25536,7 +25536,7 @@
   },
   {
     "word": "transportation",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/transportation__gb_2.mp3",
     "phonetic_text": "/ˌtrænspɔːˈteɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transportation__us_3.mp3",
@@ -25593,7 +25593,7 @@
   },
   {
     "word": "trap",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trap_/trap__gb_1.mp3",
     "phonetic_text": "/træp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trap_/trap__us_1.mp3",
@@ -25786,7 +25786,7 @@
   },
   {
     "word": "trauma",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/traum/trauma__gb_1.mp3",
     "phonetic_text": "/ˈtrɔːmə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/traum/trauma__us_2_rr.mp3",
@@ -25831,7 +25831,7 @@
   },
   {
     "word": "travel",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trave/travel__gb_1.mp3",
     "phonetic_text": "/ˈtrævl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trave/travel__us_2.mp3",
@@ -26059,7 +26059,7 @@
   },
   {
     "word": "traveller",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trave/traveller__gb_1.mp3",
     "phonetic_text": "/ˈtrævələ(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trave/traveller__us_1.mp3",
@@ -26095,7 +26095,7 @@
   },
   {
     "word": "treasure",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tre/treas/treasure__gb_1.mp3",
     "phonetic_text": "/ˈtreʒə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/treas/treasure__us_1.mp3",
@@ -26293,7 +26293,7 @@
   },
   {
     "word": "treatment",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tre/treat/treatment__gb_2.mp3",
     "phonetic_text": "/ˈtriːtmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/treat/treatment__us_1.mp3",
@@ -26395,7 +26395,7 @@
   },
   {
     "word": "treaty",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tre/treat/treaty__gb_2.mp3",
     "phonetic_text": "/ˈtriːti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/treat/treaty__us_1.mp3",
@@ -26426,7 +26426,7 @@
   },
   {
     "word": "tree",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tre/tree_/tree__gb_2.mp3",
     "phonetic_text": "/triː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/tree_/tree__us_1.mp3",
@@ -26506,7 +26506,7 @@
   },
   {
     "word": "tremendous",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tre/treme/tremendous__gb_1.mp3",
     "phonetic_text": "/trəˈmendəs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/treme/tremendous__us_1.mp3",
@@ -26538,7 +26538,7 @@
   },
   {
     "word": "trend",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tre/trend/trend__gb_2.mp3",
     "phonetic_text": "/trend/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/trend/trend__us_1.mp3",
@@ -26625,7 +26625,7 @@
   },
   {
     "word": "trial",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tri/trial/trial__gb_2.mp3",
     "phonetic_text": "/ˈtraɪəl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/trial/trial__us_2.mp3",
@@ -26769,7 +26769,7 @@
   },
   {
     "word": "tribal",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tri/triba/tribal__gb_1.mp3",
     "phonetic_text": "/ˈtraɪbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/triba/tribal__us_1.mp3",
@@ -26792,7 +26792,7 @@
   },
   {
     "word": "tribe",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tri/tribe/tribe__gb_1.mp3",
     "phonetic_text": "/traɪb/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/tribe/tribe__us_1.mp3",
@@ -26838,7 +26838,7 @@
   },
   {
     "word": "tribunal",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tri/tribu/tribunal__gb_1.mp3",
     "phonetic_text": "/traɪˈbjuːnl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/tribu/tribunal__us_1_rr.mp3",
@@ -26861,7 +26861,7 @@
   },
   {
     "word": "tribute",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tri/tribu/tribute__gb_1.mp3",
     "phonetic_text": "/ˈtrɪbjuːt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/tribu/tribute__us_1.mp3",
@@ -26909,7 +26909,7 @@
   },
   {
     "word": "trick",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tri/trick/trick__gb_1.mp3",
     "phonetic_text": "/trɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/trick/trick__us_1.mp3",
@@ -27076,7 +27076,7 @@
   },
   {
     "word": "trigger",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tri/trigg/trigger__gb_2.mp3",
     "phonetic_text": "/ˈtrɪɡə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/trigg/trigger__us_1.mp3",
@@ -27161,7 +27161,7 @@
   },
   {
     "word": "trillion",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tri/trill/trillion__gb_1.mp3",
     "phonetic_text": "/ˈtrɪljən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/trill/trillion__us_1.mp3",
@@ -27183,7 +27183,7 @@
   },
   {
     "word": "trio",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tri/trio_/trio__gb_1.mp3",
     "phonetic_text": "/ˈtriːəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/trio_/trio__us_1.mp3",
@@ -27220,7 +27220,7 @@
   },
   {
     "word": "trip",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tri/trip_/trip__gb_2.mp3",
     "phonetic_text": "/trɪp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/trip_/trip__us_1.mp3",
@@ -27421,7 +27421,7 @@
   },
   {
     "word": "triumph",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tri/trium/triumph__gb_1.mp3",
     "phonetic_text": "/ˈtraɪʌmf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/trium/triumph__us_1.mp3",
@@ -27474,7 +27474,7 @@
   },
   {
     "word": "troop",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tro/troop/troop__gb_1.mp3",
     "phonetic_text": "/truːp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tro/troop/troop__us_1.mp3",
@@ -27514,7 +27514,7 @@
   },
   {
     "word": "trophy",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tro/troph/trophy__gb_1.mp3",
     "phonetic_text": "/ˈtrəʊfi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tro/troph/trophy__us_1.mp3",
@@ -27541,7 +27541,7 @@
   },
   {
     "word": "tropical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tro/tropi/tropical__gb_1.mp3",
     "phonetic_text": "/ˈtrɒpɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tro/tropi/tropical__us_1.mp3",
@@ -27584,7 +27584,7 @@
   },
   {
     "word": "trouble",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tro/troub/trouble__gb_1.mp3",
     "phonetic_text": "/ˈtrʌbl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tro/troub/trouble__us_2.mp3",
@@ -27932,7 +27932,7 @@
   },
   {
     "word": "troubled",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tro/troub/troubled__gb_1.mp3",
     "phonetic_text": "/ˈtrʌbld/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tro/troub/troubled__us_1.mp3",
@@ -27972,7 +27972,7 @@
   },
   {
     "word": "trousers",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tro/trous/trousers__gb_2.mp3",
     "phonetic_text": "/ˈtraʊzəz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tro/trous/trousers__us_2.mp3",
@@ -28024,7 +28024,7 @@
   },
   {
     "word": "truck",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tru/truck/truck__gb_1.mp3",
     "phonetic_text": "/trʌk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tru/truck/truck__us_1.mp3",
@@ -28094,7 +28094,7 @@
   },
   {
     "word": "true",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tru/true_/true__gb_1.mp3",
     "phonetic_text": "/truː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tru/true_/true__us_1.mp3",
@@ -28350,7 +28350,7 @@
   },
   {
     "word": "truly",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tru/truly/truly__gb_1.mp3",
     "phonetic_text": "/ˈtruːli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tru/truly/truly__us_1.mp3",
@@ -28465,7 +28465,7 @@
   },
   {
     "word": "trust",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tru/trust/trust__gb_1.mp3",
     "phonetic_text": "/trʌst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tru/trust/trust__us_1.mp3",
@@ -28705,7 +28705,7 @@
   },
   {
     "word": "trustee",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tru/trust/trustee__gb_1.mp3",
     "phonetic_text": "/trʌˈstiː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tru/trust/trustee__us_1.mp3",
@@ -28745,7 +28745,7 @@
   },
   {
     "word": "truth",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tru/truth/truth__gb_1.mp3",
     "phonetic_text": "/truːθ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tru/truth/truth__us_1.mp3",
@@ -28932,7 +28932,7 @@
   },
   {
     "word": "try",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/try/try__/try__gb_1.mp3",
     "phonetic_text": "/traɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/try/try__/try__us_1.mp3",
@@ -29197,7 +29197,7 @@
   },
   {
     "word": "tsunami",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tsu/tsuna/tsunami__gb_2.mp3",
     "phonetic_text": "/tsuːˈnɑːmi/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tsu/tsuna/tsunami__us_1.mp3",
@@ -29220,7 +29220,7 @@
   },
   {
     "word": "tube",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tub/tube_/tube__gb_1.mp3",
     "phonetic_text": "/tjuːb/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tub/tube_/tube__us_1.mp3",
@@ -29329,7 +29329,7 @@
   },
   {
     "word": "Tuesday",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tue/tuesd/tuesday__gb_1.mp3",
     "phonetic_text": "/ˈtjuːzdeɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tue/tuesd/tuesday__us_1_rr.mp3",
@@ -29412,7 +29412,7 @@
   },
   {
     "word": "tuition",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tui/tuiti/tuition__gb_1.mp3",
     "phonetic_text": "/tjuˈɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tui/tuiti/tuition__us_1.mp3",
@@ -29452,7 +29452,7 @@
   },
   {
     "word": "tune",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tun/tune_/tune__gb_1.mp3",
     "phonetic_text": "/tjuːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tun/tune_/tune__us_1.mp3",
@@ -29564,7 +29564,7 @@
   },
   {
     "word": "tunnel",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tun/tunne/tunnel__gb_1.mp3",
     "phonetic_text": "/ˈtʌnl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tun/tunne/tunnel__us_2.mp3",
@@ -29621,7 +29621,7 @@
   },
   {
     "word": "turn",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tur/turn_/turn__gb_1.mp3",
     "phonetic_text": "/tɜːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tur/turn_/turn__us_1.mp3",
@@ -30235,7 +30235,7 @@
   },
   {
     "word": "turnout",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tur/turno/turnout__gb_1.mp3",
     "phonetic_text": "/ˈtɜːnaʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tur/turno/turnout__us_1.mp3",
@@ -30267,7 +30267,7 @@
   },
   {
     "word": "turnover",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tur/turno/turnover__gb_1.mp3",
     "phonetic_text": "/ˈtɜːnəʊvə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tur/turno/turnover__us_1.mp3",
@@ -30312,7 +30312,7 @@
   },
   {
     "word": "TV",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tv_/tv__g/tv__gb_1.mp3",
     "phonetic_text": "/ˌtiː ˈviː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tv_/tv__u/tv__us_2.mp3",
@@ -30384,7 +30384,7 @@
   },
   {
     "word": "twelve",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/twe/twelv/twelve__gb_2.mp3",
     "phonetic_text": "/twelv/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/twe/twelv/twelve__us_1.mp3",
@@ -30447,7 +30447,7 @@
   },
   {
     "word": "twenty",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/twe/twent/twenty__gb_2.mp3",
     "phonetic_text": "/ˈtwenti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/twe/twent/twenty__us_1_rr.mp3",
@@ -30469,7 +30469,7 @@
   },
   {
     "word": "twice",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/twi/twice/twice__gb_1.mp3",
     "phonetic_text": "/twaɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/twi/twice/twice__us_1.mp3",
@@ -30568,7 +30568,7 @@
   },
   {
     "word": "twin",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/twi/twin_/twin__gb_1.mp3",
     "phonetic_text": "/twɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/twi/twin_/twin__us_1.mp3",
@@ -30613,7 +30613,7 @@
   },
   {
     "word": "twin",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/twi/twin_/twin__gb_1.mp3",
     "phonetic_text": "/twɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/twi/twin_/twin__us_1.mp3",
@@ -30649,7 +30649,7 @@
   },
   {
     "word": "twist",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/twi/twist/twist__gb_1.mp3",
     "phonetic_text": "/twɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/twi/twist/twist__us_1.mp3",
@@ -30914,7 +30914,7 @@
   },
   {
     "word": "two",
-    "pos": "verb",
+    "pos": "number",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/two/two__/two__gb_2.mp3",
     "phonetic_text": "/tuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/two/two__/two__us_1.mp3",
@@ -31078,7 +31078,7 @@
   },
   {
     "word": "type",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/typ/type_/type__gb_2.mp3",
     "phonetic_text": "/taɪp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/typ/type_/type__us_1.mp3",
@@ -31256,7 +31256,7 @@
   },
   {
     "word": "typical",
-    "pos": "verb",
+    "pos": "adjective",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/typ/typic/typical__gb_1.mp3",
     "phonetic_text": "/ˈtɪpɪkl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/typ/typic/typical__us_2.mp3",
@@ -31333,7 +31333,7 @@
   },
   {
     "word": "typically",
-    "pos": "verb",
+    "pos": "adverb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/typ/typic/typically__gb_2.mp3",
     "phonetic_text": "/ˈtɪpɪkli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/typ/typic/typically__us_2.mp3",
@@ -31414,7 +31414,7 @@
   },
   {
     "word": "tyre",
-    "pos": "verb",
+    "pos": "noun",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tyr/tyre_/tyre__gb_1.mp3",
     "phonetic_text": "/ˈtaɪə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tyr/tyre_/tyre__us_2.mp3",
@@ -31477,7 +31477,7 @@
   },
   {
     "word": "used to",
-    "pos": "verb",
+    "pos": "modal verb",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/use/used_/used_to_1_gb_1.mp3",
     "phonetic_text": "/ˈjuːst tə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/use/used_/used_to_1_us_1.mp3",
