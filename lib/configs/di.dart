@@ -1,3 +1,4 @@
+import 'package:audioplayers/audioplayers.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
@@ -76,6 +77,10 @@ class DI {
     await appHive.init();
     sl.registerLazySingleton<AppHive>(
       () => appHive,
+    );
+
+    sl.registerLazySingleton<AudioPlayer>(
+      () => AudioPlayer(),
     );
   }
 }
