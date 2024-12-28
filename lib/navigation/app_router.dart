@@ -6,6 +6,7 @@ import '../configs/di.dart';
 import '../ui/screens/home/bloc/home_bloc.dart';
 import '../ui/screens/home/home_screen.dart';
 import '../ui/screens/home_navigation/home_navigation.dart';
+import '../ui/screens/notifications/bloc/notifications_bloc.dart';
 import '../ui/screens/notifications/notifications_screen.dart';
 import '../ui/screens/review/review_screen.dart';
 import '../ui/screens/settings/settings_screen.dart';
@@ -32,6 +33,9 @@ class AppRouter {
               ),
               BlocProvider(
                 create: (context) => DI().sl<VocabularyBloc>(),
+              ),
+              BlocProvider(
+                create: (context) => DI().sl<NotificationsBloc>(),
               ),
             ],
             child: HomeNavigation(
