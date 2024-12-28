@@ -57,7 +57,7 @@ class _BannerAdsState extends State<BannerAds> {
       ),
       listener: BannerAdListener(
         onAdLoaded: (ad) {
-          debugPrint('BannerAds - loaded successfully');
+          debugPrint('BannerAds - loaded successfully - unit id: $adUnitId');
           setState(() {
             _bannerAd = ad as BannerAd;
           });
@@ -67,6 +67,7 @@ class _BannerAdsState extends State<BannerAds> {
           ad.dispose();
         },
       ),
-    )..load();
+    );
+    await _bannerAd!.load();
   }
 }
