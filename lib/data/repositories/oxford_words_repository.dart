@@ -1,39 +1,30 @@
-import 'package:dartz/dartz.dart';
-import 'package:flutter/foundation.dart';
-
-import '../../core/failure.dart';
 import '../data_sources/assets_data.dart';
+import '../data_sources/local_data.dart';
 import '../models/word.dart';
 
 abstract interface class OxfordWordsRepository {
-  Future<Either<Failure, List<Word>>> getOxfordWordsByLetter(String letter);
-  Future<Either<Failure, List<Word>>> getAllOxfordWords();
+  Future<void> initData();
+  List<Word> getAllOxfordWords();
 }
 
 class OxfordWordsRepositoryImpl implements OxfordWordsRepository {
   final AssetsData _assetsData;
+  final LocalData _localData;
 
-  OxfordWordsRepositoryImpl({required AssetsData assetsData}) : _assetsData = assetsData;
+  OxfordWordsRepositoryImpl({
+    required AssetsData assetsData,
+    required LocalData localData,
+  }) : _assetsData = assetsData,
+       _localData = localData;
 
   @override
-  Future<Either<Failure, List<Word>>> getOxfordWordsByLetter(String letter) async {
-    try {
-      final result = await _assetsData.getOxfordWordsByLetter(letter);
-      return Right(result);
-    } catch (e) {
-      debugPrint('OxfordWordsRepositoryImpl: getOxfordWordsByLetter: $e');
-      return Left(Failure());
-    }
+  Future<void> initData() async {
+    final currentWords = _localData.getWords();
+    if (currentWords.isNotEmpty) return;
+    final words = await _assetsData.getAllOxfordWords();
+    await _localData.saveWords(words);
   }
 
   @override
-  Future<Either<Failure, List<Word>>> getAllOxfordWords() async {
-    try {
-      final result = await _assetsData.getAllOxfordWords();
-      return Right(result);
-    } catch (e) {
-      debugPrint('OxfordWordsRepositoryImpl: getAllOxfordWords: $e');
-      return Left(Failure());
-    }
-  }
+  List<Word> getAllOxfordWords() => _localData.getWords();
 }
