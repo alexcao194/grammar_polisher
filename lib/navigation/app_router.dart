@@ -9,6 +9,7 @@ import '../ui/screens/home_navigation/home_navigation.dart';
 import '../ui/screens/notifications/notifications_screen.dart';
 import '../ui/screens/review/review_screen.dart';
 import '../ui/screens/settings/settings_screen.dart';
+import '../ui/screens/vocabulary/vocabulary_screen.dart';
 
 part 'route_paths.dart';
 
@@ -68,6 +69,15 @@ class AppRouter {
               return NoTransitionPage(
                 key: state.pageKey,
                 child: const SettingsScreen(),
+              );
+            },
+          ),
+          GoRoute(
+            path: RoutePaths.vocabulary,
+            pageBuilder: (context, state) {
+              return NoTransitionPage(
+                key: state.pageKey,
+                child: const VocabularyScreen(),
               );
             },
           ),

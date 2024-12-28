@@ -11,6 +11,7 @@ class Assets {
   static const String fontsSFProDisplaySemibold = 'assets/fonts/SF-Pro-Display-Semibold.otf';
   static const String fontsSFProDisplayThin = 'assets/fonts/SF-Pro-Display-Thin.otf';
   static const String fontsSFProDisplayUltralight = 'assets/fonts/SF-Pro-Display-Ultralight.otf';
+  static const String pngLauncher = 'assets/png/launcher.png';
   static const String svgArrowLeftIos = 'assets/svg/arrow_left_ios.svg';
   static const String svgBook = 'assets/svg/book.svg';
   static const String svgClose = 'assets/svg/close.svg';
@@ -21,5 +22,6 @@ class Assets {
   static const String svgNotifications = 'assets/svg/notifications.svg';
   static const String svgPaste = 'assets/svg/paste.svg';
   static const String svgSettings = 'assets/svg/settings.svg';
+  static const String svgVocabulary = 'assets/svg/vocabulary.svg';
 
 }

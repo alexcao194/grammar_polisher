@@ -7,4 +7,5 @@ class RoutePaths {
   static const String notifications = '/notifications';
   static const String review = '/review';
   static const String settings = '/settings';
+  static const String vocabulary = '/vocabulary';
 }
