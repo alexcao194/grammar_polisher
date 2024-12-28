@@ -15051,7 +15051,42 @@
     "phonetic_text": "/əˈmaʊnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amo/amoun/amount__us_1.mp3",
     "phonetic_am_text": "/əˈmaʊnt/",
-    "senses": []
+    "senses": [
+      {
+        "definition": "to be equal to or the same as something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His actions amount to a breach of trust."
+          },
+          {
+            "cf": "",
+            "x": "The total cost amounts to $500."
+          },
+          {
+            "cf": "amount to something",
+            "x": "Their behavior hardly amounts to an apology."
+          },
+          {
+            "cf": "",
+            "x": "The benefits don't amount to much in the end."
+          }
+        ]
+      },
+      {
+        "definition": "to develop into something or have a particular result",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She'll never amount to anything in life if she doesn't try."
+          },
+          {
+            "cf": "",
+            "x": "What he said doesn't amount to much of an explanation."
+          }
+        ]
+      }
+    ]
   },
   {
     "word": "amusing",

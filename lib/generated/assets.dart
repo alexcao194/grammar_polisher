@@ -49,5 +49,6 @@ class Assets {
   static const String svgPaste = 'assets/svg/paste.svg';
   static const String svgSettings = 'assets/svg/settings.svg';
   static const String svgVocabulary = 'assets/svg/vocabulary.svg';
+  static const String svgVolumeUp = 'assets/svg/volume_up.svg';
 
 }
