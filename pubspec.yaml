@@ -46,6 +46,7 @@ dependencies:
   dartz: ^0.10.1
   loading_animation_widget: ^1.3.0
   flutter_html: ^3.0.0-beta.2
+  google_mobile_ads: ^5.2.0
 
 dev_dependencies:
   flutter_test:

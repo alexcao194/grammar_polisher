@@ -10,6 +10,7 @@ import '../../../data/models/detect_gpt_result.dart';
 import '../../../data/models/improve_writing_result.dart';
 import '../../../data/models/score_type.dart';
 import '../../../utils/app_snack_bar.dart';
+import '../../commons/banner_ads.dart';
 import '../../commons/base_page.dart';
 import '../../commons/dialogs/function_picker_dialog.dart';
 import '../../commons/rounded_button.dart';
@@ -113,12 +114,18 @@ class _HomeScreenState extends State<HomeScreen> {
                       ),
                     ),
                     const SizedBox(height: 16),
+                    BannerAds(),
+                    const SizedBox(height: 8),
                     if (state.result is ImproveWritingResult) ImprovingWritingBox(result: state.result as ImproveWritingResult),
                     if (state.result is CheckGrammarResult) CheckGrammarBox(result: state.result as CheckGrammarResult),
                     if (state.result is DetectGptResult) DetectGptBox(result: state.result as DetectGptResult),
                     if (state.result is CheckLevelResult) CheckLevelBox(result: state.result as CheckLevelResult),
                     if (state.result is CheckScoreResult) CheckScoreBox(result: state.result as CheckScoreResult),
                     if (state.result is CheckWritingResult) CheckWritingBox(result: state.result as CheckWritingResult),
+                    if (state.result != null) ...[
+                      const SizedBox(height: 8),
+                      BannerAds(),
+                    ]
                   ],
                 ),
               ),
