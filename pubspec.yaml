@@ -117,4 +117,7 @@ flutter:
     - assets/
     - assets/png/
     - assets/svg/
+    - assets/json/
+    - assets/json/oxford_words/
+    - assets/fonts/
 

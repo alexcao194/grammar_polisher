@@ -1,5 +1,6 @@
 import 'package:dartz/dartz.dart';
 import 'package:dio/dio.dart';
+import 'package:flutter/foundation.dart';
 
 import '../../core/failure.dart';
 import '../data_sources/remote_data.dart';
@@ -32,6 +33,7 @@ class HomeRepositoryImpl implements HomeRepository {
     } on DioException catch (e) {
       return Left(Failure(message: e.message, statusCode: e.response?.statusCode));
     } catch (e) {
+      debugPrint('OxfordWordsRepositoryImpl: getAllOxfordWords: $e');
       return Left(Failure());
     }
   }
@@ -44,6 +46,7 @@ class HomeRepositoryImpl implements HomeRepository {
     } on DioException catch (e) {
       return Left(Failure(message: e.message, statusCode: e.response?.statusCode));
     } catch (e) {
+      debugPrint('OxfordWordsRepositoryImpl: getAllOxfordWords: $e');
       return Left(Failure());
     }
   }
@@ -56,6 +59,7 @@ class HomeRepositoryImpl implements HomeRepository {
     } on DioException catch (e) {
       return Left(Failure(message: e.message, statusCode: e.response?.statusCode));
     } catch (e) {
+      debugPrint('OxfordWordsRepositoryImpl: getAllOxfordWords: $e');
       return Left(Failure());
     }
   }
@@ -68,6 +72,7 @@ class HomeRepositoryImpl implements HomeRepository {
     } on DioException catch (e) {
       return Left(Failure(message: e.message, statusCode: e.response?.statusCode));
     } catch (e) {
+      debugPrint('OxfordWordsRepositoryImpl: getAllOxfordWords: $e');
       return Left(Failure());
     }
   }
@@ -80,6 +85,7 @@ class HomeRepositoryImpl implements HomeRepository {
     } on DioException catch (e) {
       return Left(Failure(message: e.message, statusCode: e.response?.statusCode));
     } catch (e) {
+      debugPrint('OxfordWordsRepositoryImpl: getAllOxfordWords: $e');
       return Left(Failure());
     }
   }
@@ -88,11 +94,11 @@ class HomeRepositoryImpl implements HomeRepository {
   Future<Either<Failure, CheckWritingResult>> checkWriting(String text) async {
     try {
       final result = await _remoteData.checkVocabulary(text);
-      print(result);
       return Right(result);
     } on DioException catch (e) {
       return Left(Failure(message: e.message, statusCode: e.response?.statusCode));
     } catch (e) {
+      debugPrint('OxfordWordsRepositoryImpl: getAllOxfordWords: $e');
       return Left(Failure());
     }
   }
