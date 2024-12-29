@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:grammar_polisher/data/models/word.dart';
 
 import '../../../constants/word_pos.dart';
+import '../../../data/models/word.dart';
 import '../../../generated/assets.dart';
 import '../../commons/base_page.dart';
 import '../../commons/svg_button.dart';
@@ -19,7 +19,7 @@ class VocabularyScreen extends StatefulWidget {
 
 class _VocabularyScreenState extends State<VocabularyScreen> {
   bool _showSearch = false;
-  List<WordPos> _selectedPos = [];
+  final List<WordPos> _selectedPos = [];
   String? _selectedLetter;
   String _searchText = '';
 

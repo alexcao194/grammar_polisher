@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
-import 'package:grammar_polisher/data/repositories/oxford_words_repository.dart';
 
 import 'app.dart';
 import 'configs/di.dart';
+import 'data/repositories/oxford_words_repository.dart';
 
 
 

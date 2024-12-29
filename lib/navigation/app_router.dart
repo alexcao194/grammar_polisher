@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
-import 'package:grammar_polisher/configs/di.dart';
 
+import '../configs/di.dart';
 import '../ui/screens/home/bloc/home_bloc.dart';
 import '../ui/screens/home/home_screen.dart';
 import '../ui/screens/home_navigation/home_navigation.dart';
