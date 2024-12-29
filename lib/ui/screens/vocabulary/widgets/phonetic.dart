@@ -27,6 +27,7 @@ class _PhoneticState extends State<Phonetic> {
   @override
   Widget build(BuildContext context) {
     return Row(
+      mainAxisSize: MainAxisSize.min,
       children: [
         SvgButton(
           svg: Assets.svgVolumeUp,
@@ -36,7 +37,7 @@ class _PhoneticState extends State<Phonetic> {
           onPressed: _playSound,
         ),
         const SizedBox(width: 8),
-        Text(
+        SelectableText(
           widget.phoneticText,
           style: Theme.of(context).textTheme.bodyMedium,
         ),

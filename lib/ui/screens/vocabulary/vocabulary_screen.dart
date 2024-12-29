@@ -3,6 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../constants/word_pos.dart';
 import '../../../data/models/word.dart';
+import '../../../data/models/word_status.dart';
 import '../../../generated/assets.dart';
 import '../../commons/base_page.dart';
 import '../../commons/svg_button.dart';
@@ -20,6 +21,7 @@ class VocabularyScreen extends StatefulWidget {
 class _VocabularyScreenState extends State<VocabularyScreen> {
   bool _showSearch = false;
   final List<WordPos> _selectedPos = [];
+  List<WordStatus> _selectedStatus = [WordStatus.star, WordStatus.unknown];
   String? _selectedLetter;
   String _searchText = '';
 
@@ -41,11 +43,13 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
               SearchBox(
                 showSearch: _showSearch,
                 selectedPos: _selectedPos,
-                onSelectPos: _onSelectPos,
                 selectedLetter: _selectedLetter,
+                selectedStatus: _selectedStatus,
+                onSelectPos: _onSelectPos,
                 onSelectLetter: _onSelectLetter,
                 onClearFilters: _onClearFilters,
                 onSearch: _onSearch,
+                onSelectStatus: _onSelectStatus,
               ),
               Expanded(
                 child: ListView.builder(
@@ -91,10 +95,23 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
     });
   }
 
+  void _onSelectStatus(WordStatus status) {
+    setState(() {
+      if (_selectedStatus.contains(status)) {
+        _selectedStatus.remove(status);
+      } else {
+        _selectedStatus.add(status);
+      }
+    });
+  }
+
   void _onClearFilters() {
     setState(() {
       _selectedPos.clear();
       _selectedLetter = null;
+      _selectedStatus = [WordStatus.star, WordStatus.unknown];
+      _searchText = '';
+      _showSearch = false;
     });
   }
 
@@ -110,7 +127,8 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
       final containsPos = _selectedPos.isEmpty || pos.any((p) => _selectedPos.contains(WordPos.fromString(p)));
       final containsLetter = _selectedLetter == null || word.word.toLowerCase().startsWith(_selectedLetter!.toLowerCase());
       final containsSearchText = _searchText.isEmpty || word.word.toLowerCase().contains(_searchText.toLowerCase());
-      return containsPos && containsLetter && containsSearchText;
+      final containsStatus = _selectedStatus.contains(word.status);
+      return containsPos && containsLetter && containsSearchText && containsStatus;
     }).toList();
   }
 }
