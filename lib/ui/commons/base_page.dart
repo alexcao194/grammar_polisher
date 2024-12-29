@@ -6,11 +6,13 @@ class BasePage extends StatelessWidget {
   final Widget child;
   final String title;
   final EdgeInsets padding;
+  final List<Widget> actions;
 
   const BasePage({
     super.key,
     required this.child,
     required this.title,
+    this.actions = const [],
     this.padding = const EdgeInsets.symmetric(horizontal: 16),
   });
 
@@ -24,7 +26,10 @@ class BasePage extends StatelessWidget {
       child: SafeArea(
         child: Column(
           children: [
-            AppHeader(title: title),
+            AppHeader(
+              title: title,
+              actions: actions,
+            ),
             Expanded(
               child: Padding(
                 padding: padding,

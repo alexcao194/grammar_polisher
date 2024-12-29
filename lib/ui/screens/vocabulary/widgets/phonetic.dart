@@ -1,8 +1,7 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:grammar_polisher/configs/di.dart';
 
+import '../../../../configs/di.dart';
 import '../../../../generated/assets.dart';
 import '../../../commons/svg_button.dart';
 

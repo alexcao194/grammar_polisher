@@ -40,6 +40,7 @@ class Assets {
   static const String pngLauncher = 'assets/png/launcher.png';
   static const String svgArrowLeftIos = 'assets/svg/arrow_left_ios.svg';
   static const String svgBook = 'assets/svg/book.svg';
+  static const String svgClear = 'assets/svg/clear.svg';
   static const String svgClose = 'assets/svg/close.svg';
   static const String svgCopy = 'assets/svg/copy.svg';
   static const String svgDelete = 'assets/svg/delete.svg';
@@ -47,6 +48,7 @@ class Assets {
   static const String svgMic = 'assets/svg/mic.svg';
   static const String svgNotifications = 'assets/svg/notifications.svg';
   static const String svgPaste = 'assets/svg/paste.svg';
+  static const String svgSearch = 'assets/svg/search.svg';
   static const String svgSettings = 'assets/svg/settings.svg';
   static const String svgVocabulary = 'assets/svg/vocabulary.svg';
   static const String svgVolumeUp = 'assets/svg/volume_up.svg';
