@@ -110,6 +110,8 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
       _selectedPos.clear();
       _selectedLetter = null;
       _selectedStatus = [WordStatus.star, WordStatus.unknown];
+      _searchText = '';
+      _showSearch = false;
     });
   }
 
