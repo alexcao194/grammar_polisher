@@ -46,7 +46,9 @@ class _PhoneticState extends State<Phonetic> {
   }
 
   void _playSound() async {
-    print('Phonetic: ${widget.phonetic}');
+    if (_player.state == PlayerState.playing) {
+      return;
+    }
     await _player.play(UrlSource(widget.phonetic));
   }
 }
