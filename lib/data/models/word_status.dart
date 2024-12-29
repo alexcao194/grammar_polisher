@@ -11,5 +11,16 @@ enum WordStatus {
   @HiveField(1)
   mastered,
   @HiveField(2)
-  star,
+  star;
+
+  String get value {
+    switch (this) {
+      case WordStatus.unknown:
+        return 'Unknown';
+      case WordStatus.mastered:
+        return 'Mastered';
+      case WordStatus.star:
+        return 'Star';
+    }
+  }
 }
