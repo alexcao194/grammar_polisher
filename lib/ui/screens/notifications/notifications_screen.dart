@@ -39,8 +39,8 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
     super.initState();
     context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
     _appLifecycleListener = AppLifecycleListener(
-      onResume: () {
-        debugPrint('NotificationsScreen: onResume');
+      onShow: () {
+        debugPrint('NotificationsScreen: onShow');
         // this is needed to update the permissions status when the user returns to the app after changing the notification settings
         context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
       },

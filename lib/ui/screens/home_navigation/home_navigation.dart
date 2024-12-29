@@ -10,6 +10,7 @@ import '../../../utils/app_snack_bar.dart';
 import '../../../utils/extensions/go_router_extension.dart';
 import '../../../navigation/app_router.dart';
 import '../home/bloc/home_bloc.dart';
+import '../notifications/bloc/notifications_bloc.dart';
 
 class HomeNavigation extends StatefulWidget {
   final Widget child;
@@ -109,6 +110,13 @@ class _HomeNavigationState extends State<HomeNavigation> {
         ),
       ),
     );
+  }
+
+
+  @override
+  void initState() {
+    super.initState();
+    context.read<NotificationsBloc>().add(const NotificationsEvent.scheduleNextDayReminder());
   }
 
   void _onSelect(int value) {
