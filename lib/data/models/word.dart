@@ -3,6 +3,7 @@ import 'package:hive_flutter/hive_flutter.dart';
 
 import '../../configs/hive/hive_types.dart';
 import 'sense.dart';
+import 'word_status.dart';
 
 part 'generated/word.freezed.dart';
 
@@ -19,6 +20,8 @@ class Word with _$Word {
     @HiveField(4) @Default("") String phoneticAm,
     @HiveField(5) @Default("") String phoneticAmText,
     @HiveField(6) @Default([]) List<Sense> senses,
+    @HiveField(7, defaultValue: WordStatus.unknown) @Default(WordStatus.unknown) WordStatus status,
+    @HiveField(8, defaultValue: 0) @Default(0) int index,
   }) = _Word;
 
   factory Word.fromJson(Map<String, dynamic> json) => _$WordFromJson(json);

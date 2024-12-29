@@ -5,6 +5,8 @@ abstract interface class LocalData {
   Future<void> saveWords(List<Word> words);
 
   List<Word> getWords();
+
+  Future<void> saveWord(Word word);
 }
 
 class HiveDatabase implements LocalData {
@@ -21,7 +23,17 @@ class HiveDatabase implements LocalData {
 
   @override
   Future<void> saveWords(List<Word> words) async {
-    await _appHive.wordBox.clear();
-    await _appHive.wordBox.addAll(words);
+    await _appHive.wordBox.putAll(
+      Map.fromEntries(
+        words.map(
+          (word) => MapEntry(word.index, word),
+        ),
+      ),
+    );
+  }
+
+  @override
+  Future<void> saveWord(Word word) {
+    return _appHive.wordBox.put(word.index, word);
   }
 }

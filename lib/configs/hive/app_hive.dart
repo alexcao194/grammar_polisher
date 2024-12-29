@@ -4,6 +4,7 @@ import 'package:path_provider/path_provider.dart';
 import '../../data/models/example.dart';
 import '../../data/models/sense.dart';
 import '../../data/models/word.dart';
+import '../../data/models/word_status.dart';
 
 class AppHive {
   static const String wordKey = 'word';
@@ -16,6 +17,7 @@ class AppHive {
 
     Hive.registerAdapter(ExampleAdapter());
     Hive.registerAdapter(SenseAdapter());
+    Hive.registerAdapter(WordStatusAdapter());
     Hive.registerAdapter(WordAdapter());
 
     await Hive.openBox<Word>(wordKey);
