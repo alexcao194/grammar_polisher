@@ -1,6 +1,9 @@
 import 'dart:io';
 
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
+import 'package:timezone/timezone.dart' as tz;
+
+import '../constants/notification_category.dart';
 
 class LocalNotificationsTools {
   LocalNotificationsTools._();
@@ -58,22 +61,28 @@ class LocalNotificationsTools {
     required int id,
     required String title,
     required String body,
+    required NotificationCategory category,
+    required String threadIdentifier,
     String? payload,
   }) async {
-    const AndroidNotificationDetails androidNotificationDetails = AndroidNotificationDetails(
-      'vocabulary_channel_id',
-      'Vocabulary',
-      channelDescription: 'To show vocabulary reminders',
-      importance: Importance.unspecified,
+    final AndroidNotificationDetails androidNotificationDetails = AndroidNotificationDetails(
+      category.id,
+      category.name,
+      channelDescription: category.description,
+      importance: Importance.defaultImportance,
       priority: Priority.defaultPriority,
     );
-    const DarwinNotificationDetails iosNotificationDetails = DarwinNotificationDetails(
-      categoryIdentifier: 'vocabulary_category',
+
+    final DarwinNotificationDetails iosNotificationDetails = DarwinNotificationDetails(
+      categoryIdentifier: category.id,
+      threadIdentifier: threadIdentifier,
     );
-    const NotificationDetails notificationDetails = NotificationDetails(
+
+    final NotificationDetails notificationDetails = NotificationDetails(
       android: androidNotificationDetails,
       iOS: iosNotificationDetails,
     );
+
     await flutterLocalNotificationsPlugin.show(
       id,
       title,
@@ -81,5 +90,53 @@ class LocalNotificationsTools {
       notificationDetails,
       payload: payload,
     );
+  }
+
+  Future<void> scheduleNotification({
+    required int id,
+    required String title,
+    required String body,
+    required DateTime scheduledDate,
+    required NotificationCategory category,
+    required String threadIdentifier,
+    String? payload,
+  }) async {
+    final AndroidNotificationDetails androidNotificationDetails = AndroidNotificationDetails(
+      category.id,
+      category.name,
+      channelDescription: category.description,
+      importance: Importance.defaultImportance,
+      priority: Priority.defaultPriority,
+    );
+
+    final DarwinNotificationDetails iosNotificationDetails = DarwinNotificationDetails(
+      categoryIdentifier: category.id,
+      threadIdentifier: threadIdentifier,
+    );
+
+    final NotificationDetails notificationDetails = NotificationDetails(
+      android: androidNotificationDetails,
+      iOS: iosNotificationDetails,
+    );
+
+    await flutterLocalNotificationsPlugin.zonedSchedule(
+        id,
+        title,
+        body,
+        payload: payload,
+        tz.TZDateTime.from(scheduledDate, tz.local),
+        notificationDetails,
+        androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
+        uiLocalNotificationDateInterpretation:
+        UILocalNotificationDateInterpretation.absoluteTime,
+    );
+  }
+
+  Future<void> cancelNotification(int id) async {
+    await flutterLocalNotificationsPlugin.cancel(id);
+  }
+
+  Future<void> cancelAllNotifications() async {
+    await flutterLocalNotificationsPlugin.cancelAll();
   }
 }
