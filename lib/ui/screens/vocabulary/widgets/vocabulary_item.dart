@@ -4,8 +4,10 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../../../data/models/word.dart';
 import '../../../../data/models/word_status.dart';
 import '../../../../generated/assets.dart';
+import '../../../../utils/app_snack_bar.dart';
 import '../../../commons/dialogs/word_details_dialog.dart';
 import '../../../commons/svg_button.dart';
+import '../../notifications/bloc/notifications_bloc.dart';
 import '../bloc/vocabulary_bloc.dart';
 import 'phonetic.dart';
 import 'pos_badge.dart';
@@ -46,6 +48,12 @@ class VocabularyItem extends StatelessWidget {
                       color: colorScheme.onPrimaryContainer,
                       fontWeight: FontWeight.bold,
                     ),
+                  ),
+                  const SizedBox(width: 8),
+                  SvgButton(
+                    svg: Assets.svgNotifications,
+                    size: 16,
+                    onPressed: () => _reminderTomorrow(context),
                   ),
                   const Spacer(),
                   ...List.generate(
@@ -159,5 +167,10 @@ class VocabularyItem extends StatelessWidget {
         word: word,
       ),
     );
+  }
+
+  _reminderTomorrow(BuildContext context) {
+    context.read<NotificationsBloc>().add(NotificationsEvent.reminderWordTomorrow(word: word));
+    AppSnackBar.showInfo(context, "Reminder set for a random time tomorrow");
   }
 }
