@@ -15,8 +15,7 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
 
   NotificationsBloc({
     required LocalNotificationsTools localNotificationsTools,
-  })
-      : _localNotificationsTools = localNotificationsTools,
+  })  : _localNotificationsTools = localNotificationsTools,
         super(const NotificationsState()) {
     on<NotificationsEvent>((event, emit) async {
       await event.map(
@@ -27,6 +26,8 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
 
   _requestPermissions(_RequestPermissions event, Emitter<NotificationsState> emit) async {
     debugPrint('NotificationsBloc: requestPermissions');
-    await _localNotificationsTools.requestPermissions();
+    final isGranted = await _localNotificationsTools.requestPermissions();
+    debugPrint('NotificationsBloc: requestPermissions isGranted: $isGranted');
+    emit(state.copyWith(isNotificationsGranted: isGranted ?? false));
   }
 }
