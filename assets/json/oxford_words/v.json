@@ -1,0 +1,5453 @@
+[
+  {
+    "word": "vacation",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vac/vacat/vacation__gb_2.mp3",
+    "phonetic_text": "/veɪˈkeɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vac/vacat/vacation__us_4.mp3",
+    "phonetic_am_text": "/veɪˈkeɪʃn/",
+    "senses": [
+      {
+        "definition": "a period of time spent travelling or relaxing away from home",
+        "examples": [
+          {
+            "cf": "on vacation",
+            "x": "They're on vacation in Hawaii right now."
+          },
+          {
+            "cf": "",
+            "x": "I'm going on vacation for a couple of weeks."
+          },
+          {
+            "cf": "",
+            "x": "You look tired—you should take a vacation."
+          },
+          {
+            "cf": "",
+            "x": "We're planning a summer vacation to Europe next year."
+          },
+          {
+            "cf": "",
+            "x": "I just got back from a family vacation in New Orleans."
+          },
+          {
+            "cf": "",
+            "x": "The job includes two weeks' paid vacation."
+          },
+          {
+            "cf": "",
+            "x": "a vacation home"
+          },
+          {
+            "cf": "",
+            "x": "He had a lot of unused vacation time."
+          }
+        ]
+      },
+      {
+        "definition": "(in the UK) one of the periods of time when universities or courts of law are closed; (in the US) one of the periods of time when schools, colleges, universities or courts of law are closed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the Christmas/Easter/summer vacation"
+          },
+          {
+            "cf": "",
+            "x": "the long vacation (= the summer vacation)"
+          },
+          {
+            "cf": "during/in the vacation",
+            "x": "I got a full-time job during the vacation."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vacuum",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vac/vacuu/vacuum__gb_2.mp3",
+    "phonetic_text": "/ˈvækjuːm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vac/vacuu/vacuum__us_3.mp3",
+    "phonetic_am_text": "/ˈvækjuːm/",
+    "senses": [
+      {
+        "definition": "a space that is completely empty of all substances, including all air or other gas",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a vacuum pump (= one that creates a vacuum)"
+          },
+          {
+            "cf": "",
+            "x": "vacuum-packed foods (= in a package from which most of the air has been removed)"
+          }
+        ]
+      },
+      {
+        "definition": "a situation in which somebody/something is missing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His resignation has created a vacuum which cannot easily be filled."
+          },
+          {
+            "cf": "",
+            "x": "The writer criticized the moral vacuum in society."
+          }
+        ]
+      },
+      {
+        "definition": "the act of cleaning something with a vacuum cleaner",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to give a room a quick vacuum"
+          }
+        ]
+      },
+      {
+        "definition": "existing separately from other people, events, etc. when there should be a connection",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This kind of decision cannot ever be made in a vacuum."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vague",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vag/vague/vague__gb_1.mp3",
+    "phonetic_text": "/veɪɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vag/vague/vague__us_1.mp3",
+    "phonetic_am_text": "/veɪɡ/",
+    "senses": [
+      {
+        "definition": "not clear in a person’s mind",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to have a vague impression/memory/recollection of something"
+          },
+          {
+            "cf": "",
+            "x": "They had only a vague idea where the place was."
+          }
+        ]
+      },
+      {
+        "definition": "not having or giving enough information or details about something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's a little vague about her plans for next year."
+          },
+          {
+            "cf": "",
+            "x": "The politicians made vague promises about tax cuts."
+          },
+          {
+            "cf": "",
+            "x": "He was accused of being deliberately vague."
+          },
+          {
+            "cf": "",
+            "x": "We had only a vague description of the attacker."
+          },
+          {
+            "cf": "",
+            "x": "He outlined the policy in vague terms."
+          }
+        ]
+      },
+      {
+        "definition": "suggesting a lack of clear thought or attention",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His vague manner concealed a brilliant mind."
+          },
+          {
+            "cf": "",
+            "x": "She seems to be getting rather vague as she grows older."
+          }
+        ]
+      },
+      {
+        "definition": "not having a clear shape",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In the darkness they could see the vague outline of a church."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "valid",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/val/valid/valid__gb_2.mp3",
+    "phonetic_text": "/ˈvælɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/valid/valid__us_1.mp3",
+    "phonetic_am_text": "/ˈvælɪd/",
+    "senses": [
+      {
+        "definition": "that is legally or officially acceptable",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Do you have a valid passport?"
+          },
+          {
+            "cf": "",
+            "x": "He bought a bus pass valid for one month."
+          },
+          {
+            "cf": "",
+            "x": "They have a valid claim to compensation."
+          }
+        ]
+      },
+      {
+        "definition": "based on what is logical or true",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She had valid reasons for not supporting the proposals."
+          },
+          {
+            "cf": "",
+            "x": "The point you make is perfectly valid."
+          },
+          {
+            "cf": "",
+            "x": "That argument is not strictly valid in this case."
+          }
+        ]
+      },
+      {
+        "definition": "that is accepted by the system",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a valid password"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "validity",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/val/valid/validity__gb_1.mp3",
+    "phonetic_text": "/vəˈlɪdəti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/valid/validity__us_1.mp3",
+    "phonetic_am_text": "/vəˈlɪdəti/",
+    "senses": [
+      {
+        "definition": "the state of being legally or officially acceptable",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The period of validity of the agreement has expired."
+          }
+        ]
+      },
+      {
+        "definition": "the state of being logical and true",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We had doubts about the validity of their argument."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "valley",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/val/valle/valley__gb_1.mp3",
+    "phonetic_text": "/ˈvæli/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/valle/valley__us_2.mp3",
+    "phonetic_am_text": "/ˈvæli/",
+    "senses": [
+      {
+        "definition": "an area of low land between hills or mountains, often with a river flowing through it; the land that a river flows through",
+        "examples": [
+          {
+            "cf": "in a valley",
+            "x": "In the valley below cows were grazing peacefully."
+          },
+          {
+            "cf": "",
+            "x": "the fertile soils of river valleys"
+          },
+          {
+            "cf": "",
+            "x": "A stream runs the length of the valley floor."
+          },
+          {
+            "cf": "",
+            "x": "the Shenandoah Valley"
+          },
+          {
+            "cf": "",
+            "x": "the valley of the Nile"
+          },
+          {
+            "cf": "",
+            "x": "a small town set in a valley"
+          },
+          {
+            "cf": "",
+            "x": "The cottage was in a wooded valley."
+          },
+          {
+            "cf": "",
+            "x": "The road climbs up the side of the valley."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "valuable",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/val/valua/valuable__gb_3.mp3",
+    "phonetic_text": "/ˈvæljuəbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/valua/valuable__us_2_rr.mp3",
+    "phonetic_am_text": "/ˈvæljuəbl/",
+    "senses": [
+      {
+        "definition": "worth a lot of money",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My home is my most valuable asset."
+          },
+          {
+            "cf": "",
+            "x": "She claims hospitals waste valuable resources by admitting patients days before surgery."
+          },
+          {
+            "cf": "",
+            "x": "valuable antiques"
+          },
+          {
+            "cf": "",
+            "x": "Luckily, nothing valuable was stolen."
+          }
+        ]
+      },
+      {
+        "definition": "very useful or important",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a valuable experience/lesson"
+          },
+          {
+            "cf": "",
+            "x": "You should gain some valuable insights into the world of business."
+          },
+          {
+            "cf": "valuable to somebody/something",
+            "x": "documents that are enormously valuable to historians"
+          },
+          {
+            "cf": "",
+            "x": "The book provides valuable information on recent trends."
+          },
+          {
+            "cf": "",
+            "x": "He had already made a valuable contribution to economic theory."
+          },
+          {
+            "cf": "",
+            "x": "The results will be a valuable tool for further research in the area."
+          },
+          {
+            "cf": "",
+            "x": "This advice was to prove valuable."
+          },
+          {
+            "cf": "",
+            "x": "Spinach is a valuable source of iron."
+          },
+          {
+            "cf": "valuable for somebody/something",
+            "x": "The data will be extremely valuable for medical research."
+          },
+          {
+            "cf": "",
+            "x": "a simple blood test that is very valuable in the management of diabetes"
+          },
+          {
+            "cf": "",
+            "x": "Student input can be particularly valuable in improving the teaching process."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "value",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/val/value/value__gb_2.mp3",
+    "phonetic_text": "/ˈvæljuː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/value/value__us_2.mp3",
+    "phonetic_am_text": "/ˈvæljuː/",
+    "senses": [
+      {
+        "definition": "how much something is worth in money or other goods for which it can be exchanged",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go up/rise/increase in value"
+          },
+          {
+            "cf": "",
+            "x": "to go down/fall/decline in value"
+          },
+          {
+            "cf": "",
+            "x": "rising property values"
+          },
+          {
+            "cf": "",
+            "x": "The value of the shares has continued to fall."
+          },
+          {
+            "cf": "to the value of something",
+            "x": "The winner will receive a prize to the value of £1 000."
+          },
+          {
+            "cf": "of value",
+            "x": "Don't leave anything of value in the car."
+          },
+          {
+            "cf": "",
+            "x": "Sports cars tend to hold their value well."
+          }
+        ]
+      },
+      {
+        "definition": "how much something is worth compared with its price",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to be good/great value (= worth the money it costs)"
+          },
+          {
+            "cf": "",
+            "x": "to be bad/poor value (= not worth the money it costs)"
+          },
+          {
+            "cf": "",
+            "x": "Larger sizes give the best value for money."
+          },
+          {
+            "cf": "",
+            "x": "The hotel gives value for money."
+          },
+          {
+            "cf": "",
+            "x": "They're only £40—not bad value, really."
+          },
+          {
+            "cf": "",
+            "x": "This great value-for-money offer is only available to society members."
+          }
+        ]
+      },
+      {
+        "definition": "the quality of being useful or important",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The value of regular exercise should not be underestimated."
+          },
+          {
+            "cf": "",
+            "x": "She placed a high value on loyalty."
+          },
+          {
+            "cf": "of value",
+            "x": "He didn't say anything of value."
+          },
+          {
+            "cf": "of value to somebody",
+            "x": "The arrival of canals was of great value to many industries."
+          },
+          {
+            "cf": "",
+            "x": "to be of little/no value to somebody"
+          },
+          {
+            "cf": "value to somebody",
+            "x": "The library's value to the community is enormous."
+          },
+          {
+            "cf": "",
+            "x": "This ring has great sentimental value for me."
+          },
+          {
+            "cf": "",
+            "x": "I suppose it has a certain novelty value (= it's interesting because it's new)."
+          },
+          {
+            "cf": "",
+            "x": "food with a high nutritional value"
+          },
+          {
+            "cf": "",
+            "x": "The story has very little news value."
+          },
+          {
+            "cf": "",
+            "x": "Branding has to add value to the product."
+          }
+        ]
+      },
+      {
+        "definition": "beliefs about what is right and wrong and what is important in life",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We need to be guided by our moral values."
+          },
+          {
+            "cf": "",
+            "x": "a return to traditional values in education, such as firm discipline"
+          },
+          {
+            "cf": "",
+            "x": "The school's core values include the ability to work with others."
+          },
+          {
+            "cf": "",
+            "x": "The young have a completely different set of values and expectations."
+          }
+        ]
+      },
+      {
+        "definition": "the amount represented by a letter or symbol",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Let y have the value 33."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "value",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/val/value/value__gb_2.mp3",
+    "phonetic_text": "/ˈvæljuː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/value/value__us_2.mp3",
+    "phonetic_am_text": "/ˈvæljuː/",
+    "senses": [
+      {
+        "definition": "to think that somebody/something is important",
+        "examples": [
+          {
+            "cf": "value somebody/something",
+            "x": "He has come to value her advice and support."
+          },
+          {
+            "cf": "",
+            "x": "They don’t seem to value honesty very highly."
+          },
+          {
+            "cf": "value somebody/something as something",
+            "x": "I really value him as a friend."
+          },
+          {
+            "cf": "value somebody/something for something",
+            "x": "The area is valued for its vineyards."
+          },
+          {
+            "cf": "",
+            "x": "She's a valued member of staff."
+          }
+        ]
+      },
+      {
+        "definition": "to decide that something is worth a particular amount of money",
+        "examples": [
+          {
+            "cf": "be valued at something",
+            "x": "The property has been valued at over $2 million."
+          },
+          {
+            "cf": "get something valued",
+            "x": "You should get the painting valued."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "van",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/van/van__/van__gb_10.mp3",
+    "phonetic_text": "/væn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/van/van__/van__us_1.mp3",
+    "phonetic_am_text": "/væn/",
+    "senses": [
+      {
+        "definition": "a covered vehicle with no side windows in its back half, usually smaller than a lorry, used for carrying goods or people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the driver of a white van"
+          },
+          {
+            "cf": "",
+            "x": "a police van (= for carrying police officers or prisoners)"
+          },
+          {
+            "cf": "",
+            "x": "A delivery van was almost blocking the narrow street."
+          },
+          {
+            "cf": "",
+            "x": "an ice-cream van"
+          },
+          {
+            "cf": "",
+            "x": "a van driver"
+          },
+          {
+            "cf": "in a van",
+            "x": "A passenger in the van was fatally injured."
+          },
+          {
+            "cf": "",
+            "x": "He usually sleeps in the back of his van."
+          }
+        ]
+      },
+      {
+        "definition": "a covered vehicle with side windows, usually smaller than a lorry, that can carry about twelve passengers",
+        "examples": []
+      },
+      {
+        "definition": "a closed coach on a train for carrying bags, cases, etc. or mail",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a luggage van"
+          },
+          {
+            "cf": "",
+            "x": "The gang robbed a mail van, seriously injuring one of the guards."
+          }
+        ]
+      },
+      {
+        "definition": "at the front or in the leading position",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These artists felt themselves in the van of the movement, true pioneers."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vanish",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/van/vanis/vanish__gb_1.mp3",
+    "phonetic_text": "/ˈvænɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/van/vanis/vanish__us_1.mp3",
+    "phonetic_am_text": "/ˈvænɪʃ/",
+    "senses": [
+      {
+        "definition": "to disappear suddenly and/or in a way that you cannot explain",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He turned around and vanished into the house."
+          },
+          {
+            "cf": "",
+            "x": "The magician vanished in a puff of smoke."
+          },
+          {
+            "cf": "",
+            "x": "My glasses seem to have vanished."
+          },
+          {
+            "cf": "",
+            "x": "He vanished without trace."
+          }
+        ]
+      },
+      {
+        "definition": "to stop existing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the vanishing woodlands of Europe"
+          },
+          {
+            "cf": "",
+            "x": "All hopes of a peaceful settlement had now vanished."
+          },
+          {
+            "cf": "",
+            "x": "All thoughts of leaving vanished from his mind."
+          }
+        ]
+      },
+      {
+        "definition": "to disappear completely",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Keep looking—they can't just have vanished off the face of the earth."
+          }
+        ]
+      },
+      {
+        "definition": "to disappear suddenly in a mysterious way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She can’t just have vanished into thin air."
+          },
+          {
+            "cf": "",
+            "x": "At a stroke she could make things vanish into thin air."
+          }
+        ]
+      },
+      {
+        "definition": "to go away or be impossible to find when people need or want you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The cat had done a disappearing act."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "variable",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/varia/variable__gb_4.mp3",
+    "phonetic_text": "/ˈveəriəbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/varia/variable__us_1.mp3",
+    "phonetic_am_text": "/ˈveriəbl/",
+    "senses": [
+      {
+        "definition": "often changing; likely to change",
+        "examples": [
+          {
+            "cf": "",
+            "x": "variable temperatures"
+          },
+          {
+            "cf": "",
+            "x": "The acting is of variable quality (= some of it is good and some of it is bad)."
+          }
+        ]
+      },
+      {
+        "definition": "able to be changed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The drill has variable speed control."
+          },
+          {
+            "cf": "",
+            "x": "The kitchen boasts stylish units and variable lighting."
+          },
+          {
+            "cf": "",
+            "x": "These systems are infinitely variable."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "variable",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/varia/variable__gb_4.mp3",
+    "phonetic_text": "/ˈveəriəbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/varia/variable__us_1.mp3",
+    "phonetic_am_text": "/ˈveriəbl/",
+    "senses": [
+      {
+        "definition": "a situation, number or quantity that can vary or be varied",
+        "examples": [
+          {
+            "cf": "",
+            "x": "With so many variables, it is difficult to calculate the cost."
+          },
+          {
+            "cf": "",
+            "x": "The temperature remained constant while pressure was a variable in the experiment."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "variation",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/varia/variation__gb_3.mp3",
+    "phonetic_text": "/ˌveəriˈeɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/varia/variation__us_1.mp3",
+    "phonetic_am_text": "/ˌveriˈeɪʃn/",
+    "senses": [
+      {
+        "definition": "a change, especially in the amount or level of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The dial records very slight variations in pressure."
+          },
+          {
+            "cf": "",
+            "x": "Currency exchange rates are always subject to variation."
+          },
+          {
+            "cf": "",
+            "x": "regional/seasonal variation (= depending on the region or time of year)"
+          }
+        ]
+      },
+      {
+        "definition": "a thing that is different from other things in the same general group",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This soup is a spicy variation on a traditional favourite."
+          }
+        ]
+      },
+      {
+        "definition": "any of a set of short pieces of music based on a simple tune repeated in a different and more complicated form",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a set of variations on a theme by Mozart"
+          },
+          {
+            "cf": "",
+            "x": "His numerous complaints are all variations on a theme (= all about the same thing)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "varied",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/varie/varied__gb_1.mp3",
+    "phonetic_text": "/ˈveərid/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/varie/varied__us_1.mp3",
+    "phonetic_am_text": "/ˈverid/",
+    "senses": [
+      {
+        "definition": "of many different types",
+        "examples": [
+          {
+            "cf": "",
+            "x": "varied opinions"
+          },
+          {
+            "cf": "",
+            "x": "They stock a wide and varied selection of cheeses."
+          }
+        ]
+      },
+      {
+        "definition": "not staying the same, but changing often",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He led a full and varied life."
+          },
+          {
+            "cf": "",
+            "x": "I've had a varied career."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "variety",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/varie/variety__gb_1.mp3",
+    "phonetic_text": "/vəˈraɪəti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/varie/variety__us_3.mp3",
+    "phonetic_am_text": "/vəˈraɪəti/",
+    "senses": [
+      {
+        "definition": "several different sorts of the same thing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There is a wide variety of patterns to choose from."
+          },
+          {
+            "cf": "",
+            "x": "He resigned for a variety of reasons."
+          },
+          {
+            "cf": "",
+            "x": "This tool can be used in a variety of ways."
+          },
+          {
+            "cf": "",
+            "x": "The text consists of extracts from a variety of sources."
+          },
+          {
+            "cf": "",
+            "x": "articles and essays on a variety of topics"
+          },
+          {
+            "cf": "",
+            "x": " I don't eat meat, only fish, but there's a good variety available here."
+          },
+          {
+            "cf": "",
+            "x": "The day-long excursion is one of a variety on offer for tourists."
+          },
+          {
+            "cf": "",
+            "x": "I was impressed by the variety of dishes on offer."
+          }
+        ]
+      },
+      {
+        "definition": "the quality of not being the same or not doing the same thing all the time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It's the variety that makes my job so enjoyable."
+          },
+          {
+            "cf": "",
+            "x": "We all need variety in our diet."
+          },
+          {
+            "cf": "",
+            "x": "We want more variety in our work."
+          },
+          {
+            "cf": "",
+            "x": "a constant craving for variety and adventure"
+          },
+          {
+            "cf": "",
+            "x": "The festival demonstrates the variety of the UK music scene."
+          }
+        ]
+      },
+      {
+        "definition": "a type of a thing, for example a plant or language, that is different from the others in the same general group",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Apples come in a great many varieties."
+          },
+          {
+            "cf": "variety of something",
+            "x": "different varieties of English"
+          },
+          {
+            "cf": "",
+            "x": "This is a very rare variety of orchid."
+          },
+          {
+            "cf": "",
+            "x": "A typical estate in the region will grow at least three grape varieties."
+          },
+          {
+            "cf": "",
+            "x": "My cooking is of the ‘quick and simple’ variety."
+          }
+        ]
+      },
+      {
+        "definition": "a form of theatre or television entertainment that consists of a series of short performances, such as singing, dancing and funny acts",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a variety show/theatre"
+          }
+        ]
+      },
+      {
+        "definition": "having a range of different experiences makes life more interesting",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "various",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/vario/various__gb_4.mp3",
+    "phonetic_text": "/ˈveəriəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/vario/various__us_3.mp3",
+    "phonetic_am_text": "/ˈveriəs/",
+    "senses": [
+      {
+        "definition": "several different",
+        "examples": [
+          {
+            "cf": "",
+            "x": "various types/forms/kinds of somebody/something "
+          },
+          {
+            "cf": "",
+            "x": "We talked about jobs, family, football and various other things."
+          },
+          {
+            "cf": "",
+            "x": "documentaries that explored various aspects of life in Germany"
+          },
+          {
+            "cf": "",
+            "x": "Tents come in various shapes and sizes."
+          },
+          {
+            "cf": "",
+            "x": "She took the job for various reasons."
+          },
+          {
+            "cf": "",
+            "x": "There are various ways of doing this."
+          },
+          {
+            "cf": "",
+            "x": "He spent his childhood in various parts of Italy."
+          },
+          {
+            "cf": "",
+            "x": "Various groups use the centre."
+          },
+          {
+            "cf": "",
+            "x": "Data will be collected at various stages."
+          },
+          {
+            "cf": "",
+            "x": "My films involve various different points of view."
+          },
+          {
+            "cf": "",
+            "x": "Members of the various political parties were calling for something to be done."
+          },
+          {
+            "cf": "",
+            "x": "His complaints were many and various."
+          }
+        ]
+      },
+      {
+        "definition": "having many different features",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a large and various country"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vary",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/var/vary_/vary__gb_3.mp3",
+    "phonetic_text": "/ˈveəri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/vary_/vary__us_4.mp3",
+    "phonetic_am_text": "/ˈveri/",
+    "senses": [
+      {
+        "definition": "to be different from each other in size, shape, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "New techniques were introduced with varying degrees of success."
+          },
+          {
+            "cf": "",
+            "x": "Estimates of how many civilians were killed varied widely."
+          },
+          {
+            "cf": "",
+            "x": "Class size varies greatly."
+          },
+          {
+            "cf": "vary in something",
+            "x": "The students' work varies considerably in quality."
+          },
+          {
+            "cf": "",
+            "x": "The rooms vary in size."
+          },
+          {
+            "cf": "",
+            "x": "There are a number of routes to the summit, with varying levels of difficulty."
+          }
+        ]
+      },
+      {
+        "definition": "to change or be different according to the situation",
+        "examples": [
+          {
+            "cf": "vary with something",
+            "x": "The menu varies with the season."
+          },
+          {
+            "cf": "vary by something",
+            "x": "Cancer rates vary significantly by gender and ethnicity."
+          },
+          {
+            "cf": "vary from somebody/something to somebody/something",
+            "x": "Results can vary greatly from year to year."
+          },
+          {
+            "cf": "",
+            "x": "Pulse rates vary slightly from person to person."
+          },
+          {
+            "cf": "vary between A and B",
+            "x": "Class numbers vary between 25 and 30."
+          },
+          {
+            "cf": "",
+            "x": "Costs are likely to vary depending on where you live."
+          },
+          {
+            "cf": "",
+            "x": "‘What time do you start work?’ ‘It varies.’"
+          },
+          {
+            "cf": "vary according to something",
+            "x": "Prices vary according to the type of room you require."
+          }
+        ]
+      },
+      {
+        "definition": "to make changes to something to make it slightly different",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The job enables me to vary the hours I work."
+          },
+          {
+            "cf": "",
+            "x": "The aerobics instructor varies the routine each week."
+          },
+          {
+            "cf": "",
+            "x": "Consumers may apply to the lender to vary the terms of their contract."
+          },
+          {
+            "cf": "",
+            "x": "Drivers need to take note of the weather conditions and vary their speed accordingly."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that people may experience a particular thing in different ways",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Highly recommend the company! Of course, your mileage may vary."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vast",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vas/vast_/vast__gb_1.mp3",
+    "phonetic_text": "/vɑːst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vas/vast_/vast__us_1.mp3",
+    "phonetic_am_text": "/væst/",
+    "senses": [
+      {
+        "definition": "extremely large in area, size, amount, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a vast area of forest"
+          },
+          {
+            "cf": "",
+            "x": "a vast crowd"
+          },
+          {
+            "cf": "",
+            "x": "In the vast majority of cases, this should not be a problem."
+          },
+          {
+            "cf": "",
+            "x": "They sell a vast array of products."
+          },
+          {
+            "cf": "",
+            "x": "a vast amount of information"
+          },
+          {
+            "cf": "",
+            "x": "At dusk bats appear in vast numbers."
+          },
+          {
+            "cf": "",
+            "x": "vast quantities of food"
+          },
+          {
+            "cf": "",
+            "x": "His business empire was vast."
+          },
+          {
+            "cf": "",
+            "x": "vast sums of money"
+          },
+          {
+            "cf": "",
+            "x": "The special effects were a vast improvement over the original film."
+          },
+          {
+            "cf": "",
+            "x": "She writes on a vast range of subjects."
+          },
+          {
+            "cf": "",
+            "x": "It is a very rich country with vast resources."
+          },
+          {
+            "cf": "",
+            "x": "Your help made a vast difference."
+          },
+          {
+            "cf": "",
+            "x": "We’ve hired a marquee at vast expense."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vegetable",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/veg/veget/vegetable__gb_1.mp3",
+    "phonetic_text": "/ˈvedʒtəbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/veg/veget/vegetable__us_1.mp3",
+    "phonetic_am_text": "/ˈvedʒtəbl/",
+    "senses": [
+      {
+        "definition": "a plant or part of a plant that is eaten as food. Potatoes, beans and onions are all vegetables.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The children don't eat enough fresh vegetables."
+          },
+          {
+            "cf": "",
+            "x": "root vegetables (= for example carrots)"
+          },
+          {
+            "cf": "",
+            "x": "a vegetable garden"
+          },
+          {
+            "cf": "",
+            "x": "We grow our own vegetables."
+          },
+          {
+            "cf": "",
+            "x": "a salad of raw vegetables"
+          },
+          {
+            "cf": "",
+            "x": "organic vegetables"
+          },
+          {
+            "cf": "",
+            "x": "a vegetable patch/plot"
+          },
+          {
+            "cf": "",
+            "x": "vegetable soup"
+          },
+          {
+            "cf": "",
+            "x": "vegetable matter (= plants in general)"
+          }
+        ]
+      },
+      {
+        "definition": "an offensive word for a person who is physically alive but not capable of much mental or physical activity, for example because of a serious accident or illness",
+        "examples": []
+      },
+      {
+        "definition": "a person who has a boring life",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Since losing my job I've been a vegetable."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vehicle",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/veh/vehic/vehicle__gb_5.mp3",
+    "phonetic_text": "/ˈviːəkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/veh/vehic/vehicle__us_5.mp3",
+    "phonetic_am_text": "/ˈviːəkl/",
+    "senses": [
+      {
+        "definition": "a thing that is used for transporting people or goods from one place to another, such as a car or lorry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "motor vehicles (= cars, buses, lorries, etc.)"
+          },
+          {
+            "cf": "",
+            "x": "Are you the driver of this vehicle?"
+          },
+          {
+            "cf": "",
+            "x": "The police think that he was driving a stolen vehicle."
+          },
+          {
+            "cf": "",
+            "x": "rows of parked vehicles"
+          }
+        ]
+      },
+      {
+        "definition": "something that can be used to express your ideas or feelings, or as a way of achieving something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Art may be used as a vehicle for propaganda."
+          },
+          {
+            "cf": "",
+            "x": "The play is an ideal vehicle for her talents."
+          }
+        ]
+      },
+      {
+        "definition": "a film, television programme, song, etc. that allows a particular performer to show their ability",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The new series has been created as a vehicle for the young star."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vein",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vei/vein_/vein__gb_1.mp3",
+    "phonetic_text": "/veɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vei/vein_/vein__us_1.mp3",
+    "phonetic_am_text": "/veɪn/",
+    "senses": [
+      {
+        "definition": "any of the tubes that carry blood from all parts of the body towards the heart",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the jugular vein"
+          },
+          {
+            "cf": "",
+            "x": "The nurse was having trouble finding a vein in his arm."
+          }
+        ]
+      },
+      {
+        "definition": "any of the very thin tubes that form the frame of a leaf or an insect’s wing",
+        "examples": []
+      },
+      {
+        "definition": "a narrow area of a different colour in some types of stone, wood and cheese",
+        "examples": []
+      },
+      {
+        "definition": "a thin layer of minerals or metal contained in rock",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a vein of gold"
+          }
+        ]
+      },
+      {
+        "definition": "an amount of a particular quality or feature in something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They had tapped a rich vein of information in his secretary."
+          },
+          {
+            "cf": "",
+            "x": "There was a vein of proverbial wisdom in what he said."
+          }
+        ]
+      },
+      {
+        "definition": "a particular style or manner",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A number of other people commented in a similar vein."
+          },
+          {
+            "cf": "",
+            "x": "‘And that's not all,’ he continued in angry vein."
+          },
+          {
+            "cf": "",
+            "x": "Other speakers tackled the same problem in a lighter vein."
+          },
+          {
+            "cf": "",
+            "x": "Fortunately, the rest of the evening continued in a lighter vein."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "venture",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ven/ventu/venture__gb_1.mp3",
+    "phonetic_text": "/ˈventʃə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ven/ventu/venture__us_1.mp3",
+    "phonetic_am_text": "/ˈventʃər/",
+    "senses": [
+      {
+        "definition": "a business project or activity, especially one that involves taking risks",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A disastrous business venture lost him thousands of dollars."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "venture",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ven/ventu/venture__gb_1.mp3",
+    "phonetic_text": "/ˈventʃə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ven/ventu/venture__us_1.mp3",
+    "phonetic_am_text": "/ˈventʃər/",
+    "senses": [
+      {
+        "definition": "to go somewhere even though you know that it might be dangerous or unpleasant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They ventured nervously into the water."
+          },
+          {
+            "cf": "",
+            "x": "He's never ventured abroad in his life."
+          }
+        ]
+      },
+      {
+        "definition": "to say or do something in a careful way, especially because it might upset or offend somebody",
+        "examples": [
+          {
+            "cf": "venture something",
+            "x": "She hardly dared to venture an opinion."
+          },
+          {
+            "cf": "",
+            "x": "He ventured a tentative smile."
+          },
+          {
+            "cf": "venture to do something",
+            "x": "I ventured to suggest that she might have made a mistake."
+          },
+          {
+            "cf": "+ speech",
+            "x": "‘And if I say no?’ she ventured."
+          },
+          {
+            "cf": "venture that…",
+            "x": "He ventured that the data might be flawed."
+          }
+        ]
+      },
+      {
+        "definition": "to risk losing something valuable or important if you are not successful at something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It was wrong to venture his financial security on such a risky deal."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that you have to take risks if you want to achieve things and be successful",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "venue",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ven/venue/venue__gb_1.mp3",
+    "phonetic_text": "/ˈvenjuː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ven/venue/venue__us_1.mp3",
+    "phonetic_am_text": "/ˈvenjuː/",
+    "senses": [
+      {
+        "definition": "a place where people meet for an organized event, for example a concert, sporting event or conference",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The band will be playing at 20 different venues on their UK tour."
+          },
+          {
+            "cf": "",
+            "x": "music/entertainment venues"
+          },
+          {
+            "cf": "",
+            "x": "Please note the change of venue for this event."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "verbal",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/verba/verbal__gb_1.mp3",
+    "phonetic_text": "/ˈvɜːbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/verba/verbal__us_1.mp3",
+    "phonetic_am_text": "/ˈvɜːrbl/",
+    "senses": [
+      {
+        "definition": "relating to words",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The job applicant must have good verbal skills."
+          },
+          {
+            "cf": "",
+            "x": "non-verbal communication (= expressions of the face, gestures, etc.)"
+          }
+        ]
+      },
+      {
+        "definition": "spoken, not written",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a verbal agreement/warning"
+          },
+          {
+            "cf": "",
+            "x": "verbal instructions"
+          }
+        ]
+      },
+      {
+        "definition": "relating to verbs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a verbal noun (= a noun formed from a verb, for example smoking)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "verdict",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/verdi/verdict__gb_1.mp3",
+    "phonetic_text": "/ˈvɜːdɪkt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/verdi/verdict__us_1.mp3",
+    "phonetic_am_text": "/ˈvɜːrdɪkt/",
+    "senses": [
+      {
+        "definition": "an official judgement made in court or at an inquest (= an official investigation into somebody's death)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Has the jury reached a verdict?"
+          },
+          {
+            "cf": "",
+            "x": "The jury returned a verdict (= gave a verdict) of guilty."
+          },
+          {
+            "cf": "",
+            "x": "The coroner recorded a verdict of accidental death."
+          }
+        ]
+      },
+      {
+        "definition": "a decision that you make or an opinion that you give about something, after you have tested it or considered it carefully",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Well, what's your verdict?"
+          },
+          {
+            "cf": "verdict on something/somebody",
+            "x": "The panel will give their verdict on the latest album releases."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "verify",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/verif/verify__gb_1.mp3",
+    "phonetic_text": "/ˈverɪfaɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/verif/verify__us_1.mp3",
+    "phonetic_am_text": "/ˈverɪfaɪ/",
+    "senses": [
+      {
+        "definition": "to check that something is true or accurate",
+        "examples": [
+          {
+            "cf": "verify something",
+            "x": "We have no way of verifying his story."
+          },
+          {
+            "cf": "verify that…",
+            "x": "Please verify that there is sufficient memory available before loading the program."
+          },
+          {
+            "cf": "",
+            "x": "Please verify that your password was entered correctly."
+          },
+          {
+            "cf": "verify whether, what, etc…",
+            "x": "I'll leave you to verify whether these claims are true."
+          }
+        ]
+      },
+      {
+        "definition": "to show or say that something is true or accurate",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her version of events was verified by neighbours."
+          },
+          {
+            "cf": "",
+            "x": "Several witnesses verified his story."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "verse",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/verse/verse__gb_1.mp3",
+    "phonetic_text": "/vɜːs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/verse/verse__us_1.mp3",
+    "phonetic_am_text": "/vɜːrs/",
+    "senses": [
+      {
+        "definition": "writing that is arranged in lines, often with a regular rhythm or pattern of rhyme",
+        "examples": [
+          {
+            "cf": "in verse",
+            "x": "Most of the play is written in verse, but some of it is in prose."
+          }
+        ]
+      },
+      {
+        "definition": "a group of lines that form a unit in a poem or song",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a hymn with six verses"
+          }
+        ]
+      },
+      {
+        "definition": "poetry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a book of comic verses"
+          }
+        ]
+      },
+      {
+        "definition": "any one of the short numbered divisions of a chapter in the Bible",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She always read a few verses from the Bible before going to bed."
+          }
+        ]
+      },
+      {
+        "definition": "the exact details of something, especially the exact place where particular information may be found",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I can't give chapter and verse, but that's the rough outline of our legal position."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "version",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/versi/version__gb_1.mp3",
+    "phonetic_text": "/ˈvɜːʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/versi/version__us_1.mp3",
+    "phonetic_am_text": "/ˈvɜːrʒn/",
+    "senses": [
+      {
+        "definition": "a form of something that is slightly different from an earlier form or from other forms of the same thing",
+        "examples": [
+          {
+            "cf": "version of something",
+            "x": "the latest version of the software package"
+          },
+          {
+            "cf": "",
+            "x": "an expanded version of the article"
+          },
+          {
+            "cf": "",
+            "x": "The original/final version is vastly superior."
+          },
+          {
+            "cf": "",
+            "x": "a new/different/modified/revised version"
+          },
+          {
+            "cf": "",
+            "x": "an earlier/a previous version"
+          },
+          {
+            "cf": "",
+            "x": "an updated version of the app"
+          },
+          {
+            "cf": "",
+            "x": "a print/an online version"
+          },
+          {
+            "cf": "",
+            "x": "to create/produce/offer/release/use a version "
+          },
+          {
+            "cf": "",
+            "x": "There are two versions of the game, a long one and a short one."
+          },
+          {
+            "cf": "",
+            "x": "the DVD version of the film "
+          },
+          {
+            "cf": "",
+            "x": "This amended version of the bill went to the Senate."
+          },
+          {
+            "cf": "",
+            "x": "an edited version of her speech to the National Press Club in Canberra"
+          },
+          {
+            "cf": "",
+            "x": "the full version of the report"
+          },
+          {
+            "cf": "",
+            "x": "the de luxe/luxury version"
+          },
+          {
+            "cf": "",
+            "x": "I've only played the version for PC."
+          },
+          {
+            "cf": "",
+            "x": "This is an edited version of the review."
+          }
+        ]
+      },
+      {
+        "definition": "a film, play, piece of music, etc. that is based on a particular piece of work but is in a different form, style or language",
+        "examples": [
+          {
+            "cf": "version of something",
+            "x": "the film version of ‘War and Peace’"
+          },
+          {
+            "cf": "",
+            "x": "The English version of the novel is due for publication next year."
+          },
+          {
+            "cf": "",
+            "x": "He also starred in the stage version."
+          },
+          {
+            "cf": "",
+            "x": "an animated version of the story"
+          },
+          {
+            "cf": "",
+            "x": "an instrumental version of the song "
+          },
+          {
+            "cf": "",
+            "x": "The piece also exists in a version for two pianos."
+          },
+          {
+            "cf": "",
+            "x": "an abridged version for children"
+          },
+          {
+            "cf": "",
+            "x": "He wrote his own version of the legend."
+          }
+        ]
+      },
+      {
+        "definition": "a description of an event from the point of view of a particular person or group of people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We have no way of knowing which version is true."
+          },
+          {
+            "cf": "version of what, how, etc…",
+            "x": "She gave us her version of what had happened that day."
+          },
+          {
+            "cf": "",
+            "x": "Their versions of how the accident happened conflict."
+          },
+          {
+            "cf": "version of something",
+            "x": "She agreed to give her version of events to journalists."
+          },
+          {
+            "cf": "",
+            "x": "Each side has its own version of the truth."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "versus",
+    "pos": "preposition",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/versu/versus__gb_1.mp3",
+    "phonetic_text": "/ˈvɜːsəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/versu/versus__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈvɜːrsəs/",
+    "senses": [
+      {
+        "definition": "used to show that two teams or sides are against each other",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It is France versus Brazil in the final."
+          },
+          {
+            "cf": "",
+            "x": "in the case of the State versus Ford"
+          }
+        ]
+      },
+      {
+        "definition": "used to compare two different ideas, choices, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It was the promise of better job opportunities versus the inconvenience of moving away and leaving her friends."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vertical",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/verti/vertical__gb_1.mp3",
+    "phonetic_text": "/ˈvɜːtɪkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/verti/vertical__us_1.mp3",
+    "phonetic_am_text": "/ˈvɜːrtɪkl/",
+    "senses": [
+      {
+        "definition": "going straight up or down from a level surface or from top to bottom in a picture, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the vertical axis of the graph"
+          },
+          {
+            "cf": "",
+            "x": "The cliff was almost vertical."
+          },
+          {
+            "cf": "",
+            "x": "There was a vertical drop to the ocean."
+          }
+        ]
+      },
+      {
+        "definition": "having a structure in which there are top, middle and bottom levels",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a vertical flow of communication"
+          }
+        ]
+      },
+      {
+        "definition": "passed from one generation to the next",
+        "examples": [
+          {
+            "cf": "",
+            "x": "4% of these infections result from vertical transmission from mother to baby."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "very",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/very_/very__gb_1.mp3",
+    "phonetic_text": "/ˈveri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/very_/very__us_1.mp3",
+    "phonetic_am_text": "/ˈveri/",
+    "senses": [
+      {
+        "definition": "used to emphasize that you are talking about a particular thing or person and not about another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He might be phoning her at this very moment."
+          },
+          {
+            "cf": "",
+            "x": "The US initiated the deal for that very reason."
+          },
+          {
+            "cf": "",
+            "x": "I'd intended to tell him that very day."
+          },
+          {
+            "cf": "",
+            "x": "Those were her very words."
+          },
+          {
+            "cf": "",
+            "x": "That's the very thing I need."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize an extreme place or time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It happens at the very beginning of the book."
+          },
+          {
+            "cf": "",
+            "x": "Education is at the very top of our list of priorities."
+          },
+          {
+            "cf": "",
+            "x": "at the very end of the film"
+          },
+          {
+            "cf": "",
+            "x": "The proposed site is in the very heart of the city."
+          },
+          {
+            "cf": "",
+            "x": "It was clear from the very start that he was in no mood to compromise."
+          },
+          {
+            "cf": "",
+            "x": "The news thrilled me to the very core of my being."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize a noun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The very nature of its business is to secretly monitor and profile internet users' habits."
+          },
+          {
+            "cf": "",
+            "x": "a civil war in which the very existence of the nation is in question"
+          },
+          {
+            "cf": "",
+            "x": "The very fact that the Army is now polling its members on the subject suggests it may be softening its stance."
+          },
+          {
+            "cf": "",
+            "x": "‘I can't do that!’ she gasped, appalled at the very idea."
+          },
+          {
+            "cf": "",
+            "x": "The very thought of drink made him feel sick."
+          },
+          {
+            "cf": "",
+            "x": "Many readers will scoff at the very notion."
+          },
+          {
+            "cf": "",
+            "x": "The novel captures the very essence of life in nineteenth-century France."
+          }
+        ]
+      },
+      {
+        "definition": "in somebody’s presence; in front of somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He had seen his life's work destroyed before his very eyes."
+          },
+          {
+            "cf": "",
+            "x": "Before our very eyes, the bird snatched the fish from the plate and flew off."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "very",
+    "pos": "adverb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ver/very_/very__gb_1.mp3",
+    "phonetic_text": "/ˈveri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ver/very_/very__us_1.mp3",
+    "phonetic_am_text": "/ˈveri/",
+    "senses": [
+      {
+        "definition": "used before adjectives, adverbs and determiners to mean ‘in a high degree’ or ‘extremely’",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Very few people know that."
+          },
+          {
+            "cf": "",
+            "x": "We have very little information at present on the incident."
+          },
+          {
+            "cf": "",
+            "x": "Thanks very much."
+          },
+          {
+            "cf": "",
+            "x": "I'm not very (= not at all) impressed."
+          },
+          {
+            "cf": "",
+            "x": "I'm very very grateful."
+          },
+          {
+            "cf": "",
+            "x": "Things could have been so very different."
+          },
+          {
+            "cf": "",
+            "x": "Australia has a very good reputation for producing high-quality grain."
+          },
+          {
+            "cf": "",
+            "x": "This is a very important part of our marketing."
+          },
+          {
+            "cf": "",
+            "x": "very small"
+          },
+          {
+            "cf": "",
+            "x": "very quickly"
+          },
+          {
+            "cf": "",
+            "x": "‘Do you like it?’ ‘Yeah, I do. Very much.’"
+          },
+          {
+            "cf": "",
+            "x": "‘Is it what you expected?’ ‘Oh yes, very much so.’"
+          },
+          {
+            "cf": "",
+            "x": "My children are still very young. "
+          },
+          {
+            "cf": "",
+            "x": "‘Are you busy?’ ‘Not very.’"
+          },
+          {
+            "cf": "",
+            "x": "The new building has been very much admired."
+          },
+          {
+            "cf": "",
+            "x": "very hard/difficult"
+          },
+          {
+            "cf": "",
+            "x": "very popular/happy/successful"
+          },
+          {
+            "cf": "",
+            "x": "These results are very worrying."
+          },
+          {
+            "cf": "",
+            "x": "We were obviously very pleased with the outcome."
+          },
+          {
+            "cf": "",
+            "x": "I find the film very upsetting to watch. "
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize a superlative adjective or before own",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They wanted the very best quality."
+          },
+          {
+            "cf": "",
+            "x": "Be there by six at the very latest."
+          },
+          {
+            "cf": "",
+            "x": "At last he had his very own car (= belonging to him and to nobody else)."
+          },
+          {
+            "cf": "",
+            "x": "It's the very worst time to be trying to sell your house."
+          }
+        ]
+      },
+      {
+        "definition": "exactly the same",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Mario said the very same thing."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vessel",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ves/vesse/vessel__gb_1.mp3",
+    "phonetic_text": "/ˈvesl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ves/vesse/vessel__us_1.mp3",
+    "phonetic_am_text": "/ˈvesl/",
+    "senses": [
+      {
+        "definition": "a tube that carries blood through the body of a person or an animal, or liquid through the parts of a plant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to burst/rupture a blood vessel"
+          }
+        ]
+      },
+      {
+        "definition": "a ship or large boat",
+        "examples": [
+          {
+            "cf": "",
+            "x": "ocean-going vessels"
+          },
+          {
+            "cf": "",
+            "x": "a small fishing vessel"
+          }
+        ]
+      },
+      {
+        "definition": "a container used for holding liquids, such as a bowl, cup, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a Bronze Age drinking vessel"
+          },
+          {
+            "cf": "",
+            "x": "ancient bronze ritual vessels"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "veteran",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vet/veter/veteran__gb_1.mp3",
+    "phonetic_text": "/ˈvetərən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vet/veter/veteran__us_1.mp3",
+    "phonetic_am_text": "/ˈvetərən/",
+    "senses": [
+      {
+        "definition": "a person who has a lot of experience in a particular area or activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the veteran American actor, Clint Eastwood"
+          }
+        ]
+      },
+      {
+        "definition": "a person who has been a soldier, sailor, etc. in a war",
+        "examples": [
+          {
+            "cf": "",
+            "x": "war veterans"
+          },
+          {
+            "cf": "",
+            "x": "a veteran of the Spanish Civil War"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "via",
+    "pos": "preposition",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/via/via__/via__gb_3.mp3",
+    "phonetic_text": "/ˈvaɪə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/via/via__/via__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈvaɪə/",
+    "senses": [
+      {
+        "definition": "through a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We flew home via Dubai."
+          }
+        ]
+      },
+      {
+        "definition": "by means of a particular person, system, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I heard about the sale via Jane."
+          },
+          {
+            "cf": "",
+            "x": "The news programme came to us via satellite."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "viable",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/via/viabl/viable__gb_1.mp3",
+    "phonetic_text": "/ˈvaɪəbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/via/viabl/viable__us_1.mp3",
+    "phonetic_am_text": "/ˈvaɪəbl/",
+    "senses": [
+      {
+        "definition": "that can be done; that will be successful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a viable option/proposition"
+          },
+          {
+            "cf": "",
+            "x": "There is no viable alternative."
+          },
+          {
+            "cf": "",
+            "x": "to be commercially/politically/financially/economically viable"
+          },
+          {
+            "cf": "",
+            "x": "If there was any delay then the rescue plan would cease to be viable."
+          }
+        ]
+      },
+      {
+        "definition": "capable of developing and surviving independently",
+        "examples": [
+          {
+            "cf": "",
+            "x": "viable organisms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vibrant",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vib/vibra/vibrant__gb_1.mp3",
+    "phonetic_text": "/ˈvaɪbrənt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vib/vibra/vibrant__us_1.mp3",
+    "phonetic_am_text": "/ˈvaɪbrənt/",
+    "senses": [
+      {
+        "definition": "full of life and energy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a vibrant city"
+          },
+          {
+            "cf": "",
+            "x": "Thailand is at its most vibrant during the New Year celebrations."
+          }
+        ]
+      },
+      {
+        "definition": "very bright and strong",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The room was decorated in vibrant reds and yellows."
+          }
+        ]
+      },
+      {
+        "definition": "loud and powerful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "vibrant rhythms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vice",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vic/vice_/vice__gb_1.mp3",
+    "phonetic_text": "/vaɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vic/vice_/vice__us_1.mp3",
+    "phonetic_am_text": "/vaɪs/",
+    "senses": [
+      {
+        "definition": "criminal activities that involve sex or drugs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "At the door were two plain-clothes detectives from the vice squad."
+          },
+          {
+            "cf": "",
+            "x": "The bright 21-year-old turned to a secret life of vice after getting bored with her studies at college."
+          }
+        ]
+      },
+      {
+        "definition": "behaviour that is evil or immoral; a quality in somebody’s character that is evil or immoral",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The film ended most satisfactorily: vice punished and virtue rewarded."
+          },
+          {
+            "cf": "",
+            "x": "Greed is a terrible vice."
+          },
+          {
+            "cf": "",
+            "x": "Chocolate brownies are my only vice."
+          }
+        ]
+      },
+      {
+        "definition": "a tool with two metal blocks that can be moved together by turning a screw. The vice is used to hold an object in place while work is done on it.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He held my arm in a vice-like (= very firm) grip."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vicious",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vic/vicio/vicious__gb_1.mp3",
+    "phonetic_text": "/ˈvɪʃəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vic/vicio/vicious__us_1.mp3",
+    "phonetic_am_text": "/ˈvɪʃəs/",
+    "senses": [
+      {
+        "definition": "violent and cruel",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a vicious attack"
+          },
+          {
+            "cf": "",
+            "x": "a vicious criminal"
+          },
+          {
+            "cf": "",
+            "x": "She has a vicious temper."
+          },
+          {
+            "cf": "",
+            "x": "Police described the robbery as particularly vicious."
+          }
+        ]
+      },
+      {
+        "definition": "aggressive and dangerous",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a vicious dog"
+          }
+        ]
+      },
+      {
+        "definition": "full of hate and anger",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She wrote me a vicious letter."
+          },
+          {
+            "cf": "",
+            "x": "The newspapers launched a vicious attack on him, forcing him to resign."
+          },
+          {
+            "cf": "",
+            "x": "The article was vicious in its criticism of the prime minister."
+          }
+        ]
+      },
+      {
+        "definition": "very bad or severe",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a vicious headache"
+          },
+          {
+            "cf": "",
+            "x": "a vicious spiral of rising prices"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "victim",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vic/victi/victim__gb_1.mp3",
+    "phonetic_text": "/ˈvɪktɪm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vic/victi/victim__us_1.mp3",
+    "phonetic_am_text": "/ˈvɪktɪm/",
+    "senses": [
+      {
+        "definition": "a person who has been attacked, injured or killed as the result of a crime, a disease, an accident, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "shooting/murder victims"
+          },
+          {
+            "cf": "",
+            "x": "flood/crash/accident victims"
+          },
+          {
+            "cf": "",
+            "x": "an innocent/unsuspecting victim"
+          },
+          {
+            "cf": "",
+            "x": "victims of crime/abuse/violence"
+          },
+          {
+            "cf": "",
+            "x": "the alleged victim of a serious assault"
+          },
+          {
+            "cf": "",
+            "x": "Several countries have pledged millions of dollars to help the victims of the tsunami."
+          },
+          {
+            "cf": "",
+            "x": "The team will try to identify potential victims of domestic violence."
+          },
+          {
+            "cf": "",
+            "x": "flood/disaster/earthquake/hurricane victims"
+          },
+          {
+            "cf": "",
+            "x": "cancer/stroke/heart attack victims"
+          },
+          {
+            "cf": "",
+            "x": "families/relatives of the victims"
+          },
+          {
+            "cf": "",
+            "x": "expressions of sympathy for the victims and their families"
+          },
+          {
+            "cf": "",
+            "x": "He made a victim impact statement to the court."
+          }
+        ]
+      },
+      {
+        "definition": "a person who has been tricked",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They were the victims of a cruel hoax."
+          },
+          {
+            "cf": "",
+            "x": "The site offers help and advice for anyone who has been the victim of a scam."
+          }
+        ]
+      },
+      {
+        "definition": "a person or thing that is badly affected by a situation, a decision, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Schools are the latest victims of cuts in public spending."
+          },
+          {
+            "cf": "",
+            "x": "The small company became a victim of its own success when it could not supply all its orders on time."
+          }
+        ]
+      },
+      {
+        "definition": "an animal or a person that is killed and offered as a sacrifice",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a sacrificial victim"
+          }
+        ]
+      },
+      {
+        "definition": "to be injured, cheated, damaged or killed by somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Many plants have fallen victim to the sudden frost."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "victory",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vic/victo/victory__gb_1.mp3",
+    "phonetic_text": "/ˈvɪktəri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vic/victo/victory__us_1.mp3",
+    "phonetic_am_text": "/ˈvɪktəri/",
+    "senses": [
+      {
+        "definition": "success in a game, an election, a war, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to win a narrow victory"
+          },
+          {
+            "cf": "",
+            "x": "The outcome left both sides claiming victory."
+          },
+          {
+            "cf": "",
+            "x": "an election victory"
+          },
+          {
+            "cf": "",
+            "x": "Neither side is strong enough to achieve a military victory."
+          },
+          {
+            "cf": "victory in something",
+            "x": "a decisive/landslide victory in the election"
+          },
+          {
+            "cf": "",
+            "x": "She is confident of victory in Saturday's final."
+          },
+          {
+            "cf": "victory over somebody/something",
+            "x": "The team are celebrating a 3–2 victory over Poland."
+          },
+          {
+            "cf": "victory against somebody/something",
+            "x": "He hopes to lead his side to victory against Australia."
+          },
+          {
+            "cf": "victory for somebody/something",
+            "x": "The case is being seen as a victory for freedom of speech."
+          },
+          {
+            "cf": "",
+            "x": "a victory speech/celebration/parade"
+          }
+        ]
+      },
+      {
+        "definition": "to win something easily",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He swept to victory in the final of the championship."
+          },
+          {
+            "cf": "",
+            "x": "Labour swept to victory in the 1945 election."
+          }
+        ]
+      },
+      {
+        "definition": "to win something even though it seemed up until the last moment that you would lose ",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "video",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vid/video/video__gb_1.mp3",
+    "phonetic_text": "/ˈvɪdiəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vid/video/video__us_1.mp3",
+    "phonetic_am_text": "/ˈvɪdiəʊ/",
+    "senses": [
+      {
+        "definition": "a system of recording moving pictures and sound, either using a digital method of storing data or (in the past) using videotape",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A wedding is the perfect subject for video."
+          },
+          {
+            "cf": "on video",
+            "x": "The robbery was captured on video."
+          },
+          {
+            "cf": "",
+            "x": "Most of the movie was shot on digital video."
+          }
+        ]
+      },
+      {
+        "definition": "a short film or recording of an event, made using digital technology and viewed on a computer, especially over the internet",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The school made a short promotional video."
+          },
+          {
+            "cf": "",
+            "x": "More than a million people have watched a video of the incident."
+          },
+          {
+            "cf": "",
+            "x": "She posted a series of videos on the internet. "
+          },
+          {
+            "cf": "",
+            "x": "Upload your videos and share them with friends and family online."
+          },
+          {
+            "cf": "",
+            "x": "This phone can store up to 20 hours of video."
+          }
+        ]
+      },
+      {
+        "definition": "a short film made by a pop or rock band to be shown with a song when it is played on television or online",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The group's new video will be released next month."
+          },
+          {
+            "cf": "",
+            "x": "The band are in Iceland doing a video shoot."
+          }
+        ]
+      },
+      {
+        "definition": "a type of magnetic tape used in the past for recording moving pictures and sound; a box containing this tape, also called a video cassette",
+        "examples": [
+          {
+            "cf": "on video",
+            "x": "The movie was released on video later that year."
+          }
+        ]
+      },
+      {
+        "definition": "a copy of a film, programme, etc. recorded on videotape",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We used to rent videos nearly every weekend."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of equipment used, especially in the past, to record and play films and TV programmes on video ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I never even learned to programme the video."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "view",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vie/view_/view__gb_3.mp3",
+    "phonetic_text": "/vjuː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vie/view_/view__us_1.mp3",
+    "phonetic_am_text": "/vjuː/",
+    "senses": [
+      {
+        "definition": "what you can see from a particular place or position, especially beautiful countryside",
+        "examples": [
+          {
+            "cf": "view of something",
+            "x": "There were magnificent views of the surrounding countryside."
+          },
+          {
+            "cf": "",
+            "x": "Most rooms enjoy panoramic views of the ocean."
+          },
+          {
+            "cf": "view from something",
+            "x": "The view from the top of the tower was spectacular."
+          },
+          {
+            "cf": "",
+            "x": "a sea/mountain view "
+          },
+          {
+            "cf": "",
+            "x": "I'd like a room with a view."
+          }
+        ]
+      },
+      {
+        "definition": "used when you are talking about whether you can see something or whether something can be seen in a particular situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The lake soon came into view."
+          },
+          {
+            "cf": "",
+            "x": "The sun disappeared from view."
+          },
+          {
+            "cf": "",
+            "x": "Tensions within the band remained hidden from public view."
+          },
+          {
+            "cf": "in view",
+            "x": "There was nobody in view."
+          },
+          {
+            "cf": "out of view",
+            "x": "I hid in the hallway out of view."
+          },
+          {
+            "cf": "",
+            "x": "Sit down—you're blocking my view."
+          },
+          {
+            "cf": "view of something",
+            "x": "I didn't have a good view of the stage."
+          }
+        ]
+      },
+      {
+        "definition": "a personal opinion about something; an attitude towards something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to have strong political views"
+          },
+          {
+            "cf": "view on something",
+            "x": "She and I hold opposing views on the matter. "
+          },
+          {
+            "cf": "",
+            "x": "His views on the subject were well known."
+          },
+          {
+            "cf": "view about something",
+            "x": "The meeting will give people the opportunity to express their views about the issue."
+          },
+          {
+            "cf": "view that…",
+            "x": "We take the view that it would be wrong to interfere."
+          },
+          {
+            "cf": "",
+            "x": "This evidence supports the view that there is too much violence on television."
+          },
+          {
+            "cf": "",
+            "x": "I, on the other hand, take a different view."
+          },
+          {
+            "cf": "",
+            "x": "I am afraid I do not share this view."
+          },
+          {
+            "cf": "",
+            "x": "My own/personal view is that…"
+          },
+          {
+            "cf": "in somebody's view",
+            "x": "In my view it was a waste of time."
+          },
+          {
+            "cf": "",
+            "x": "There was a frank exchange of views (= an angry argument) between Dr Wilson and the other members of the committee."
+          }
+        ]
+      },
+      {
+        "definition": "a way of understanding or thinking about something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He has an optimistic view of life."
+          },
+          {
+            "cf": "",
+            "x": "the Christian view of the world"
+          },
+          {
+            "cf": "",
+            "x": "The book gives readers an inside view of political life."
+          },
+          {
+            "cf": "",
+            "x": "The traditional view was that marriage was meant to last."
+          }
+        ]
+      },
+      {
+        "definition": "an occasion when a video is watched online",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His performance went viral, attracting over 8 million views on YouTube."
+          }
+        ]
+      },
+      {
+        "definition": "a photograph or picture that shows an interesting place or scene",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a book with views of Paris"
+          },
+          {
+            "cf": "",
+            "x": "On his visits he painted views of the town and the surrounding countryside."
+          }
+        ]
+      },
+      {
+        "definition": "a special chance to see or admire something",
+        "examples": []
+      },
+      {
+        "definition": "a view of something from a high position looking down",
+        "examples": [
+          {
+            "cf": "",
+            "x": "From the plane we had a bird's-eye view of Manhattan."
+          }
+        ]
+      },
+      {
+        "definition": "to have a particular aim, plan, etc. in your mind",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He wanted to make money and went abroad with this end in view."
+          }
+        ]
+      },
+      {
+        "definition": "to appear, especially when moving gradually closer from a long way off",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A ship hove into sight."
+          },
+          {
+            "cf": "",
+            "x": "Like a galleon in full sail, Cara hove into view."
+          }
+        ]
+      },
+      {
+        "definition": "that can be seen completely, directly in front of somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was shot in full view of a large crowd."
+          }
+        ]
+      },
+      {
+        "definition": "considering something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In view of the weather, the event will now be held indoors."
+          }
+        ]
+      },
+      {
+        "definition": "being shown in a public place so that people can look at it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The new discoveries will be on view in London in the spring."
+          },
+          {
+            "cf": "",
+            "x": "The carriage was put on view for the public to see."
+          }
+        ]
+      },
+      {
+        "definition": "to think somebody/something is bad; to not have a good opinion of somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She took a dim view of my suggestion."
+          }
+        ]
+      },
+      {
+        "definition": "to consider what is likely to happen or be important over a long period of time rather than only considering the present situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "As pension funds are investing for members’ retirements, they can take the long view."
+          }
+        ]
+      },
+      {
+        "definition": "with the intention or hope of doing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's painting the house with a view to selling it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "view",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vie/view_/view__gb_3.mp3",
+    "phonetic_text": "/vjuː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vie/view_/view__us_1.mp3",
+    "phonetic_am_text": "/vjuː/",
+    "senses": [
+      {
+        "definition": "to think about somebody/something in a particular way",
+        "examples": [
+          {
+            "cf": "view somebody/something + adv./prep.",
+            "x": "How do you view your position within the company?"
+          },
+          {
+            "cf": "",
+            "x": "The plan was not viewed favourably by the public."
+          },
+          {
+            "cf": "view somebody/something as something",
+            "x": "to view something as a threat/an opportunity"
+          },
+          {
+            "cf": "",
+            "x": "He is widely viewed as a possible leader."
+          },
+          {
+            "cf": "",
+            "x": "When the car was first built, the design was viewed as highly original."
+          },
+          {
+            "cf": "view somebody/something with something",
+            "x": "She viewed him with suspicion."
+          },
+          {
+            "cf": "",
+            "x": "You should view their offer with a great deal of caution."
+          }
+        ]
+      },
+      {
+        "definition": "to look at something, especially when you look carefully",
+        "examples": [
+          {
+            "cf": "view something",
+            "x": "People came from all over the world to view her work."
+          },
+          {
+            "cf": "view something through something",
+            "x": "The eclipse should only be viewed through a special lens."
+          },
+          {
+            "cf": "view something from something",
+            "x": "These paintings were meant to be viewed from a distance."
+          },
+          {
+            "cf": "",
+            "x": "A viewing platform gave stunning views over the valley."
+          }
+        ]
+      },
+      {
+        "definition": "to visit a house, etc. before deciding whether to buy or rent it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The property can only be viewed by appointment."
+          }
+        ]
+      },
+      {
+        "definition": "to watch television, a film, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The show has a viewing audience of six million (= six million people watch it)."
+          },
+          {
+            "cf": "",
+            "x": "Saturday's screening will be an opportunity to view the movie before it goes on general release."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "viewer",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vie/viewe/viewer__gb_1.mp3",
+    "phonetic_text": "/ˈvjuːə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vie/viewe/viewer__us_1.mp3",
+    "phonetic_am_text": "/ˈvjuːər/",
+    "senses": [
+      {
+        "definition": "a person watching television or a video on the internet",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The programme attracted millions of viewers."
+          },
+          {
+            "cf": "",
+            "x": "British television viewers saw him this week in a BBC documentary."
+          },
+          {
+            "cf": "",
+            "x": "The average American TV viewer spends five hours a day watching the small screen."
+          },
+          {
+            "cf": "",
+            "x": "an attempt to attract younger viewers"
+          },
+          {
+            "cf": "",
+            "x": "Her performance has grabbed the attention of 100 million YouTube viewers."
+          },
+          {
+            "cf": "viewer of something",
+            "x": "a regular viewer of the show "
+          }
+        ]
+      },
+      {
+        "definition": "a person who looks at or considers something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Some of her art is intended to shock the viewer."
+          },
+          {
+            "cf": "",
+            "x": "Many informed viewers of the current political scene are becoming critical of the government."
+          }
+        ]
+      },
+      {
+        "definition": "a device for looking at slides (= photographs on special film), for example a small box with a light in it",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "viewpoint",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vie/viewp/viewpoint__gb_1.mp3",
+    "phonetic_text": "/ˈvjuːpɔɪnt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vie/viewp/viewpoint__us_1.mp3",
+    "phonetic_am_text": "/ˈvjuːpɔɪnt/",
+    "senses": [
+      {
+        "definition": "a way of thinking about a subject",
+        "examples": [
+          {
+            "cf": "from a… viewpoint",
+            "x": "Try looking at things from a different viewpoint."
+          },
+          {
+            "cf": "",
+            "x": "From a practical viewpoint, I'd advise you not to go."
+          },
+          {
+            "cf": "viewpoint on something",
+            "x": "She will have her own viewpoint on the matter."
+          }
+        ]
+      },
+      {
+        "definition": "a direction or place from which you look at something",
+        "examples": [
+          {
+            "cf": "from a… viewpoint",
+            "x": "The artist has painted the scene from various viewpoints."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "village",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vil/villa/village__gb_1.mp3",
+    "phonetic_text": "/ˈvɪlɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vil/villa/village__us_1.mp3",
+    "phonetic_am_text": "/ˈvɪlɪdʒ/",
+    "senses": [
+      {
+        "definition": "a very small town located in a country area",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We visited towns and villages all over Spain."
+          },
+          {
+            "cf": "",
+            "x": "a meeting in the village hall"
+          },
+          {
+            "cf": "",
+            "x": "a remote/nearby/neighbouring village"
+          },
+          {
+            "cf": "",
+            "x": "Residents of the village are unhappy with the bus service."
+          },
+          {
+            "cf": "",
+            "x": "a fishing village"
+          },
+          {
+            "cf": "",
+            "x": "a small/tiny village"
+          },
+          {
+            "cf": "",
+            "x": "rural villages"
+          },
+          {
+            "cf": "",
+            "x": "a mountain/seaside village"
+          },
+          {
+            "cf": "in a/the village",
+            "x": "I soon got to know everybody in the village."
+          },
+          {
+            "cf": "",
+            "x": "the village of Boscastle in Cornwall"
+          },
+          {
+            "cf": "",
+            "x": "the village shop"
+          },
+          {
+            "cf": "",
+            "x": "Her books are about village life."
+          }
+        ]
+      },
+      {
+        "definition": "the people who live in a village",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The whole village was invited to the party."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "villager",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vil/villa/villager__gb_1.mp3",
+    "phonetic_text": "/ˈvɪlɪdʒə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vil/villa/villager__us_1.mp3",
+    "phonetic_am_text": "/ˈvɪlɪdʒər/",
+    "senses": [
+      {
+        "definition": "a person who lives in a village",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Some of the villagers have lived here all their lives."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "violate",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vio/viola/violate__gb_2.mp3",
+    "phonetic_text": "/ˈvaɪəleɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vio/viola/violate__us_1.mp3",
+    "phonetic_am_text": "/ˈvaɪəleɪt/",
+    "senses": [
+      {
+        "definition": "to go against or refuse to obey a law, an agreement, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to violate international law"
+          }
+        ]
+      },
+      {
+        "definition": "to upset or not respect somebody’s peace, privacy, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She accused the press photographers of violating her privacy."
+          }
+        ]
+      },
+      {
+        "definition": "to damage or destroy a holy or special place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to violate a grave"
+          }
+        ]
+      },
+      {
+        "definition": "to force somebody to have sex",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He had drugged her and then violated her."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "violation",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vio/viola/violation__gb_1.mp3",
+    "phonetic_text": "/ˌvaɪəˈleɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vio/viola/violation__us_1.mp3",
+    "phonetic_am_text": "/ˌvaɪəˈleɪʃn/",
+    "senses": [
+      {
+        "definition": "the act of going against or refusing to obey a law, an agreement, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They were in open violation of the treaty."
+          }
+        ]
+      },
+      {
+        "definition": "the act of not respecting somebody's rights, peace, privacy, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "gross violations of human rights"
+          }
+        ]
+      },
+      {
+        "definition": "the act of damaging or destroying a holy or special place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This was a violation of a sacred space."
+          }
+        ]
+      },
+      {
+        "definition": "the act of forcing somebody to have sex",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "violence",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vio/viole/violence__gb_1.mp3",
+    "phonetic_text": "/ˈvaɪələns/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vio/viole/violence__us_1.mp3",
+    "phonetic_am_text": "/ˈvaɪələns/",
+    "senses": [
+      {
+        "definition": "violent behaviour that is intended to hurt or kill somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Police do not think this killing was a random act of violence."
+          },
+          {
+            "cf": "violence against somebody",
+            "x": "He condemned the protesters' use of violence against the police."
+          },
+          {
+            "cf": "",
+            "x": "domestic violence (= between family members)"
+          },
+          {
+            "cf": "",
+            "x": "These people live under a constant threat of violence."
+          },
+          {
+            "cf": "",
+            "x": "Our organization works with victims of violence."
+          },
+          {
+            "cf": "",
+            "x": "Why do they always have to resort to violence?"
+          },
+          {
+            "cf": "",
+            "x": "Violence broke out inside the prison last night."
+          },
+          {
+            "cf": "",
+            "x": "Violence erupted between police and demonstrators."
+          },
+          {
+            "cf": "",
+            "x": "Is there too much sex and violence on TV?"
+          }
+        ]
+      },
+      {
+        "definition": "physical or emotional force and energy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The violence of her feelings surprised him."
+          },
+          {
+            "cf": "",
+            "x": "the violence of the eruption"
+          },
+          {
+            "cf": "",
+            "x": "He reacted to the idea with some violence."
+          }
+        ]
+      },
+      {
+        "definition": "to damage something or have a bad effect on it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This version of the play does violence to Shakespeare's text."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "violent",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vio/viole/violent__gb_1.mp3",
+    "phonetic_text": "/ˈvaɪələnt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vio/viole/violent__us_1.mp3",
+    "phonetic_am_text": "/ˈvaɪələnt/",
+    "senses": [
+      {
+        "definition": "involving or caused by physical force that is intended to hurt or kill somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "violent crime/criminals"
+          },
+          {
+            "cf": "",
+            "x": "violent protests/attacks/incidents"
+          },
+          {
+            "cf": "",
+            "x": "Students were involved in violent clashes with the police."
+          },
+          {
+            "cf": "",
+            "x": "The crowd suddenly turned violent."
+          },
+          {
+            "cf": "violent towards/to somebody",
+            "x": "Was he ever violent towards you?"
+          },
+          {
+            "cf": "",
+            "x": "violent acts/behaviour"
+          },
+          {
+            "cf": "",
+            "x": "He met with a violent death (= he was murdered, killed in a fight, etc.)."
+          },
+          {
+            "cf": "",
+            "x": "They don't allow their kids to play violent video games (= that show a lot of violence)."
+          },
+          {
+            "cf": "",
+            "x": "Their father was a violent man."
+          }
+        ]
+      },
+      {
+        "definition": "showing or caused by very strong emotion",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Toddlers can be prone to violent outbursts."
+          },
+          {
+            "cf": "",
+            "x": "There was a violent reaction from the public."
+          },
+          {
+            "cf": "",
+            "x": "The whole thing became the subject of violent controversy."
+          }
+        ]
+      },
+      {
+        "definition": "very strong and sudden",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I took a violent dislike to him."
+          },
+          {
+            "cf": "",
+            "x": "a violent storm"
+          },
+          {
+            "cf": "",
+            "x": "a violent explosion"
+          },
+          {
+            "cf": "",
+            "x": "a violent headache"
+          },
+          {
+            "cf": "",
+            "x": "a violent change"
+          }
+        ]
+      },
+      {
+        "definition": "extremely bright",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her dress was a violent pink."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "virtual",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vir/virtu/virtual__gb_1.mp3",
+    "phonetic_text": "/ˈvɜːtʃuəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vir/virtu/virtual__us_1.mp3",
+    "phonetic_am_text": "/ˈvɜːrtʃuəl/",
+    "senses": [
+      {
+        "definition": "made to appear to exist by the use of computer software, for example on the internet",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a system to help programmers create virtual environments "
+          },
+          {
+            "cf": "",
+            "x": "a virtual classroom/desktop/library"
+          },
+          {
+            "cf": "",
+            "x": "You can also take a virtual tour of the museum."
+          },
+          {
+            "cf": "",
+            "x": "Students will have more access to resources and support, both virtual and physical."
+          }
+        ]
+      },
+      {
+        "definition": "almost or very nearly the thing described, so that any slight difference is not important",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The company has a virtual monopoly in this area of trade."
+          },
+          {
+            "cf": "",
+            "x": "The economy has come to a virtual standstill."
+          },
+          {
+            "cf": "",
+            "x": "He married a virtual stranger."
+          },
+          {
+            "cf": "",
+            "x": "The country was sliding into a state of virtual civil war."
+          },
+          {
+            "cf": "",
+            "x": "Analysts said the deal was a virtual certainty."
+          },
+          {
+            "cf": "",
+            "x": "The stunning battle sequences almost make up for the virtual absence of a plot."
+          },
+          {
+            "cf": "",
+            "x": "She was a virtual unknown when he cast her in the film."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "virtue",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vir/virtu/virtue__gb_1.mp3",
+    "phonetic_text": "/ˈvɜːtʃuː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vir/virtu/virtue__us_1.mp3",
+    "phonetic_am_text": "/ˈvɜːrtʃuː/",
+    "senses": [
+      {
+        "definition": "behaviour or attitudes that show high moral standards",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He led a life of virtue."
+          },
+          {
+            "cf": "",
+            "x": "She was certainly no paragon of virtue (= her moral standards were very far from perfect)."
+          }
+        ]
+      },
+      {
+        "definition": "a particular good quality or habit",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Patience is not one of her virtues, I'm afraid."
+          },
+          {
+            "cf": "",
+            "x": "As a politician, he always emphasized the virtues of compromise and conciliation."
+          }
+        ]
+      },
+      {
+        "definition": "an attractive or useful quality",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The plan has the virtue of simplicity."
+          },
+          {
+            "cf": "",
+            "x": "He was extolling the virtues of the internet."
+          },
+          {
+            "cf": "",
+            "x": "They could see no virtue in discussing it further."
+          }
+        ]
+      },
+      {
+        "definition": "by means of or because of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She got the job by virtue of her greater experience."
+          }
+        ]
+      },
+      {
+        "definition": "to manage to present as a good quality something that other people might consider to be bad",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There are artists who make a virtue of repetition."
+          }
+        ]
+      },
+      {
+        "definition": "to manage to gain an advantage from something that you have to do and cannot avoid",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She decided to make a virtue of necessity and combined a business trip to Paris with a visit to her cousins there."
+          }
+        ]
+      },
+      {
+        "definition": "willing to have sex with anyone",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a woman of easy virtue"
+          }
+        ]
+      },
+      {
+        "definition": "the reward for acting in a moral or correct way is the knowledge that you have done so, and you should not expect more than this, for example praise from other people or payment",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "virus",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vir/virus/virus__gb_2.mp3",
+    "phonetic_text": "/ˈvaɪrəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vir/virus/virus__us_1.mp3",
+    "phonetic_am_text": "/ˈvaɪrəs/",
+    "senses": [
+      {
+        "definition": "a living thing, too small to be seen without a microscope, that causes disease in people, animals and plants",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the flu/influenza virus"
+          },
+          {
+            "cf": "",
+            "x": "patients known to have been infected with the virus"
+          },
+          {
+            "cf": "",
+            "x": "the human immunodeficiency virus or HIV"
+          },
+          {
+            "cf": "",
+            "x": "the hepatitis C virus"
+          },
+          {
+            "cf": "",
+            "x": "a highly infectious disease caused by a virus"
+          },
+          {
+            "cf": "",
+            "x": "a virus infection "
+          },
+          {
+            "cf": "",
+            "x": "The vaccination offers good protection against the virus."
+          },
+          {
+            "cf": "",
+            "x": "It is not clear how she contracted the virus."
+          }
+        ]
+      },
+      {
+        "definition": "a disease caused by a virus",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There's a virus going around the office."
+          },
+          {
+            "cf": "",
+            "x": "I must have caught a virus on holiday."
+          }
+        ]
+      },
+      {
+        "definition": "instructions that are hidden within a computer program and are designed to cause faults or destroy data",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a computer virus"
+          },
+          {
+            "cf": "",
+            "x": "I think I've got a virus on my laptop."
+          },
+          {
+            "cf": "",
+            "x": "The virus in the software was programmed to corrupt the hard disk."
+          },
+          {
+            "cf": "",
+            "x": "software errors that can be exploited by virus writers "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "visa",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visa_/visa__gb_1.mp3",
+    "phonetic_text": "/ˈviːzə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visa_/visa__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈviːzə/",
+    "senses": [
+      {
+        "definition": "a stamp or mark put in your passport by officials of a foreign country that gives you permission to enter, pass through or leave their country",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to apply for a visa"
+          },
+          {
+            "cf": "",
+            "x": "an entry/tourist/transit/exit visa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "visible",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visib/visible__gb_3.mp3",
+    "phonetic_text": "/ˈvɪzəbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visib/visible__us_1.mp3",
+    "phonetic_am_text": "/ˈvɪzəbl/",
+    "senses": [
+      {
+        "definition": "that can be seen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The house is clearly visible from the beach."
+          },
+          {
+            "cf": "",
+            "x": "Most stars are not visible to the naked eye."
+          },
+          {
+            "cf": "",
+            "x": "The moon was just visible between the clouds."
+          }
+        ]
+      },
+      {
+        "definition": "that is obvious enough to be noticed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We have not noticed any visible benefits from the new system."
+          },
+          {
+            "cf": "",
+            "x": "A more visible police presence in communities is essential to combat crime."
+          },
+          {
+            "cf": "",
+            "x": "He showed no visible sign of emotion."
+          },
+          {
+            "cf": "",
+            "x": "She made a visible effort to control her anger."
+          },
+          {
+            "cf": "",
+            "x": "After using the cream for a month, I could see no visible difference."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vision",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visio/vision__gb_1.mp3",
+    "phonetic_text": "/ˈvɪʒn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visio/vision__us_1.mp3",
+    "phonetic_am_text": "/ˈvɪʒn/",
+    "senses": [
+      {
+        "definition": "the ability to see; the area that you can see from a particular position",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to have good/perfect/poor/blurred/normal vision"
+          },
+          {
+            "cf": "",
+            "x": "Cats have good night vision."
+          },
+          {
+            "cf": "",
+            "x": "Her vision was still blurry."
+          },
+          {
+            "cf": "",
+            "x": "The disease causes a gradual loss of peripheral vision."
+          },
+          {
+            "cf": "",
+            "x": "He glimpsed something on the edge of his vision."
+          }
+        ]
+      },
+      {
+        "definition": "an idea or a picture in your imagination",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Our job is to guide a client and develop a strategic vision."
+          },
+          {
+            "cf": "vision of somebody/something",
+            "x": "He had a vision of a world in which there would be no wars."
+          },
+          {
+            "cf": "",
+            "x": "The word conjures up visions of home and family."
+          },
+          {
+            "cf": "",
+            "x": "The film's vision of the future is bleak."
+          },
+          {
+            "cf": "vision of doing something",
+            "x": "He harboured visions of becoming party leader some day."
+          },
+          {
+            "cf": "vision of somebody/something doing something",
+            "x": "I had visions of us getting hopelessly lost."
+          },
+          {
+            "cf": "vision for somebody/something",
+            "x": "These two men share a similar vision for the country."
+          },
+          {
+            "cf": "",
+            "x": "He had a very specific vision for the future."
+          }
+        ]
+      },
+      {
+        "definition": "a dream or similar experience, especially of a religious kind",
+        "examples": [
+          {
+            "cf": "in a vision",
+            "x": "The idea came to her in a vision."
+          },
+          {
+            "cf": "",
+            "x": "He had visions regularly."
+          },
+          {
+            "cf": "vision of somebody/something",
+            "x": "She claimed she saw a vision of the Virgin Mary."
+          }
+        ]
+      },
+      {
+        "definition": "the ability to think about or plan the future with great imagination and intelligence",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She had vision and determination."
+          },
+          {
+            "cf": "",
+            "x": "a leader of vision"
+          },
+          {
+            "cf": "",
+            "x": "He's a competent politician, but he lacks vision."
+          }
+        ]
+      },
+      {
+        "definition": "a person of great beauty or who shows the quality mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She was a vision in white lace."
+          },
+          {
+            "cf": "",
+            "x": "a vision of loveliness"
+          }
+        ]
+      },
+      {
+        "definition": "the picture on a television or cinema screen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We apologize for the loss of vision."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "visit",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visit/visit__gb_1.mp3",
+    "phonetic_text": "/ˈvɪzɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visit/visit__us_1.mp3",
+    "phonetic_am_text": "/ˈvɪzɪt/",
+    "senses": [
+      {
+        "definition": "an occasion or a period of time when somebody goes to see a place or person and spends time there",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a two-day/three-day visit"
+          },
+          {
+            "cf": "",
+            "x": "the prime minister's surprise visit to the troops"
+          },
+          {
+            "cf": "",
+            "x": "an official/state visit"
+          },
+          {
+            "cf": "visit to somebody/something",
+            "x": "It's my first visit to New York."
+          },
+          {
+            "cf": "",
+            "x": "If you have time, pay a visit to the local museum."
+          },
+          {
+            "cf": "",
+            "x": "The family made a visit to England in the summer of 1923."
+          },
+          {
+            "cf": "",
+            "x": "a visit to the doctor"
+          },
+          {
+            "cf": "",
+            "x": "His visits home were limited to Christmas."
+          },
+          {
+            "cf": "visit from somebody",
+            "x": "We had a visit from the police last night."
+          },
+          {
+            "cf": "visit by somebody",
+            "x": "Arranegments are being made for a visit by a member of the royal family."
+          },
+          {
+            "cf": "",
+            "x": "a brief/recent visit"
+          },
+          {
+            "cf": "on/during a visit",
+            "x": "The team reported on deficiencies found during the site visit."
+          },
+          {
+            "cf": "",
+            "x": "Regular visits to the dentist are important."
+          },
+          {
+            "cf": "",
+            "x": "Is this a social visit, or is it business?"
+          },
+          {
+            "cf": "",
+            "x": "They're on an exchange visit to France."
+          },
+          {
+            "cf": "",
+            "x": "Following this initial visit, she will return to Montserrat in June."
+          }
+        ]
+      },
+      {
+        "definition": "an occasion when somebody looks at a website on the internet",
+        "examples": [
+          {
+            "cf": "visit to something",
+            "x": "Visits to our website have doubled in a year."
+          },
+          {
+            "cf": "",
+            "x": "The site now gets about 600,000 visits a day."
+          }
+        ]
+      },
+      {
+        "definition": "an occasion when two or more people meet to talk in an informal way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He thought back to his visit with the doctor."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "visit",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visit/visit__gb_1.mp3",
+    "phonetic_text": "/ˈvɪzɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visit/visit__us_1.mp3",
+    "phonetic_am_text": "/ˈvɪzɪt/",
+    "senses": [
+      {
+        "definition": "to go to see a person or a place for a period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My parents are coming to visit me next week."
+          },
+          {
+            "cf": "",
+            "x": "to visit friends/family"
+          },
+          {
+            "cf": "",
+            "x": "It looks like a lovely place to visit."
+          },
+          {
+            "cf": "",
+            "x": "to visit a country/city/town"
+          },
+          {
+            "cf": "",
+            "x": "to visit a museum/shrine"
+          },
+          {
+            "cf": "",
+            "x": "to visit a hospital/an office"
+          },
+          {
+            "cf": "",
+            "x": "to visit a home/house"
+          },
+          {
+            "cf": "",
+            "x": "She went to visit relatives in Wales."
+          },
+          {
+            "cf": "",
+            "x": "The Prime Minister is visiting Japan at the moment."
+          },
+          {
+            "cf": "",
+            "x": "You should visit your dentist at least twice a year."
+          },
+          {
+            "cf": "",
+            "x": "This is an area rarely visited by Europeans."
+          },
+          {
+            "cf": "",
+            "x": "I first visited New York in 1991."
+          },
+          {
+            "cf": "",
+            "x": "He is planning to visit China later this month."
+          },
+          {
+            "cf": "",
+            "x": "The best time to visit is during the winter dry season."
+          }
+        ]
+      },
+      {
+        "definition": "to go to a website on the internet",
+        "examples": [
+          {
+            "cf": "",
+            "x": "For more information, visit our website."
+          },
+          {
+            "cf": "",
+            "x": "to visit a site/page"
+          }
+        ]
+      },
+      {
+        "definition": "to stay somewhere for a short time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We don't live here. We're just visiting."
+          },
+          {
+            "cf": "visit something",
+            "x": "Ships visit the island occasionally."
+          },
+          {
+            "cf": "",
+            "x": "The lake is also visited by seals in the summer."
+          }
+        ]
+      },
+      {
+        "definition": "to make an official visit to somebody, for example to perform checks or give advice",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Government inspectors are visiting schools in the area."
+          },
+          {
+            "cf": "",
+            "x": "Council officers will be visiting premises to inspect safety arrangements."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "visitor",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visit/visitor__gb_1.mp3",
+    "phonetic_text": "/ˈvɪzɪtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visit/visitor__us_1.mp3",
+    "phonetic_am_text": "/ˈvɪzɪtər/",
+    "senses": [
+      {
+        "definition": "a person who visits a person or place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We've got visitors coming this weekend."
+          },
+          {
+            "cf": "",
+            "x": "Do you get many visitors?"
+          },
+          {
+            "cf": "",
+            "x": "The theme park attracts 2.5 million visitors a year."
+          },
+          {
+            "cf": "visitor to something",
+            "x": "She's a frequent visitor to the US."
+          },
+          {
+            "cf": "",
+            "x": "We have been regular visitors to the island for 20 years."
+          },
+          {
+            "cf": "visitor from something",
+            "x": "The festival draws visitors from all over the world."
+          },
+          {
+            "cf": "",
+            "x": "a visitor centre/attraction"
+          }
+        ]
+      },
+      {
+        "definition": "a person who looks at a website on the internet",
+        "examples": [
+          {
+            "cf": "",
+            "x": "How can we attract more visitors to our website?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "visual",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vis/visua/visual__gb_2.mp3",
+    "phonetic_text": "/ˈvɪʒuəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visua/visual__us_1.mp3",
+    "phonetic_am_text": "/ˈvɪʒuəl/",
+    "senses": [
+      {
+        "definition": "of or connected with seeing or sight",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the visual arts"
+          },
+          {
+            "cf": "",
+            "x": "The building makes a tremendous visual impact."
+          },
+          {
+            "cf": "",
+            "x": "dramatic visual effects"
+          },
+          {
+            "cf": "",
+            "x": "visual artists"
+          },
+          {
+            "cf": "",
+            "x": "I have a very good visual memory."
+          },
+          {
+            "cf": "",
+            "x": "A reader creates visual images of the characters in a novel."
+          },
+          {
+            "cf": "",
+            "x": "The photographs she takes are a visual record of her travels."
+          },
+          {
+            "cf": "",
+            "x": "The company relied on simple visual inspections of the tunnels to confirm their safety."
+          },
+          {
+            "cf": "",
+            "x": "A driverless vehicle identifies visual cues on the road, such as other cars or traffic signs."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vital",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vit/vital/vital__gb_1.mp3",
+    "phonetic_text": "/ˈvaɪtl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vit/vital/vital__us_1.mp3",
+    "phonetic_am_text": "/ˈvaɪtl/",
+    "senses": [
+      {
+        "definition": "necessary or essential in order for something to succeed or exist",
+        "examples": [
+          {
+            "cf": "vital for somebody/something",
+            "x": "the vitamins that are vital for health"
+          },
+          {
+            "cf": "",
+            "x": "Patience and a cool head are vital for investors."
+          },
+          {
+            "cf": "vital to something",
+            "x": "Good financial accounts are vital to the success of any enterprise."
+          },
+          {
+            "cf": "",
+            "x": "Reading is of vital importance in language learning."
+          },
+          {
+            "cf": "",
+            "x": "The police play a vital role in our society."
+          },
+          {
+            "cf": "",
+            "x": "Small chemist shops are a vital part of many local communities."
+          },
+          {
+            "cf": "",
+            "x": "'We are prepared to use force to protect our vital interests in the region,' he said"
+          },
+          {
+            "cf": "",
+            "x": "The website provides vital information for tourists."
+          },
+          {
+            "cf": "it is vital that…",
+            "x": "It is vital that you keep accurate records when you are self-employed."
+          },
+          {
+            "cf": "it is vital to do something",
+            "x": "It was vital to show that he was not afraid."
+          },
+          {
+            "cf": "it is vital for somebody/something to do something",
+            "x": "It is absolutely vital for cities to have public green spaces."
+          }
+        ]
+      },
+      {
+        "definition": "connected with or necessary for staying alive",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the vital organs (= the brain, heart, lungs, etc.)"
+          }
+        ]
+      },
+      {
+        "definition": "full of energy and enthusiasm",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "vitamin",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vit/vitam/vitamin__gb_1.mp3",
+    "phonetic_text": "/ˈvɪtəmɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vit/vitam/vitamin__us_1.mp3",
+    "phonetic_am_text": "/ˈvaɪtəmɪn/",
+    "senses": [
+      {
+        "definition": "a natural substance found in food that is an essential part of what humans and animals need to help them grow and stay healthy. There are many different vitamins.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "vitamin A/B/D/E"
+          },
+          {
+            "cf": "",
+            "x": "The plants are an excellent source of vitamins and minerals."
+          },
+          {
+            "cf": "",
+            "x": "vitamin supplements"
+          },
+          {
+            "cf": "",
+            "x": "breakfast cereals enriched with vitamins"
+          },
+          {
+            "cf": "",
+            "x": "She tried changing her diet and taking vitamins."
+          },
+          {
+            "cf": "",
+            "x": "vitamin deficiency"
+          },
+          {
+            "cf": "",
+            "x": "vitamin pills"
+          },
+          {
+            "cf": "",
+            "x": "Many juices are fortified with vitamins."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vocal",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/voc/vocal/vocal__gb_1.mp3",
+    "phonetic_text": "/ˈvəʊkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/voc/vocal/vocal__us_1.mp3",
+    "phonetic_am_text": "/ˈvəʊkl/",
+    "senses": [
+      {
+        "definition": "connected with the voice",
+        "examples": [
+          {
+            "cf": "",
+            "x": "vocal music"
+          },
+          {
+            "cf": "",
+            "x": "the vocal organs (= the tongue, lips, etc.)"
+          }
+        ]
+      },
+      {
+        "definition": "telling people your opinions or protesting about something loudly and with confidence",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He has been very vocal in his criticism of the government's policy."
+          },
+          {
+            "cf": "",
+            "x": "The protesters are a small but vocal minority."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "voice",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/voi/voice/voice__gb_1.mp3",
+    "phonetic_text": "/vɔɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/voi/voice/voice__us_1.mp3",
+    "phonetic_am_text": "/vɔɪs/",
+    "senses": [
+      {
+        "definition": "the sound or sounds produced through the mouth by a person speaking or singing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I could hear voices in the next room."
+          },
+          {
+            "cf": "",
+            "x": "He recognized Sarah's voice."
+          },
+          {
+            "cf": "in a… voice",
+            "x": "to speak in a deep/soft/loud voice"
+          },
+          {
+            "cf": "",
+            "x": "‘I promise,’ she said in a small voice (= a quiet, shy voice)."
+          },
+          {
+            "cf": "in somebody's voice",
+            "x": "There was a note of concern in his voice."
+          },
+          {
+            "cf": "",
+            "x": "He never raised his voice (= spoke loudly in an angry way) to the children."
+          },
+          {
+            "cf": "",
+            "x": "to lower your voice (= to speak more quietly)"
+          },
+          {
+            "cf": "",
+            "x": "Keep your voice down (= speak quietly)."
+          },
+          {
+            "cf": "",
+            "x": "Don't take that tone of voice with me!"
+          },
+          {
+            "cf": "",
+            "x": "The men turned around at the sound of my voice."
+          },
+          {
+            "cf": "",
+            "x": "Her voice shook with emotion."
+          },
+          {
+            "cf": "",
+            "x": "‘There you are,’ said a voice behind me."
+          },
+          {
+            "cf": "",
+            "x": "When did his voice break (= become deep like a man's)?"
+          },
+          {
+            "cf": "",
+            "x": "Her voice sounded familiar."
+          },
+          {
+            "cf": "",
+            "x": "He was suffering from flu and had lost his voice (= could not speak)."
+          },
+          {
+            "cf": "",
+            "x": "She has a good singing voice."
+          },
+          {
+            "cf": "",
+            "x": "She was in good voice (= singing well) at the concert tonight."
+          }
+        ]
+      },
+      {
+        "definition": "having a voice of the type mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "low-voiced"
+          },
+          {
+            "cf": "",
+            "x": "squeaky-voiced"
+          }
+        ]
+      },
+      {
+        "definition": "the right to express your opinion and influence decisions",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Employees should have a voice in the decision-making process."
+          },
+          {
+            "cf": "",
+            "x": "Refugees have been unable to find a voice in politics."
+          }
+        ]
+      },
+      {
+        "definition": "a particular attitude, opinion or feeling that is expressed; a feeling or an opinion that you become aware of inside yourself",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He pledged that his party would listen to the voice of the people."
+          },
+          {
+            "cf": "",
+            "x": "Very few dissenting voices were heard on the right of the party."
+          },
+          {
+            "cf": "",
+            "x": "the voice of reason/sanity/conscience"
+          },
+          {
+            "cf": "",
+            "x": "‘Coward!’ a tiny inner voice insisted."
+          }
+        ]
+      },
+      {
+        "definition": "an organization that expresses the opinion of a particular section of society",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The Royal Society is the voice of the British science establishment."
+          }
+        ]
+      },
+      {
+        "definition": "the form of a verb that shows whether the subject of a sentence performs the action (the active voice) or is affected by it (the passive voice)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Can you turn this sentence into the passive voice?"
+          }
+        ]
+      },
+      {
+        "definition": "sound produced by movement of the vocal cords used in the pronunciation of vowels and some consonants",
+        "examples": []
+      },
+      {
+        "definition": "as loudly as possible",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She was screaming at the top of her voice."
+          },
+          {
+            "cf": "",
+            "x": "I was shouting at the top of my voice but she couldn't hear me."
+          }
+        ]
+      },
+      {
+        "definition": "to be able to speak or express your opinion",
+        "examples": []
+      },
+      {
+        "definition": "to express your feelings, worries, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Many workers at the meeting gave voice to their fears about job security."
+          }
+        ]
+      },
+      {
+        "definition": "to like talking a lot or too much, usually without wanting to listen to other people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She’s much too fond of the sound of her own voice."
+          }
+        ]
+      },
+      {
+        "definition": "to express your feelings, opinions, etc. in a way that makes people notice and consider them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The programme gives ordinary viewers a chance to make their voices heard."
+          },
+          {
+            "cf": "",
+            "x": "a society in which individuals are able to make their voices heard"
+          }
+        ]
+      },
+      {
+        "definition": "the voice of God or your conscience, that tells you to do what is morally right",
+        "examples": []
+      },
+      {
+        "definition": "as a group; with everyone agreeing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The various opposition parties speak with one voice on this issue."
+          },
+          {
+            "cf": "",
+            "x": "The teachers speak with one voice when they demand an end to the cuts."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "volume",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vol/volum/volume__gb_3.mp3",
+    "phonetic_text": "/ˈvɒljuːm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vol/volum/volume__us_2_rr.mp3",
+    "phonetic_am_text": "/ˈvɑːljəm/",
+    "senses": [
+      {
+        "definition": "the amount of space that an object or a substance fills; the amount of space that a container has",
+        "examples": [
+          {
+            "cf": "volume of something",
+            "x": "How do you measure the volume of a gas?"
+          },
+          {
+            "cf": "",
+            "x": "In the experiment, lighted candles were put under jars of different volumes."
+          },
+          {
+            "cf": "",
+            "x": "Patients showed an improvement in lung volume."
+          },
+          {
+            "cf": "",
+            "x": "Wait until the dough doubles in volume before kneading it again."
+          }
+        ]
+      },
+      {
+        "definition": "the amount of something",
+        "examples": [
+          {
+            "cf": "volume of something",
+            "x": "the sheer volume (= large amount) of business"
+          },
+          {
+            "cf": "",
+            "x": "New roads are being built to cope with the increased volume of traffic."
+          },
+          {
+            "cf": "",
+            "x": "Sales volumes fell 0.2% in June."
+          },
+          {
+            "cf": "",
+            "x": "The total volume of exports fell by 14.5 per cent."
+          },
+          {
+            "cf": "",
+            "x": "an attempt to increase the volume of trade"
+          },
+          {
+            "cf": "",
+            "x": "powerful computers that can handle large volumes of data"
+          },
+          {
+            "cf": "",
+            "x": "This work has grown in volume recently."
+          },
+          {
+            "cf": "",
+            "x": "Due to the volume of mail Mary receives, she may not be able to respond to individual inquiries."
+          }
+        ]
+      },
+      {
+        "definition": "the amount of sound that is produced by a television, radio, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to turn the volume up/down"
+          },
+          {
+            "cf": "at a volume",
+            "x": "This music is best played at very high volume."
+          },
+          {
+            "cf": "",
+            "x": "The song has been recorded at a low volume."
+          },
+          {
+            "cf": "",
+            "x": "He adjusted the volume on his phone."
+          }
+        ]
+      },
+      {
+        "definition": "a book that is part of a series of books",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an encyclopedia in 20 volumes"
+          },
+          {
+            "cf": "",
+            "x": "The encyclopedia is a huge work, running to 20 volumes."
+          },
+          {
+            "cf": "",
+            "x": "a companion volume to the one on African wildlife"
+          }
+        ]
+      },
+      {
+        "definition": "a book",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a library of over 50 000 volumes"
+          },
+          {
+            "cf": "",
+            "x": "She published her first book, a slim volume of poetry, at the age of sixteen."
+          }
+        ]
+      },
+      {
+        "definition": "a series of different issues of the same magazine, especially all the issues for one year",
+        "examples": [
+          {
+            "cf": "",
+            "x": "‘New Scientist’ volume 142, number 3"
+          }
+        ]
+      },
+      {
+        "definition": "to tell you a lot about something/somebody, without the need for words",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His achievement speaks volumes for his determination."
+          },
+          {
+            "cf": "",
+            "x": "What you wear speaks volumes about you."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "voluntary",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vol/volun/voluntary__gb_2.mp3",
+    "phonetic_text": "/ˈvɒləntri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vol/volun/voluntary__us_1.mp3",
+    "phonetic_am_text": "/ˈvɑːlənteri/",
+    "senses": [
+      {
+        "definition": "done willingly, not because you are forced",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a voluntary agreement"
+          },
+          {
+            "cf": "",
+            "x": "Attendance on the course is purely voluntary."
+          },
+          {
+            "cf": "",
+            "x": "to pay voluntary contributions into a pension fund"
+          },
+          {
+            "cf": "",
+            "x": "He took voluntary redundancy."
+          }
+        ]
+      },
+      {
+        "definition": "done by people who choose to do it without being paid",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I do some voluntary work at the local hospital."
+          },
+          {
+            "cf": "",
+            "x": "She works there on a voluntary basis."
+          },
+          {
+            "cf": "",
+            "x": "voluntary services/bodies/agencies/organizations (= organized, controlled or supported by people who choose to do this and are usually not paid)"
+          },
+          {
+            "cf": "",
+            "x": "the voluntary sector (= organizations which are set up to help people and that do not make a profit, for example charities)"
+          }
+        ]
+      },
+      {
+        "definition": "doing a job without wanting to be paid for it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The homeless hostel is staffed by voluntary workers."
+          }
+        ]
+      },
+      {
+        "definition": "that you can control",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "volunteer",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vol/volun/volunteer__gb_1.mp3",
+    "phonetic_text": "/ˌvɒlənˈtɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vol/volun/volunteer__us_1.mp3",
+    "phonetic_am_text": "/ˌvɑːlənˈtɪr/",
+    "senses": [
+      {
+        "definition": "a person who does a job without being paid for it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Schools need volunteers to help children to read."
+          },
+          {
+            "cf": "",
+            "x": "She does volunteer work at an orphanage."
+          },
+          {
+            "cf": "volunteer for/with something",
+            "x": "She was a volunteer for the Red Cross before training as a nurse."
+          },
+          {
+            "cf": "",
+            "x": "Volunteers from various organizations are working to save the lives of the earthquake victims."
+          },
+          {
+            "cf": "",
+            "x": "a volunteer firefighter"
+          },
+          {
+            "cf": "",
+            "x": "volunteer helpers/carers"
+          },
+          {
+            "cf": "",
+            "x": "The Centre is run by a group of dedicated volunteers."
+          }
+        ]
+      },
+      {
+        "definition": "a person who offers to do something without being forced to do it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Are there any volunteers to help clear up?"
+          },
+          {
+            "cf": "",
+            "x": "For my next trick, I'll need a volunteer from the audience."
+          },
+          {
+            "cf": "",
+            "x": "The company is looking for volunteers to take part in a trial. "
+          },
+          {
+            "cf": "",
+            "x": "Hundreds of volunteers have come forward to offer their help."
+          }
+        ]
+      },
+      {
+        "definition": "a person who chooses to join the armed forces without being forced to join",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "volunteer",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vol/volun/volunteer__gb_1.mp3",
+    "phonetic_text": "/ˌvɒlənˈtɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vol/volun/volunteer__us_1.mp3",
+    "phonetic_am_text": "/ˌvɑːlənˈtɪr/",
+    "senses": [
+      {
+        "definition": "to offer to do something without being forced to do it or without getting paid for it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He has been volunteering for 11 years now."
+          },
+          {
+            "cf": "volunteer to do something",
+            "x": "Jill volunteered to organize a petition."
+          },
+          {
+            "cf": "",
+            "x": "I volunteered to help clean up the beach."
+          },
+          {
+            "cf": "volunteer for something",
+            "x": "Several staff members volunteered for early retirement."
+          },
+          {
+            "cf": "volunteer as something",
+            "x": "He volunteered as a translator for Spanish-speaking patients."
+          },
+          {
+            "cf": "volunteer something",
+            "x": "Workers volunteer their time, as no funds are available to pay professional staff."
+          },
+          {
+            "cf": "volunteer something as something",
+            "x": "He volunteered his services as a driver."
+          },
+          {
+            "cf": "volunteer something for something",
+            "x": "She has been volunteering her computer skills for the foundation."
+          }
+        ]
+      },
+      {
+        "definition": "to suggest something or tell somebody something without being asked",
+        "examples": [
+          {
+            "cf": "volunteer something",
+            "x": "to volunteer advice"
+          },
+          {
+            "cf": "",
+            "x": "Nobody asked her, and she didn't volunteer any information."
+          },
+          {
+            "cf": "+ speech",
+            "x": "‘I could lend you some books,’ he volunteered."
+          }
+        ]
+      },
+      {
+        "definition": "to join the army, etc. without being forced to",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He wasn't conscripted. He volunteered."
+          },
+          {
+            "cf": "volunteer for something",
+            "x": "to volunteer for military service"
+          },
+          {
+            "cf": "",
+            "x": "I volunteered for service in the Air Force."
+          },
+          {
+            "cf": "volunteer to do something",
+            "x": "More than a hundred thousand Irish men and women volunteered to serve in the British armed forces during World War II."
+          }
+        ]
+      },
+      {
+        "definition": "to suggest somebody for a job or an activity, even though they may not want to do it",
+        "examples": [
+          {
+            "cf": "volunteer somebody (for/as something)",
+            "x": "They volunteered me for the job of interpreter."
+          },
+          {
+            "cf": "volunteer somebody to do something",
+            "x": "Her dad had volunteered her to help put away the equipment."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vote",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vot/vote_/vote__gb_2.mp3",
+    "phonetic_text": "/vəʊt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vot/vote_/vote__us_1.mp3",
+    "phonetic_am_text": "/vəʊt/",
+    "senses": [
+      {
+        "definition": "a formal choice that you make in an election or at a meeting in order to choose somebody or decide something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to win/lose votes"
+          },
+          {
+            "cf": "",
+            "x": "You can cast your vote at the local polling station."
+          },
+          {
+            "cf": "",
+            "x": "He took 53% of the votes in the election."
+          },
+          {
+            "cf": "",
+            "x": "They've started opening the ballot boxes and counting the votes."
+          },
+          {
+            "cf": "",
+            "x": "No candidate gained a majority of the votes in the first round."
+          },
+          {
+            "cf": "",
+            "x": "The Tory candidate received only 4203 votes."
+          },
+          {
+            "cf": "vote for/against somebody/something",
+            "x": "There were 21 votes for and 17 against the motion, with 2 abstentions."
+          },
+          {
+            "cf": "",
+            "x": "The motion was passed by 6 votes to 3."
+          },
+          {
+            "cf": "",
+            "x": "The Green candidate won over 3 000 of the 14 000 votes cast."
+          }
+        ]
+      },
+      {
+        "definition": "an occasion when a group of people vote on something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to win/lose a vote"
+          },
+          {
+            "cf": "vote on something",
+            "x": "to have/take/hold a vote on an issue"
+          },
+          {
+            "cf": "vote in favour of something",
+            "x": "We saw today a decisive vote in favour of (= for) industrial action."
+          },
+          {
+            "cf": "",
+            "x": "The issue was put to the vote."
+          },
+          {
+            "cf": "",
+            "x": "The vote was unanimous."
+          },
+          {
+            "cf": "vote to do something",
+            "x": "He called on the government to delay the vote to authorize military action."
+          },
+          {
+            "cf": "",
+            "x": "Decisions have to be ratified by a majority vote."
+          }
+        ]
+      },
+      {
+        "definition": "the right to vote, especially in political elections",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In Britain and the US, people get the vote at 18."
+          },
+          {
+            "cf": "",
+            "x": "How many years is it since women have had the vote?"
+          },
+          {
+            "cf": "",
+            "x": "legislation to give prisoners the vote"
+          }
+        ]
+      },
+      {
+        "definition": "the total number of votes in an election",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She obtained 40% of the vote."
+          },
+          {
+            "cf": "",
+            "x": "The party increased their share of the vote."
+          }
+        ]
+      },
+      {
+        "definition": "the vote given by a particular group of people, or for a particular party, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the student vote"
+          },
+          {
+            "cf": "",
+            "x": "the Labour vote"
+          },
+          {
+            "cf": "",
+            "x": "the Hispanic/Latino vote"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vote",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vot/vote_/vote__gb_2.mp3",
+    "phonetic_text": "/vəʊt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vot/vote_/vote__us_1.mp3",
+    "phonetic_am_text": "/vəʊt/",
+    "senses": [
+      {
+        "definition": "to show formally by marking a paper, raising your hand, using a voting machine, etc. which person you want to win an election, or which plan or idea you support",
+        "examples": [
+          {
+            "cf": "",
+            "x": "How did you vote at the last election?"
+          },
+          {
+            "cf": "",
+            "x": "Only about half of the electorate bothered to vote."
+          },
+          {
+            "cf": "vote for/against somebody/something",
+            "x": "to vote for a candidate/party/bill"
+          },
+          {
+            "cf": "",
+            "x": "Did you vote for or against her?"
+          },
+          {
+            "cf": "vote in favour of something",
+            "x": "Over 60% of members voted in favour of (= for) the motion."
+          },
+          {
+            "cf": "vote on something",
+            "x": "We'll listen to the arguments on both sides and then vote on it."
+          },
+          {
+            "cf": "",
+            "x": "About 1.8 million people voted in the election."
+          },
+          {
+            "cf": "vote something",
+            "x": "We voted Democrat in the last election."
+          },
+          {
+            "cf": "",
+            "x": "to vote yes/no"
+          },
+          {
+            "cf": "vote to do something",
+            "x": "The board voted unanimously not to file for bankruptcy."
+          },
+          {
+            "cf": "",
+            "x": "The Senate voted overwhelmingly to retain sanctions."
+          },
+          {
+            "cf": "",
+            "x": "Parliament voted to set up an independent inquiry into the matter."
+          },
+          {
+            "cf": "vote that…",
+            "x": "The meeting voted that the town council should reject the scheme."
+          },
+          {
+            "cf": "",
+            "x": "Everyone over 18 has the right to vote."
+          },
+          {
+            "cf": "",
+            "x": "to be registered/eligible to vote"
+          }
+        ]
+      },
+      {
+        "definition": "to choose somebody/something for a position or an award by voting",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was voted most promising new director."
+          },
+          {
+            "cf": "",
+            "x": "The College of Cardinals voted him Pope."
+          },
+          {
+            "cf": "",
+            "x": "The New York Film Critics Circle voted it their Best Picture of the Year."
+          }
+        ]
+      },
+      {
+        "definition": "to say that something is good or bad",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The event was voted a great success."
+          }
+        ]
+      },
+      {
+        "definition": "to agree to give somebody/yourself something by voting",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The directors have just voted themselves a huge pay increase."
+          }
+        ]
+      },
+      {
+        "definition": "to suggest something or support a suggestion that somebody has made",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I vote (that) we go out to eat."
+          }
+        ]
+      },
+      {
+        "definition": "to show what you think about something by going or not going somewhere",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Shoppers voted with their feet and avoided the store."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "voting",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vot/votin/voting__gb_1.mp3",
+    "phonetic_text": "/ˈvəʊtɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vot/votin/voting__us_1.mp3",
+    "phonetic_am_text": "/ˈvəʊtɪŋ/",
+    "senses": [
+      {
+        "definition": "the action of choosing somebody/something in an election or at a meeting",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was eliminated in the first round of voting."
+          },
+          {
+            "cf": "",
+            "x": "Voting will take place on May 1."
+          },
+          {
+            "cf": "",
+            "x": "tactical voting"
+          },
+          {
+            "cf": "",
+            "x": "to be of voting age"
+          },
+          {
+            "cf": "",
+            "x": "She was elected on the second round of voting."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vow",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vow/vow__/vow__gb_1.mp3",
+    "phonetic_text": "/vaʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vow/vow__/vow__us_1.mp3",
+    "phonetic_am_text": "/vaʊ/",
+    "senses": [
+      {
+        "definition": "to make a formal and serious promise to do something or a formal statement that is true",
+        "examples": [
+          {
+            "cf": "vow to do something",
+            "x": "She vowed never to speak to him again."
+          },
+          {
+            "cf": "vow (to somebody) (that)…",
+            "x": "He vowed (that) he had not hurt her."
+          },
+          {
+            "cf": "vow something",
+            "x": "They vowed eternal friendship."
+          },
+          {
+            "cf": "+ speech",
+            "x": "‘I'll be back,’ she vowed."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vulnerability",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vul/vulne/vulnerability__gb_1.mp3",
+    "phonetic_text": "/ˌvʌlnərəˈbɪləti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vul/vulne/vulnerability__us_1.mp3",
+    "phonetic_am_text": "/ˌvʌlnərəˈbɪləti/",
+    "senses": [
+      {
+        "definition": "the fact of being weak and easily hurt physically or emotionally",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the vulnerability of newborn babies to disease"
+          },
+          {
+            "cf": "",
+            "x": "financial vulnerability"
+          },
+          {
+            "cf": "",
+            "x": "He was intensely aware of his own vulnerability."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vulnerable",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vul/vulne/vulnerable__gb_1.mp3",
+    "phonetic_text": "/ˈvʌlnərəbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vul/vulne/vulnerable__us_1.mp3",
+    "phonetic_am_text": "/ˈvʌlnərəbl/",
+    "senses": [
+      {
+        "definition": "weak and easily hurt physically or emotionally",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These offices are highly vulnerable to terrorist attack."
+          },
+          {
+            "cf": "",
+            "x": "Old people are particularly vulnerable to the flu."
+          },
+          {
+            "cf": "",
+            "x": "She looked very vulnerable standing there on her own."
+          },
+          {
+            "cf": "",
+            "x": "In cases of food poisoning, young children are especially vulnerable."
+          },
+          {
+            "cf": "",
+            "x": "The sudden resignation of the financial director put the company in a very vulnerable position."
+          },
+          {
+            "cf": "",
+            "x": "We should protect the most vulnerable members of our society."
+          },
+          {
+            "cf": "",
+            "x": "Animals are at their most vulnerable when searching for food for their young."
+          }
+        ]
+      }
+    ]
+  }
+]

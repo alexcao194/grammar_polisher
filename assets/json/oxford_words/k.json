@@ -1,0 +1,3546 @@
+[
+  {
+    "word": "keen",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kee/keen_/keen__gb_1.mp3",
+    "phonetic_text": "/kiːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kee/keen_/keen__us_1.mp3",
+    "phonetic_am_text": "/kiːn/",
+    "senses": [
+      {
+        "definition": "wanting to do something or wanting something to happen very much",
+        "examples": [
+          {
+            "cf": "keen to do something",
+            "x": "John was very keen to help."
+          },
+          {
+            "cf": "keen for somebody/something to do something",
+            "x": "Her parents were keen for her to go to university."
+          },
+          {
+            "cf": "",
+            "x": "He is keen for the deal to proceed."
+          },
+          {
+            "cf": "keen that…",
+            "x": "We are keen that our school should get involved too."
+          },
+          {
+            "cf": "keen on doing something",
+            "x": "I wasn't too keen on going to the party."
+          }
+        ]
+      },
+      {
+        "definition": "enthusiastic about an activity or idea, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a keen sportsman/gardener"
+          },
+          {
+            "cf": "",
+            "x": "one of the keenest supporters of the team"
+          },
+          {
+            "cf": "",
+            "x": "She was a star pupil—keen, confident and bright."
+          }
+        ]
+      },
+      {
+        "definition": "liking somebody/something very much; very interested in somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They've been on a few dates together and Naomi seems really keen."
+          },
+          {
+            "cf": "keen on somebody/something",
+            "x": "Tom's very keen on Anna."
+          },
+          {
+            "cf": "",
+            "x": "He's particularly keen on football."
+          },
+          {
+            "cf": "",
+            "x": "Sally's quite keen on the idea."
+          },
+          {
+            "cf": "keen on doing something",
+            "x": "She's not keen on being told what to do."
+          }
+        ]
+      },
+      {
+        "definition": "quick to understand",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a keen mind/intellect"
+          }
+        ]
+      },
+      {
+        "definition": "strong or deep",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a keen sense of tradition"
+          },
+          {
+            "cf": "",
+            "x": "He took a keen interest in his grandson's education."
+          }
+        ]
+      },
+      {
+        "definition": "highly developed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Dogs have a keen sense of smell."
+          },
+          {
+            "cf": "",
+            "x": "My friend has a keen eye for (= is good at noticing) a bargain."
+          }
+        ]
+      },
+      {
+        "definition": "involving people competing very hard with each other for something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There is keen competition for places at the college."
+          },
+          {
+            "cf": "",
+            "x": "They were keen rivals."
+          },
+          {
+            "cf": "",
+            "x": "It was the subject of keen debate."
+          }
+        ]
+      },
+      {
+        "definition": "kept low in order to compete with other prices",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The company hopes its keen pricing policy will increase sales."
+          }
+        ]
+      },
+      {
+        "definition": "extremely cold",
+        "examples": []
+      },
+      {
+        "definition": "having a sharp edge or point",
+        "examples": []
+      },
+      {
+        "definition": "wanting very much to do well at something; enthusiastic",
+        "examples": []
+      },
+      {
+        "definition": "liking something/somebody very much; very interested in something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's mad keen on planes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "keep",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kee/keep_/keep__gb_1.mp3",
+    "phonetic_text": "/kiːp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kee/keep_/keep__us_1.mp3",
+    "phonetic_am_text": "/kiːp/",
+    "senses": [
+      {
+        "definition": "to continue to have something and not give it back or throw it away",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He kept all her letters."
+          },
+          {
+            "cf": "",
+            "x": "She handed the waiter a hundred dollar bill and told him to keep the change."
+          },
+          {
+            "cf": "",
+            "x": "Always keep a backup of the file."
+          }
+        ]
+      },
+      {
+        "definition": "to put or store something in a particular place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Keep your passport in a safe place."
+          }
+        ]
+      },
+      {
+        "definition": "to save something for somebody",
+        "examples": [
+          {
+            "cf": "keep something for somebody",
+            "x": "Please keep a seat for me."
+          },
+          {
+            "cf": "",
+            "x": "The man in the shop said he'd keep it for me until Friday."
+          },
+          {
+            "cf": "keep somebody something",
+            "x": "Please keep me a seat."
+          }
+        ]
+      },
+      {
+        "definition": "to stay in a particular condition or position; to make somebody/something do this",
+        "examples": [
+          {
+            "cf": "keep + adj.",
+            "x": "We huddled together to keep warm."
+          },
+          {
+            "cf": "",
+            "x": "I could not keep silent any longer."
+          },
+          {
+            "cf": "keep + adv./prep.",
+            "x": "The notice said ‘Keep off (= Do not walk on) the grass’."
+          },
+          {
+            "cf": "",
+            "x": "Keep left along the wall."
+          },
+          {
+            "cf": "keep somebody/something + adj.",
+            "x": "The doctors worked miracles to keep him alive."
+          },
+          {
+            "cf": "",
+            "x": "Winning the contract means they can now keep the factory open."
+          },
+          {
+            "cf": "",
+            "x": "She kept the children amused for hours."
+          },
+          {
+            "cf": "",
+            "x": "Keep your PIN safe."
+          },
+          {
+            "cf": "keep somebody/something + adv./prep.",
+            "x": "He kept his coat on."
+          },
+          {
+            "cf": "",
+            "x": "Don't keep us in suspense—what happened next?"
+          },
+          {
+            "cf": "keep something",
+            "x": "She had trouble keeping her balance."
+          },
+          {
+            "cf": "keep somebody/something doing something",
+            "x": "I'm very sorry to keep you waiting."
+          }
+        ]
+      },
+      {
+        "definition": "to continue doing something; to do something repeatedly",
+        "examples": [
+          {
+            "cf": "keep doing something",
+            "x": "Keep smiling!"
+          },
+          {
+            "cf": "",
+            "x": "Why does everyone keep saying that?"
+          },
+          {
+            "cf": "",
+            "x": "Things just keep getting worse."
+          },
+          {
+            "cf": "keep on doing something",
+            "x": "Don't keep on interrupting me!"
+          }
+        ]
+      },
+      {
+        "definition": "to know something and not tell it to anyone",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Can you keep a secret?"
+          },
+          {
+            "cf": "",
+            "x": "She kept her past secret from us all."
+          }
+        ]
+      },
+      {
+        "definition": "to do what you have promised to do; to go where you have agreed to go",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She kept her promise to visit them."
+          },
+          {
+            "cf": "",
+            "x": "Mary kept her word and Henry was never informed."
+          },
+          {
+            "cf": "",
+            "x": "He failed to keep his appointment at the clinic."
+          }
+        ]
+      },
+      {
+        "definition": "to write down something as a record",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She kept a diary for over twenty years."
+          },
+          {
+            "cf": "",
+            "x": "We keep a record of all complaints that we receive."
+          },
+          {
+            "cf": "",
+            "x": "Keep a note of where each item can be found."
+          },
+          {
+            "cf": "",
+            "x": "I kept a weekly account of my workload and activities."
+          }
+        ]
+      },
+      {
+        "definition": "to own and care for animals",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to keep bees/goats/hens"
+          },
+          {
+            "cf": "",
+            "x": "My grandmother kept chickens in her back yard."
+          },
+          {
+            "cf": "",
+            "x": "Residents are not allowed to keep pets."
+          }
+        ]
+      },
+      {
+        "definition": "to own and manage a shop or restaurant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her father kept a grocer's shop."
+          }
+        ]
+      },
+      {
+        "definition": "to provide what is necessary for somebody to live; to support somebody by paying for food, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He scarcely earns enough to keep himself and his family."
+          }
+        ]
+      },
+      {
+        "definition": "to delay somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You're an hour late—what kept you?"
+          },
+          {
+            "cf": "",
+            "x": "I won't keep you long. I've just got a couple of quick questions."
+          }
+        ]
+      },
+      {
+        "definition": "used to ask or talk about somebody’s health",
+        "examples": [
+          {
+            "cf": "",
+            "x": "How is your mother keeping?"
+          },
+          {
+            "cf": "",
+            "x": "We're all keeping well."
+          }
+        ]
+      },
+      {
+        "definition": "to remain in good condition",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Finish off the pie—it won't keep."
+          },
+          {
+            "cf": "",
+            "x": "Milk and cream should keep quite well in a fridge."
+          },
+          {
+            "cf": "",
+            "x": "‘I'd love to hear about it, but I'm late already.’ ‘That's OK—it'll keep (= I can tell you about it later).’"
+          }
+        ]
+      },
+      {
+        "definition": "to protect somebody from something",
+        "examples": [
+          {
+            "cf": "keep somebody",
+            "x": "May the Lord bless you and keep you (= used in prayers in the Christian Church)."
+          },
+          {
+            "cf": "keep somebody from something",
+            "x": "His only thought was to keep the boy from harm."
+          }
+        ]
+      },
+      {
+        "definition": "to guard or protect the goal or wicket",
+        "examples": []
+      },
+      {
+        "definition": "to make an effort to live normally when you are in a difficult situation or when you have experienced great pain and difficulty",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You just have to keep yourself busy and keep going."
+          }
+        ]
+      },
+      {
+        "definition": "used to encourage somebody to continue doing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Keep going, Sarah—you're nearly there."
+          }
+        ]
+      },
+      {
+        "definition": "to be enough for somebody until they get what they are waiting for",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Have an apple to keep you going till dinner time."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "key",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/key/key__/key__gb_3.mp3",
+    "phonetic_text": "/kiː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/key/key__/key__us_1.mp3",
+    "phonetic_am_text": "/kiː/",
+    "senses": [
+      {
+        "definition": "most important; essential",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the key issue/factor/point"
+          },
+          {
+            "cf": "",
+            "x": "a key element/component/part/feature"
+          },
+          {
+            "cf": "",
+            "x": "He was a key figure in the campaign."
+          },
+          {
+            "cf": "",
+            "x": "Both are key players in the peace process."
+          },
+          {
+            "cf": "",
+            "x": "She played a key role in the dispute."
+          },
+          {
+            "cf": "",
+            "x": "‘Caution’ is the key word in this situation."
+          },
+          {
+            "cf": "",
+            "x": "His contribution could be key."
+          },
+          {
+            "cf": "key to something",
+            "x": "Good communication is key to our success."
+          },
+          {
+            "cf": "key to doing something",
+            "x": "Better training for our staff has been key to improving the service."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "key",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/key/key__/key__gb_3.mp3",
+    "phonetic_text": "/kiː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/key/key__/key__us_1.mp3",
+    "phonetic_am_text": "/kiː/",
+    "senses": [
+      {
+        "definition": "a piece of metal with a special shape used for locking a door, starting a car, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to put/turn the key in the lock"
+          },
+          {
+            "cf": "",
+            "x": "He inserted the key in the lock and let himself into the house."
+          },
+          {
+            "cf": "",
+            "x": "the car keys"
+          },
+          {
+            "cf": "",
+            "x": "a set/bunch of keys"
+          },
+          {
+            "cf": "key to something",
+            "x": "the spare key to the front door"
+          },
+          {
+            "cf": "",
+            "x": "We'll have a duplicate key cut (= made)."
+          },
+          {
+            "cf": "key for something",
+            "x": "Luckily Dad has keys for my house."
+          },
+          {
+            "cf": "key for doing something",
+            "x": "There's a special key for winding up this clock."
+          }
+        ]
+      },
+      {
+        "definition": "a thing that makes you able to understand or achieve something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Persistence is the key if you want to get a job."
+          },
+          {
+            "cf": "key to something",
+            "x": "The key to success is preparation."
+          },
+          {
+            "cf": "",
+            "x": "First-time voters could hold the key to the election result."
+          },
+          {
+            "cf": "key to doing something",
+            "x": "The driver of the car probably holds the key to solving the crime."
+          },
+          {
+            "cf": "",
+            "x": "Language is the key to understanding those around you."
+          },
+          {
+            "cf": "",
+            "x": "The key is, how long can the federal government control the inflation rate?"
+          }
+        ]
+      },
+      {
+        "definition": "any of the buttons that you press to operate a computer, phone or typewriter",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Press the return key to enter the information."
+          },
+          {
+            "cf": "",
+            "x": "You can use the arrow keys on the keyboard instead."
+          },
+          {
+            "cf": "",
+            "x": "He began tapping on the keys of his laptop."
+          }
+        ]
+      },
+      {
+        "definition": "any of the wooden or metal parts that you press to play a piano and some other musical instruments",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His hands flew over the piano keys."
+          }
+        ]
+      },
+      {
+        "definition": "a set of related notes, based on a particular note. Pieces of music are usually written mainly using a particular key.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a sonata in the key of E flat major"
+          },
+          {
+            "cf": "",
+            "x": "This piece changes key many times."
+          }
+        ]
+      },
+      {
+        "definition": "a set of answers to exercises or problems",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Check your answers in the key at the back of the book."
+          }
+        ]
+      },
+      {
+        "definition": "an explanation of the symbols used on a map or plan",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You can find the symbols in the key at the bottom of the page."
+          }
+        ]
+      },
+      {
+        "definition": "locked up safely somewhere; in prison",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We keep our valuables under lock and key."
+          },
+          {
+            "cf": "",
+            "x": "I will not rest until the murderer is under lock and key."
+          },
+          {
+            "cf": "",
+            "x": "Prisoners are kept under lock and key 24 hours a day."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "key",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/key/key__/key__gb_3.mp3",
+    "phonetic_text": "/kiː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/key/key__/key__us_1.mp3",
+    "phonetic_am_text": "/kiː/",
+    "senses": [
+      {
+        "definition": "to put information into a computer using a keyboard",
+        "examples": [
+          {
+            "cf": "key something",
+            "x": "I was busy keying data."
+          },
+          {
+            "cf": "key something in",
+            "x": "Key in your password."
+          },
+          {
+            "cf": "key something into something",
+            "x": "The information is then keyed into a computer."
+          }
+        ]
+      },
+      {
+        "definition": "to deliberately damage a car by scratching it with a key",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "keyboard",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/key/keybo/keyboard__gb_2.mp3",
+    "phonetic_text": "/ˈkiːbɔːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/key/keybo/keyboard__us_2.mp3",
+    "phonetic_am_text": "/ˈkiːbɔːrd/",
+    "senses": [
+      {
+        "definition": "the set of keys for operating a computer or typewriter, or the set of letters that you can touch to write on a smartphone or tablet ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The program locks the keyboard until a password is given."
+          },
+          {
+            "cf": "",
+            "x": "keyboard shortcuts"
+          }
+        ]
+      },
+      {
+        "definition": "the set of black and white keys on a piano or other musical instrument",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a piano keyboard"
+          }
+        ]
+      },
+      {
+        "definition": "an electronic musical instrument that has keys like a piano and can be made to play in different styles or to sound like different instruments",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She plays keyboard and guitar."
+          },
+          {
+            "cf": "on (a) keyboard",
+            "x": "He played the song on his keyboard."
+          },
+          {
+            "cf": "",
+            "x": "The recording features Herbie Hancock on keyboard."
+          },
+          {
+            "cf": "at a keyboard",
+            "x": "She sat down at the keyboard and started to play."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kick",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kic/kick_/kick__gb_3.mp3",
+    "phonetic_text": "/kɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kic/kick_/kick__us_1.mp3",
+    "phonetic_am_text": "/kɪk/",
+    "senses": [
+      {
+        "definition": "a movement with the foot or the leg, usually to hit something with the foot",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the first kick of the game"
+          },
+          {
+            "cf": "",
+            "x": "He barely got a kick of the ball the whole match."
+          },
+          {
+            "cf": "",
+            "x": "She gave him a kick on the shin."
+          },
+          {
+            "cf": "",
+            "x": "If the door won't open, give it a kick."
+          },
+          {
+            "cf": "",
+            "x": "He aimed a kick at the dog."
+          }
+        ]
+      },
+      {
+        "definition": "a strong feeling of excitement and pleasure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I get a kick out of driving fast cars."
+          },
+          {
+            "cf": "",
+            "x": "He gets his kicks from hurting other people."
+          },
+          {
+            "cf": "for kicks ",
+            "x": "What do you do for kicks?"
+          }
+        ]
+      },
+      {
+        "definition": "the strong effect that a drug or an alcoholic drink has",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This drink has quite a kick."
+          }
+        ]
+      },
+      {
+        "definition": "a soft shoe that you wear for sports or as informal clothing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The actor wore denim, a simple tee and a nice pair of kicks."
+          }
+        ]
+      },
+      {
+        "definition": "if you think somebody needs a kick in the pants or a kick up the backside you think they need to be strongly encouraged to do something or behave better",
+        "examples": []
+      },
+      {
+        "definition": "something that hurts somebody/something emotionally; a great disappointment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The job losses are a kick in the teeth for the union."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kick",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kic/kick_/kick__gb_3.mp3",
+    "phonetic_text": "/kɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kic/kick_/kick__us_1.mp3",
+    "phonetic_am_text": "/kɪk/",
+    "senses": [
+      {
+        "definition": "to hit somebody/something with your foot",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Stop kicking—it hurts!"
+          },
+          {
+            "cf": "kick somebody/something",
+            "x": "She was punched and kicked by her attackers."
+          },
+          {
+            "cf": "kick somebody/something + adv./prep./adj.",
+            "x": "The boys were kicking a ball around in the yard."
+          },
+          {
+            "cf": "",
+            "x": "Vandals had kicked the door down."
+          },
+          {
+            "cf": "",
+            "x": "She had to kick the door open because her hands were full."
+          },
+          {
+            "cf": "kick + adv./prep.",
+            "x": "She kicked at the loose pebbles by the roadside."
+          }
+        ]
+      },
+      {
+        "definition": "to move your legs as if you were kicking something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The child was dragged away, kicking and screaming."
+          },
+          {
+            "cf": "kick something",
+            "x": "The dancers kicked their legs in the air."
+          }
+        ]
+      },
+      {
+        "definition": "to be annoyed with yourself because you have done something stupid, missed an opportunity, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He'll kick himself when he finds out he could have had the job."
+          }
+        ]
+      },
+      {
+        "definition": "to score points by kicking the ball",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to kick a penalty/goal"
+          },
+          {
+            "cf": "",
+            "x": "He kicked 23 points, ensuring victory for New Zealand."
+          }
+        ]
+      },
+      {
+        "definition": "to stop doing something harmful that you have done for a long time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He had been smoking for 15 years and wanted to kick the habit."
+          },
+          {
+            "cf": "",
+            "x": "to kick drugs/the booze"
+          }
+        ]
+      },
+      {
+        "definition": "very active, healthy or popular",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My mother is still alive and kicking."
+          }
+        ]
+      },
+      {
+        "definition": "to hit somebody/something very hard",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was a dirty player and loved to kick hell out of the opposition."
+          }
+        ]
+      },
+      {
+        "definition": "to act in a way that is aggressive or full of energy",
+        "examples": []
+      },
+      {
+        "definition": "to succeed or win in an impressive way",
+        "examples": []
+      },
+      {
+        "definition": "to punish or defeat somebody",
+        "examples": []
+      },
+      {
+        "definition": "to die",
+        "examples": []
+      },
+      {
+        "definition": "to delay dealing with a problem",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This is another attempt to kick the can down the road and leave it to the next generation."
+          }
+        ]
+      },
+      {
+        "definition": "to have nothing to do while you are waiting for somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We were kicking our heels, waiting for some customers."
+          }
+        ]
+      },
+      {
+        "definition": "if you drag somebody kicking and screaming to do something, they only do it with great protests because they don't really want to do it at all",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The president had to be dragged kicking and screaming to the signing ceremony."
+          }
+        ]
+      },
+      {
+        "definition": "to treat somebody badly or fail to give them help when they need it",
+        "examples": []
+      },
+      {
+        "definition": "to reject something or treat it as not important; to stop dealing with a problem",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He tends to deal with disputes by kicking them into the long grass."
+          }
+        ]
+      },
+      {
+        "definition": "to start to behave badly and refuse to accept any discipline or control",
+        "examples": []
+      },
+      {
+        "definition": "to test the quality of something to see whether it is suitable for you before you buy it",
+        "examples": []
+      },
+      {
+        "definition": "to complain loudly about something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They’ll usually give you your money back if you threaten to kick up a stink."
+          }
+        ]
+      },
+      {
+        "definition": "to be relaxed and enjoy yourself",
+        "examples": []
+      },
+      {
+        "definition": "to move somebody to a job that seems to be more important but that actually has less power or influence",
+        "examples": []
+      },
+      {
+        "definition": "to continue to hurt somebody when they are already defeated, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "kid",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kid/kid__/kid__gb_2.mp3",
+    "phonetic_text": "/kɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kid/kid__/kid__us_1.mp3",
+    "phonetic_am_text": "/kɪd/",
+    "senses": [
+      {
+        "definition": "a child or young person",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Do you have any kids?"
+          },
+          {
+            "cf": "",
+            "x": "How are the kids (= your children)?"
+          },
+          {
+            "cf": "",
+            "x": "A bunch of kids were hanging around outside."
+          },
+          {
+            "cf": "",
+            "x": "a gang/group of kids"
+          },
+          {
+            "cf": "",
+            "x": "college/school kids"
+          },
+          {
+            "cf": "",
+            "x": "street kids who rely on their ingenuity to keep alive"
+          },
+          {
+            "cf": "",
+            "x": "You're acting like a little kid!"
+          },
+          {
+            "cf": "as a kid",
+            "x": "I remember reading with my grandmother as a young kid of 6."
+          },
+          {
+            "cf": "",
+            "x": "I'm looking forward to getting home to the wife and kids."
+          },
+          {
+            "cf": "",
+            "x": "Here are some fun ways to teach your kids about healthy eating."
+          },
+          {
+            "cf": "",
+            "x": "The kids love playing outside in the mud."
+          },
+          {
+            "cf": "",
+            "x": "The game is aimed at kids of all ages."
+          }
+        ]
+      },
+      {
+        "definition": "a young goat",
+        "examples": []
+      },
+      {
+        "definition": "soft leather made from the skin of a young goat",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pair of white kid gloves"
+          }
+        ]
+      },
+      {
+        "definition": "to deal with somebody in a very careful way so that you do not offend or upset them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Treat her with kid gloves—she's very sensitive."
+          }
+        ]
+      },
+      {
+        "definition": "something that is so easy to do or understand that it is thought to be not very serious or only suitable for children",
+        "examples": [
+          {
+            "cf": "",
+            "x": "That was kids' stuff compared with what lies ahead."
+          },
+          {
+            "cf": "",
+            "x": "The movie is pure kids' stuff from beginning to end."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is new to a place, an organization, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Despite his six years in politics, he was still regarded by many as the new kid on the block."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kidnap",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kid/kidna/kidnap__gb_2.mp3",
+    "phonetic_text": "/ˈkɪdnæp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kid/kidna/kidnap__us_1.mp3",
+    "phonetic_am_text": "/ˈkɪdnæp/",
+    "senses": [
+      {
+        "definition": "to take somebody away illegally and keep them as a prisoner, especially in order to get money or something else for returning them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Two businessmen have been kidnapped by terrorists."
+          },
+          {
+            "cf": "",
+            "x": "The terrorists were planning to kidnap one of the president’s sons."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kidney",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kid/kidne/kidney__gb_2.mp3",
+    "phonetic_text": "/ˈkɪdni/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kid/kidne/kidney__us_1.mp3",
+    "phonetic_am_text": "/ˈkɪdni/",
+    "senses": [
+      {
+        "definition": "either of the two organs in the body that remove waste products from the blood and produce urine",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a kidney infection"
+          }
+        ]
+      },
+      {
+        "definition": "the kidneys of some animals that are cooked and eaten",
+        "examples": [
+          {
+            "cf": "",
+            "x": "steak and kidney pie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kill",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kil/kill_/kill__gb_2.mp3",
+    "phonetic_text": "/kɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kil/kill_/kill__us_1.mp3",
+    "phonetic_am_text": "/kɪl/",
+    "senses": [
+      {
+        "definition": "to make somebody/something die",
+        "examples": [
+          {
+            "cf": "kill (somebody/something)",
+            "x": "Cancer kills thousands of people every year."
+          },
+          {
+            "cf": "",
+            "x": "Tiredness while driving can kill."
+          },
+          {
+            "cf": "",
+            "x": "Dozens of civilians were killed or injured in the attack."
+          },
+          {
+            "cf": "",
+            "x": "She was nearly killed by a car bomb."
+          },
+          {
+            "cf": "",
+            "x": "Both members of the crew were killed instantly when the missile hit their aircraft."
+          },
+          {
+            "cf": "",
+            "x": "Three soldiers were killed in action (= while fighting) yesterday."
+          },
+          {
+            "cf": "",
+            "x": "She tried to kill me!"
+          },
+          {
+            "cf": "",
+            "x": "The terrorists threatened to kill the hostages."
+          },
+          {
+            "cf": "",
+            "x": "I bought a spray to kill the weeds."
+          },
+          {
+            "cf": "",
+            "x": "My mother will kill me (= be very angry with me) when she finds out."
+          },
+          {
+            "cf": "kill yourself",
+            "x": "He tried to kill himself with sleeping pills."
+          },
+          {
+            "cf": "kill yourself doing something",
+            "x": "Don't kill yourself trying to get the work done by tomorrow. It can wait."
+          }
+        ]
+      },
+      {
+        "definition": "to destroy something or make it less good; to make something stop",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to kill a rumour"
+          },
+          {
+            "cf": "",
+            "x": "She claims that social media kills relationships."
+          },
+          {
+            "cf": "",
+            "x": "The defeat last night killed the team's chances of qualifying."
+          }
+        ]
+      },
+      {
+        "definition": "to switch off a light or engine; to stop a computer program or process",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She killed the engine and climbed out."
+          },
+          {
+            "cf": "",
+            "x": "The only way to kill the process is to reboot the computer."
+          }
+        ]
+      },
+      {
+        "definition": "to cause somebody pain",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My feet are killing me."
+          }
+        ]
+      },
+      {
+        "definition": "to make somebody laugh a lot",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Stop it! You're killing me!"
+          }
+        ]
+      },
+      {
+        "definition": "used to tell somebody not to ask questions or try to find out about things that do not involve them",
+        "examples": []
+      },
+      {
+        "definition": "wearing the kind of clothes that will make people notice and admire you",
+        "examples": []
+      },
+      {
+        "definition": "to have nothing to do or not be busy",
+        "examples": []
+      },
+      {
+        "definition": "used to describe the very angry or unpleasant way somebody is/was looking at you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "If looks could kill, she thought, seeing the expression that came over his face when he saw her, she’d be dead on the pavement."
+          },
+          {
+            "cf": "",
+            "x": "I don’t know what I’ve done to upset him, but if looks could kill…"
+          }
+        ]
+      },
+      {
+        "definition": "to destroy something that would make you rich, successful, etc.",
+        "examples": []
+      },
+      {
+        "definition": "to do something really well",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She always kills it on stage."
+          },
+          {
+            "cf": "",
+            "x": "The team has been killing it on the pitch this season!"
+          }
+        ]
+      },
+      {
+        "definition": "used to say that what you are going to do will either be very successful or fail completely",
+        "examples": []
+      },
+      {
+        "definition": "to spend time doing something that is not important while you are waiting for something else to happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We killed time playing cards."
+          }
+        ]
+      },
+      {
+        "definition": "to achieve two things at the same time with one action",
+        "examples": []
+      },
+      {
+        "definition": "to be so kind to somebody/something that you in fact harm them",
+        "examples": []
+      },
+      {
+        "definition": "to laugh a lot",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was killing himself laughing."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "killing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kil/killi/killing__gb_3.mp3",
+    "phonetic_text": "/ˈkɪlɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kil/killi/killing__us_3.mp3",
+    "phonetic_am_text": "/ˈkɪlɪŋ/",
+    "senses": [
+      {
+        "definition": "an act of killing somebody deliberately",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Their leader condemned the torture and killing of innocent civilians."
+          },
+          {
+            "cf": "",
+            "x": "The mass killing (= killing of a large number of people) occurred when soldiers opened fire on protesters."
+          },
+          {
+            "cf": "",
+            "x": "He is responsible for the brutal killing of thousands of animals."
+          },
+          {
+            "cf": "",
+            "x": "No motive for the killing has yet been established."
+          }
+        ]
+      },
+      {
+        "definition": "to make a lot of money quickly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She made a killing on the stock market."
+          },
+          {
+            "cf": "",
+            "x": "Investors are set to make a killing from the sell-off."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kilometre",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kil/kilom/kilometre__gb_2.mp3",
+    "phonetic_text": "/kɪˈlɒmɪtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kil/kilom/kilometre__us_3_rr.mp3",
+    "phonetic_am_text": "/kɪˈlɑːmɪtər/",
+    "senses": [
+      {
+        "definition": "a unit for measuring distance; 1 000 metres",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The industrial estate is 6 kilometres from the city centre."
+          },
+          {
+            "cf": "",
+            "x": "She had been driving at 110 kilometres per hour."
+          },
+          {
+            "cf": "",
+            "x": "Monaco is only two square kilometres in size."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kind",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kin/kind_/kind__gb_2.mp3",
+    "phonetic_text": "/kaɪnd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kin/kind_/kind__us_1.mp3",
+    "phonetic_am_text": "/kaɪnd/",
+    "senses": [
+      {
+        "definition": "caring about others; gentle, friendly and generous",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a very kind and helpful person"
+          },
+          {
+            "cf": "",
+            "x": "a kind heart/face"
+          },
+          {
+            "cf": "",
+            "x": "a kind action/gesture/comment"
+          },
+          {
+            "cf": "",
+            "x": "You've been very kind."
+          },
+          {
+            "cf": "kind to somebody/something",
+            "x": "kind to animals"
+          },
+          {
+            "cf": "",
+            "x": "Soft water is kinder to your hair."
+          },
+          {
+            "cf": "",
+            "x": "The weather was very kind to us."
+          },
+          {
+            "cf": "kind to do something",
+            "x": "Was it kind to let her find out this way?"
+          },
+          {
+            "cf": "",
+            "x": "He was kind enough to take time out of his busy schedule to come here today."
+          },
+          {
+            "cf": "it is kind of somebody",
+            "x": "I think it was very kind of her."
+          },
+          {
+            "cf": "it is kind of somebody to do something",
+            "x": "It was really kind of you to help me."
+          },
+          {
+            "cf": "",
+            "x": "Thank you for your kind words."
+          },
+          {
+            "cf": "",
+            "x": "The poems are reprinted here by kind permission of the author."
+          },
+          {
+            "cf": "",
+            "x": "‘Do have another.’ ‘That's very kind of you (= thank you).’"
+          },
+          {
+            "cf": "",
+            "x": "We need a kinder, gentler society."
+          },
+          {
+            "cf": "",
+            "x": "If an animal is badly injured, often the kindest thing to do is to destroy it painlessly."
+          }
+        ]
+      },
+      {
+        "definition": "used to make a polite request or give an order",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Would you be kind enough to close the window?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kind",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kin/kind_/kind__gb_2.mp3",
+    "phonetic_text": "/kaɪnd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kin/kind_/kind__us_1.mp3",
+    "phonetic_am_text": "/kaɪnd/",
+    "senses": [
+      {
+        "definition": "a group of people or things that are the same in some way; a particular variety or type",
+        "examples": [
+          {
+            "cf": "kind of somebody/something",
+            "x": "three kinds of cakes/cake"
+          },
+          {
+            "cf": "",
+            "x": "What kind of house do you live in?"
+          },
+          {
+            "cf": "",
+            "x": "They sell all kinds of things."
+          },
+          {
+            "cf": "",
+            "x": "I need to buy paper and pencils, that kind of thing."
+          },
+          {
+            "cf": "",
+            "x": "His diet's terrible—burgers, chips, pizzas, that kind of stuff."
+          },
+          {
+            "cf": "",
+            "x": "I'm the kind of person who hates to do anything wrong."
+          },
+          {
+            "cf": "",
+            "x": "We have the same kind of car."
+          },
+          {
+            "cf": "that kind of something",
+            "x": "I'll never have that kind of money (= as much money as that)."
+          },
+          {
+            "cf": "",
+            "x": "He wouldn't say anything about it. He's not that kind of man."
+          },
+          {
+            "cf": "this kind of something",
+            "x": "This kind of exercise is very popular."
+          },
+          {
+            "cf": "of a kind",
+            "x": "Exercises of this kind are very popular."
+          },
+          {
+            "cf": "",
+            "x": "music of all/various/different kinds"
+          },
+          {
+            "cf": "",
+            "x": "The school is the first of its kind in Britain."
+          },
+          {
+            "cf": "",
+            "x": "Would you like a drink of some kind?"
+          },
+          {
+            "cf": "",
+            "x": "The regions differ in size, but not in kind."
+          }
+        ]
+      },
+      {
+        "definition": "consisting of goods or services, not money",
+        "examples": [
+          {
+            "cf": "",
+            "x": "As well as his salary, he gets benefits in kind."
+          }
+        ]
+      },
+      {
+        "definition": "with the same thing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She insulted him and he responded in kind."
+          }
+        ]
+      },
+      {
+        "definition": "used to show that something you are saying is not exact",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I had a kind of feeling this might happen."
+          }
+        ]
+      },
+      {
+        "definition": "slightly; in some ways",
+        "examples": [
+          {
+            "cf": "",
+            "x": "That made me feel kind of stupid."
+          },
+          {
+            "cf": "",
+            "x": "I like him, kind of."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize that the situation is very different from what has been said",
+        "examples": [
+          {
+            "cf": "",
+            "x": "‘I was terrible!’ ‘You were nothing of the kind.’"
+          }
+        ]
+      },
+      {
+        "definition": "not as good as it could be",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You're making progress of a kind."
+          }
+        ]
+      },
+      {
+        "definition": "very similar",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They're two of a kind—both workaholics!"
+          }
+        ]
+      },
+      {
+        "definition": "the only one like this",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My father was one of a kind—I'll never be like him."
+          }
+        ]
+      },
+      {
+        "definition": "something like what has been said",
+        "examples": [
+          {
+            "cf": "",
+            "x": "‘He's resigning.’ ‘I'd suspected something of the kind.’"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "king",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kin/king_/king__gb_2.mp3",
+    "phonetic_text": "/kɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kin/king_/king__us_1.mp3",
+    "phonetic_am_text": "/kɪŋ/",
+    "senses": [
+      {
+        "definition": "the male ruler of an independent state that has a royal family",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the kings and queens of England"
+          },
+          {
+            "cf": "",
+            "x": "the French king"
+          },
+          {
+            "cf": "",
+            "x": "to be crowned king"
+          },
+          {
+            "cf": "",
+            "x": "King George V"
+          }
+        ]
+      },
+      {
+        "definition": "a person, an animal or a thing that is thought to be the best or most important of a particular type",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the king of comedy"
+          },
+          {
+            "cf": "",
+            "x": "The lion is the king of the jungle."
+          }
+        ]
+      },
+      {
+        "definition": "used in compounds with the names of animals or plants to describe a very large type of the thing mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a king penguin"
+          }
+        ]
+      },
+      {
+        "definition": "the most important piece used in the game of chess, that can move one square in any direction",
+        "examples": []
+      },
+      {
+        "definition": "a playing card with the picture of a king on it",
+        "examples": []
+      },
+      {
+        "definition": "a very large amount of money",
+        "examples": []
+      },
+      {
+        "definition": "the person considered to be the best, most famous or successful in a particular place or area of activity",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "kingdom",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kin/kingd/kingdom__gb_2.mp3",
+    "phonetic_text": "/ˈkɪŋdəm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kin/kingd/kingdom__us_1.mp3",
+    "phonetic_am_text": "/ˈkɪŋdəm/",
+    "senses": [
+      {
+        "definition": "a country that has a king or queen as head of state (= official leader of the country)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the United Kingdom"
+          },
+          {
+            "cf": "",
+            "x": "the kingdom of God (= heaven)"
+          }
+        ]
+      },
+      {
+        "definition": "an area controlled by a particular person or where a particular thing or idea is important",
+        "examples": []
+      },
+      {
+        "definition": "one of the three traditional divisions of the natural world",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the animal, vegetable and mineral kingdoms"
+          }
+        ]
+      },
+      {
+        "definition": "one of the five major groups into which all living things are organized",
+        "examples": []
+      },
+      {
+        "definition": "to completely destroy somebody/something with an explosion",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The truck was blown to kingdom come."
+          }
+        ]
+      },
+      {
+        "definition": "forever",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He’ll talk till kingdom come if you let him."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kiss",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kis/kiss_/kiss__gb_3.mp3",
+    "phonetic_text": "/kɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kis/kiss_/kiss__us_1.mp3",
+    "phonetic_am_text": "/kɪs/",
+    "senses": [
+      {
+        "definition": "the act of kissing somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Come here and give me a kiss!"
+          },
+          {
+            "cf": "",
+            "x": "a kiss on the cheek"
+          },
+          {
+            "cf": "",
+            "x": "We were greeted with hugs and kisses."
+          },
+          {
+            "cf": "",
+            "x": "As the train drew away he blew her a kiss (= kissed his hand and pretended to blow the kiss towards her)."
+          }
+        ]
+      },
+      {
+        "definition": "an event that seems good, but is certain to make something else fail",
+        "examples": [
+          {
+            "cf": "",
+            "x": "An award can be the kiss of death for a writer."
+          },
+          {
+            "cf": "",
+            "x": "That TV commercial was the kiss of death to his career as a serious actor."
+          }
+        ]
+      },
+      {
+        "definition": "a method of helping somebody who has stopped breathing to breathe again by placing your mouth on theirs and forcing air into their lungs",
+        "examples": []
+      },
+      {
+        "definition": "to kiss somebody suddenly or secretly",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "kiss",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kis/kiss_/kiss__gb_3.mp3",
+    "phonetic_text": "/kɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kis/kiss_/kiss__us_1.mp3",
+    "phonetic_am_text": "/kɪs/",
+    "senses": [
+      {
+        "definition": "to touch somebody with your lips as a sign of love or sexual desire or when saying hello or goodbye",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They stood in a doorway kissing (= kissing each other)."
+          },
+          {
+            "cf": "",
+            "x": "Do people in Britain kiss when they meet?"
+          },
+          {
+            "cf": "kiss somebody/something",
+            "x": "Go and kiss your mother goodnight."
+          },
+          {
+            "cf": "",
+            "x": "He bent forward to kiss her cheek."
+          },
+          {
+            "cf": "",
+            "x": "She kissed him on both cheeks."
+          },
+          {
+            "cf": "",
+            "x": "He lifted the trophy up and kissed it."
+          }
+        ]
+      },
+      {
+        "definition": "to gently move or touch something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The sunlight kissed the warm stones."
+          }
+        ]
+      },
+      {
+        "definition": "a way of referring to somebody talking publicly, usually for money, about a past sexual relationship with somebody famous",
+        "examples": []
+      },
+      {
+        "definition": "to be very nice to somebody in order to persuade them to help you or to give you something",
+        "examples": []
+      },
+      {
+        "definition": "to take away the pain of an injury by kissing it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Come here and let me kiss it better."
+          }
+        ]
+      },
+      {
+        "definition": "to accept that you will lose something or be unable to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Well, you can kiss goodbye to your chances of promotion."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kit",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kit/kit__/kit__gb_2.mp3",
+    "phonetic_text": "/kɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kit/kit__/kit__us_1.mp3",
+    "phonetic_am_text": "/kɪt/",
+    "senses": [
+      {
+        "definition": "a set of tools or equipment that you use for a particular purpose",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a drum kit"
+          }
+        ]
+      },
+      {
+        "definition": "a set of parts ready to be made into something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a kit for a model plane"
+          },
+          {
+            "cf": "",
+            "x": "She built the doll’s house from a kit."
+          }
+        ]
+      },
+      {
+        "definition": "a set of clothes and equipment that you use for a particular activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "sports kit"
+          },
+          {
+            "cf": "",
+            "x": "The soldiers packed tents and kits to move to new positions."
+          }
+        ]
+      },
+      {
+        "definition": "to take your clothes off",
+        "examples": []
+      },
+      {
+        "definition": "everything",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I had new clothes, a new hairstyle—the whole caboodle."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kitchen",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kit/kitch/kitchen__gb_2.mp3",
+    "phonetic_text": "/ˈkɪtʃɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kit/kitch/kitchen__us_2.mp3",
+    "phonetic_am_text": "/ˈkɪtʃɪn/",
+    "senses": [
+      {
+        "definition": "a room in which meals are cooked or prepared",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We ate at the kitchen table."
+          },
+          {
+            "cf": "",
+            "x": "the kitchen floor/window/door"
+          },
+          {
+            "cf": "",
+            "x": "a stainless steel kitchen sink"
+          },
+          {
+            "cf": "",
+            "x": "He stabbed her with a kitchen knife."
+          },
+          {
+            "cf": "",
+            "x": "The house has a fully fitted kitchen with custom-built units."
+          }
+        ]
+      },
+      {
+        "definition": "a very large number of things, probably more than is necessary",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We seem to take everything but the kitchen sink when we go camping."
+          }
+        ]
+      },
+      {
+        "definition": "used to tell somebody to stop trying to do something if they find it too difficult, especially in order to suggest that they are less able than other people",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "knee",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kne/knee_/knee__gb_3.mp3",
+    "phonetic_text": "/niː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kne/knee_/knee__us_1.mp3",
+    "phonetic_am_text": "/niː/",
+    "senses": [
+      {
+        "definition": "the joint between the top and bottom parts of the leg where it bends in the middle",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a knee injury"
+          },
+          {
+            "cf": "",
+            "x": "I had knee surgery three years ago."
+          },
+          {
+            "cf": "",
+            "x": "Bend your knees until you feel your thigh muscles working."
+          },
+          {
+            "cf": "",
+            "x": "I grazed my knee when I fell."
+          },
+          {
+            "cf": "",
+            "x": "He went down on one knee and asked her to marry him."
+          },
+          {
+            "cf": "on your knees ",
+            "x": "She was on her knees scrubbing the kitchen floor."
+          },
+          {
+            "cf": "",
+            "x": "Everyone was down on (their) hands and knees (= crawling on the floor) looking for the ring."
+          },
+          {
+            "cf": "",
+            "x": "He fell to his knees and begged for mercy."
+          },
+          {
+            "cf": "",
+            "x": "My knees were knocking (= I was frightened)."
+          }
+        ]
+      },
+      {
+        "definition": "the part of a piece of clothing that covers the knee",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I brushed the dust from the knees of my trousers."
+          },
+          {
+            "cf": "at the knee",
+            "x": "These jeans are torn at the knee."
+          },
+          {
+            "cf": "",
+            "x": "a knee patch"
+          }
+        ]
+      },
+      {
+        "definition": "the top surface of the upper part of the legs when you are sitting down",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Come and sit on Daddy's knee."
+          }
+        ]
+      },
+      {
+        "definition": "when you were very young",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I learnt these songs at my mother's knee."
+          }
+        ]
+      },
+      {
+        "definition": "an excellent person or thing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She thinks she's the bee's knees (= she has a very high opinion of herself)."
+          }
+        ]
+      },
+      {
+        "definition": "to defeat somebody, especially in a war",
+        "examples": []
+      },
+      {
+        "definition": "to badly affect an organization, etc. so that it can no longer function",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The strikes brought the industry to its knees."
+          },
+          {
+            "cf": "",
+            "x": "The fuel shortage brought the country to its knees within weeks."
+          }
+        ]
+      },
+      {
+        "definition": "if you ask for something on bended knee(s), you ask for it in a very anxious and/or humble way (= showing you think you are less important than the person you are asking)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I’d go down on bended knee if I thought she’d change her mind."
+          }
+        ]
+      },
+      {
+        "definition": "to punish somebody by making them lie on top of your knee and hitting their bottom",
+        "examples": []
+      },
+      {
+        "definition": "to kneel on one knee in public in order to protest about the unfair treatment of black people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Officers at the rally were seen taking a knee in solidarity with the demonstrators."
+          }
+        ]
+      },
+      {
+        "definition": "hardly able to stand because of emotion, fear, illness, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His sudden smile made her go weak at the knees."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "knife",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kni/knife/knife__gb_2.mp3",
+    "phonetic_text": "/naɪf/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kni/knife/knife__us_1.mp3",
+    "phonetic_am_text": "/naɪf/",
+    "senses": [
+      {
+        "definition": "a sharp blade (= metal edge) with a handle, used for cutting or as a weapon",
+        "examples": [
+          {
+            "cf": "",
+            "x": "knives and forks"
+          },
+          {
+            "cf": "",
+            "x": "a sharp knife"
+          },
+          {
+            "cf": "",
+            "x": "a bread knife (= one for cutting bread)"
+          },
+          {
+            "cf": "",
+            "x": "The aim is to deter young people from carrying knives."
+          },
+          {
+            "cf": "",
+            "x": "He had been stabbed repeatedly with a kitchen knife."
+          },
+          {
+            "cf": "",
+            "x": "a plan to tackle knife crime"
+          },
+          {
+            "cf": "",
+            "x": "She was murdered in a frenzied knife attack."
+          }
+        ]
+      },
+      {
+        "definition": "the situation has become so bad that people are preparing to make one person take the blame, for example by taking away their job",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The knives are out for the chancellor."
+          }
+        ]
+      },
+      {
+        "definition": "easily; without meeting any difficulty",
+        "examples": []
+      },
+      {
+        "definition": "to behave towards somebody in an unfriendly way and try to harm them",
+        "examples": []
+      },
+      {
+        "definition": "to say or do something unkind deliberately; to make somebody who is unhappy feel even more unhappy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Marcia laughed as she twisted the knife still deeper."
+          },
+          {
+            "cf": "",
+            "x": "Just to twist the knife, the filmmakers have provided a surprise ending."
+          }
+        ]
+      },
+      {
+        "definition": "having a medical operation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He is to go under the surgeon's knife again on Thursday."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "knock",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kno/knock/knock__gb_2.mp3",
+    "phonetic_text": "/nɒk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kno/knock/knock__us_1.mp3",
+    "phonetic_am_text": "/nɑːk/",
+    "senses": [
+      {
+        "definition": "the sound of somebody hitting a door, window, etc. with their hand or with something hard to attract attention",
+        "examples": [
+          {
+            "cf": "knock on/at something",
+            "x": "There was a knock at the door."
+          },
+          {
+            "cf": "",
+            "x": "I was startled by a loud knock on the car window."
+          }
+        ]
+      },
+      {
+        "definition": "a sharp hit from something hard",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He got a nasty knock on the head."
+          },
+          {
+            "cf": "",
+            "x": "Knocks and scratches will lower the value of valuable furniture."
+          }
+        ]
+      },
+      {
+        "definition": "a bad experience that makes somebody/something less confident or successful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her confidence took a further knock when she lost her job."
+          },
+          {
+            "cf": "",
+            "x": "The company has suffered two huge knocks of late."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "knock",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kno/knock/knock__gb_2.mp3",
+    "phonetic_text": "/nɒk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kno/knock/knock__us_1.mp3",
+    "phonetic_am_text": "/nɑːk/",
+    "senses": [
+      {
+        "definition": "to hit a door, etc. in order to attract attention",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He knocked three times and waited."
+          },
+          {
+            "cf": "knock at/on something",
+            "x": "I knocked on the door and went straight in."
+          },
+          {
+            "cf": "",
+            "x": "Somebody was knocking on the window."
+          }
+        ]
+      },
+      {
+        "definition": "to hit something hard, often by accident",
+        "examples": [
+          {
+            "cf": "knock something against/on something",
+            "x": "Be careful you don't knock your head on this low beam."
+          },
+          {
+            "cf": "knock against/on something",
+            "x": "Her hand knocked against the glass."
+          },
+          {
+            "cf": "knock something",
+            "x": "She dropped the pile of books when he accidentally knocked her shoulder."
+          }
+        ]
+      },
+      {
+        "definition": "to hit something so that it moves or breaks",
+        "examples": [
+          {
+            "cf": "knock something + adv./prep.",
+            "x": "He'd knocked over a glass of water."
+          },
+          {
+            "cf": "",
+            "x": "I knocked the nail into the wall."
+          },
+          {
+            "cf": "",
+            "x": "They had to knock the door down to get in."
+          },
+          {
+            "cf": "",
+            "x": "He had knocked one of the pictures off the wall."
+          },
+          {
+            "cf": "",
+            "x": "The boys were knocking (= kicking) a ball around in the back yard."
+          },
+          {
+            "cf": "knock something",
+            "x": "The criticism had knocked (= damaged) her self-esteem."
+          }
+        ]
+      },
+      {
+        "definition": "to put somebody/something into a particular state by hitting them/it",
+        "examples": [
+          {
+            "cf": "knock somebody/something + adj.",
+            "x": "The blow knocked me flat."
+          },
+          {
+            "cf": "",
+            "x": "He was knocked senseless by the blow."
+          },
+          {
+            "cf": "knock somebody/something doing something",
+            "x": "She knocked my drink flying."
+          },
+          {
+            "cf": "knock somebody/something + adv./prep.",
+            "x": "The two rooms had been knocked into one (= the wall between them had been knocked down)."
+          }
+        ]
+      },
+      {
+        "definition": "to make a hole in something by hitting it hard",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They managed to knock a hole in the wall."
+          }
+        ]
+      },
+      {
+        "definition": "if your heart knocks, it beats hard; if your knees knock, they shake, for example from fear",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My heart was knocking wildly."
+          }
+        ]
+      },
+      {
+        "definition": "to make a regular sound of metal hitting metal, especially because there is something wrong",
+        "examples": []
+      },
+      {
+        "definition": "to criticize somebody/something, especially when it happens unfairly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The newspapers are always knocking the England team."
+          },
+          {
+            "cf": "",
+            "x": "It may sound pretty childish, but don't knock it until you've tried it."
+          }
+        ]
+      },
+      {
+        "definition": "to force people to stop arguing and behave in a sensible way",
+        "examples": []
+      },
+      {
+        "definition": "to hit somebody very hard several times and hurt them very much",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Get out or I’ll beat the living daylights out of you!"
+          }
+        ]
+      },
+      {
+        "definition": "to hit somebody/something very hard",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was a dirty player and loved to kick hell out of the opposition."
+          }
+        ]
+      },
+      {
+        "definition": "to surprise or impress somebody very much",
+        "examples": []
+      },
+      {
+        "definition": "to train somebody so that they do a particular job, task, etc. well",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It took him just two weeks to knock the new recruits into shape."
+          }
+        ]
+      },
+      {
+        "definition": "to make something more acceptable, organized or successful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've got all the information together but it still needs knocking into shape."
+          },
+          {
+            "cf": "",
+            "x": "It shouldn’t take long to get the company back into shape."
+          }
+        ]
+      },
+      {
+        "definition": "to affect somebody very deeply",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The business over the lawsuit had really knocked her for six."
+          }
+        ]
+      },
+      {
+        "definition": "used to threaten somebody that you will hit them",
+        "examples": []
+      },
+      {
+        "definition": "to impress somebody very much",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You look fabulous—you'll knock ’em dead tonight."
+          }
+        ]
+      },
+      {
+        "definition": "to be very much better than somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She knocks the rest of the cast into a cocked hat."
+          }
+        ]
+      },
+      {
+        "definition": "used to tell somebody to stop making a noise, annoying you, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Knock it off, kids—I’m trying to work."
+          }
+        ]
+      },
+      {
+        "definition": "to make somebody lose their position as somebody/something successful or admired",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A lot of teams are looking to knock us off our perch."
+          }
+        ]
+      },
+      {
+        "definition": "to stop something from happening; to stop doing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The recession knocked on the head any idea of expanding the company."
+          },
+          {
+            "cf": "",
+            "x": "By eleven o’clock we were all tired so we knocked it on the head."
+          }
+        ]
+      },
+      {
+        "definition": "used when talking about your previous good luck or your hopes for the future, to avoid bringing bad luck",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've been driving for over 20 years and never had an accident—knock on wood!"
+          }
+        ]
+      },
+      {
+        "definition": "to surprise or shock somebody so much that they are unable to react immediately",
+        "examples": []
+      },
+      {
+        "definition": "to try and persuade somebody to stop behaving in a stupid way, sometimes using rough or violent methods",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Try and talk some sense into her before she makes the wrong decision."
+          },
+          {
+            "cf": "",
+            "x": "Where would I be without you to knock some sense into my head?"
+          }
+        ]
+      },
+      {
+        "definition": "to be very much better than somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She knocks spots off all the other candidates."
+          }
+        ]
+      },
+      {
+        "definition": "to make somebody lose their confidence and enthusiasm",
+        "examples": []
+      },
+      {
+        "definition": "used to express surprise",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "know",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kno/know_/know__gb_2.mp3",
+    "phonetic_text": "/nəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kno/know_/know__us_1.mp3",
+    "phonetic_am_text": "/nəʊ/",
+    "senses": [
+      {
+        "definition": "to have information in your mind as a result of experience or because you have learned or been told it",
+        "examples": [
+          {
+            "cf": "know something",
+            "x": "No one knows the answer."
+          },
+          {
+            "cf": "",
+            "x": "I need to know your name."
+          },
+          {
+            "cf": "",
+            "x": "The truth about what happened is not yet known."
+          },
+          {
+            "cf": "",
+            "x": "All I know is that she used to work in a bank (= I have no other information about her)."
+          },
+          {
+            "cf": "know (that)…",
+            "x": "I know (that) people’s handwriting changes as they get older."
+          },
+          {
+            "cf": "",
+            "x": "We know from experience that turning a hobby into a business is not easy."
+          },
+          {
+            "cf": "",
+            "x": "I know for a fact (that) he didn't go to the party."
+          },
+          {
+            "cf": "",
+            "x": "‘There's no one in.’ ‘How do you know?’"
+          },
+          {
+            "cf": "",
+            "x": "‘You've got a flat tyre.’ ‘I know.’"
+          },
+          {
+            "cf": "",
+            "x": "‘What's the answer?’ ‘I don't know.’"
+          },
+          {
+            "cf": "",
+            "x": "As you know, Emma and I are old friends."
+          },
+          {
+            "cf": "",
+            "x": "‘Isn’t that his car?’ ‘I wouldn’t know./How should I know?’ (= I don’t know and I am not the person you should ask.)"
+          },
+          {
+            "cf": "",
+            "x": "‘What are you two whispering about?’ ‘You don't want to know’ (= because you would be shocked or wouldn't approve)."
+          },
+          {
+            "cf": "it is known that…",
+            "x": "It is widely known that CFCs can damage the ozone layer."
+          },
+          {
+            "cf": "know where, who, etc…",
+            "x": "I knew where he was hiding."
+          },
+          {
+            "cf": "",
+            "x": "No one knows for sure who did it."
+          },
+          {
+            "cf": "know about something",
+            "x": "You know about Amanda's baby, don't you?"
+          },
+          {
+            "cf": "",
+            "x": "I don't know about you, but I'm ready for something to eat."
+          },
+          {
+            "cf": "",
+            "x": "I know next to nothing (= know almost nothing) about opera."
+          },
+          {
+            "cf": "know of somebody/something",
+            "x": "I know of someone who can help us."
+          },
+          {
+            "cf": "",
+            "x": "‘Is anyone else coming?’ ‘Not that I know of.’"
+          },
+          {
+            "cf": "know to do something",
+            "x": "Does he know to come here (= that he should come here) first?"
+          },
+          {
+            "cf": "know somebody/something to be/do something",
+            "x": "We know her to be honest."
+          },
+          {
+            "cf": "",
+            "x": "Strobe lights are known to cause seizures."
+          }
+        ]
+      },
+      {
+        "definition": "to realize, understand or be aware of something",
+        "examples": [
+          {
+            "cf": "know (that)…",
+            "x": "As soon as I walked in the room I knew (that) something was wrong."
+          },
+          {
+            "cf": "",
+            "x": "She knew she was dying."
+          },
+          {
+            "cf": "",
+            "x": "‘Martin was lying all the time.’ ‘I should have known.’"
+          },
+          {
+            "cf": "know what, how, etc…",
+            "x": "I knew perfectly well what she meant."
+          },
+          {
+            "cf": "",
+            "x": "I know exactly how you feel."
+          },
+          {
+            "cf": "know something",
+            "x": "This case is hopeless and he knows it (= although he will not admit it)."
+          }
+        ]
+      },
+      {
+        "definition": "to feel certain about something",
+        "examples": [
+          {
+            "cf": "know (that)…",
+            "x": "He knew (that) he could trust her."
+          },
+          {
+            "cf": "",
+            "x": "I know it's here somewhere!"
+          },
+          {
+            "cf": "",
+            "x": "I know things will turn out all right."
+          },
+          {
+            "cf": "",
+            "x": "I don't know that I can finish it by next week."
+          },
+          {
+            "cf": "",
+            "x": "I just knew that it was something I wanted to do."
+          },
+          {
+            "cf": "know (something)",
+            "x": "‘You were right—someone's been spreading rumours about you.’ ‘I knew it!’"
+          },
+          {
+            "cf": "",
+            "x": "‘She's the worst player in the team.’ ‘Oh, I don't know (= I am not sure that I agree)—she played well yesterday.’"
+          }
+        ]
+      },
+      {
+        "definition": "to be familiar with a person, place, thing, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've known David for 20 years."
+          },
+          {
+            "cf": "",
+            "x": "Do you two know each other (= have you met before)?"
+          },
+          {
+            "cf": "",
+            "x": "She was a secretary when I first knew her."
+          },
+          {
+            "cf": "",
+            "x": "She's very nice when you get to know her."
+          },
+          {
+            "cf": "",
+            "x": "Knowing Ben, we could be waiting a long time (= it is typical of him to be late)."
+          },
+          {
+            "cf": "",
+            "x": "This man is known to the police (= as a criminal)."
+          },
+          {
+            "cf": "",
+            "x": "I don’t know anyone in Oxford."
+          },
+          {
+            "cf": "",
+            "x": "I know Paris well."
+          },
+          {
+            "cf": "",
+            "x": "Do you know the play (= have you seen or read it before)?"
+          },
+          {
+            "cf": "",
+            "x": "How many of your neighbours do you know by name?"
+          },
+          {
+            "cf": "",
+            "x": "The new rules could mean the end of football as we know it (= in the form that we are familiar with)."
+          }
+        ]
+      },
+      {
+        "definition": "to have learned a skill or language and be able to use it",
+        "examples": [
+          {
+            "cf": "know something",
+            "x": "Do you know any Japanese?"
+          },
+          {
+            "cf": "know how to do something",
+            "x": "Do you know how to use spreadsheets?"
+          }
+        ]
+      },
+      {
+        "definition": "to think that somebody/something is a particular type of person or thing or has particular characteristics",
+        "examples": [
+          {
+            "cf": "be known as something",
+            "x": "He has become widely known as an expert in child psychology."
+          },
+          {
+            "cf": "",
+            "x": "It's known as the most dangerous part of the city."
+          },
+          {
+            "cf": "be known for something",
+            "x": "She is best known for her work on the human brain."
+          },
+          {
+            "cf": "",
+            "x": "He is internationally known for his work with vaccines."
+          },
+          {
+            "cf": "be known to be/do something",
+            "x": "He's known to be an outstanding physicist."
+          }
+        ]
+      },
+      {
+        "definition": "to give somebody/something a particular name or title",
+        "examples": [
+          {
+            "cf": "be known as somebody/something",
+            "x": "Iran was formerly known as Persia."
+          },
+          {
+            "cf": "",
+            "x": "The H5N1 virus is more commonly known as bird flu."
+          },
+          {
+            "cf": "",
+            "x": "Peter Wilson, also known as ‘The Tiger’"
+          },
+          {
+            "cf": "be known as somebody/something to somebody",
+            "x": "He was known as Bonzo to his friends."
+          },
+          {
+            "cf": "be known by something",
+            "x": "The country was not yet known by the name of England."
+          }
+        ]
+      },
+      {
+        "definition": "to be able to recognize somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I couldn't see who was speaking, but I knew the voice."
+          },
+          {
+            "cf": "",
+            "x": "She knows a bargain when she sees one."
+          }
+        ]
+      },
+      {
+        "definition": "to understand the difference between one person or thing and another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I hope we have taught our children to know right from wrong."
+          }
+        ]
+      },
+      {
+        "definition": "to have seen, heard or experienced something",
+        "examples": [
+          {
+            "cf": "know somebody/something (to) do something",
+            "x": "I’ve never known it (to) snow in July before."
+          },
+          {
+            "cf": "be known to do something",
+            "x": "He has been known to spend all morning in the bathroom."
+          }
+        ]
+      },
+      {
+        "definition": "to have personal experience of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He has known both poverty and wealth."
+          },
+          {
+            "cf": "",
+            "x": "She may be successful now, but she has known what it is like to be poor."
+          },
+          {
+            "cf": "",
+            "x": "She thought she would never know the joy of seeing a child grow up in her care."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that you think you know, remember, understand, etc. something but you cannot be completely sure, especially because you do not know all the facts",
+        "examples": [
+          {
+            "cf": "",
+            "x": "As far as we knew, there was no cause for concern."
+          },
+          {
+            "cf": "",
+            "x": "As far as I can see, you've done nothing wrong."
+          },
+          {
+            "cf": "",
+            "x": "She lived in Chicago, as far as I can remember."
+          }
+        ]
+      },
+      {
+        "definition": "very quickly or suddenly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We were whisked off in a taxi before we knew where we were."
+          }
+        ]
+      },
+      {
+        "definition": "to have no way of realizing or being aware that you have done something wrong",
+        "examples": [
+          {
+            "cf": "",
+            "x": "‘I'm sorry, I called when you were in bed.’ ‘Don't worry—you weren't to know.’"
+          }
+        ]
+      },
+      {
+        "definition": "used to say that it is easier and wiser to stay in a bad situation that you know and can deal with rather than change to a new situation that may be much worse",
+        "examples": []
+      },
+      {
+        "definition": "used to emphasize that you do not know something and that it is not important to you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She could be dead for all I know."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize that you do not know something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "God knows what else they might find."
+          },
+          {
+            "cf": "",
+            "x": "‘Where are they?’ ‘Goodness knows.’"
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize the truth of what you are saying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She ought to pass the exam—goodness knows she's been working hard enough."
+          }
+        ]
+      },
+      {
+        "definition": "to be confident that you know something, especially when you actually do not",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He thinks he knows all the answers."
+          }
+        ]
+      },
+      {
+        "definition": "to know something perfectly so that you can repeat it at any time without having to think about it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He had all the answers off pat."
+          }
+        ]
+      },
+      {
+        "definition": "to be in poor condition",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Our car has seen better days!"
+          }
+        ]
+      },
+      {
+        "definition": "used to criticize somebody’s behaviour",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I don't know how you can say things like that."
+          }
+        ]
+      },
+      {
+        "definition": "used to tell somebody the true facts about a situation, especially when these are not known by other people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "If the truth be known, I was afraid to tell anyone."
+          }
+        ]
+      },
+      {
+        "definition": "used to agree with somebody or to show sympathy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "‘What a ridiculous situation!’ ‘I know.’"
+          }
+        ]
+      },
+      {
+        "definition": "used to introduce a new idea or suggestion",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I know, let's see what's on at the theatre."
+          }
+        ]
+      },
+      {
+        "definition": "used to criticize somebody by saying that they should realize or understand something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You know as well as I do that you're being unreasonable."
+          }
+        ]
+      },
+      {
+        "definition": "to know somebody/something extremely well",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She must know the play backwards by now."
+          }
+        ]
+      },
+      {
+        "definition": "to know what should be done, etc. better than other people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The doctor told you to stay in bed, and she knows best."
+          }
+        ]
+      },
+      {
+        "definition": "to be sensible enough not to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He knows better than to judge by appearances."
+          }
+        ]
+      },
+      {
+        "definition": "to recognize somebody without knowing them well",
+        "examples": []
+      },
+      {
+        "definition": "to have information or evidence that the opposite is true",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He says he doesn't care about what the critics write, but I know different."
+          }
+        ]
+      },
+      {
+        "definition": "to be very aware of a fact and unable to deny or ignore it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He knew full well what she thought of it."
+          }
+        ]
+      },
+      {
+        "definition": "to be very familiar with somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This is where I grew up. I know this area like the back of my hand."
+          }
+        ]
+      },
+      {
+        "definition": "to have very clear and definite ideas about what you want to do",
+        "examples": []
+      },
+      {
+        "definition": "to know a lot about a particular subject or job",
+        "examples": []
+      },
+      {
+        "definition": "to know/tell somebody some useful, interesting or surprising information about somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's been married five times, so she knows a thing or two about men!"
+          }
+        ]
+      },
+      {
+        "definition": "to know something because of something unpleasant that has happened to you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She is a tough competitor, as I know to my cost."
+          }
+        ]
+      },
+      {
+        "definition": "to be familiar with a place, subject, etc.",
+        "examples": []
+      },
+      {
+        "definition": "to have knowledge about something from your own experience",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I worked there for 20 years, so I know what I'm talking about."
+          }
+        ]
+      },
+      {
+        "definition": "to know where you can get an advantage for yourself",
+        "examples": []
+      },
+      {
+        "definition": "to make sure that people are informed about something, especially by getting somebody else to tell them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The President has let it be known that he does not intend to run for election again."
+          }
+        ]
+      },
+      {
+        "definition": "to tell somebody about something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I don't know if I can come, but I'll let you know tomorrow."
+          },
+          {
+            "cf": "",
+            "x": "Let me know how I can help."
+          },
+          {
+            "cf": "",
+            "x": "Please let me know if there's anything I can do to help."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize what you are saying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Lord knows, I tried to teach her."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that you do not know the answer to something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "‘Why did she say that?’ ‘Lord knows!’"
+          }
+        ]
+      },
+      {
+        "definition": "to introduce yourself to somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I made myself known to the hotel manager."
+          }
+        ]
+      },
+      {
+        "definition": "to behave badly, usually because you have not been taught the correct way to behave",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Don’t blame the children—they don’t know any better."
+          }
+        ]
+      },
+      {
+        "definition": "to be very stupid; to have absolutely no skill",
+        "examples": []
+      },
+      {
+        "definition": "to know nothing about a subject",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I don’t know beans about making movies."
+          }
+        ]
+      },
+      {
+        "definition": "to know nothing at all about somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I’m afraid I don’t know the first thing about cars."
+          }
+        ]
+      },
+      {
+        "definition": "to know nothing at all about something/somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We’ve lived next to him for years, but we still don’t know the first thing about him."
+          }
+        ]
+      },
+      {
+        "definition": "to not know at all who somebody is",
+        "examples": []
+      },
+      {
+        "definition": "to be so surprised by something that you do not know how to react",
+        "examples": []
+      },
+      {
+        "definition": "to feel very embarrassed and not know how to react",
+        "examples": []
+      },
+      {
+        "definition": "to be so excited or confused that you cannot behave or think in a sensible way",
+        "examples": []
+      },
+      {
+        "definition": "to have an easy life without realizing how easy it is",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You people without kids don't know you're born."
+          }
+        ]
+      },
+      {
+        "definition": "to take no interest in something because you do not care about it or it is too much trouble",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've tried to ask her advice, but she doesn't want to know (= about my problems)."
+          },
+          {
+            "cf": "",
+            "x": "‘How much was it?’ ‘You don't want to know’ (= it is better if you don't know)."
+          }
+        ]
+      },
+      {
+        "definition": "old enough to behave in a more sensible way than you actually did",
+        "examples": []
+      },
+      {
+        "definition": "to show somebody/know/learn how a particular job should be done",
+        "examples": []
+      },
+      {
+        "definition": "used to say that it is impossible to say what might happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There's no knowing how he'll react."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that somebody knows nothing about the subject you are talking about",
+        "examples": [
+          {
+            "cf": "",
+            "x": "What does he know about football, anyway?"
+          }
+        ]
+      },
+      {
+        "definition": "used to express surprise",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Well, what do you know? Look who's here!"
+          }
+        ]
+      },
+      {
+        "definition": "(know) what things are useful, important, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She certainly knows what's what."
+          }
+        ]
+      },
+      {
+        "definition": "used when you are thinking of what to say next",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Well, you know, it's difficult to explain."
+          }
+        ]
+      },
+      {
+        "definition": "used to show that what you are referring to is known or understood by the person you are speaking to",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Guess who I've just seen? Maggie! You know—Jim's wife."
+          },
+          {
+            "cf": "",
+            "x": "You know that restaurant round the corner? It's closed down."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize something that you are saying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'm not stupid, you know."
+          }
+        ]
+      },
+      {
+        "definition": "used to introduce an interesting or surprising opinion, piece of news, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You know something? I've never really enjoyed Christmas."
+          }
+        ]
+      },
+      {
+        "definition": "used to refer to somebody/something without mentioning a name",
+        "examples": []
+      },
+      {
+        "definition": "used to say that you can never be certain about what will happen in the future, especially when you are suggesting that something good might happen",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "knowledge",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kno/knowl/knowledge__gb_3.mp3",
+    "phonetic_text": "/ˈnɒlɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kno/knowl/knowledge__us_2.mp3",
+    "phonetic_am_text": "/ˈnɑːlɪdʒ/",
+    "senses": [
+      {
+        "definition": "the information, understanding and skills that you gain through education or experience",
+        "examples": [
+          {
+            "cf": "",
+            "x": "scientific/technical knowledge and skills"
+          },
+          {
+            "cf": "",
+            "x": "intimate/first-hand/basic knowledge"
+          },
+          {
+            "cf": "",
+            "x": "a thirst for knowledge"
+          },
+          {
+            "cf": "",
+            "x": "It will be an opportunity to gain knowledge and experience."
+          },
+          {
+            "cf": "knowledge of something",
+            "x": "She has acquired a detailed knowledge of the subject."
+          },
+          {
+            "cf": "",
+            "x": "They enjoy sharing their knowledge of the business."
+          },
+          {
+            "cf": "",
+            "x": "He had no prior knowledge of the language before visiting the country."
+          },
+          {
+            "cf": "",
+            "x": "He has a wide knowledge of painting and music."
+          },
+          {
+            "cf": "knowledge about something",
+            "x": "There is a lack of knowledge about the tax system."
+          }
+        ]
+      },
+      {
+        "definition": "the state of knowing about a particular fact or situation",
+        "examples": [
+          {
+            "cf": "knowledge (of something)",
+            "x": "He denied all knowledge of the affair."
+          },
+          {
+            "cf": "without somebody's knowledge",
+            "x": "She sent the letter without my knowledge."
+          },
+          {
+            "cf": "with somebody's knowledge",
+            "x": "The film was made with the Prince's full knowledge and approval."
+          },
+          {
+            "cf": "in the knowledge that…",
+            "x": "I was happy in the knowledge that I had done my best."
+          },
+          {
+            "cf": "",
+            "x": "I went to sleep secure in the knowledge that I was not alone in the house."
+          },
+          {
+            "cf": "",
+            "x": "They could relax safe in the knowledge that they had the funding for the project."
+          },
+          {
+            "cf": "",
+            "x": "Their delight in the win was tempered by the knowledge that the competition would only get fiercer."
+          }
+        ]
+      },
+      {
+        "definition": "information, considered as a resource to be used and supplied in industry, rather than producing goods",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the shift toward a knowledge economy"
+          },
+          {
+            "cf": "",
+            "x": "Knowledge workers are driving our economy today."
+          },
+          {
+            "cf": "",
+            "x": "the emergence of consultancy as a knowledge industry"
+          },
+          {
+            "cf": "",
+            "x": "knowledge capital/assets"
+          },
+          {
+            "cf": "",
+            "x": "The successful candidate will have experience in data and knowledge management."
+          }
+        ]
+      },
+      {
+        "definition": "to be something that everyone knows, especially in a particular community or group",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Their relationship is common knowledge."
+          }
+        ]
+      },
+      {
+        "definition": "to become known by somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It has come to our knowledge that you have been taking time off without permission."
+          }
+        ]
+      },
+      {
+        "definition": "as far as you know",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He never made a will, to the best of my knowledge."
+          }
+        ]
+      },
+      {
+        "definition": "from the information you have, although you may not know everything",
+        "examples": [
+          {
+            "cf": "",
+            "x": "‘Are they divorced?’ ‘Not to my knowledge.’"
+          },
+          {
+            "cf": "",
+            "x": "She never, to my knowledge, considered resigning."
+          }
+        ]
+      }
+    ]
+  }
+]

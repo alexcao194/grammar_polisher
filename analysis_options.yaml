@@ -27,6 +27,7 @@ analyzer:
   exclude:
     - "**/*.g.dart"
     - "**/*.freezed.dart"
+    - "**/*.json"
   errors:
     invalid_annotation_target: ignore
 

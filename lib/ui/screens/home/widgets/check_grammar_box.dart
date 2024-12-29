@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_html/flutter_html.dart';
 
 import '../../../../data/models/check_grammar_result.dart';
 import 'counter_item.dart';

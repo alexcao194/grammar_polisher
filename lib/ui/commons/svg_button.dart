@@ -25,7 +25,7 @@ class SvgButton extends StatelessWidget {
   Widget build(BuildContext context) {
     final colorScheme = Theme.of(context).colorScheme;
     return Material(
-      color: colorScheme.primaryContainer,
+      color: backgroundColor,
       borderRadius: borderRadius ?? BorderRadius.circular(8),
       child: InkWell(
         onTap: onPressed,

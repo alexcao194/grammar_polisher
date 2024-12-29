@@ -1,0 +1,143 @@
+[
+  {
+    "word": "zero",
+    "pos": "number",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/z/zer/zero_/zero__gb_1.mp3",
+    "phonetic_text": "/ˈzɪərəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zer/zero_/zero__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈzɪrəʊ/",
+    "senses": [
+      {
+        "definition": "0",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Five, four, three, two, one, zero… We have lift-off."
+          }
+        ]
+      },
+      {
+        "definition": "a temperature, pressure, etc. that is equal to zero on a scale",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It was ten degrees below zero last night (= −10°C)."
+          },
+          {
+            "cf": "",
+            "x": "The thermometer had fallen to zero."
+          }
+        ]
+      },
+      {
+        "definition": "the lowest possible amount or level; nothing at all",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I rated my chances as zero."
+          },
+          {
+            "cf": "",
+            "x": "zero inflation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zone",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/z/zon/zone_/zone__gb_1.mp3",
+    "phonetic_text": "/zəʊn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zon/zone_/zone__us_1.mp3",
+    "phonetic_am_text": "/zəʊn/",
+    "senses": [
+      {
+        "definition": "an area or a region with a particular feature or use",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a war/combat/demilitarized/exclusion zone"
+          },
+          {
+            "cf": "",
+            "x": "a danger zone"
+          },
+          {
+            "cf": "",
+            "x": "a pedestrian zone (= where vehicles may not go)"
+          },
+          {
+            "cf": "",
+            "x": "They have called for a 100-mile buffer zone (= protected area) around the island to protect the seals."
+          },
+          {
+            "cf": "",
+            "x": "an earthquake zone"
+          }
+        ]
+      },
+      {
+        "definition": "one of the areas that a larger area is divided into for the purpose of organization",
+        "examples": [
+          {
+            "cf": "",
+            "x": "postal charges to countries in zone 2"
+          }
+        ]
+      },
+      {
+        "definition": "an area or a part of an object, especially one that is different from everything that is around it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When the needle enters the red zone the engine is too hot."
+          },
+          {
+            "cf": "",
+            "x": "the erogenous zones of the body"
+          }
+        ]
+      },
+      {
+        "definition": "one of the parts that the earth’s surface is divided into by imaginary lines that are parallel to the equator",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the northern/southern temperate zone"
+          }
+        ]
+      },
+      {
+        "definition": "in a state in which you feel confident and are performing at your best",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When I'm in the zone, writing is the most satisfying thing in the world."
+          }
+        ]
+      },
+      {
+        "definition": "a state in which things are strange, mysterious or secret; a state that exists on the dividing line between two things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the twilight world of the occult"
+          },
+          {
+            "cf": "",
+            "x": "The dissidents lived in a twilight world of hushed voices and secret meetings."
+          },
+          {
+            "cf": "",
+            "x": "the twilight zone between living and merely existing"
+          },
+          {
+            "cf": "",
+            "x": "They lived in the twilight zone on the fringes of society."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -18,6 +18,7 @@ class HomeNavigation extends StatefulWidget {
 
   static const routes = [
     RoutePaths.home,
+    RoutePaths.vocabulary,
     RoutePaths.notifications,
     RoutePaths.review,
     RoutePaths.settings,
@@ -25,14 +26,16 @@ class HomeNavigation extends StatefulWidget {
 
   static const icons = [
     Assets.svgHome,
+    Assets.svgVocabulary,
     Assets.svgNotifications,
     Assets.svgBook,
     Assets.svgSettings,
   ];
 
   static const labels = [
-    "Home",
-    "Notifications",
+    "Grammar AI",
+    "Oxford Words",
+    "Reminders",
     "Review",
     "Settings",
   ];
@@ -90,7 +93,7 @@ class _HomeNavigationState extends State<HomeNavigation> {
           type: BottomNavigationBarType.fixed,
           onTap: _onSelect,
           items: List.generate(
-            4,
+            HomeNavigation.labels.length,
             (index) => BottomNavigationBarItem(
               icon: SvgPicture.asset(
                 HomeNavigation.icons[index],
