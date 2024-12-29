@@ -29,7 +29,7 @@ class HomeNavigation extends StatefulWidget {
     Assets.svgHome,
     Assets.svgVocabulary,
     Assets.svgNotifications,
-    Assets.svgBook,
+    Assets.svgStar,
     Assets.svgSettings,
   ];
 
