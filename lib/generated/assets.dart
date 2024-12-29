@@ -37,6 +37,7 @@ class Assets {
   static const String oxfordWordsX = 'assets/json/oxford_words/x.json';
   static const String oxfordWordsY = 'assets/json/oxford_words/y.json';
   static const String oxfordWordsZ = 'assets/json/oxford_words/z.json';
+  static const String pngBook = 'assets/png/book.png';
   static const String pngLauncher = 'assets/png/launcher.png';
   static const String svgArrowLeftIos = 'assets/svg/arrow_left_ios.svg';
   static const String svgBook = 'assets/svg/book.svg';
