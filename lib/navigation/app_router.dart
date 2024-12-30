@@ -16,15 +16,15 @@ import '../ui/screens/vocabulary/vocabulary_screen.dart';
 part 'route_paths.dart';
 
 class AppRouter {
-  static final GlobalKey<NavigatorState> _rootNavigatorKey = GlobalKey<NavigatorState>(debugLabel: 'root');
-  static final GlobalKey<NavigatorState> _homeNavigatorKey = GlobalKey<NavigatorState>(debugLabel: 'home');
+  static final GlobalKey<NavigatorState> rootNavigatorKey = GlobalKey<NavigatorState>(debugLabel: 'root');
+  static final GlobalKey<NavigatorState> homeNavigatorKey = GlobalKey<NavigatorState>(debugLabel: 'home');
 
   static final router = GoRouter(
     initialLocation: RoutePaths.home,
-    navigatorKey: _rootNavigatorKey,
+    navigatorKey: rootNavigatorKey,
     routes: [
       ShellRoute(
-        navigatorKey: _homeNavigatorKey,
+        navigatorKey: homeNavigatorKey,
         builder: (context, state, child) {
           return MultiBlocProvider(
             providers: [
@@ -65,9 +65,13 @@ class AppRouter {
           GoRoute(
             path: RoutePaths.review,
             pageBuilder: (context, state) {
+              final extra = state.extra as Map<String, dynamic>?;
+              final wordId = extra?['word_id'] as int?;
               return NoTransitionPage(
                 key: state.pageKey,
-                child: const ReviewScreen(),
+                child: ReviewScreen(
+                  wordId: wordId,
+                ),
               );
             },
           ),

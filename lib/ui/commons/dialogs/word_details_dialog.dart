@@ -6,7 +6,6 @@ import '../../screens/vocabulary/widgets/vocabulary_item.dart';
 
 class WordDetailsDialog extends StatelessWidget {
   final Word word;
-
   const WordDetailsDialog({super.key, required this.word});
 
   @override

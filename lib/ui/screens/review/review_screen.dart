@@ -3,13 +3,16 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../data/models/word_status.dart';
 import '../../commons/base_page.dart';
+import '../../commons/dialogs/word_details_dialog.dart';
 import '../notifications/bloc/notifications_bloc.dart';
 import '../vocabulary/bloc/vocabulary_bloc.dart';
 import '../vocabulary/widgets/vocabulary_item.dart';
 import 'widgets/empty_review_page.dart';
 
 class ReviewScreen extends StatefulWidget {
-  const ReviewScreen({super.key});
+  final int? wordId;
+
+  const ReviewScreen({super.key, this.wordId});
 
   @override
   State<ReviewScreen> createState() => _ReviewScreenState();
@@ -17,6 +20,7 @@ class ReviewScreen extends StatefulWidget {
 
 class _ReviewScreenState extends State<ReviewScreen> {
   late final AppLifecycleListener _appLifecycleListener;
+
   @override
   Widget build(BuildContext context) {
     final vocabularyState = context.watch<VocabularyBloc>().state;
@@ -46,6 +50,17 @@ class _ReviewScreenState extends State<ReviewScreen> {
         context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
       },
     );
+    if (widget.wordId != null) {
+      final word = context.read<VocabularyBloc>().state.words.firstWhere(
+            (element) => element.index == widget.wordId,
+          );
+      WidgetsBinding.instance.addPostFrameCallback((timeStamp) {
+        showDialog(
+          context: context,
+          builder: (context) => WordDetailsDialog(word: word),
+        );
+      });
+    }
   }
 
   @override
