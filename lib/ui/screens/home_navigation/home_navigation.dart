@@ -116,7 +116,7 @@ class _HomeNavigationState extends State<HomeNavigation> {
   @override
   void initState() {
     super.initState();
-    context.read<NotificationsBloc>().add(const NotificationsEvent.scheduleNextDayReminder());
+    context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
   }
 
   void _onSelect(int value) {
