@@ -56,8 +56,8 @@ class _HomeNavigationState extends State<HomeNavigation> {
 
     final currentRoute = GoRouter.of(context).currentRoute;
     final selectedIndex = HomeNavigation.routes.indexOf(currentRoute);
-    final selectedColor = Theme.of(context).primaryColor;
-    final unselectedColor = Theme.of(context).unselectedWidgetColor;
+    final selectedColor = colorScheme.primary;
+    final unselectedColor = Colors.grey[600]!;
 
     return MultiBlocListener(
       listeners: [
@@ -92,17 +92,26 @@ class _HomeNavigationState extends State<HomeNavigation> {
           selectedFontSize: 12,
           elevation: 0,
           type: BottomNavigationBarType.fixed,
+          selectedItemColor: selectedColor,
+          unselectedItemColor: unselectedColor,
           onTap: _onSelect,
           items: List.generate(
             HomeNavigation.labels.length,
             (index) => BottomNavigationBarItem(
-              icon: SvgPicture.asset(
-                HomeNavigation.icons[index],
-                colorFilter: ColorFilter.mode(
-                  index == selectedIndex ? selectedColor : unselectedColor,
-                  BlendMode.srcIn,
+              icon: Container(
+                decoration: BoxDecoration(
+                  color: index == selectedIndex ? colorScheme.primaryContainer : Colors.transparent,
+                  borderRadius: BorderRadius.circular(8),
                 ),
-                height: 24,
+                padding: const EdgeInsets.all(2),
+                child: SvgPicture.asset(
+                  HomeNavigation.icons[index],
+                  colorFilter: ColorFilter.mode(
+                    index == selectedIndex ? selectedColor : unselectedColor,
+                    BlendMode.srcIn,
+                  ),
+                  height: 24,
+                ),
               ),
               label: HomeNavigation.labels[index],
             ),

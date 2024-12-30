@@ -7,12 +7,23 @@ class App extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final fontFamily = 'SF Pro Display';
     return MaterialApp.router(
       routerConfig: AppRouter.router,
-      theme: ThemeData(
-        fontFamily: "SF Pro Display",
-        platform: TargetPlatform.iOS,
-      )
+      theme: ThemeData.from(
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: Colors.blue,
+          brightness: Brightness.light,
+        ),
+        textTheme: TextTheme().apply(fontFamily: fontFamily),
+      ),
+      darkTheme: ThemeData.from(
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: Colors.blue,
+          brightness: Brightness.dark,
+        ),
+        textTheme: TextTheme().apply(fontFamily: fontFamily),
+      ),
     );
   }
 }
