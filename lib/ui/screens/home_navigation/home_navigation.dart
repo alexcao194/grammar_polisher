@@ -86,34 +86,40 @@ class _HomeNavigationState extends State<HomeNavigation> {
               )
           ],
         ),
-        bottomNavigationBar: BottomNavigationBar(
-          showUnselectedLabels: true,
-          currentIndex: selectedIndex == -1 ? 0 : selectedIndex,
-          selectedFontSize: 12,
-          elevation: 0,
-          type: BottomNavigationBarType.fixed,
-          selectedItemColor: selectedColor,
-          unselectedItemColor: unselectedColor,
-          onTap: _onSelect,
-          items: List.generate(
-            HomeNavigation.labels.length,
-            (index) => BottomNavigationBarItem(
-              icon: Container(
-                decoration: BoxDecoration(
-                  color: index == selectedIndex ? colorScheme.primaryContainer : Colors.transparent,
-                  borderRadius: BorderRadius.circular(8),
-                ),
-                padding: const EdgeInsets.all(2),
-                child: SvgPicture.asset(
-                  HomeNavigation.icons[index],
-                  colorFilter: ColorFilter.mode(
-                    index == selectedIndex ? selectedColor : unselectedColor,
-                    BlendMode.srcIn,
+        bottomNavigationBar: Theme(
+          data: Theme.of(context).copyWith(
+            splashColor: Colors.transparent,
+            highlightColor: Colors.transparent,
+          ), //
+          child: BottomNavigationBar(
+            showUnselectedLabels: true,
+            currentIndex: selectedIndex == -1 ? 0 : selectedIndex,
+            selectedFontSize: 12,
+            elevation: 0,
+            type: BottomNavigationBarType.fixed,
+            selectedItemColor: selectedColor,
+            unselectedItemColor: unselectedColor,
+            onTap: _onSelect,
+            items: List.generate(
+              HomeNavigation.labels.length,
+              (index) => BottomNavigationBarItem(
+                icon: Container(
+                  decoration: BoxDecoration(
+                    color: index == selectedIndex ? colorScheme.primaryContainer : Colors.transparent,
+                    borderRadius: BorderRadius.circular(8),
                   ),
-                  height: 24,
+                  padding: const EdgeInsets.all(2),
+                  child: SvgPicture.asset(
+                    HomeNavigation.icons[index],
+                    colorFilter: ColorFilter.mode(
+                      index == selectedIndex ? selectedColor : unselectedColor,
+                      BlendMode.srcIn,
+                    ),
+                    height: 24,
+                  ),
                 ),
+                label: HomeNavigation.labels[index],
               ),
-              label: HomeNavigation.labels[index],
             ),
           ),
         ),
