@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:flutter_timezone/flutter_timezone.dart';
 import 'package:go_router/go_router.dart';
@@ -11,6 +12,7 @@ import 'app.dart';
 import 'configs/di.dart';
 import 'data/repositories/oxford_words_repository.dart';
 import 'navigation/app_router.dart';
+import 'ui/screens/settings/bloc/settings_bloc.dart';
 import 'utils/local_notifications_tools.dart';
 
 void main() async {
@@ -30,7 +32,16 @@ void main() async {
   tz.initializeTimeZones();
   final currentTimeZone = await FlutterTimezone.getLocalTimezone();
   tz.setLocalLocation(tz.getLocation(currentTimeZone));
-  runApp(const App());
+  runApp(
+    MultiBlocProvider(
+      providers: [
+        BlocProvider(
+          create: (context) => DI().sl<SettingsBloc>(),
+        ),
+      ],
+      child: App(),
+    ),
+  );
 }
 
 void onDidReceiveNotificationResponse(NotificationResponse notificationResponse) {

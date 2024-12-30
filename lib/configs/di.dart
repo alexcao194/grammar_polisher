@@ -8,7 +8,9 @@ import '../data/data_sources/local_data.dart';
 import '../data/data_sources/remote_data.dart';
 import '../data/repositories/home_repository.dart';
 import '../data/repositories/oxford_words_repository.dart';
+import '../data/repositories/settings_repository.dart';
 import '../ui/screens/home/bloc/home_bloc.dart';
+import '../ui/screens/settings/bloc/settings_bloc.dart';
 import '../ui/screens/vocabulary/bloc/vocabulary_bloc.dart';
 import '../ui/screens/notifications/bloc/notifications_bloc.dart';
 import '../utils/local_notifications_tools.dart';
@@ -28,7 +30,6 @@ class DI {
   final sl = GetIt.instance;
 
   Future<void> init() async {
-
     // Blocs
     sl.registerFactory(
       () => HomeBloc(
@@ -48,6 +49,12 @@ class DI {
       ),
     );
 
+    sl.registerFactory(
+      () => SettingsBloc(
+        settingsRepository: sl(),
+      ),
+    );
+
     // Repositories
     sl.registerLazySingleton<HomeRepository>(
       () => HomeRepositoryImpl(
@@ -61,6 +68,13 @@ class DI {
         localData: sl(),
       ),
     );
+
+    sl.registerLazySingleton<SettingsRepository>(
+      () => SettingsRepositoryImpl(
+        localData: sl(),
+      ),
+    );
+
     // Data sources
     sl.registerLazySingleton<RemoteData>(
       () => RemoteDataImpl(

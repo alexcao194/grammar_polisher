@@ -14,8 +14,6 @@ class NotificationsScreen extends StatefulWidget {
 }
 
 class _NotificationsScreenState extends State<NotificationsScreen> {
-  late final AppLifecycleListener _appLifecycleListener;
-
   @override
   Widget build(BuildContext context) {
     return BlocBuilder<NotificationsBloc, NotificationsState>(
@@ -53,18 +51,5 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
   void initState() {
     super.initState();
     context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
-    _appLifecycleListener = AppLifecycleListener(
-      onShow: () {
-        debugPrint('NotificationsScreen: onShow');
-        // this is needed to update the permissions status when the user returns to the app after changing the notification settings
-        context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
-      },
-    );
-  }
-
-  @override
-  void dispose() {
-    _appLifecycleListener.dispose();
-    super.dispose();
   }
 }

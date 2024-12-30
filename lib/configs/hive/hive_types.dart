@@ -5,4 +5,5 @@ class HiveTypes {
   static const sense = 1;
   static const word = 2;
   static const wordStatus = 3;
+  static const settingsSnapshot = 4;
 }

@@ -107,7 +107,7 @@ class VocabularyItem extends StatelessWidget {
                     children: [
                       SvgButton(
                         backgroundColor: word.status == WordStatus.mastered ? colorScheme.primary : colorScheme.surface,
-                        color: word.status == WordStatus.mastered ? Colors.white : colorScheme.onPrimaryContainer,
+                        color: word.status == WordStatus.mastered ? colorScheme.primaryContainer : colorScheme.onPrimaryContainer,
                         svg: Assets.svgCheck,
                         size: 16,
                         onPressed: () => _masteredWord(context),
@@ -115,7 +115,7 @@ class VocabularyItem extends StatelessWidget {
                       const SizedBox(height: 8),
                       SvgButton(
                         backgroundColor: word.status == WordStatus.star ? colorScheme.primary : colorScheme.surface,
-                        color: word.status == WordStatus.star ? Colors.white : colorScheme.onPrimaryContainer,
+                        color: word.status == WordStatus.star ? colorScheme.primaryContainer : colorScheme.onPrimaryContainer,
                         svg: Assets.svgStar,
                         size: 16,
                         onPressed: () => _startWord(context),
@@ -132,6 +132,9 @@ class VocabularyItem extends StatelessWidget {
   }
 
   void _masteredWord(BuildContext context) {
+    if (viewOnly) {
+      return;
+    }
     if (word.status == WordStatus.mastered) {
       context.read<VocabularyBloc>().add(VocabularyEvent.changeStatus(word, WordStatus.unknown));
       return;
@@ -140,6 +143,9 @@ class VocabularyItem extends StatelessWidget {
   }
 
   void _startWord(BuildContext context) {
+    if (viewOnly) {
+      return;
+    }
     if (word.status == WordStatus.star) {
       context.read<VocabularyBloc>().add(VocabularyEvent.changeStatus(word, WordStatus.unknown));
       return;
@@ -171,6 +177,9 @@ class VocabularyItem extends StatelessWidget {
   }
 
   _reminderTomorrow(BuildContext context) async {
+    if (viewOnly) {
+      return;
+    }
     final isGrantedPermission = context.read<NotificationsBloc>().state.isNotificationsGranted;
     if (!isGrantedPermission) {
       showDialog(

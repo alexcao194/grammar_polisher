@@ -46,6 +46,8 @@ class HomeNavigation extends StatefulWidget {
 }
 
 class _HomeNavigationState extends State<HomeNavigation> {
+  late final AppLifecycleListener _appLifecycleListener;
+
   @override
   Widget build(BuildContext context) {
     final homeState = context.watch<HomeBloc>().state;
@@ -56,8 +58,8 @@ class _HomeNavigationState extends State<HomeNavigation> {
 
     final currentRoute = GoRouter.of(context).currentRoute;
     final selectedIndex = HomeNavigation.routes.indexOf(currentRoute);
-    final selectedColor = Theme.of(context).primaryColor;
-    final unselectedColor = Theme.of(context).unselectedWidgetColor;
+    final selectedColor = colorScheme.primary;
+    final unselectedColor = Colors.grey[600]!;
 
     return MultiBlocListener(
       listeners: [
@@ -86,25 +88,40 @@ class _HomeNavigationState extends State<HomeNavigation> {
               )
           ],
         ),
-        bottomNavigationBar: BottomNavigationBar(
-          showUnselectedLabels: true,
-          currentIndex: selectedIndex == -1 ? 0 : selectedIndex,
-          selectedFontSize: 12,
-          elevation: 0,
-          type: BottomNavigationBarType.fixed,
-          onTap: _onSelect,
-          items: List.generate(
-            HomeNavigation.labels.length,
-            (index) => BottomNavigationBarItem(
-              icon: SvgPicture.asset(
-                HomeNavigation.icons[index],
-                colorFilter: ColorFilter.mode(
-                  index == selectedIndex ? selectedColor : unselectedColor,
-                  BlendMode.srcIn,
+        bottomNavigationBar: Theme(
+          data: Theme.of(context).copyWith(
+            splashColor: Colors.transparent,
+            highlightColor: Colors.transparent,
+          ), //
+          child: BottomNavigationBar(
+            showUnselectedLabels: true,
+            currentIndex: selectedIndex == -1 ? 0 : selectedIndex,
+            selectedFontSize: 12,
+            elevation: 0,
+            type: BottomNavigationBarType.fixed,
+            selectedItemColor: selectedColor,
+            unselectedItemColor: unselectedColor,
+            onTap: _onSelect,
+            items: List.generate(
+              HomeNavigation.labels.length,
+              (index) => BottomNavigationBarItem(
+                icon: Container(
+                  decoration: BoxDecoration(
+                    color: index == selectedIndex ? colorScheme.primaryContainer : Colors.transparent,
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  padding: const EdgeInsets.all(2),
+                  child: SvgPicture.asset(
+                    HomeNavigation.icons[index],
+                    colorFilter: ColorFilter.mode(
+                      index == selectedIndex ? selectedColor : unselectedColor,
+                      BlendMode.srcIn,
+                    ),
+                    height: 24,
+                  ),
                 ),
-                height: 24,
+                label: HomeNavigation.labels[index],
               ),
-              label: HomeNavigation.labels[index],
             ),
           ),
         ),
@@ -117,6 +134,20 @@ class _HomeNavigationState extends State<HomeNavigation> {
   void initState() {
     super.initState();
     context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
+    _appLifecycleListener = AppLifecycleListener(
+      onShow: () {
+        debugPrint('NotificationsScreen: onShow');
+        // this is needed to update the permissions status when the user returns to the app after changing the notification settings
+        context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
+      },
+    );
+  }
+
+
+  @override
+  void dispose() {
+    _appLifecycleListener.dispose();
+    super.dispose();
   }
 
   void _onSelect(int value) {

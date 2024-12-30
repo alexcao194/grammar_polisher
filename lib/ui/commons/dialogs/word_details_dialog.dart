@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../../../data/models/word.dart';
 import '../../screens/vocabulary/widgets/phonetic.dart';
-import '../../screens/vocabulary/widgets/vocabulary_item.dart';
 
 class WordDetailsDialog extends StatelessWidget {
   final Word word;
