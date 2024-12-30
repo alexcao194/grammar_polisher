@@ -51,6 +51,7 @@ class SettingsScreen extends StatelessWidget {
                       )
                     ],
                   ),
+                  viewOnly: true,
                 ),
               ),
               Padding(
