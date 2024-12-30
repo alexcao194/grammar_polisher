@@ -46,6 +46,8 @@ class HomeNavigation extends StatefulWidget {
 }
 
 class _HomeNavigationState extends State<HomeNavigation> {
+  late final AppLifecycleListener _appLifecycleListener;
+
   @override
   Widget build(BuildContext context) {
     final homeState = context.watch<HomeBloc>().state;
@@ -132,6 +134,20 @@ class _HomeNavigationState extends State<HomeNavigation> {
   void initState() {
     super.initState();
     context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
+    _appLifecycleListener = AppLifecycleListener(
+      onShow: () {
+        debugPrint('NotificationsScreen: onShow');
+        // this is needed to update the permissions status when the user returns to the app after changing the notification settings
+        context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
+      },
+    );
+  }
+
+
+  @override
+  void dispose() {
+    _appLifecycleListener.dispose();
+    super.dispose();
   }
 
   void _onSelect(int value) {

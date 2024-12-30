@@ -1,9 +1,14 @@
+import 'package:app_settings/app_settings.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_svg/svg.dart';
 
 import '../../../data/models/sense.dart';
 import '../../../data/models/word.dart';
+import '../../../generated/assets.dart';
 import '../../commons/base_page.dart';
+import '../../commons/rounded_button.dart';
+import '../notifications/bloc/notifications_bloc.dart';
 import '../vocabulary/widgets/vocabulary_item.dart';
 import 'bloc/settings_bloc.dart';
 
@@ -25,6 +30,8 @@ class SettingsScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final brightness = Theme.of(context).brightness;
     final textTheme = Theme.of(context).textTheme;
+    final colorScheme = Theme.of(context).colorScheme;
+    final isGrantedNotificationsPermission = context.watch<NotificationsBloc>().state.isNotificationsGranted;
     return BlocBuilder<SettingsBloc, SettingsState>(
       builder: (context, state) {
         final settingsSnapshot = state.settingsSnapshot;
@@ -104,6 +111,28 @@ class SettingsScreen extends StatelessWidget {
                 groupValue: settingsSnapshot.themeMode,
                 onChanged: (value) => _onChangeTheme(context, value),
               ),
+              const Spacer(),
+              if (!isGrantedNotificationsPermission) Padding(
+                padding: const EdgeInsets.all(16.0),
+                child: RoundedButton(
+                  onPressed: _openNotificationsSettings,
+                  borderRadius: 16,
+                  child: Row(
+                    children: [
+                      SvgPicture.asset(
+                        Assets.svgNotifications,
+                        height: 24,
+                        colorFilter: ColorFilter.mode(
+                          colorScheme.onPrimary,
+                          BlendMode.srcIn,
+                        ),
+                      ),
+                      const SizedBox(width: 4),
+                      Text("Enable Notifications"),
+                    ],
+                  ),
+                ),
+              )
             ],
           ),
         );
@@ -128,5 +157,9 @@ class SettingsScreen extends StatelessWidget {
             seek: value,
           ),
         );
+  }
+
+  void _openNotificationsSettings() {
+    AppSettings.openAppSettings(type: AppSettingsType.notification);
   }
 }
