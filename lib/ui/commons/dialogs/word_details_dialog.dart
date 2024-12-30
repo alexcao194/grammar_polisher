@@ -6,7 +6,6 @@ import '../../screens/vocabulary/widgets/vocabulary_item.dart';
 
 class WordDetailsDialog extends StatelessWidget {
   final Word word;
-
   const WordDetailsDialog({super.key, required this.word});
 
   @override
@@ -24,7 +23,7 @@ class WordDetailsDialog extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              Text(
+              SelectableText(
                 word.word,
                 style: textTheme.titleLarge?.copyWith(
                   color: colorScheme.onPrimaryContainer,

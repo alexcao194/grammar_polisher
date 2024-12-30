@@ -7,6 +7,7 @@ import '../../../data/models/word_status.dart';
 import '../../../generated/assets.dart';
 import '../../commons/base_page.dart';
 import '../../commons/svg_button.dart';
+import '../notifications/bloc/notifications_bloc.dart';
 import 'bloc/vocabulary_bloc.dart';
 import 'widgets/search_box.dart';
 import 'widgets/vocabulary_item.dart';
@@ -19,6 +20,7 @@ class VocabularyScreen extends StatefulWidget {
 }
 
 class _VocabularyScreenState extends State<VocabularyScreen> {
+  late final AppLifecycleListener _appLifecycleListener;
   bool _showSearch = false;
   final List<WordPos> _selectedPos = [];
   List<WordStatus> _selectedStatus = [WordStatus.star, WordStatus.unknown];
@@ -71,6 +73,19 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
   void initState() {
     super.initState();
     context.read<VocabularyBloc>().add(const VocabularyEvent.getAllOxfordWords());
+    _appLifecycleListener = AppLifecycleListener(
+      onShow: () {
+        debugPrint('NotificationsScreen: onShow');
+        // this is needed to update the permissions status when the user returns to the app after changing the notification settings
+        context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
+      },
+    );
+  }
+
+  @override
+  void dispose() {
+    _appLifecycleListener.dispose();
+    super.dispose();
   }
 
   void _onShowSearch() {

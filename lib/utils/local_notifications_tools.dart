@@ -1,5 +1,6 @@
 import 'dart:io';
 
+import 'package:flutter/foundation.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:timezone/timezone.dart' as tz;
 
@@ -89,7 +90,7 @@ class LocalNotificationsTools {
     await flutterLocalNotificationsPlugin.show(
       id,
       title,
-      body,
+      "$body${kDebugMode ? ' - ${DateTime.now().toIso8601String()}' : ''}",
       notificationDetails,
       payload: payload,
     );
@@ -125,7 +126,7 @@ class LocalNotificationsTools {
     await flutterLocalNotificationsPlugin.zonedSchedule(
         id,
         title,
-        body,
+        "$body${kDebugMode ? ' - ${scheduledDate.toIso8601String()}' : ''}",
         payload: payload,
         tz.TZDateTime.from(scheduledDate, tz.local),
         notificationDetails,
