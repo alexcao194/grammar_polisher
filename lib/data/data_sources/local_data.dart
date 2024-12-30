@@ -1,4 +1,5 @@
 import '../../configs/hive/app_hive.dart';
+import '../models/settings_snapshot.dart';
 import '../models/word.dart';
 
 abstract interface class LocalData {
@@ -7,9 +8,14 @@ abstract interface class LocalData {
   List<Word> getWords();
 
   Future<void> saveWord(Word word);
+
+  SettingsSnapshot getSettingsSnapshot();
+
+  Future<void> saveSettingsSnapshot(SettingsSnapshot settingsSnapshot);
 }
 
 class HiveDatabase implements LocalData {
+  static const String _settingsSnapshotKey = 'settingsSnapshot';
   final AppHive _appHive;
 
   HiveDatabase({
@@ -35,5 +41,15 @@ class HiveDatabase implements LocalData {
   @override
   Future<void> saveWord(Word word) {
     return _appHive.wordBox.put(word.index, word);
+  }
+
+  @override
+  SettingsSnapshot getSettingsSnapshot() {
+    return _appHive.settingsBox.get(_settingsSnapshotKey) ?? SettingsSnapshot();
+  }
+
+  @override
+  Future<void> saveSettingsSnapshot(SettingsSnapshot settingsSnapshot) {
+    return _appHive.settingsBox.put(_settingsSnapshotKey, settingsSnapshot);
   }
 }

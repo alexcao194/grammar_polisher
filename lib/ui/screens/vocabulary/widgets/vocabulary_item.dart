@@ -132,6 +132,9 @@ class VocabularyItem extends StatelessWidget {
   }
 
   void _masteredWord(BuildContext context) {
+    if (viewOnly) {
+      return;
+    }
     if (word.status == WordStatus.mastered) {
       context.read<VocabularyBloc>().add(VocabularyEvent.changeStatus(word, WordStatus.unknown));
       return;
@@ -140,6 +143,9 @@ class VocabularyItem extends StatelessWidget {
   }
 
   void _startWord(BuildContext context) {
+    if (viewOnly) {
+      return;
+    }
     if (word.status == WordStatus.star) {
       context.read<VocabularyBloc>().add(VocabularyEvent.changeStatus(word, WordStatus.unknown));
       return;
@@ -171,6 +177,9 @@ class VocabularyItem extends StatelessWidget {
   }
 
   _reminderTomorrow(BuildContext context) async {
+    if (viewOnly) {
+      return;
+    }
     final isGrantedPermission = context.read<NotificationsBloc>().state.isNotificationsGranted;
     if (!isGrantedPermission) {
       showDialog(
