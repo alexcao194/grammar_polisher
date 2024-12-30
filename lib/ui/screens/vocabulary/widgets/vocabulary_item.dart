@@ -5,6 +5,7 @@ import '../../../../data/models/word.dart';
 import '../../../../data/models/word_status.dart';
 import '../../../../generated/assets.dart';
 import '../../../../utils/app_snack_bar.dart';
+import '../../../commons/dialogs/request_notifications_permission_dialog.dart';
 import '../../../commons/dialogs/word_details_dialog.dart';
 import '../../../commons/svg_button.dart';
 import '../../notifications/bloc/notifications_bloc.dart';
@@ -169,7 +170,15 @@ class VocabularyItem extends StatelessWidget {
     );
   }
 
-  _reminderTomorrow(BuildContext context) {
+  _reminderTomorrow(BuildContext context) async {
+    final isGrantedPermission = context.read<NotificationsBloc>().state.isNotificationsGranted;
+    if (!isGrantedPermission) {
+      showDialog(
+        context: context,
+        builder: (context) => RequestNotificationsPermissionDialog(),
+      );
+      return;
+    }
     context.read<NotificationsBloc>().add(NotificationsEvent.reminderWordTomorrow(word: word));
     AppSnackBar.showInfo(context, "Reminder set for a random time tomorrow");
   }
