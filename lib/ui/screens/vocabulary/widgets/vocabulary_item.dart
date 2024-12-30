@@ -43,7 +43,7 @@ class VocabularyItem extends StatelessWidget {
             children: [
               Row(
                 children: [
-                  Text(
+                  SelectableText(
                     word.word,
                     style: textTheme.titleLarge?.copyWith(
                       color: colorScheme.onPrimaryContainer,

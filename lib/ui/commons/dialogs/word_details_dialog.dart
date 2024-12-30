@@ -23,7 +23,7 @@ class WordDetailsDialog extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              Text(
+              SelectableText(
                 word.word,
                 style: textTheme.titleLarge?.copyWith(
                   color: colorScheme.onPrimaryContainer,
