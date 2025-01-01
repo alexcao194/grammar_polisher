@@ -71,8 +71,12 @@ class _HomeNavigationState extends State<HomeNavigation> {
         ),
         BlocListener<NotificationsBloc, NotificationsState>(
           listener: (context, state) {
+            _handleError(context, state.failure);
             if (state.wordIdFromNotification != null) {
               context.go(RoutePaths.vocabulary, extra: {'wordId': state.wordIdFromNotification});
+            }
+            if (state.message != null) {
+              AppSnackBar.showInfo(context, state.message!);
             }
           },
         ),

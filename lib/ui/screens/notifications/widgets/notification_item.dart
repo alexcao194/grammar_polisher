@@ -72,7 +72,7 @@ class NotificationItem extends StatelessWidget {
     showDialog(
       context: context,
       builder: (_) => WordDetailsDialog(
-        word: words.firstWhere((word) => word.index == notification.wordId),
+        word: words.firstWhere((word) => word.index == notification.id),
       ),
     );
   }

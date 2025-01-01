@@ -189,6 +189,5 @@ class VocabularyItem extends StatelessWidget {
       return;
     }
     context.read<NotificationsBloc>().add(NotificationsEvent.reminderWordTomorrow(word: word));
-    AppSnackBar.showInfo(context, "Reminder set for a random time tomorrow");
   }
 }

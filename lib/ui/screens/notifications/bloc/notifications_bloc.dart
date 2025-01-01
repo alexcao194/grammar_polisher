@@ -85,19 +85,11 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
     final isGranted = state.isNotificationsGranted;
     debugPrint('NotificationsBloc: scheduleWordsReminder isGranted: $isGranted');
     if (isGranted) {
-      final pendingNotifications = await _localNotificationsTools.pendingNotifications();
-      const maxWordReminderNotificationId = 6000; // we have nearly 6000 words
-      for (final notification in pendingNotifications) {
-        if (notification.id > maxWordReminderNotificationId) {
-          await _localNotificationsTools.cancelNotification(notification.id);
-        }
-      }
       for (int i = 0; i < event.words.length; i++) {
         final word = event.words[i];
         final notificationTime = event.scheduledTime.add(event.interval * i);
-        final id = notificationTime.millisecondsSinceEpoch ~/ 1000;
         await _localNotificationsTools.scheduleNotification(
-          id: id,
+          id: word.index,
           title: word.word,
           body: word.senses.firstOrNull?.definition ?? 'Learn the meaning of this word!',
           scheduledDate: notificationTime,
@@ -106,10 +98,9 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
           payload: word.index.toString(),
         );
         await _notificationsRepository.saveScheduledNotification(ScheduledNotification(
-          id: id,
+          id: word.index,
           title: word.word,
           body: word.senses.firstOrNull?.definition ?? 'Learn the meaning of this word!',
-          wordId: word.index,
           scheduledDate: notificationTime.toIso8601String(),
         ));
         debugPrint('NotificationsBloc: scheduleWordsReminder scheduledDate: $notificationTime');
@@ -122,6 +113,14 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
     final isGranted = state.isNotificationsGranted;
     debugPrint('NotificationsBloc: reminderWordTomorrow isGranted: $isGranted');
     if (isGranted) {
+      final pendingNotifications = await _localNotificationsTools.pendingNotifications();
+      final isScheduled = pendingNotifications.any((element) => element.id == event.word.index);
+      if (isScheduled) {
+        debugPrint('NotificationsBloc: reminderWordTomorrow isScheduled: $isScheduled');
+        emit(state.copyWith(failure: Failure(message: 'Notification is already scheduled')));
+        emit(state.copyWith(failure: null));
+        return;
+      }
       final now = DateTime.now();
       final randomHour = 8 + (now.millisecondsSinceEpoch % 12);
       final randomMinute = now.millisecondsSinceEpoch % 60;
@@ -139,9 +138,10 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
         id: event.word.index,
         title: event.word.word,
         body: event.word.senses.firstOrNull?.definition ?? 'Learn the meaning of this word!',
-        wordId: event.word.index,
         scheduledDate: scheduledDate.toIso8601String(),
       ));
+      emit(state.copyWith(message: 'Notification scheduled for tomorrow'));
+      emit(state.copyWith(message: null));
       debugPrint('NotificationsBloc: reminderWordTomorrow scheduledDate: $scheduledDate');
     }
   }
