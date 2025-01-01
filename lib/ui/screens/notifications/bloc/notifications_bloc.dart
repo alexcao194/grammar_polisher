@@ -60,18 +60,20 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
       final now = DateTime.now();
       const nextDayReminderId = 0;
       final scheduledDate = DateTime(now.year, now.month, now.day, 8, 0).add(const Duration(days: 1));
+      final title = '💪Boost your vocabulary daily!';
+      final body = 'Don\'t miss the chance to learn new words today. Small steps lead to big changes!';
       await _localNotificationsTools.scheduleNotification(
         id: nextDayReminderId,
-        title: 'Boost your vocabulary daily!',
-        body: 'Don\'t miss the chance to learn new words today. Small steps lead to big changes!',
+        title: title,
+        body: body,
         scheduledDate: scheduledDate,
         category: NotificationCategory.dailyReminder,
         threadIdentifier: ThreadIdentifiers.dailyReminder,
       );
       await _notificationsRepository.saveScheduledNotification(ScheduledNotification(
         id: nextDayReminderId,
-        title: 'Boost your vocabulary daily!',
-        body: 'Don\'t miss the chance to learn new words today. Small steps lead to big changes!',
+        title: title,
+        body: body,
         scheduledDate: scheduledDate.toIso8601String(),
       ));
       debugPrint('NotificationsBloc: scheduleNextDayReminder scheduledDate: $scheduledDate');

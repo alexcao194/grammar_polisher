@@ -6,6 +6,7 @@ import '../../../constants/notification_category.dart';
 import '../../../utils/local_notifications_tools.dart';
 import '../../commons/base_page.dart';
 import 'bloc/notifications_bloc.dart';
+import 'widgets/notification_item.dart';
 
 class NotificationsScreen extends StatefulWidget {
   const NotificationsScreen({super.key});
@@ -22,9 +23,10 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
         return BasePage(
           title: "Notifications",
           child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text("Notifications permission: ${state.isNotificationsGranted}"),
                   ElevatedButton(
@@ -46,6 +48,9 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
                     },
                     child: const Text("Push notification"),
                   ),
+                  const SizedBox(height: 16),
+                  Text("Scheduled notifications:"),
+                  const SizedBox(height: 16),
                 ],
               ),
               Expanded(
@@ -53,17 +58,9 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
                   itemCount: state.scheduledNotifications.length,
                   itemBuilder: (context, index) {
                     final notification = state.scheduledNotifications[index];
-                    return ListTile(
-                      title: Text(notification.title),
-                      subtitle: Text(notification.scheduledDate),
-                      trailing: IconButton(
-                        icon: const Icon(Icons.delete),
-                        onPressed: () {
-                          context.read<NotificationsBloc>().add(
-                                NotificationsEvent.removeScheduledNotifications(notification.id),
-                              );
-                        },
-                      ),
+                    return Padding(
+                      padding: const EdgeInsets.all(8.0),
+                      child: NotificationItem(notification: notification),
                     );
                   },
                 ),
