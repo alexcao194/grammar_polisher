@@ -3,6 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../commons/base_page.dart';
 import 'bloc/notifications_bloc.dart';
+import 'widgets/empty_notifications_page.dart';
 import 'widgets/notification_item.dart';
 
 class NotificationsScreen extends StatefulWidget {
@@ -18,25 +19,27 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
     return BlocBuilder<NotificationsBloc, NotificationsState>(
       builder: (context, state) {
         return BasePage(
-          title: "Notifications",
-          child: Column(
-            children: [
-              Text("The scheduled notifications will appear here. You can view and delete any unnecessary notifications."),
-              const SizedBox(height: 16),
-              Expanded(
-                child: ListView.builder(
-                  itemCount: state.scheduledNotifications.length,
-                  itemBuilder: (context, index) {
-                    final notification = state.scheduledNotifications[index];
-                    return Padding(
-                      padding: const EdgeInsets.all(8.0),
-                      child: NotificationItem(notification: notification),
-                    );
-                  },
-                ),
-              ),
-            ],
-          ),
+          title: "Reminders",
+          child: state.isNotificationsGranted
+              ? Column(
+                  children: [
+                    Text("The scheduled notifications will appear here. You can view and delete any unnecessary notifications."),
+                    const SizedBox(height: 16),
+                    Expanded(
+                      child: ListView.builder(
+                        itemCount: state.scheduledNotifications.length,
+                        itemBuilder: (context, index) {
+                          final notification = state.scheduledNotifications[index];
+                          return Padding(
+                            padding: const EdgeInsets.all(8.0),
+                            child: NotificationItem(notification: notification),
+                          );
+                        },
+                      ),
+                    ),
+                  ],
+                )
+              : EmptyNotificationsPage(),
         );
       },
     );

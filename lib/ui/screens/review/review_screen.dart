@@ -6,6 +6,7 @@ import '../../../data/models/word.dart';
 import '../../../data/models/word_status.dart';
 import '../../../utils/app_snack_bar.dart';
 import '../../commons/base_page.dart';
+import '../../commons/dialogs/request_notifications_permission_dialog.dart';
 import '../../commons/rounded_button.dart';
 import '../notifications/bloc/notifications_bloc.dart';
 import '../vocabulary/bloc/vocabulary_bloc.dart';
@@ -60,7 +61,11 @@ class _ReviewScreenState extends State<ReviewScreen> {
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Text("Start first notification at"),
+                          Text(
+                            "Start first notification at",
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                          ),
                           const SizedBox(height: 8),
                           TimePicker(
                             value: _time,
@@ -81,7 +86,11 @@ class _ReviewScreenState extends State<ReviewScreen> {
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Text("Period (minutes)"),
+                          Text(
+                            "Period (minutes)",
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                          ),
                           const SizedBox(height: 8),
                           TimePicker(
                             value: _minutes,
@@ -112,7 +121,6 @@ class _ReviewScreenState extends State<ReviewScreen> {
     );
   }
 
-
   @override
   void initState() {
     super.initState();
@@ -121,6 +129,14 @@ class _ReviewScreenState extends State<ReviewScreen> {
   }
 
   _scheduleNotifications(List<Word> words) {
+    final isGrantedNotificationsPermission = context.read<NotificationsBloc>().state.isNotificationsGranted;
+    if (!isGrantedNotificationsPermission) {
+      showDialog(
+        context: context,
+        builder: (_) => const RequestNotificationsPermissionDialog(),
+      );
+      return;
+    }
     final date = DateTime.now();
     final DateTime scheduledTime = DateFormats.timeWithOutSeconds.parse(_time).copyWith(
           day: date.day,
