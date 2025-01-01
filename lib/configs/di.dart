@@ -77,7 +77,7 @@ class DI {
       ),
     );
 
-    sl.registerLazySingleton<NotificationsRepositoryImpl>(
+    sl.registerLazySingleton<NotificationsRepository>(
       () => NotificationsRepositoryImpl(
         localData: sl(),
       ),

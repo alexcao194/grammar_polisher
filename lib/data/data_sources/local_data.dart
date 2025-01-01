@@ -16,6 +16,8 @@ abstract interface class LocalData {
 
   Future<void> saveScheduledNotification(ScheduledNotification scheduledNotification);
 
+  Future<void> removeScheduledNotification(int id);
+
   List<ScheduledNotification> getScheduledNotifications();
 }
 
@@ -66,5 +68,10 @@ class HiveDatabase implements LocalData {
   @override
   Future<void> saveScheduledNotification(ScheduledNotification scheduledNotification) {
     return _appHive.scheduledNotificationBox.put(scheduledNotification.id, scheduledNotification);
+  }
+
+  @override
+  Future<void> removeScheduledNotification(int id) {
+    return _appHive.scheduledNotificationBox.delete(id);
   }
 }

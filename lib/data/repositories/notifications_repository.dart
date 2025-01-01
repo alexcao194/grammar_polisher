@@ -16,7 +16,22 @@ class NotificationsRepositoryImpl implements NotificationsRepository {
 
   @override
   List<ScheduledNotification> getScheduledNotifications() {
-    return _localData.getScheduledNotifications();
+    final scheduledNotifications = _localData.getScheduledNotifications();
+    final now = DateTime.now();
+    final expiredNotifications = scheduledNotifications
+        .where(
+          (notification) => DateTime.parse(notification.scheduledDate).isBefore(now),
+        )
+        .toList();
+    for (final notification in expiredNotifications) {
+      _localData.removeScheduledNotification(notification.id);
+    }
+    final validNotifications = scheduledNotifications
+        .where(
+          (notification) => DateTime.parse(notification.scheduledDate).isAfter(now),
+        )
+        .toList();
+    return validNotifications;
   }
 
   @override
