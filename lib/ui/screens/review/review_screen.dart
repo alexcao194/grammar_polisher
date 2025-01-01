@@ -31,6 +31,7 @@ class _ReviewScreenState extends State<ReviewScreen> {
     final vocabularyState = context.watch<VocabularyBloc>().state;
     final reviewWords = vocabularyState.words.where((word) => word.status == WordStatus.star).toList();
     final textTheme = Theme.of(context).textTheme;
+    final colorScheme = Theme.of(context).colorScheme;
     return BasePage(
       title: 'Review',
       child: reviewWords.isNotEmpty
@@ -46,14 +47,14 @@ class _ReviewScreenState extends State<ReviewScreen> {
                     },
                   ),
                 ),
-                const SizedBox(height: 16),
+                const SizedBox(height: 8),
                 Text(
                   "Scheduled all words",
                   style: textTheme.titleMedium?.copyWith(
-                    fontWeight: FontWeight.bold,
+                    color: colorScheme.primary,
                   ),
                 ),
-                const SizedBox(height: 8),
+                const SizedBox(height: 4),
                 Row(
                   children: [
                     Expanded(
@@ -62,7 +63,7 @@ class _ReviewScreenState extends State<ReviewScreen> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            "Start first notification at",
+                            "Start first reminder at",
                             maxLines: 1,
                             overflow: TextOverflow.ellipsis,
                           ),

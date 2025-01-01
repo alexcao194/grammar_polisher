@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:go_router/go_router.dart';
 
+import '../../../navigation/app_router.dart';
 import '../../commons/base_page.dart';
+import '../../commons/rounded_button.dart';
 import 'bloc/notifications_bloc.dart';
 import 'widgets/empty_notifications_page.dart';
 import 'widgets/notification_item.dart';
@@ -31,11 +34,17 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
                         itemBuilder: (context, index) {
                           final notification = state.scheduledNotifications[index];
                           return Padding(
-                            padding: const EdgeInsets.all(8.0),
+                            padding: const EdgeInsets.symmetric(vertical: 8.0),
                             child: NotificationItem(notification: notification),
                           );
                         },
                       ),
+                    ),
+                    const SizedBox(height: 8),
+                    RoundedButton(
+                      onPressed: _openReviewScreen,
+                      borderRadius: 16,
+                      child: Text("New Reminder"),
                     ),
                   ],
                 )
@@ -50,5 +59,9 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
     super.initState();
     context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
     context.read<NotificationsBloc>().add(const NotificationsEvent.getScheduledNotifications());
+  }
+
+  void _openReviewScreen() {
+    context.go(RoutePaths.review);
   }
 }

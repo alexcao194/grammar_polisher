@@ -29,7 +29,7 @@ class EmptyReviewPage extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.symmetric(horizontal: 16.0),
           child: Text(
-            'You can add some words to your review list and use flashcards to memorize them.',
+            'You can add some words to your review list and use flashcards (coming soon) to memorize them.',
             style: textTheme.bodyMedium?.copyWith(
               color: colorScheme.onSurface.withAlpha(150),
             ),
