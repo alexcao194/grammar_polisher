@@ -147,4 +147,8 @@ class LocalNotificationsTools {
   Future<void> cancelAllNotifications() async {
     await flutterLocalNotificationsPlugin.cancelAll();
   }
+
+  Future<NotificationAppLaunchDetails?> getNotificationAppLaunchDetails() async {
+    return await flutterLocalNotificationsPlugin.getNotificationAppLaunchDetails();
+  }
 }

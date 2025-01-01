@@ -68,6 +68,13 @@ class _HomeNavigationState extends State<HomeNavigation> {
             _handleError(context, state.failure);
           },
         ),
+        BlocListener<NotificationsBloc, NotificationsState>(
+          listener: (context, state) {
+            if (state.wordIdFromNotification != null) {
+              context.go(RoutePaths.vocabulary, extra: {'wordId': state.wordIdFromNotification});
+            }
+          },
+        ),
       ],
       child: Scaffold(
         body: Stack(
@@ -133,12 +140,14 @@ class _HomeNavigationState extends State<HomeNavigation> {
   @override
   void initState() {
     super.initState();
-    context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
+    final notificationsBloc = context.read<NotificationsBloc>();
+    notificationsBloc.add(const NotificationsEvent.requestPermissions());
+    notificationsBloc.add(const NotificationsEvent.handleOpenAppFromNotification());
     _appLifecycleListener = AppLifecycleListener(
       onShow: () {
         debugPrint('NotificationsScreen: onShow');
         // this is needed to update the permissions status when the user returns to the app after changing the notification settings
-        context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
+        notificationsBloc.add(const NotificationsEvent.requestPermissions());
       },
     );
   }

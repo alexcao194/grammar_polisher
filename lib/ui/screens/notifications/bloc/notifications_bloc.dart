@@ -23,6 +23,8 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
     on<NotificationsEvent>((event, emit) async {
       await event.map(
         requestPermissions: (event) => _requestPermissions(event, emit),
+        handleOpenAppFromNotification: (event) => _onHandleOpenAppFromNotification(event, emit),
+        clearWordIdFromNotification: (event) => _onClearWordIdFromNotification(event, emit),
         scheduleNextDayReminder: (event) => _scheduleNextDayReminder(event, emit),
         scheduleWordsReminder: (event) => _scheduleWordsReminder(event, emit),
         reminderWordTomorrow: (event) => _reminderWordTomorrow(event, emit),
@@ -110,5 +112,21 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
       );
       debugPrint('NotificationsBloc: reminderWordTomorrow scheduledDate: $scheduledDate');
     }
+  }
+
+  _onHandleOpenAppFromNotification(_HandleOpenAppFromNotification event, Emitter<NotificationsState> emit) async {
+    debugPrint('NotificationsBloc: handleOpenAppFromNotification');
+    final notification = await _localNotificationsTools.getNotificationAppLaunchDetails();
+    final notificationPayload = notification?.notificationResponse?.payload ?? '';
+    final wordId = int.tryParse(notificationPayload);
+    if (wordId != null) {
+      debugPrint('NotificationsBloc: handleOpenAppFromNotification wordId: $wordId');
+      emit(state.copyWith(wordIdFromNotification: wordId));
+    }
+  }
+
+  _onClearWordIdFromNotification(_ClearWordIdFromNotification event, Emitter<NotificationsState> emit) {
+    debugPrint('NotificationsBloc: clearWordIdFromNotification');
+    emit(state.copyWith(wordIdFromNotification: null));
   }
 }

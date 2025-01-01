@@ -36,7 +36,7 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
                   category: NotificationCategory.vocabulary,
                   threadIdentifier: "test",
                   id: 5646,
-                  payload: "test",
+                  payload: "23",
                 );
               },
               child: const Text("Push notification"),

@@ -65,13 +65,9 @@ class AppRouter {
           GoRoute(
             path: RoutePaths.review,
             pageBuilder: (context, state) {
-              final extra = state.extra as Map<String, dynamic>?;
-              final wordId = extra?['word_id'] as int?;
               return NoTransitionPage(
                 key: state.pageKey,
-                child: ReviewScreen(
-                  wordId: wordId,
-                ),
+                child: ReviewScreen(),
               );
             },
           ),
@@ -87,9 +83,11 @@ class AppRouter {
           GoRoute(
             path: RoutePaths.vocabulary,
             pageBuilder: (context, state) {
+              final extra = state.extra as Map<String, dynamic>?;
+              final wordId = extra?['wordId'] as int?;
               return NoTransitionPage(
                 key: state.pageKey,
-                child: const VocabularyScreen(),
+                child: VocabularyScreen(wordId: wordId),
               );
             },
           ),

@@ -3,6 +3,8 @@ part of 'notifications_bloc.dart';
 @freezed
 class NotificationsEvent with _$NotificationsEvent {
   const factory NotificationsEvent.requestPermissions() = _RequestPermissions;
+  const factory NotificationsEvent.handleOpenAppFromNotification() = _HandleOpenAppFromNotification;
+  const factory NotificationsEvent.clearWordIdFromNotification() = _ClearWordIdFromNotification;
   const factory NotificationsEvent.scheduleNextDayReminder() = _ScheduleNextDayReminder;
   const factory NotificationsEvent.scheduleWordsReminder({
     required List<Word> words,
