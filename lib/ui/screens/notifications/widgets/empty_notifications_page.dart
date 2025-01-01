@@ -1,9 +1,7 @@
 import 'package:app_settings/app_settings.dart';
 import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';
 
 import '../../../../generated/assets.dart';
-import '../../../../navigation/app_router.dart';
 import '../../../commons/rounded_button.dart';
 
 class EmptyNotificationsPage extends StatelessWidget {

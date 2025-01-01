@@ -15,11 +15,15 @@ import 'pos_badge.dart';
 class VocabularyItem extends StatelessWidget {
   final Word word;
   final bool viewOnly;
+  final VoidCallback? onMastered;
+  final VoidCallback? onStar;
 
   const VocabularyItem({
     super.key,
     required this.word,
     this.viewOnly = false,
+    this.onMastered,
+    this.onStar,
   });
 
   @override
@@ -131,6 +135,7 @@ class VocabularyItem extends StatelessWidget {
   }
 
   void _masteredWord(BuildContext context) {
+    onMastered?.call();
     if (viewOnly) {
       return;
     }
@@ -142,6 +147,7 @@ class VocabularyItem extends StatelessWidget {
   }
 
   void _startWord(BuildContext context) {
+    onStar?.call();
     if (viewOnly) {
       return;
     }
@@ -157,7 +163,7 @@ class VocabularyItem extends StatelessWidget {
       case WordStatus.unknown:
         return colorScheme.primaryContainer;
       case WordStatus.mastered:
-        return Colors.grey[300];
+        return colorScheme.secondaryContainer.withAlpha(100);
       case WordStatus.star:
         return colorScheme.tertiaryContainer;
     }
