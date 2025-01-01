@@ -109,6 +109,7 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
           id: id,
           title: word.word,
           body: word.senses.firstOrNull?.definition ?? 'Learn the meaning of this word!',
+          wordId: word.index,
           scheduledDate: notificationTime.toIso8601String(),
         ));
         debugPrint('NotificationsBloc: scheduleWordsReminder scheduledDate: $notificationTime');
@@ -138,6 +139,7 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
         id: event.word.index,
         title: event.word.word,
         body: event.word.senses.firstOrNull?.definition ?? 'Learn the meaning of this word!',
+        wordId: event.word.index,
         scheduledDate: scheduledDate.toIso8601String(),
       ));
       debugPrint('NotificationsBloc: reminderWordTomorrow scheduledDate: $scheduledDate');

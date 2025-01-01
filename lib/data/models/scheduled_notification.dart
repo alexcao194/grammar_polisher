@@ -15,6 +15,7 @@ class ScheduledNotification with _$ScheduledNotification {
     @HiveField(1) @Default("") String title,
     @HiveField(2) @Default("") String body,
     @HiveField(3) @Default("") String scheduledDate,
+    @HiveField(4) @Default(0) int wordId,
   }) = _ScheduledNotification;
 
   factory ScheduledNotification.fromJson(Map<String, dynamic> json) => _$ScheduledNotificationFromJson(json);

@@ -4,6 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../../../constants/date_formats.dart';
 import '../../../../data/models/scheduled_notification.dart';
 import '../../../../generated/assets.dart';
+import '../../../commons/dialogs/word_details_dialog.dart';
 import '../../../commons/svg_button.dart';
 import '../../vocabulary/bloc/vocabulary_bloc.dart';
 import '../bloc/notifications_bloc.dart';
@@ -27,40 +28,36 @@ class NotificationItem extends StatelessWidget {
         borderRadius: BorderRadius.circular(8),
       ),
       child: ListTile(
-          title: Text(
-            notification.title,
-            style: textTheme.titleMedium?.copyWith(
-              fontWeight: FontWeight.bold,
-            ),
-            maxLines: 1,
-            overflow: TextOverflow.ellipsis,
+        onTap: () => _showDetails(context),
+        title: Text(
+          notification.title,
+          style: textTheme.titleMedium?.copyWith(
+            fontWeight: FontWeight.bold,
           ),
-          subtitle: Text(
-            DateFormats.fullDate.format(DateTime.parse(notification.scheduledDate)),
-            maxLines: 1,
-            overflow: TextOverflow.ellipsis,
-            style: textTheme.bodySmall?.copyWith(
-              color: colorScheme.onSecondaryContainer,
-            ),
+          maxLines: 1,
+          overflow: TextOverflow.ellipsis,
+        ),
+        subtitle: Text(
+          DateFormats.fullDate.format(DateTime.parse(notification.scheduledDate)),
+          maxLines: 1,
+          overflow: TextOverflow.ellipsis,
+          style: textTheme.bodySmall?.copyWith(
+            color: colorScheme.onSecondaryContainer,
           ),
-          trailing: (isFirst)
-              ? null
-              : Row(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    SvgButton(
-                      onPressed: () => _onReset(context),
-                      svg: Assets.svgReset,
-                      size: 16,
-                    ),
-                    const SizedBox(width: 8),
-                    SvgButton(
-                      onPressed: () => _onRemoveNotification(context),
-                      svg: Assets.svgDelete,
-                      size: 16,
-                    ),
-                  ],
-                )),
+        ),
+        trailing: (isFirst)
+            ? null
+            : Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  SvgButton(
+                    onPressed: () => _onRemoveNotification(context),
+                    svg: Assets.svgDelete,
+                    size: 16,
+                  ),
+                ],
+              ),
+      ),
     );
   }
 
@@ -70,13 +67,13 @@ class NotificationItem extends StatelessWidget {
         );
   }
 
-  _onReset(BuildContext context) {
+  _showDetails(BuildContext context) {
     final words = context.read<VocabularyBloc>().state.words;
-    context.read<NotificationsBloc>().add(
-          NotificationsEvent.reminderWordTomorrow(
-              word: words.firstWhere(
-            (element) => element.index == notification.id,
-          )),
-        );
+    showDialog(
+      context: context,
+      builder: (_) => WordDetailsDialog(
+        word: words.firstWhere((word) => word.index == notification.wordId),
+      ),
+    );
   }
 }
