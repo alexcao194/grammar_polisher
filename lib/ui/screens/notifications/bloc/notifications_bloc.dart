@@ -4,7 +4,9 @@ import 'package:freezed_annotation/freezed_annotation.dart';
 
 import '../../../../constants/notification_category.dart';
 import '../../../../constants/thread_identifiers.dart';
+import '../../../../data/models/scheduled_notification.dart';
 import '../../../../data/models/word.dart';
+import '../../../../data/repositories/notifications_repository.dart';
 import '../../../../utils/local_notifications_tools.dart';
 
 part 'notifications_event.dart';
@@ -15,10 +17,13 @@ part 'generated/notifications_bloc.freezed.dart';
 
 class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
   final LocalNotificationsTools _localNotificationsTools;
+  final NotificationsRepository _notificationsRepository;
 
   NotificationsBloc({
     required LocalNotificationsTools localNotificationsTools,
+    required NotificationsRepository notificationsRepository,
   })  : _localNotificationsTools = localNotificationsTools,
+        _notificationsRepository = notificationsRepository,
         super(const NotificationsState()) {
     on<NotificationsEvent>((event, emit) async {
       await event.map(
@@ -59,6 +64,12 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
         category: NotificationCategory.dailyReminder,
         threadIdentifier: ThreadIdentifiers.dailyReminder,
       );
+      await _notificationsRepository.saveScheduledNotification(ScheduledNotification(
+        id: nextDayReminderId,
+        title: 'Boost your vocabulary daily!',
+        body: 'Don\'t miss the chance to learn new words today. Small steps lead to big changes!',
+        scheduledDate: scheduledDate.toIso8601String(),
+      ));
       debugPrint('NotificationsBloc: scheduleNextDayReminder scheduledDate: $scheduledDate');
     }
   }
@@ -78,8 +89,9 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
       for (int i = 0; i < event.words.length; i++) {
         final word = event.words[i];
         final notificationTime = event.scheduledTime.add(event.interval * i);
+        final id = notificationTime.millisecondsSinceEpoch ~/ 1000;
         await _localNotificationsTools.scheduleNotification(
-          id: notificationTime.millisecondsSinceEpoch ~/ 1000,
+          id: id,
           title: word.word,
           body: word.senses.firstOrNull?.definition ?? 'Learn the meaning of this word!',
           scheduledDate: notificationTime,
@@ -87,6 +99,12 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
           threadIdentifier: ThreadIdentifiers.wordInterval,
           payload: word.index.toString(),
         );
+        await _notificationsRepository.saveScheduledNotification(ScheduledNotification(
+          id: id,
+          title: word.word,
+          body: word.senses.firstOrNull?.definition ?? 'Learn the meaning of this word!',
+          scheduledDate: notificationTime.toIso8601String(),
+        ));
         debugPrint('NotificationsBloc: scheduleWordsReminder scheduledDate: $notificationTime');
       }
     }
@@ -110,6 +128,12 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
         threadIdentifier: ThreadIdentifiers.wordReminder,
         payload: event.word.index.toString(),
       );
+      await _notificationsRepository.saveScheduledNotification(ScheduledNotification(
+        id: event.word.index,
+        title: event.word.word,
+        body: event.word.senses.firstOrNull?.definition ?? 'Learn the meaning of this word!',
+        scheduledDate: scheduledDate.toIso8601String(),
+      ));
       debugPrint('NotificationsBloc: reminderWordTomorrow scheduledDate: $scheduledDate');
     }
   }

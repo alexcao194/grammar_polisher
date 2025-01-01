@@ -7,6 +7,7 @@ import '../data/data_sources/assets_data.dart';
 import '../data/data_sources/local_data.dart';
 import '../data/data_sources/remote_data.dart';
 import '../data/repositories/home_repository.dart';
+import '../data/repositories/notifications_repository.dart';
 import '../data/repositories/oxford_words_repository.dart';
 import '../data/repositories/settings_repository.dart';
 import '../ui/screens/home/bloc/home_bloc.dart';
@@ -46,6 +47,7 @@ class DI {
     sl.registerFactory(
       () => NotificationsBloc(
         localNotificationsTools: sl(),
+        notificationsRepository: sl(),
       ),
     );
 
@@ -71,6 +73,12 @@ class DI {
 
     sl.registerLazySingleton<SettingsRepository>(
       () => SettingsRepositoryImpl(
+        localData: sl(),
+      ),
+    );
+
+    sl.registerLazySingleton<NotificationsRepositoryImpl>(
+      () => NotificationsRepositoryImpl(
         localData: sl(),
       ),
     );

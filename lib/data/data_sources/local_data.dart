@@ -1,4 +1,5 @@
 import '../../configs/hive/app_hive.dart';
+import '../models/scheduled_notification.dart';
 import '../models/settings_snapshot.dart';
 import '../models/word.dart';
 
@@ -12,6 +13,10 @@ abstract interface class LocalData {
   SettingsSnapshot getSettingsSnapshot();
 
   Future<void> saveSettingsSnapshot(SettingsSnapshot settingsSnapshot);
+
+  Future<void> saveScheduledNotification(ScheduledNotification scheduledNotification);
+
+  List<ScheduledNotification> getScheduledNotifications();
 }
 
 class HiveDatabase implements LocalData {
@@ -51,5 +56,15 @@ class HiveDatabase implements LocalData {
   @override
   Future<void> saveSettingsSnapshot(SettingsSnapshot settingsSnapshot) {
     return _appHive.settingsBox.put(_settingsSnapshotKey, settingsSnapshot);
+  }
+
+  @override
+  List<ScheduledNotification> getScheduledNotifications() {
+    return _appHive.scheduledNotificationBox.values.toList();
+  }
+
+  @override
+  Future<void> saveScheduledNotification(ScheduledNotification scheduledNotification) {
+    return _appHive.scheduledNotificationBox.put(scheduledNotification.id, scheduledNotification);
   }
 }
