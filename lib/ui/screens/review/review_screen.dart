@@ -8,14 +8,9 @@ import '../vocabulary/bloc/vocabulary_bloc.dart';
 import '../vocabulary/widgets/vocabulary_item.dart';
 import 'widgets/empty_review_page.dart';
 
-class ReviewScreen extends StatefulWidget {
+class ReviewScreen extends StatelessWidget {
   const ReviewScreen({super.key});
 
-  @override
-  State<ReviewScreen> createState() => _ReviewScreenState();
-}
-
-class _ReviewScreenState extends State<ReviewScreen> {
   @override
   Widget build(BuildContext context) {
     final vocabularyState = context.watch<VocabularyBloc>().state;
@@ -32,11 +27,5 @@ class _ReviewScreenState extends State<ReviewScreen> {
             )
           : EmptyReviewPage(),
     );
-  }
-
-  @override
-  void initState() {
-    super.initState();
-    context.read<VocabularyBloc>().add(const VocabularyEvent.getAllOxfordWords());
   }
 }

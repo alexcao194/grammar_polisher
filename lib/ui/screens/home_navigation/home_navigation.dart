@@ -11,6 +11,7 @@ import '../../../utils/extensions/go_router_extension.dart';
 import '../../../navigation/app_router.dart';
 import '../home/bloc/home_bloc.dart';
 import '../notifications/bloc/notifications_bloc.dart';
+import '../vocabulary/bloc/vocabulary_bloc.dart';
 
 class HomeNavigation extends StatefulWidget {
   final Widget child;
@@ -143,6 +144,7 @@ class _HomeNavigationState extends State<HomeNavigation> {
     final notificationsBloc = context.read<NotificationsBloc>();
     notificationsBloc.add(const NotificationsEvent.requestPermissions());
     notificationsBloc.add(const NotificationsEvent.handleOpenAppFromNotification());
+    context.read<VocabularyBloc>().add(const VocabularyEvent.getAllOxfordWords());
     _appLifecycleListener = AppLifecycleListener(
       onShow: () {
         debugPrint('NotificationsScreen: onShow');

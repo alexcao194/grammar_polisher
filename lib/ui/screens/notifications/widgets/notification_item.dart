@@ -28,7 +28,7 @@ class NotificationItem extends StatelessWidget {
         borderRadius: BorderRadius.circular(8),
       ),
       child: ListTile(
-        onTap: () => _showDetails(context),
+        onTap: isFirst ? null : () => _showDetails(context),
         title: Text(
           notification.title,
           style: textTheme.titleMedium?.copyWith(

@@ -84,12 +84,6 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
     );
   }
 
-  @override
-  void initState() {
-    super.initState();
-    context.read<VocabularyBloc>().add(const VocabularyEvent.getAllOxfordWords());
-  }
-
   void _onShowSearch() {
     setState(() {
       _showSearch = !_showSearch;
