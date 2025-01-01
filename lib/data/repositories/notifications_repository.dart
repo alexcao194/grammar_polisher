@@ -1,3 +1,6 @@
+import 'package:dartz/dartz.dart';
+
+import '../../core/failure.dart';
 import '../data_sources/local_data.dart';
 import '../models/scheduled_notification.dart';
 
@@ -5,6 +8,8 @@ abstract interface class NotificationsRepository {
   Future<void> saveScheduledNotification(ScheduledNotification scheduledNotification);
 
   List<ScheduledNotification> getScheduledNotifications();
+
+  Future<Either<Failure, void>> removeScheduledNotification(int id);
 }
 
 class NotificationsRepositoryImpl implements NotificationsRepository {
@@ -37,5 +42,15 @@ class NotificationsRepositoryImpl implements NotificationsRepository {
   @override
   Future<void> saveScheduledNotification(ScheduledNotification scheduledNotification) {
     return _localData.saveScheduledNotification(scheduledNotification);
+  }
+
+  @override
+  Future<Either<Failure, void>> removeScheduledNotification(int id) async {
+    try {
+      await _localData.removeScheduledNotification(id);
+      return const Right(null);
+    } catch (e) {
+      return Left(Failure(message: "There is no notification with this id"));
+    }
   }
 }

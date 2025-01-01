@@ -12,4 +12,7 @@ class NotificationsEvent with _$NotificationsEvent {
     required Duration interval,
   }) = _ScheduleWordReminder;
   const factory NotificationsEvent.reminderWordTomorrow({required Word word}) = _ReminderWordTomorrow;
+  const factory NotificationsEvent.getScheduledNotifications() = _GetScheduledNotifications;
+  const factory NotificationsEvent.removeScheduledNotifications(int id) = _RemoveScheduledNotifications;
+  const factory NotificationsEvent.emitState(NotificationsState state) = _EmitState;
 }

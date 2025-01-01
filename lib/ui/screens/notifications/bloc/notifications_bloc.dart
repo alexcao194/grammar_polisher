@@ -4,6 +4,7 @@ import 'package:freezed_annotation/freezed_annotation.dart';
 
 import '../../../../constants/notification_category.dart';
 import '../../../../constants/thread_identifiers.dart';
+import '../../../../core/failure.dart';
 import '../../../../data/models/scheduled_notification.dart';
 import '../../../../data/models/word.dart';
 import '../../../../data/repositories/notifications_repository.dart';
@@ -33,6 +34,9 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
         scheduleNextDayReminder: (event) => _scheduleNextDayReminder(event, emit),
         scheduleWordsReminder: (event) => _scheduleWordsReminder(event, emit),
         reminderWordTomorrow: (event) => _reminderWordTomorrow(event, emit),
+        getScheduledNotifications: (event) => _onGetScheduledNotifications(event, emit),
+        removeScheduledNotifications: (event) => _onRemoveScheduledNotifications(event, emit),
+        emitState: (event) => _onEmitState(event, emit),
       );
     });
   }
@@ -54,7 +58,7 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
     debugPrint('NotificationsBloc: scheduleNextDayReminder isGranted: $isGranted');
     if (isGranted) {
       final now = DateTime.now();
-      const nextDayReminderId = -1;
+      const nextDayReminderId = 0;
       final scheduledDate = DateTime(now.year, now.month, now.day, 8, 0).add(const Duration(days: 1));
       await _localNotificationsTools.scheduleNotification(
         id: nextDayReminderId,
@@ -152,5 +156,39 @@ class NotificationsBloc extends Bloc<NotificationsEvent, NotificationsState> {
   _onClearWordIdFromNotification(_ClearWordIdFromNotification event, Emitter<NotificationsState> emit) {
     debugPrint('NotificationsBloc: clearWordIdFromNotification');
     emit(state.copyWith(wordIdFromNotification: null));
+  }
+
+  _onGetScheduledNotifications(_GetScheduledNotifications event, Emitter<NotificationsState> emit) {
+    debugPrint('NotificationsBloc: getScheduledNotifications');
+    final notifications = _notificationsRepository.getScheduledNotifications();
+    emit(state.copyWith(scheduledNotifications: notifications));
+  }
+
+  _onRemoveScheduledNotifications(_RemoveScheduledNotifications event, Emitter<NotificationsState> emit) {
+    debugPrint('NotificationsBloc: removeScheduledNotifications');
+    _localNotificationsTools.cancelNotification(event.id);
+    _notificationsRepository.removeScheduledNotification(event.id).then((result) {
+      if (!isClosed) {
+        result.fold(
+          (failure) {
+            debugPrint('NotificationsBloc: removeScheduledNotifications failure: $failure');
+            emit(state.copyWith(failure: failure));
+            emit(state.copyWith(failure: null));
+          },
+          (_) => debugPrint('NotificationsBloc: removeScheduledNotifications success'),
+        );
+      }
+    });
+    final notifications = state.scheduledNotifications
+        .where(
+          (notification) => notification.id != event.id,
+        )
+        .toList();
+    emit(state.copyWith(scheduledNotifications: notifications));
+  }
+
+  _onEmitState(_EmitState event, Emitter<NotificationsState> emit) {
+    debugPrint('NotificationsBloc: emitState');
+    emit(event.state);
   }
 }
