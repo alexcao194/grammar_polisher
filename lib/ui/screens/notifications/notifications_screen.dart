@@ -1,9 +1,6 @@
-import 'package:app_settings/app_settings.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../../../constants/notification_category.dart';
-import '../../../utils/local_notifications_tools.dart';
 import '../../commons/base_page.dart';
 import 'bloc/notifications_bloc.dart';
 import 'widgets/notification_item.dart';
@@ -23,36 +20,9 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
         return BasePage(
           title: "Notifications",
           child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text("Notifications permission: ${state.isNotificationsGranted}"),
-                  ElevatedButton(
-                    onPressed: () {
-                      AppSettings.openAppSettings(type: AppSettingsType.notification);
-                    },
-                    child: const Text("Open notifications settings"),
-                  ),
-                  ElevatedButton(
-                    onPressed: () {
-                      LocalNotificationsTools().showNotification(
-                        title: "Test notification",
-                        body: "This is a test notification",
-                        category: NotificationCategory.vocabulary,
-                        threadIdentifier: "test",
-                        id: 5646,
-                        payload: "23",
-                      );
-                    },
-                    child: const Text("Push notification"),
-                  ),
-                  const SizedBox(height: 16),
-                  Text("Scheduled notifications:"),
-                  const SizedBox(height: 16),
-                ],
-              ),
+              Text("The scheduled notifications will appear here. You can view and delete any unnecessary notifications."),
+              const SizedBox(height: 16),
               Expanded(
                 child: ListView.builder(
                   itemCount: state.scheduledNotifications.length,
@@ -64,7 +34,7 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
                     );
                   },
                 ),
-              )
+              ),
             ],
           ),
         );

@@ -191,8 +191,6 @@ class _HomeScreenState extends State<HomeScreen> {
       case AIFunction.checkWriting:
         context.read<HomeBloc>().add(HomeEvent.checkWriting(content));
         break;
-      default:
-        break;
     }
   }
 }
