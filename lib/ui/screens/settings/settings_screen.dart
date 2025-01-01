@@ -5,6 +5,7 @@ import 'package:flutter_svg/svg.dart';
 
 import '../../../data/models/sense.dart';
 import '../../../data/models/word.dart';
+import '../../../data/models/word_status.dart';
 import '../../../generated/assets.dart';
 import '../../commons/base_page.dart';
 import '../../commons/rounded_button.dart';
@@ -12,7 +13,7 @@ import '../notifications/bloc/notifications_bloc.dart';
 import '../vocabulary/widgets/vocabulary_item.dart';
 import 'bloc/settings_bloc.dart';
 
-class SettingsScreen extends StatelessWidget {
+class SettingsScreen extends StatefulWidget {
   const SettingsScreen({super.key});
 
   static const seeks = [
@@ -26,6 +27,12 @@ class SettingsScreen extends StatelessWidget {
     Colors.red,
   ];
 
+  @override
+  State<SettingsScreen> createState() => _SettingsScreenState();
+}
+
+class _SettingsScreenState extends State<SettingsScreen> {
+  WordStatus _status = WordStatus.unknown;
   @override
   Widget build(BuildContext context) {
     final brightness = Theme.of(context).brightness;
@@ -41,77 +48,88 @@ class SettingsScreen extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Padding(
-                padding: const EdgeInsets.all(16.0),
-                child: VocabularyItem(
-                  word: Word(
-                    word: "sample",
-                    pos: "noun",
-                    phonetic: "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sam/sampl/sample__gb_3.mp3",
-                    phoneticText: "/ˈsɑːmpl/",
-                    phoneticAm: "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sam/sampl/sample__us_1.mp3",
-                    phoneticAmText: "/ˈsæmpl/",
-                    senses: [
-                      Sense(
-                        definition: "a number of people or things taken from a larger group and used in tests to provide information about the group",
-                        examples: [],
-                      )
-                    ],
-                  ),
-                  viewOnly: true,
-                ),
-              ),
-              Padding(
-                padding: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 16.0),
-                child: Text("Color", style: textTheme.titleMedium),
-              ),
-              SizedBox(
-                height: 60,
-                child: ListView.builder(
-                  itemCount: SettingsScreen.seeks.length,
-                  scrollDirection: Axis.horizontal,
-                  itemBuilder: (context, index) {
-                    return GestureDetector(
-                      onTap: () => _onChangeColor(context, SettingsScreen.seeks[index].value),
-                      child: Container(
-                        width: 60,
-                        margin: const EdgeInsets.all(10),
-                        decoration: BoxDecoration(
-                          color: ColorScheme.fromSeed(
-                            seedColor: SettingsScreen.seeks[index],
-                            brightness: brightness,
-                          ).primary,
-                          borderRadius: BorderRadius.circular(10),
+              Expanded(
+                child: SingleChildScrollView(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Padding(
+                        padding: const EdgeInsets.all(16.0),
+                        child: VocabularyItem(
+                          word: Word(
+                            word: "sample",
+                            pos: "noun",
+                            phonetic: "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sam/sampl/sample__gb_3.mp3",
+                            phoneticText: "/ˈsɑːmpl/",
+                            phoneticAm: "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sam/sampl/sample__us_1.mp3",
+                            phoneticAmText: "/ˈsæmpl/",
+                            senses: [
+                              Sense(
+                                definition: "a number of people or things taken from a larger group and used in tests to provide information about the group",
+                                examples: [],
+                              )
+                            ],
+                            status: _status,
+                          ),
+                          onMastered: _onMastered,
+                          onStar: _onStar,
+                          viewOnly: true,
                         ),
                       ),
-                    );
-                  },
+                      Padding(
+                        padding: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 16.0),
+                        child: Text("Color", style: textTheme.titleMedium),
+                      ),
+                      SizedBox(
+                        height: 60,
+                        child: ListView.builder(
+                          itemCount: SettingsScreen.seeks.length,
+                          scrollDirection: Axis.horizontal,
+                          itemBuilder: (context, index) {
+                            return GestureDetector(
+                              onTap: () => _onChangeColor(context, SettingsScreen.seeks[index].value),
+                              child: Container(
+                                width: 60,
+                                margin: const EdgeInsets.all(10),
+                                decoration: BoxDecoration(
+                                  color: ColorScheme.fromSeed(
+                                    seedColor: SettingsScreen.seeks[index],
+                                    brightness: brightness,
+                                  ).primary,
+                                  borderRadius: BorderRadius.circular(10),
+                                ),
+                              ),
+                            );
+                          },
+                        ),
+                      ),
+                      const SizedBox(height: 16),
+                      Padding(
+                        padding: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 16.0),
+                        child: Text("Theme", style: textTheme.titleMedium),
+                      ),
+                      RadioListTile<int>(
+                        title: Text("Light"),
+                        value: ThemeMode.light.index,
+                        groupValue: settingsSnapshot.themeMode,
+                        onChanged: (value) => _onChangeTheme(context, value),
+                      ),
+                      RadioListTile<int>(
+                        title: Text("Dart"),
+                        value: ThemeMode.dark.index,
+                        groupValue: settingsSnapshot.themeMode,
+                        onChanged: (value) => _onChangeTheme(context, value),
+                      ),
+                      RadioListTile<int>(
+                        title: Text("System"),
+                        value: ThemeMode.system.index,
+                        groupValue: settingsSnapshot.themeMode,
+                        onChanged: (value) => _onChangeTheme(context, value),
+                      ),
+                    ],
+                  ),
                 ),
               ),
-              const SizedBox(height: 16),
-              Padding(
-                padding: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 16.0),
-                child: Text("Theme", style: textTheme.titleMedium),
-              ),
-              RadioListTile<int>(
-                title: Text("Light"),
-                value: ThemeMode.light.index,
-                groupValue: settingsSnapshot.themeMode,
-                onChanged: (value) => _onChangeTheme(context, value),
-              ),
-              RadioListTile<int>(
-                title: Text("Dart"),
-                value: ThemeMode.dark.index,
-                groupValue: settingsSnapshot.themeMode,
-                onChanged: (value) => _onChangeTheme(context, value),
-              ),
-              RadioListTile<int>(
-                title: Text("System"),
-                value: ThemeMode.system.index,
-                groupValue: settingsSnapshot.themeMode,
-                onChanged: (value) => _onChangeTheme(context, value),
-              ),
-              const Spacer(),
               if (!isGrantedNotificationsPermission) Padding(
                 padding: const EdgeInsets.all(16.0),
                 child: RoundedButton(
@@ -161,5 +179,29 @@ class SettingsScreen extends StatelessWidget {
 
   void _openNotificationsSettings() {
     AppSettings.openAppSettings(type: AppSettingsType.notification);
+  }
+
+  void _onMastered() {
+    if (_status == WordStatus.mastered) {
+      setState(() {
+        _status = WordStatus.unknown;
+      });
+    } else {
+      setState(() {
+        _status = WordStatus.mastered;
+      });
+    }
+  }
+
+  void _onStar() {
+    if (_status == WordStatus.star) {
+      setState(() {
+        _status = WordStatus.unknown;
+      });
+    } else {
+      setState(() {
+        _status = WordStatus.star;
+      });
+    }
   }
 }

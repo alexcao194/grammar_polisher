@@ -1,12 +1,11 @@
+import 'package:app_settings/app_settings.dart';
 import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';
 
 import '../../../../generated/assets.dart';
-import '../../../../navigation/app_router.dart';
 import '../../../commons/rounded_button.dart';
 
-class EmptyReviewPage extends StatelessWidget {
-  const EmptyReviewPage({super.key});
+class EmptyNotificationsPage extends StatelessWidget {
+  const EmptyNotificationsPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -16,7 +15,7 @@ class EmptyReviewPage extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text(
-          'No words to review',
+          'Permission is not granted.',
           style: textTheme.titleLarge?.copyWith(
             fontWeight: FontWeight.bold,
           ),
@@ -29,7 +28,7 @@ class EmptyReviewPage extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.symmetric(horizontal: 16.0),
           child: Text(
-            'You can add some words to your review list and use flashcards (coming soon) to memorize them.',
+            'To receive and manage reminders, please grant the permission.',
             style: textTheme.bodyMedium?.copyWith(
               color: colorScheme.onSurface.withAlpha(150),
             ),
@@ -41,16 +40,16 @@ class EmptyReviewPage extends StatelessWidget {
           expand: false,
           padding: const EdgeInsets.symmetric(horizontal: 16),
           borderRadius: 8,
-          onPressed: () => _onAddWords(context),
+          onPressed: () => _onGrantPermission(context),
           child: Text(
-            'Add words to review',
+            'Grant Permission',
           ),
         ),
       ],
     );
   }
 
-  void _onAddWords(BuildContext context) {
-    context.go(RoutePaths.vocabulary);
+  void _onGrantPermission(BuildContext context) {
+    AppSettings.openAppSettings(type: AppSettingsType.notification);
   }
 }

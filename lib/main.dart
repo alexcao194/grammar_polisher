@@ -47,11 +47,11 @@ void main() async {
 void onDidReceiveNotificationResponse(NotificationResponse notificationResponse) {
   debugPrint('onDidReceiveNotificationResponse: ${notificationResponse.payload}');
   final id = int.tryParse(notificationResponse.payload ?? '');
-  AppRouter.rootNavigatorKey.currentContext?.go(RoutePaths.review, extra: {'word_id': id});
+  AppRouter.rootNavigatorKey.currentContext?.go(RoutePaths.vocabulary, extra: {'wordId': id});
 }
 
 void onDidReceiveBackgroundNotificationResponse(NotificationResponse notificationResponse) {
   debugPrint('onDidReceiveBackgroundNotificationResponse: ${notificationResponse.payload}');
   final id = int.tryParse(notificationResponse.payload ?? '');
-  AppRouter.rootNavigatorKey.currentContext?.go(RoutePaths.review, extra: {'word_id': id});
+  AppRouter.rootNavigatorKey.currentContext?.go(RoutePaths.vocabulary, extra: {'wordId': id});
 }

@@ -4,7 +4,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../../../data/models/word.dart';
 import '../../../../data/models/word_status.dart';
 import '../../../../generated/assets.dart';
-import '../../../../utils/app_snack_bar.dart';
 import '../../../commons/dialogs/request_notifications_permission_dialog.dart';
 import '../../../commons/dialogs/word_details_dialog.dart';
 import '../../../commons/svg_button.dart';
@@ -16,11 +15,15 @@ import 'pos_badge.dart';
 class VocabularyItem extends StatelessWidget {
   final Word word;
   final bool viewOnly;
+  final VoidCallback? onMastered;
+  final VoidCallback? onStar;
 
   const VocabularyItem({
     super.key,
     required this.word,
     this.viewOnly = false,
+    this.onMastered,
+    this.onStar,
   });
 
   @override
@@ -132,6 +135,7 @@ class VocabularyItem extends StatelessWidget {
   }
 
   void _masteredWord(BuildContext context) {
+    onMastered?.call();
     if (viewOnly) {
       return;
     }
@@ -143,6 +147,7 @@ class VocabularyItem extends StatelessWidget {
   }
 
   void _startWord(BuildContext context) {
+    onStar?.call();
     if (viewOnly) {
       return;
     }
@@ -158,7 +163,7 @@ class VocabularyItem extends StatelessWidget {
       case WordStatus.unknown:
         return colorScheme.primaryContainer;
       case WordStatus.mastered:
-        return Colors.grey[300];
+        return colorScheme.secondaryContainer.withAlpha(100);
       case WordStatus.star:
         return colorScheme.tertiaryContainer;
     }
@@ -189,6 +194,5 @@ class VocabularyItem extends StatelessWidget {
       return;
     }
     context.read<NotificationsBloc>().add(NotificationsEvent.reminderWordTomorrow(word: word));
-    AppSnackBar.showInfo(context, "Reminder set for a random time tomorrow");
   }
 }

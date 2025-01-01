@@ -11,6 +11,7 @@ import '../../../utils/extensions/go_router_extension.dart';
 import '../../../navigation/app_router.dart';
 import '../home/bloc/home_bloc.dart';
 import '../notifications/bloc/notifications_bloc.dart';
+import '../vocabulary/bloc/vocabulary_bloc.dart';
 
 class HomeNavigation extends StatefulWidget {
   final Widget child;
@@ -66,6 +67,17 @@ class _HomeNavigationState extends State<HomeNavigation> {
         BlocListener<HomeBloc, HomeState>(
           listener: (context, state) {
             _handleError(context, state.failure);
+          },
+        ),
+        BlocListener<NotificationsBloc, NotificationsState>(
+          listener: (context, state) {
+            _handleError(context, state.failure);
+            if (state.wordIdFromNotification != null) {
+              context.go(RoutePaths.vocabulary, extra: {'wordId': state.wordIdFromNotification});
+            }
+            if (state.message != null) {
+              AppSnackBar.showInfo(context, state.message!);
+            }
           },
         ),
       ],
@@ -133,12 +145,15 @@ class _HomeNavigationState extends State<HomeNavigation> {
   @override
   void initState() {
     super.initState();
-    context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
+    final notificationsBloc = context.read<NotificationsBloc>();
+    notificationsBloc.add(const NotificationsEvent.requestPermissions());
+    notificationsBloc.add(const NotificationsEvent.handleOpenAppFromNotification());
+    context.read<VocabularyBloc>().add(const VocabularyEvent.getAllOxfordWords());
     _appLifecycleListener = AppLifecycleListener(
       onShow: () {
         debugPrint('NotificationsScreen: onShow');
         // this is needed to update the permissions status when the user returns to the app after changing the notification settings
-        context.read<NotificationsBloc>().add(const NotificationsEvent.requestPermissions());
+        notificationsBloc.add(const NotificationsEvent.requestPermissions());
       },
     );
   }

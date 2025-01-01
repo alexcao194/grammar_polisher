@@ -31,7 +31,7 @@ class OxfordWordsRepositoryImpl implements OxfordWordsRepository {
     final words = (await _assetsData.getAllOxfordWords())
         .mapIndexed(
           (index, word) => word.copyWith(
-            index: index,
+            index: index + 1,
           ),
         )
         .toList();

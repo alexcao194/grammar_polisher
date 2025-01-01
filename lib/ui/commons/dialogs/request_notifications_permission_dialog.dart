@@ -1,6 +1,5 @@
 import 'package:app_settings/app_settings.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 
 import '../../../generated/assets.dart';
 import '../rounded_button.dart';
@@ -18,16 +17,16 @@ class RequestNotificationsPermissionDialog extends StatelessWidget {
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            SvgPicture.asset(
-              Assets.svgNotifications,
-              height: 48,
-            ),
-            const SizedBox(height: 16),
             Text(
-              "Notifications Permission",
+              "Notifications",
               style: textTheme.titleLarge?.copyWith(
                 fontWeight: FontWeight.bold,
               ),
+            ),
+            const SizedBox(height: 16),
+            Image.asset(
+              Assets.pngBook,
+              height: 100,
             ),
             const SizedBox(height: 16),
             Text(

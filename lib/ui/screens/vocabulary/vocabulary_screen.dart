@@ -6,13 +6,17 @@ import '../../../data/models/word.dart';
 import '../../../data/models/word_status.dart';
 import '../../../generated/assets.dart';
 import '../../commons/base_page.dart';
+import '../../commons/dialogs/word_details_dialog.dart';
 import '../../commons/svg_button.dart';
+import '../notifications/bloc/notifications_bloc.dart';
 import 'bloc/vocabulary_bloc.dart';
 import 'widgets/search_box.dart';
 import 'widgets/vocabulary_item.dart';
 
 class VocabularyScreen extends StatefulWidget {
-  const VocabularyScreen({super.key});
+  final int? wordId;
+
+  const VocabularyScreen({super.key, this.wordId});
 
   @override
   State<VocabularyScreen> createState() => _VocabularyScreenState();
@@ -27,7 +31,10 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return BlocBuilder<VocabularyBloc, VocabularyState>(
+    return BlocConsumer<VocabularyBloc, VocabularyState>(
+      listener: (context, state) {
+        _showWordDetails();
+      },
       builder: (context, state) {
         final words = _getFilteredWords(state.words);
         return BasePage(
@@ -67,10 +74,12 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
     );
   }
 
+
   @override
   void initState() {
     super.initState();
-    context.read<VocabularyBloc>().add(const VocabularyEvent.getAllOxfordWords());
+    _showWordDetails();
+    _listenNotificationsBloc();
   }
 
   void _onShowSearch() {
@@ -130,5 +139,31 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
       final containsStatus = _selectedStatus.contains(word.status);
       return containsPos && containsLetter && containsSearchText && containsStatus;
     }).toList();
+  }
+
+  _showWordDetails() {
+    final notificationsBloc = context.read<NotificationsBloc>();
+    final wordId = widget.wordId ?? notificationsBloc.state.wordIdFromNotification;
+    if (wordId != null) {
+      context.read<NotificationsBloc>().add(const NotificationsEvent.clearWordIdFromNotification());
+      final word = context.read<VocabularyBloc>().state.words.firstWhere(
+            (element) => element.index == wordId,
+          );
+      WidgetsBinding.instance.addPostFrameCallback((timeStamp) {
+        showDialog(
+          context: context,
+          builder: (context) => WordDetailsDialog(word: word),
+        );
+      });
+    }
+  }
+
+  void _listenNotificationsBloc() {
+    final notificationsBloc = context.read<NotificationsBloc>();
+    notificationsBloc.stream.listen((state) {
+      if (state.wordIdFromNotification != null) {
+        _showWordDetails();
+      }
+    });
   }
 }
