@@ -23,6 +23,7 @@ class ReviewScreen extends StatefulWidget {
 class _ReviewScreenState extends State<ReviewScreen> {
   String _time = '08:00';
   String _minutes = '05';
+  bool _isExpanded = false;
 
   @override
   Widget build(BuildContext context) {
@@ -64,6 +65,8 @@ class _ReviewScreenState extends State<ReviewScreen> {
                           TimePicker(
                             value: _time,
                             hasPeriod: false,
+                            isExpanded: _isExpanded,
+                            onTap: _onExpand,
                             onChanged: (value) {
                               setState(() {
                                 _time = value;
@@ -84,6 +87,8 @@ class _ReviewScreenState extends State<ReviewScreen> {
                             value: _minutes,
                             hasHour: false,
                             hasPeriod: false,
+                            isExpanded: _isExpanded,
+                            onTap: _onExpand,
                             onChanged: (value) {
                               setState(() {
                                 _minutes = value;
@@ -135,5 +140,14 @@ class _ReviewScreenState extends State<ReviewScreen> {
           ),
         );
     AppSnackBar.showInfo(context, "Words reminder scheduled");
+    setState(() {
+      _isExpanded = false;
+    });
+  }
+
+  void _onExpand() {
+    setState(() {
+      _isExpanded = !_isExpanded;
+    });
   }
 }

@@ -8,6 +8,8 @@ class TimePicker extends StatefulWidget {
   final bool hasHour;
   final bool hasMinute;
   final bool hasPeriod;
+  final bool isExpanded;
+  final VoidCallback? onTap;
 
   const TimePicker({
     super.key,
@@ -16,6 +18,8 @@ class TimePicker extends StatefulWidget {
     this.hasHour = true,
     this.hasMinute = true,
     this.hasPeriod = true,
+    this.isExpanded = false,
+    this.onTap,
   });
 
   @override
@@ -23,8 +27,6 @@ class TimePicker extends StatefulWidget {
 }
 
 class _TimePickerState extends State<TimePicker> {
-  bool _isExpanded = false;
-
   String _hour = "";
   String _minute = "";
   String _period = "";
@@ -33,20 +35,16 @@ class _TimePickerState extends State<TimePicker> {
   Widget build(BuildContext context) {
     final colorScheme = Theme.of(context).colorScheme;
     return GestureDetector(
-      onTap: () {
-        setState(() {
-          _isExpanded = !_isExpanded;
-        });
-      },
+      onTap: widget.onTap,
       child: AnimatedContainer(
         duration: const Duration(milliseconds: 300),
         width: double.infinity,
-        height: _isExpanded ? 200 : 60,
+        height: widget.isExpanded ? 200 : 60,
         decoration: BoxDecoration(
           color: colorScheme.primaryContainer,
           borderRadius: BorderRadius.circular(12),
         ),
-        child: _isExpanded
+        child: widget.isExpanded
             ? Stack(
                 alignment: Alignment.center,
                 children: [
