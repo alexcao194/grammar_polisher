@@ -130,7 +130,7 @@ class LocalNotificationsTools {
         payload: payload,
         tz.TZDateTime.from(scheduledDate, tz.local),
         notificationDetails,
-        androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
+        androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
         uiLocalNotificationDateInterpretation:
         UILocalNotificationDateInterpretation.absoluteTime,
     );
