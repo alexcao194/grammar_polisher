@@ -42,7 +42,11 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     final textTheme = Theme.of(context).textTheme;
     final colorScheme = Theme.of(context).colorScheme;
-    return BlocBuilder<HomeBloc, HomeState>(
+    return BlocConsumer<HomeBloc, HomeState>(
+      listenWhen: (previous, current) => current.result != null,
+      listener: (context, state) {
+        AdsTools.requestNewInterstitial();
+      },
       builder: (context, state) {
         return Stack(
           children: [
@@ -173,7 +177,6 @@ class _HomeScreenState extends State<HomeScreen> {
       AppSnackBar.showError(context, 'Please write some content');
       return;
     }
-    AdsTools.requestNewInterstitial();
     final content = _textController.text;
     switch (_selectedFunction) {
       case AIFunction.improveWriting:
