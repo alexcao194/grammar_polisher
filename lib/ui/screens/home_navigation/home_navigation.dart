@@ -76,7 +76,7 @@ class _HomeNavigationState extends State<HomeNavigation> {
               context.go(RoutePaths.vocabulary, extra: {'wordId': state.wordIdFromNotification});
             }
             if (state.message != null) {
-              AppSnackBar.showInfo(context, state.message!);
+              AppSnackBar.showSuccess(context, state.message!);
             }
           },
         ),
