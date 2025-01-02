@@ -157,7 +157,7 @@ class _ReviewScreenState extends State<ReviewScreen> {
             words: words,
           ),
         );
-    AppSnackBar.showInfo(context, "Words reminder scheduled");
+    AppSnackBar.showSuccess(context, "Words reminder scheduled");
     setState(() {
       _isExpanded = false;
     });

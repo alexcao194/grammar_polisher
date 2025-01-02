@@ -46,6 +46,7 @@ class Assets {
   static const String svgClose = 'assets/svg/close.svg';
   static const String svgCopy = 'assets/svg/copy.svg';
   static const String svgDelete = 'assets/svg/delete.svg';
+  static const String svgError = 'assets/svg/error.svg';
   static const String svgHome = 'assets/svg/home.svg';
   static const String svgMic = 'assets/svg/mic.svg';
   static const String svgNotifications = 'assets/svg/notifications.svg';
@@ -54,6 +55,7 @@ class Assets {
   static const String svgSearch = 'assets/svg/search.svg';
   static const String svgSettings = 'assets/svg/settings.svg';
   static const String svgStar = 'assets/svg/star.svg';
+  static const String svgSuccess = 'assets/svg/success.svg';
   static const String svgVocabulary = 'assets/svg/vocabulary.svg';
   static const String svgVolumeUp = 'assets/svg/volume_up.svg';
 
