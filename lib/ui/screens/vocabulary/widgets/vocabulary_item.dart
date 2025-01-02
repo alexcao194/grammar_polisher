@@ -17,6 +17,7 @@ class VocabularyItem extends StatelessWidget {
   final bool viewOnly;
   final VoidCallback? onMastered;
   final VoidCallback? onStar;
+  final VoidCallback? onReminder;
 
   const VocabularyItem({
     super.key,
@@ -24,6 +25,7 @@ class VocabularyItem extends StatelessWidget {
     this.viewOnly = false,
     this.onMastered,
     this.onStar,
+    this.onReminder,
   });
 
   @override
@@ -193,6 +195,7 @@ class VocabularyItem extends StatelessWidget {
       );
       return;
     }
+    onReminder?.call();
     context.read<NotificationsBloc>().add(NotificationsEvent.reminderWordTomorrow(word: word));
   }
 }

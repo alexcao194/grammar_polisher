@@ -9,6 +9,7 @@ import '../../../data/models/check_writing_result.dart';
 import '../../../data/models/detect_gpt_result.dart';
 import '../../../data/models/improve_writing_result.dart';
 import '../../../data/models/score_type.dart';
+import '../../../utils/ads_tools.dart';
 import '../../../utils/app_snack_bar.dart';
 import '../../commons/banner_ads.dart';
 import '../../commons/base_page.dart';
@@ -172,6 +173,7 @@ class _HomeScreenState extends State<HomeScreen> {
       AppSnackBar.showError(context, 'Please write some content');
       return;
     }
+    AdsTools.requestNewInterstitial();
     final content = _textController.text;
     switch (_selectedFunction) {
       case AIFunction.improveWriting:
