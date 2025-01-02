@@ -28,14 +28,14 @@ class TextFieldControlBox extends StatelessWidget {
         ),
         const SizedBox(width: 16),
         SvgButton(
-          svg: Assets.svgDelete,
+          svg: Assets.svgClear,
           onPressed: _onDelete,
         ),
-        const SizedBox(width: 16),
-        SvgButton(
-          svg: Assets.svgMic,
-          onPressed: _onMic,
-        ),
+        // const SizedBox(width: 16),
+        // SvgButton(
+        //   svg: Assets.svgMic,
+        //   onPressed: _onMic,
+        // ),
       ],
     );
   }
