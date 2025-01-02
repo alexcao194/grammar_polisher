@@ -54,6 +54,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       'Write your content here\nWe\'ll help you improve it',
                       style: textTheme.headlineMedium?.copyWith(
                         fontWeight: FontWeight.w600,
+                        color: colorScheme.primary,
                       ),
                       textAlign: TextAlign.center,
                     ),

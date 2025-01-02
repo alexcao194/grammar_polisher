@@ -16,12 +16,14 @@ class AppHeader extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final textTheme = Theme.of(context).textTheme;
+    final colorScheme = Theme.of(context).colorScheme;
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 12.0, horizontal: 24),
       child: Stack(
         children: [
           Center(child: Text(title, style: textTheme.titleLarge?.copyWith(
             fontWeight: FontWeight.bold,
+            color: colorScheme.primary,
           ))),
           Row(
             children: [
