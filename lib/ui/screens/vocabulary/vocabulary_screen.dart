@@ -5,6 +5,7 @@ import '../../../constants/word_pos.dart';
 import '../../../data/models/word.dart';
 import '../../../data/models/word_status.dart';
 import '../../../generated/assets.dart';
+import '../../commons/banner_ads.dart';
 import '../../commons/base_page.dart';
 import '../../commons/dialogs/word_details_dialog.dart';
 import '../../commons/svg_button.dart';
@@ -67,6 +68,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                   },
                 ),
               ),
+              BannerAds(),
             ],
           ),
         );
