@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'navigation/app_router.dart';
@@ -15,7 +16,30 @@ class _AppState extends State<App> {
   @override
   Widget build(BuildContext context) {
     final fontFamily = 'SF Pro Display';
-    return BlocBuilder<SettingsBloc, SettingsState>(
+    return BlocConsumer<SettingsBloc, SettingsState>(
+      listenWhen: (previous, current) {
+        return previous.settingsSnapshot != current.settingsSnapshot;
+      },
+      listener: (context, state) {
+        WidgetsBinding.instance.addPostFrameCallback((_) {
+          final isLight = state.settingsSnapshot.themeMode == ThemeMode.light.index;
+          final isSystemMode = state.settingsSnapshot.themeMode == ThemeMode.system.index;
+          Brightness brightness = Brightness.light;
+          if (isSystemMode) {
+            final systemBrightness = MediaQuery.of(context).platformBrightness;
+            brightness = systemBrightness == Brightness.dark ? Brightness.light : Brightness.dark;
+          }
+          if (isLight) {
+            brightness = Brightness.dark;
+          }
+          SystemChrome.setSystemUIOverlayStyle(
+            SystemUiOverlayStyle(
+              statusBarColor: Colors.transparent,
+              statusBarIconBrightness: brightness,
+            ),
+          );
+        });
+      },
       builder: (context, state) {
         var snapshot = state.settingsSnapshot;
         return MaterialApp.router(
