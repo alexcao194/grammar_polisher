@@ -139,7 +139,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     children: [
                       SvgPicture.asset(
                         Assets.svgNotifications,
-                        height: 24,
+                        height: 20,
                         colorFilter: ColorFilter.mode(
                           colorScheme.onPrimary,
                           BlendMode.srcIn,
