@@ -19,26 +19,26 @@ class HomeNavigation extends StatefulWidget {
   const HomeNavigation({super.key, required this.child});
 
   static const routes = [
-    RoutePaths.home,
     RoutePaths.vocabulary,
     RoutePaths.notifications,
     RoutePaths.review,
+    RoutePaths.home,
     RoutePaths.settings,
   ];
 
   static const icons = [
-    Assets.svgHome,
     Assets.svgVocabulary,
     Assets.svgNotifications,
     Assets.svgStar,
+    Assets.svgHome,
     Assets.svgSettings,
   ];
 
   static const labels = [
-    "Grammar AI",
     "Oxford Words",
     "Reminders",
     "Review",
+    "Grammarly AI",
     "Settings",
   ];
 

@@ -20,7 +20,7 @@ class AppRouter {
   static final GlobalKey<NavigatorState> homeNavigatorKey = GlobalKey<NavigatorState>(debugLabel: 'home');
 
   static final router = GoRouter(
-    initialLocation: RoutePaths.home,
+    initialLocation: RoutePaths.vocabulary,
     navigatorKey: rootNavigatorKey,
     routes: [
       ShellRoute(
