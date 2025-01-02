@@ -2,6 +2,7 @@ import 'package:app_settings/app_settings.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_svg/svg.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../../../data/models/sense.dart';
 import '../../../data/models/word.dart';
@@ -138,6 +139,26 @@ class _SettingsScreenState extends State<SettingsScreen> {
                         groupValue: settingsSnapshot.themeMode,
                         onChanged: (value) => _onChangeTheme(context, value),
                       ),
+                      const SizedBox(height: 16),
+                      Padding(
+                        padding: const EdgeInsets.symmetric(horizontal: 12.0),
+                        child: Text(
+                          "If you have any questions or suggestions, please contact us for support. We will respond as soon as possible.",
+                        ),
+                      ),
+                      const SizedBox(height: 8),
+                      TextButton(
+                        onPressed: _openContactMail,
+                        child: Text("Contact us"),
+                      ),
+                      TextButton(
+                        onPressed: _openTermsOfUse,
+                        child: Text("Terms of Use"),
+                      ),
+                      TextButton(
+                        onPressed: _openPrivacyPolicy,
+                        child: Text("Privacy Policy"),
+                      ),
                     ],
                   ),
                 ),
@@ -220,5 +241,25 @@ class _SettingsScreenState extends State<SettingsScreen> {
         _status = WordStatus.star;
       });
     }
+  }
+
+  void _openContactMail() async {
+    final contactEmail = const String.fromEnvironment("CONTACT_EMAIL");
+    final Uri emailLaunchUri = Uri(
+      scheme: 'mailto',
+      path: contactEmail,
+      query: 'subject=Feedback For Oxford Dictionary',
+    );
+    await launchUrl(emailLaunchUri);
+  }
+
+  void _openTermsOfUse() async {
+    final termsOfUseUrl = const String.fromEnvironment("TERMS_OF_USE_URL");
+    await launchUrl(Uri.parse(termsOfUseUrl));
+  }
+
+  void _openPrivacyPolicy() async {
+    final privacyPolicyUrl = const String.fromEnvironment("PRIVACY_POLICY_URL");
+    await launchUrl(Uri.parse(privacyPolicyUrl));
   }
 }
