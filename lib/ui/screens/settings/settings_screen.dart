@@ -7,6 +7,7 @@ import '../../../data/models/sense.dart';
 import '../../../data/models/word.dart';
 import '../../../data/models/word_status.dart';
 import '../../../generated/assets.dart';
+import '../../commons/banner_ads.dart';
 import '../../commons/base_page.dart';
 import '../../commons/rounded_button.dart';
 import '../notifications/bloc/notifications_bloc.dart';
@@ -140,6 +141,10 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     ],
                   ),
                 ),
+              ),
+              Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: BannerAds(),
               ),
               if (!isGrantedNotificationsPermission)
                 Padding(

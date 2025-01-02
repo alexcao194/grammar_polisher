@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../../../data/models/word.dart';
 import '../../screens/vocabulary/widgets/phonetic.dart';
+import '../banner_ads.dart';
 
 class WordDetailsDialog extends StatelessWidget {
   final Word word;
@@ -83,6 +84,7 @@ class WordDetailsDialog extends StatelessWidget {
                   );
                 }
               ),
+              BannerAds()
             ],
           ),
         ),

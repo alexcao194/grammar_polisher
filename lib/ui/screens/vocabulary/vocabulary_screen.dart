@@ -5,6 +5,8 @@ import '../../../constants/word_pos.dart';
 import '../../../data/models/word.dart';
 import '../../../data/models/word_status.dart';
 import '../../../generated/assets.dart';
+import '../../../utils/ads_tools.dart';
+import '../../commons/banner_ads.dart';
 import '../../commons/base_page.dart';
 import '../../commons/dialogs/word_details_dialog.dart';
 import '../../commons/svg_button.dart';
@@ -28,6 +30,8 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
   List<WordStatus> _selectedStatus = [WordStatus.star, WordStatus.unknown];
   String? _selectedLetter;
   String _searchText = '';
+
+  int _notificationCount = 0;
 
   @override
   Widget build(BuildContext context) {
@@ -63,17 +67,20 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                   itemCount: words.length,
                   itemBuilder: (context, index) {
                     final word = words[index];
-                    return VocabularyItem(word: word);
+                    return VocabularyItem(
+                      word: word,
+                      onReminder: _onReminder,
+                    );
                   },
                 ),
               ),
+              BannerAds(),
             ],
           ),
         );
       },
     );
   }
-
 
   @override
   void initState() {
@@ -165,5 +172,13 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
         _showWordDetails();
       }
     });
+  }
+
+  void _onReminder() {
+    _notificationCount++;
+    if (_notificationCount == 7) {
+      AdsTools.requestNewInterstitial();
+      _notificationCount = 0;
+    }
   }
 }
