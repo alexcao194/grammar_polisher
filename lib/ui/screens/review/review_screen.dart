@@ -116,6 +116,7 @@ class _ReviewScreenState extends State<ReviewScreen> {
                   borderRadius: 16,
                   child: Text("Remind me"),
                 ),
+                const SizedBox(height: 16),
               ],
             )
           : EmptyReviewPage(),

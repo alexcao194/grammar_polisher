@@ -46,14 +46,15 @@ class _HomeScreenState extends State<HomeScreen> {
         return Stack(
           children: [
             BasePage(
-              title: 'Home',
+              title: 'Grammarly AI',
               child: SingleChildScrollView(
                 child: Column(
                   children: [
                     Text(
-                      'Write your content here\nWe\'ll polish it for you',
+                      'Write your content here\nWe\'ll help you improve it',
                       style: textTheme.headlineMedium?.copyWith(
                         fontWeight: FontWeight.w600,
+                        color: colorScheme.primary,
                       ),
                       textAlign: TextAlign.center,
                     ),

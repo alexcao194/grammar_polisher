@@ -33,6 +33,7 @@ class SettingsScreen extends StatefulWidget {
 
 class _SettingsScreenState extends State<SettingsScreen> {
   WordStatus _status = WordStatus.unknown;
+
   @override
   Widget build(BuildContext context) {
     final brightness = Theme.of(context).brightness;
@@ -78,7 +79,12 @@ class _SettingsScreenState extends State<SettingsScreen> {
                       ),
                       Padding(
                         padding: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 16.0),
-                        child: Text("Color", style: textTheme.titleMedium),
+                        child: Text(
+                          "Color",
+                          style: textTheme.titleMedium?.copyWith(
+                            color: colorScheme.primary,
+                          ),
+                        ),
                       ),
                       SizedBox(
                         height: 60,
@@ -106,7 +112,12 @@ class _SettingsScreenState extends State<SettingsScreen> {
                       const SizedBox(height: 16),
                       Padding(
                         padding: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 16.0),
-                        child: Text("Theme", style: textTheme.titleMedium),
+                        child: Text(
+                          "Theme",
+                          style: textTheme.titleMedium?.copyWith(
+                            color: colorScheme.primary,
+                          ),
+                        ),
                       ),
                       RadioListTile<int>(
                         title: Text("Light"),
@@ -130,27 +141,28 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   ),
                 ),
               ),
-              if (!isGrantedNotificationsPermission) Padding(
-                padding: const EdgeInsets.all(16.0),
-                child: RoundedButton(
-                  onPressed: _openNotificationsSettings,
-                  borderRadius: 16,
-                  child: Row(
-                    children: [
-                      SvgPicture.asset(
-                        Assets.svgNotifications,
-                        height: 24,
-                        colorFilter: ColorFilter.mode(
-                          colorScheme.onPrimary,
-                          BlendMode.srcIn,
+              if (!isGrantedNotificationsPermission)
+                Padding(
+                  padding: const EdgeInsets.all(16.0),
+                  child: RoundedButton(
+                    onPressed: _openNotificationsSettings,
+                    borderRadius: 16,
+                    child: Row(
+                      children: [
+                        SvgPicture.asset(
+                          Assets.svgNotifications,
+                          height: 20,
+                          colorFilter: ColorFilter.mode(
+                            colorScheme.onPrimary,
+                            BlendMode.srcIn,
+                          ),
                         ),
-                      ),
-                      const SizedBox(width: 4),
-                      Text("Enable Notifications"),
-                    ],
+                        const SizedBox(width: 4),
+                        Text("Enable Notifications"),
+                      ],
+                    ),
                   ),
-                ),
-              )
+                )
             ],
           ),
         );

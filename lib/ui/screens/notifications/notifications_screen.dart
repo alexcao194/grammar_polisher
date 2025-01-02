@@ -46,6 +46,7 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
                       borderRadius: 16,
                       child: Text("New Reminder"),
                     ),
+                    const SizedBox(height: 16),
                   ],
                 )
               : EmptyNotificationsPage(),
