@@ -51,7 +51,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 child: Column(
                   children: [
                     Text(
-                      'Write your content here\nWe\'ll polish it for you',
+                      'Write your content here\nWe\'ll help you improve it',
                       style: textTheme.headlineMedium?.copyWith(
                         fontWeight: FontWeight.w600,
                       ),
