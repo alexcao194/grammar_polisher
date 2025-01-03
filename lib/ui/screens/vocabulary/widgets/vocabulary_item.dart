@@ -58,7 +58,7 @@ class VocabularyItem extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(width: 8),
-                  if (showReviewButton) SvgButton(
+                  if (showReviewButton && word.status != WordStatus.mastered) SvgButton(
                     backgroundColor: word.status == WordStatus.star ? colorScheme.primary : colorScheme.surface,
                     color: word.status == WordStatus.star ? colorScheme.primaryContainer : colorScheme.onPrimaryContainer,
                     svg: Assets.svgStar,

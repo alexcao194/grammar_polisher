@@ -65,10 +65,13 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
               ),
               GestureDetector(
                 onTap: _onShowSearch,
-                child: Text(
-                  '${_getFilterLabel()}',
-                  style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                    color: Theme.of(context).colorScheme.primary,
+                child: Padding(
+                  padding: const EdgeInsets.only(bottom: 8.0),
+                  child: Text(
+                    '${_getFilterLabel()}',
+                    style: Theme.of(context).textTheme.bodyMedium?.copyWith(
+                      color: Theme.of(context).colorScheme.primary,
+                    ),
                   ),
                 ),
               ),
