@@ -50,6 +50,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
             )
           ],
           child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               SearchBox(
                 showSearch: _showSearch,
@@ -61,6 +62,15 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                 onClearFilters: _onClearFilters,
                 onSearch: _onSearch,
                 onSelectStatus: _onSelectStatus,
+              ),
+              GestureDetector(
+                onTap: _onShowSearch,
+                child: Text(
+                  '${_getFilterLabel()}',
+                  style: Theme.of(context).textTheme.bodyMedium?.copyWith(
+                    color: Theme.of(context).colorScheme.primary,
+                  ),
+                ),
               ),
               Expanded(
                 child: ListView.builder(
@@ -125,7 +135,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
     setState(() {
       _selectedPos.clear();
       _selectedLetter = null;
-      _selectedStatus = [WordStatus.star, WordStatus.unknown];
+      _selectedStatus.clear();
       _searchText = '';
       _showSearch = false;
     });
@@ -180,5 +190,38 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
       AdsTools.requestNewInterstitial();
       _notificationCount = 0;
     }
+  }
+
+  _getFilterLabel() {
+    final letter = _selectedLetter != null ? 'letter: ${_selectedLetter?.toLowerCase()}' : '';
+    final pos = _selectedPos.isNotEmpty ? 'pos: ${_selectedPos.map((e) => e.name).join(', ')}' : '';
+    final status = _selectedStatus.isNotEmpty ? 'status: ${_selectedStatus.map((e) => e.name).join(', ')}' : '';
+    final search = _searchText.isNotEmpty ? 'search: $_searchText' : '';
+    if (letter.isEmpty && pos.isEmpty && status.isEmpty && search.isEmpty) {
+      return 'All words';
+    }
+    String result = '';
+    if (letter.isNotEmpty) {
+      result += letter;
+    }
+    if (pos.isNotEmpty) {
+      if (result.isNotEmpty) {
+        result += ', ';
+      }
+      result += pos;
+    }
+    if (status.isNotEmpty) {
+      if (result.isNotEmpty) {
+        result += ', ';
+      }
+      result += status;
+    }
+    if (search.isNotEmpty) {
+      if (result.isNotEmpty) {
+        result += ', ';
+      }
+      result += search;
+    }
+    return result;
   }
 }
