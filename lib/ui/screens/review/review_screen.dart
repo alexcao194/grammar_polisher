@@ -43,7 +43,10 @@ class _ReviewScreenState extends State<ReviewScreen> {
                     itemCount: reviewWords.length,
                     itemBuilder: (context, index) {
                       final word = reviewWords[index];
-                      return VocabularyItem(word: word);
+                      return VocabularyItem(
+                        word: word,
+                        showReviewButton: false,
+                      );
                     },
                   ),
                 ),

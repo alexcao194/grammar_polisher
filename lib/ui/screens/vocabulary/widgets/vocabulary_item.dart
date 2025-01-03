@@ -15,6 +15,7 @@ import 'pos_badge.dart';
 class VocabularyItem extends StatelessWidget {
   final Word word;
   final bool viewOnly;
+  final bool showReviewButton;
   final VoidCallback? onMastered;
   final VoidCallback? onStar;
   final VoidCallback? onReminder;
@@ -22,6 +23,7 @@ class VocabularyItem extends StatelessWidget {
   const VocabularyItem({
     super.key,
     required this.word,
+    this.showReviewButton = true,
     this.viewOnly = false,
     this.onMastered,
     this.onStar,
@@ -56,12 +58,26 @@ class VocabularyItem extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(width: 8),
-                  SvgButton(
-                    svg: Assets.svgNotifications,
+                  if (showReviewButton && word.status != WordStatus.mastered) SvgButton(
+                    backgroundColor: word.status == WordStatus.star ? colorScheme.primary : colorScheme.surface,
+                    color: word.status == WordStatus.star ? colorScheme.primaryContainer : colorScheme.onPrimaryContainer,
+                    svg: Assets.svgStar,
                     size: 16,
-                    onPressed: () => _reminderTomorrow(context),
-                  ),
-                  const Spacer(),
+                    onPressed: () => _startWord(context),
+                  ) else Spacer(),
+                  if (word.status == WordStatus.star && showReviewButton)
+                    ...[
+                      const SizedBox(width: 8),
+                      Expanded(
+                        child: Text(
+                          'studying...',
+                          style: textTheme.bodySmall?.copyWith(
+                            color: colorScheme.onPrimaryContainer,
+                          ),
+                        ),
+                      ),
+                    ]
+                  else Spacer(),
                   ...List.generate(
                     pos.length,
                     (index) => Padding(
@@ -95,35 +111,31 @@ class VocabularyItem extends StatelessWidget {
                           ],
                         ),
                         const SizedBox(height: 8),
-                        if (word.senses.isNotEmpty)
+                        if (word.senses.isNotEmpty && word.status != WordStatus.mastered)
                           SelectableText(
                             word.senses.first.definition,
                             style: textTheme.bodyMedium?.copyWith(
                               color: colorScheme.onPrimaryContainer,
                             ),
-                          ),
+                          )
                       ],
                     ),
                   ),
-                  Column(
-                    mainAxisAlignment: MainAxisAlignment.end,
-                    mainAxisSize: MainAxisSize.max,
-                    crossAxisAlignment: CrossAxisAlignment.end,
+                  Row(
                     children: [
+                      if (word.status == WordStatus.mastered) Text(
+                        "Mastered",
+                        style: textTheme.bodyMedium?.copyWith(
+                          color: colorScheme.onPrimaryContainer.withValues(alpha: 0.4),
+                        ),
+                      ),
+                      const SizedBox(width: 8),
                       SvgButton(
                         backgroundColor: word.status == WordStatus.mastered ? colorScheme.primary : colorScheme.surface,
                         color: word.status == WordStatus.mastered ? colorScheme.primaryContainer : colorScheme.onPrimaryContainer,
                         svg: Assets.svgCheck,
                         size: 16,
                         onPressed: () => _masteredWord(context),
-                      ),
-                      const SizedBox(height: 8),
-                      SvgButton(
-                        backgroundColor: word.status == WordStatus.star ? colorScheme.primary : colorScheme.surface,
-                        color: word.status == WordStatus.star ? colorScheme.primaryContainer : colorScheme.onPrimaryContainer,
-                        svg: Assets.svgStar,
-                        size: 16,
-                        onPressed: () => _startWord(context),
                       ),
                     ],
                   )

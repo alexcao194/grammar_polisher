@@ -37,7 +37,7 @@ class HomeNavigation extends StatefulWidget {
   static const labels = [
     "Oxford Words",
     "Reminders",
-    "Review",
+    "Studying",
     "Grammarly AI",
     "Settings",
   ];
