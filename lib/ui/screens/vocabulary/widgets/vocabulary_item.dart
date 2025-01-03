@@ -111,22 +111,33 @@ class VocabularyItem extends StatelessWidget {
                           ],
                         ),
                         const SizedBox(height: 8),
-                        if (word.senses.isNotEmpty)
+                        if (word.senses.isNotEmpty && word.status != WordStatus.mastered)
                           SelectableText(
                             word.senses.first.definition,
                             style: textTheme.bodyMedium?.copyWith(
                               color: colorScheme.onPrimaryContainer,
                             ),
-                          ),
+                          )
                       ],
                     ),
                   ),
-                  SvgButton(
-                    backgroundColor: word.status == WordStatus.mastered ? colorScheme.primary : colorScheme.surface,
-                    color: word.status == WordStatus.mastered ? colorScheme.primaryContainer : colorScheme.onPrimaryContainer,
-                    svg: Assets.svgCheck,
-                    size: 16,
-                    onPressed: () => _masteredWord(context),
+                  Row(
+                    children: [
+                      if (word.status == WordStatus.mastered) Text(
+                        "Mastered",
+                        style: textTheme.bodyMedium?.copyWith(
+                          color: colorScheme.onPrimaryContainer.withValues(alpha: 0.4),
+                        ),
+                      ),
+                      const SizedBox(width: 8),
+                      SvgButton(
+                        backgroundColor: word.status == WordStatus.mastered ? colorScheme.primary : colorScheme.surface,
+                        color: word.status == WordStatus.mastered ? colorScheme.primaryContainer : colorScheme.onPrimaryContainer,
+                        svg: Assets.svgCheck,
+                        size: 16,
+                        onPressed: () => _masteredWord(context),
+                      ),
+                    ],
                   )
                 ],
               )

@@ -27,7 +27,7 @@ class VocabularyScreen extends StatefulWidget {
 class _VocabularyScreenState extends State<VocabularyScreen> {
   bool _showSearch = false;
   final List<WordPos> _selectedPos = [];
-  List<WordStatus> _selectedStatus = [WordStatus.star, WordStatus.unknown];
+  List<WordStatus> _selectedStatus = [];
   String? _selectedLetter;
   String _searchText = '';
 
@@ -143,7 +143,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
       final containsPos = _selectedPos.isEmpty || pos.any((p) => _selectedPos.contains(WordPos.fromString(p)));
       final containsLetter = _selectedLetter == null || word.word.toLowerCase().startsWith(_selectedLetter!.toLowerCase());
       final containsSearchText = _searchText.isEmpty || word.word.toLowerCase().contains(_searchText.toLowerCase());
-      final containsStatus = _selectedStatus.contains(word.status);
+      final containsStatus = _selectedStatus.isEmpty || _selectedStatus.contains(word.status);
       return containsPos && containsLetter && containsSearchText && containsStatus;
     }).toList();
   }
