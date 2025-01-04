@@ -39,10 +39,10 @@ Fetch and install dependencies
 
 Push a new build
 
-### ios beta
+### ios release
 
 ```sh
-[bundle exec] fastlane ios beta
+[bundle exec] fastlane ios release
 ```
 
 Push a new beta build to TestFlight

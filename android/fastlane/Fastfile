@@ -43,10 +43,13 @@ platform :android do
     end
 
     desc "upload to internal track"
-    lane :internal do
+    lane :release do
         build_aab
         upload_to_play_store(
-            track: 'internal',
+#             track: 'internal',
+#             track: 'alpha',
+#             track: 'beta',
+            track: 'production',
             aab: "../build/app/outputs/bundle/productionRelease/app-production-release.aab",
             json_key: ENV["KEY_PATH"],
         )

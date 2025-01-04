@@ -69,7 +69,6 @@ Refine your writing with step-by-step grammar guidance.
 - We have 2 flavors: `development` and `production`
 - Get the environment file from [alexcao194](https://github.com/alexcao194) and put it in `.env/` folder, that named `development.json`
 - Run `flutter run --flavor development --dart-define-from-file=.env/development.json` to run the app in development mode
-- We don't need to run the app in production mode, because we will build the app for production
 
 ### Sign with your own keystore
 - Create a keystore file `keystore.jks`, it should be placed in `android/app` folder
@@ -83,8 +82,13 @@ storeFile=<relative path to keystore file> (from android/app)
 ```
 
 ### Build
-- Android: `flutter build (apk|aab) --flavor development --dart-define-from-file=.env/development.json`
-- IOS: `flutter build ios --flavor development --dart-define-from-file=.env/development.json`
+This project uses Fastlane to build and release the app. To build the app, you can run the following commands:
+- Android:
+  - `cd android`
+  - `fastlane release --env production`
+- IOS:
+  - `cd ios`
+  - `fastlane release --env production`
 
 And That's it! You are ready to go! 🚀
 

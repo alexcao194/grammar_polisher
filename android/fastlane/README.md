@@ -47,29 +47,13 @@ Fetch and install dependencies
 
 
 
-### android internal
+### android release
 
 ```sh
-[bundle exec] fastlane android internal
+[bundle exec] fastlane android release
 ```
 
 upload to internal track
-
-### android alpha
-
-```sh
-[bundle exec] fastlane android alpha
-```
-
-upload to alpha track
-
-### android production
-
-```sh
-[bundle exec] fastlane android production
-```
-
-upload to production track
 
 ----
 
