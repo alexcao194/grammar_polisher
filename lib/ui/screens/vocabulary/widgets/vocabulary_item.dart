@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
+import '../../../../constants/custom_colors.dart';
 import '../../../../data/models/word.dart';
 import '../../../../data/models/word_status.dart';
 import '../../../../generated/assets.dart';
@@ -100,13 +101,13 @@ class VocabularyItem extends StatelessWidget {
                             Phonetic(
                               phonetic: word.phonetic,
                               phoneticText: word.phoneticText,
-                              backgroundColor: Color(0xFF3D9F50),
+                              backgroundColor: CustomColors.green,
                             ),
                             const SizedBox(width: 8),
                             Phonetic(
                               phonetic: word.phoneticAm,
                               phoneticText: word.phoneticAmText,
-                              backgroundColor: Color(0xFF9F3D3D),
+                              backgroundColor: CustomColors.red,
                             ),
                           ],
                         ),

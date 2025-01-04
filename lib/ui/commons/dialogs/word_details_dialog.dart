@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../../../constants/custom_colors.dart';
 import '../../../data/models/word.dart';
 import '../../screens/vocabulary/widgets/phonetic.dart';
 import '../banner_ads.dart';
@@ -37,13 +38,13 @@ class WordDetailsDialog extends StatelessWidget {
                   Phonetic(
                     phonetic: word.phonetic,
                     phoneticText: word.phoneticText,
-                    backgroundColor: Color(0xFF3D9F50),
+                    backgroundColor: CustomColors.green,
                   ),
                   const SizedBox(width: 8),
                   Phonetic(
                     phonetic: word.phoneticAm,
                     phoneticText: word.phoneticAmText,
-                    backgroundColor: Color(0xFF9F3D3D),
+                    backgroundColor: CustomColors.red,
                   ),
                 ],
               ),

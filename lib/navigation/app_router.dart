@@ -1,13 +1,16 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
+import 'package:swipeable_page_route/swipeable_page_route.dart';
 
 import '../configs/di.dart';
+import '../data/models/word.dart';
 import '../ui/screens/home/bloc/home_bloc.dart';
 import '../ui/screens/home/home_screen.dart';
 import '../ui/screens/home_navigation/home_navigation.dart';
 import '../ui/screens/notifications/bloc/notifications_bloc.dart';
 import '../ui/screens/notifications/notifications_screen.dart';
+import '../ui/screens/review/flash_card_screen.dart';
 import '../ui/screens/review/review_screen.dart';
 import '../ui/screens/settings/settings_screen.dart';
 import '../ui/screens/vocabulary/bloc/vocabulary_bloc.dart';
@@ -68,6 +71,19 @@ class AppRouter {
               return NoTransitionPage(
                 key: state.pageKey,
                 child: ReviewScreen(),
+              );
+            },
+          ),
+          GoRoute(
+            path: RoutePaths.flashcards,
+            pageBuilder: (context, state) {
+              final extra = state.extra as Map<String, dynamic>?;
+              final words = extra?['words'] as List<Word>;
+              return SwipeablePage(
+                key: state.pageKey,
+                builder: (context) => FlashCardScreen(
+                  words: words,
+                ),
               );
             },
           ),
