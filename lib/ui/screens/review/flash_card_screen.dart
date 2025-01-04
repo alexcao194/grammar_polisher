@@ -7,6 +7,7 @@ import '../../../constants/custom_colors.dart';
 import '../../../data/models/word.dart';
 import '../../../data/models/word_status.dart';
 import '../../../generated/assets.dart';
+import '../../../utils/ads_tools.dart';
 import '../../../utils/app_snack_bar.dart';
 import '../../commons/base_page.dart';
 import '../../commons/rounded_button.dart';
@@ -155,6 +156,7 @@ class _FlashCardScreenState extends State<FlashCardScreen> {
       context.read<VocabularyBloc>().add(VocabularyEvent.changeStatus(masteredWord, WordStatus.mastered));
       if (_words.isEmpty) {
         Navigator.of(context).pop();
+        AdsTools.requestNewInterstitial();
       }
     }
     _animating = false;

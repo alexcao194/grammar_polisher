@@ -5,7 +5,6 @@ import 'package:go_router/go_router.dart';
 import '../../../data/models/word.dart';
 import '../../../data/models/word_status.dart';
 import '../../../navigation/app_router.dart';
-import '../../../utils/ads_tools.dart';
 import '../../commons/base_page.dart';
 import '../../commons/rounded_button.dart';
 import '../vocabulary/bloc/vocabulary_bloc.dart';
@@ -67,8 +66,7 @@ class ReviewScreen extends StatelessWidget {
     );
   }
 
-  void _startFlashcards(BuildContext context, List<Word> reviewWords) async {
-    await context.push(RoutePaths.flashcards, extra: {'words': reviewWords});
-    AdsTools.requestNewInterstitial();
+  void _startFlashcards(BuildContext context, List<Word> reviewWords) {
+    context.push(RoutePaths.flashcards, extra: {'words': reviewWords});
   }
 }
