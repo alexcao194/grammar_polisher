@@ -29,7 +29,8 @@ class AppHeader extends StatelessWidget {
             children: [
               if (Navigator.of(context).canPop())
                 SvgButton(
-                  svg: Assets.svgClose,
+                  svg: Assets.svgArrowBackIos,
+                  color: colorScheme.primary,
                   onPressed: () => _onClose(context),
                 ),
               const Spacer(),

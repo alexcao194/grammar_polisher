@@ -56,6 +56,8 @@ dependencies:
   app_settings: ^5.1.1
   intl: ^0.20.1
   url_launcher: ^6.3.1
+  flash_card: ^0.1.0
+  swipeable_page_route: ^0.4.6
 
 dev_dependencies:
   flutter_test:
