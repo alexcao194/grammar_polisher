@@ -37,15 +37,20 @@ class _HomeScreenState extends State<HomeScreen> {
   late final FocusNode _textFocusNode;
   AIFunction _selectedFunction = AIFunction.improveWriting;
   ScoreType _selectedScoreType = ScoreType.opinion;
+  int _count = 0;
 
   @override
   Widget build(BuildContext context) {
     final textTheme = Theme.of(context).textTheme;
     final colorScheme = Theme.of(context).colorScheme;
     return BlocConsumer<HomeBloc, HomeState>(
-      listenWhen: (previous, current) => current.result != null,
+      listenWhen: (previous, current) => current.result != previous.result,
       listener: (context, state) {
-        AdsTools.requestNewInterstitial();
+        _count++;
+        if (_count % 2 == 0) {
+          _count = 0;
+          AdsTools.requestNewInterstitial();
+        }
       },
       builder: (context, state) {
         return Stack(
