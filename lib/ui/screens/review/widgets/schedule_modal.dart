@@ -154,7 +154,6 @@ class _ScheduleModalState extends State<ScheduleModal> {
       ),
     );
     AppSnackBar.showSuccess(context, "Words reminder scheduled");
-    AdsTools.requestNewInterstitial();
     setState(() {
       _isExpanded = false;
     });
