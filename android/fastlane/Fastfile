@@ -47,10 +47,11 @@ platform :android do
         build_aab
         upload_to_play_store(
 #             track: 'internal',
-#             track: 'alpha',
+            track: 'alpha',
 #             track: 'beta',
-            track: 'production',
+#             track: 'production',
             aab: "../build/app/outputs/bundle/productionRelease/app-production-release.aab",
+            metadata_path: "./fastlane/metadata/android",
             json_key: ENV["KEY_PATH"],
         )
     end
