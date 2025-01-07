@@ -6,6 +6,7 @@ import '../../../../data/models/word.dart';
 import '../../../../data/models/word_status.dart';
 import '../../../../generated/assets.dart';
 import '../../../commons/dialogs/request_notifications_permission_dialog.dart';
+import '../../../commons/dialogs/user_definition_dialog.dart';
 import '../../../commons/dialogs/word_details_dialog.dart';
 import '../../../commons/svg_button.dart';
 import '../../notifications/bloc/notifications_bloc.dart';
@@ -59,26 +60,28 @@ class VocabularyItem extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(width: 8),
-                  if (showReviewButton && word.status != WordStatus.mastered) SvgButton(
-                    backgroundColor: word.status == WordStatus.star ? colorScheme.primary : colorScheme.surface,
-                    color: word.status == WordStatus.star ? colorScheme.primaryContainer : colorScheme.onPrimaryContainer,
-                    svg: Assets.svgStar,
-                    size: 16,
-                    onPressed: () => _startWord(context),
-                  ) else Spacer(),
-                  if (word.status == WordStatus.star && showReviewButton)
-                    ...[
-                      const SizedBox(width: 8),
-                      Expanded(
-                        child: Text(
-                          'studying...',
-                          style: textTheme.bodySmall?.copyWith(
-                            color: colorScheme.onPrimaryContainer,
-                          ),
+                  if (showReviewButton && word.status != WordStatus.mastered)
+                    SvgButton(
+                      backgroundColor: word.status == WordStatus.star ? colorScheme.primary : colorScheme.surface,
+                      color: word.status == WordStatus.star ? colorScheme.primaryContainer : colorScheme.onPrimaryContainer,
+                      svg: Assets.svgStar,
+                      size: 16,
+                      onPressed: () => _startWord(context),
+                    )
+                  else
+                    Spacer(),
+                  if (word.status == WordStatus.star && showReviewButton) ...[
+                    const SizedBox(width: 8),
+                    Expanded(
+                      child: Text(
+                        'studying...',
+                        style: textTheme.bodySmall?.copyWith(
+                          color: colorScheme.onPrimaryContainer,
                         ),
                       ),
-                    ]
-                  else Spacer(),
+                    ),
+                  ] else
+                    Spacer(),
                   ...List.generate(
                     pos.length,
                     (index) => Padding(
@@ -112,9 +115,9 @@ class VocabularyItem extends StatelessWidget {
                           ],
                         ),
                         const SizedBox(height: 8),
-                        if (word.senses.isNotEmpty && word.status != WordStatus.mastered)
+                        if ((word.senses.isNotEmpty || word.userDefinition != null) && word.status != WordStatus.mastered)
                           SelectableText(
-                            word.senses.first.definition,
+                            word.userDefinition != null ? "${word.userDefinition} (edited)" : word.senses.first.definition,
                             style: textTheme.bodyMedium?.copyWith(
                               color: colorScheme.onPrimaryContainer,
                             ),
@@ -124,20 +127,29 @@ class VocabularyItem extends StatelessWidget {
                   ),
                   Row(
                     children: [
-                      if (word.status == WordStatus.mastered) Text(
-                        "Mastered",
-                        style: textTheme.bodyMedium?.copyWith(
-                          color: colorScheme.onPrimaryContainer.withValues(alpha: 0.4),
+                      if (word.status == WordStatus.mastered)
+                        Text(
+                          "Mastered",
+                          style: textTheme.bodyMedium?.copyWith(
+                            color: colorScheme.onPrimaryContainer.withValues(alpha: 0.4),
+                          ),
                         ),
-                      ),
                       const SizedBox(width: 8),
-                      SvgButton(
-                        backgroundColor: word.status == WordStatus.mastered ? colorScheme.primary : colorScheme.surface,
-                        color: word.status == WordStatus.mastered ? colorScheme.primaryContainer : colorScheme.onPrimaryContainer,
-                        svg: Assets.svgCheck,
-                        size: 16,
-                        onPressed: () => _masteredWord(context),
-                      ),
+                      word.status == WordStatus.mastered
+                          ? SvgButton(
+                              backgroundColor: colorScheme.primary,
+                              color: colorScheme.primaryContainer,
+                              svg: Assets.svgCheck,
+                              size: 16,
+                              onPressed: () => _masteredWord(context),
+                            )
+                          : SvgButton(
+                              backgroundColor: colorScheme.primary,
+                              color: colorScheme.primaryContainer,
+                              svg: Assets.svgEdit,
+                              size: 16,
+                              onPressed: () => _showEditWordDialog(context),
+                            ),
                     ],
                   )
                 ],
@@ -210,5 +222,23 @@ class VocabularyItem extends StatelessWidget {
     }
     onReminder?.call();
     context.read<NotificationsBloc>().add(NotificationsEvent.reminderWordTomorrow(word: word));
+  }
+
+  _showEditWordDialog(BuildContext context) {
+    showDialog(
+      context: context,
+      builder: (_) => UserDefinitionDialog(
+        word: word.word,
+        alreadyDefined: word.userDefinition != null,
+        onSave: (definition) => _onSaveDefinition(context, definition),
+      ),
+    );
+  }
+
+  void _onSaveDefinition(BuildContext context, String? definition) {
+    if (definition != null && definition.isEmpty) {
+      return;
+    }
+    context.read<VocabularyBloc>().add(VocabularyEvent.editDefinition(word, definition));
   }
 }

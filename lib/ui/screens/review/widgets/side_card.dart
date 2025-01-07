@@ -135,12 +135,13 @@ class _SideCardState extends State<SideCard> {
   }
 
   void _saveDefinition() {
-    if (_definitionController.text.isEmpty) {
-      return;
-    }
     setState(() {
       _editing = false;
     });
+    if (_definitionController.text.isEmpty) {
+      _definitionController.text = widget.word.userDefinition ?? widget.word.senses.firstOrNull?.definition ?? '';
+      return;
+    }
     context.read<VocabularyBloc>().add(VocabularyEvent.editDefinition(widget.word, _definitionController.text));
   }
 
