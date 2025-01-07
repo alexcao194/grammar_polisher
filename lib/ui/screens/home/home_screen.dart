@@ -43,7 +43,7 @@ class _HomeScreenState extends State<HomeScreen> {
     final textTheme = Theme.of(context).textTheme;
     final colorScheme = Theme.of(context).colorScheme;
     return BlocConsumer<HomeBloc, HomeState>(
-      listenWhen: (previous, current) => current.result != null,
+      listenWhen: (previous, current) => current.result != previous.result,
       listener: (context, state) {
         AdsTools.requestNewInterstitial();
       },
