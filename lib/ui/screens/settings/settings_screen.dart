@@ -164,7 +164,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
               ),
               Padding(
-                padding: const EdgeInsets.all(8.0),
+                padding: const EdgeInsets.symmetric(vertical: 8.0),
                 child: BannerAds(),
               ),
               if (!isGrantedNotificationsPermission)
