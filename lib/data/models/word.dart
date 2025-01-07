@@ -22,6 +22,7 @@ class Word with _$Word {
     @HiveField(6) @Default([]) List<Sense> senses,
     @HiveField(7) @Default(WordStatus.unknown) WordStatus status,
     @HiveField(8) @Default(0) int index,
+    @HiveField(9) @Default(null) String? userDefinition,
   }) = _Word;
 
   factory Word.fromJson(Map<String, dynamic> json) => _$WordFromJson(json);

@@ -23,6 +23,7 @@ class VocabularyBloc extends Bloc<VocabularyEvent, VocabularyState> {
       await event.map(
         getAllOxfordWords: (event) => _onGetAllOxfordWords(event, emit),
         changeStatus: (event) => _onChangeStatus(event, emit),
+        editDefinition: (event) => _onEditDefinition(event, emit),
       );
     });
   }
@@ -41,6 +42,31 @@ class VocabularyBloc extends Bloc<VocabularyEvent, VocabularyState> {
   _onChangeStatus(_ChangeStatus event, Emitter<VocabularyState> emit) {
     debugPrint('VocabularyBloc: changeStatus - word ${event.word.status} - status ${event.status}');
     final newWord = event.word.copyWith(status: event.status);
+    final words = state.words.map((word) {
+      if (word == event.word) {
+        return newWord;
+      }
+      return word;
+    }).toList();
+    _oxfordWordsRepository.saveWord(newWord);
+    emit(state.copyWith(words: words));
+  }
+
+  _onEditDefinition(_EditDefinition event, Emitter<VocabularyState> emit) {
+    debugPrint('VocabularyBloc: editDefinition - word ${event.word.word} - newDefinition ${event.newDefinition}');
+    final word = event.word;
+    final newWord = Word(
+      status: word.status,
+      word: word.word,
+      senses: word.senses,
+      phoneticAm: word.phoneticAm,
+      phoneticText: word.phoneticText,
+      phonetic: word.phonetic,
+      pos: word.pos,
+      index: word.index,
+      phoneticAmText: word.phoneticAmText,
+      userDefinition: event.newDefinition,
+    );
     final words = state.words.map((word) {
       if (word == event.word) {
         return newWord;
