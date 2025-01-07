@@ -1,7 +1,12 @@
 import 'package:flash_card/flash_card.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../../data/models/word.dart';
+import '../../../../generated/assets.dart';
+import '../../../commons/rounded_button.dart';
+import '../../../commons/svg_button.dart';
+import '../../vocabulary/bloc/vocabulary_bloc.dart';
 
 part 'side_card.dart';
 

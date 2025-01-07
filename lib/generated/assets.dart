@@ -47,6 +47,7 @@ class Assets {
   static const String svgClose = 'assets/svg/close.svg';
   static const String svgCopy = 'assets/svg/copy.svg';
   static const String svgDelete = 'assets/svg/delete.svg';
+  static const String svgEdit = 'assets/svg/edit.svg';
   static const String svgError = 'assets/svg/error.svg';
   static const String svgHome = 'assets/svg/home.svg';
   static const String svgMic = 'assets/svg/mic.svg';
