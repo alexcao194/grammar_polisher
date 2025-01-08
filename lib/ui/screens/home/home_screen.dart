@@ -57,82 +57,97 @@ class _HomeScreenState extends State<HomeScreen> {
           children: [
             BasePage(
               title: 'Grammarly AI',
+              padding: const EdgeInsets.all(0),
               child: SingleChildScrollView(
                 child: Column(
                   children: [
-                    Text(
-                      'Write your content here\nWe\'ll help you improve it',
-                      style: textTheme.headlineMedium?.copyWith(
-                        fontWeight: FontWeight.w600,
-                        color: colorScheme.primary,
-                      ),
-                      textAlign: TextAlign.center,
-                    ),
-                    const SizedBox(height: 16),
-                    TextField(
-                      controller: _textController,
-                      focusNode: _textFocusNode,
-                      minLines: 5,
-                      maxLines: 10,
-                      decoration: const InputDecoration(
-                        hintText: 'Write your content here',
-                        border: OutlineInputBorder(
-                          borderRadius: BorderRadius.all(Radius.circular(16)),
-                        ),
-                      ),
-                    ),
-                    const SizedBox(height: 16),
-                    TextFieldControlBox(
-                      controller: _textController,
-                    ),
-                    const SizedBox(height: 16),
-                    GestureDetector(
-                      onTap: _onShowFunctionDialog,
-                      child: Container(
-                        width: double.infinity,
-                        decoration: BoxDecoration(
-                          color: colorScheme.secondaryContainer,
-                          borderRadius: BorderRadius.circular(16),
-                        ),
-                        child: ListTile(
-                          title: Text(
-                            _selectedFunction.name,
-                            style: textTheme.bodyMedium,
+                    Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 16.0),
+                      child: Column(
+                        children: [
+                          Text(
+                            'Write your content here\nWe\'ll help you improve it',
+                            style: textTheme.headlineMedium?.copyWith(
+                              fontWeight: FontWeight.w600,
+                              color: colorScheme.primary,
+                            ),
+                            textAlign: TextAlign.center,
                           ),
-                        ),
-                      ),
-                    ),
-                    const SizedBox(height: 16),
-                    if (_selectedFunction == AIFunction.checkScore) ...[
-                      ScoreTypePicker(
-                        onChanged: (value) {
-                          setState(() {
-                            _selectedScoreType = value;
-                          });
-                        },
-                        selectedScoreType: _selectedScoreType,
-                      ),
-                      const SizedBox(height: 16),
-                    ],
-                    RoundedButton(
-                      borderRadius: 16,
-                      onPressed: _processContent,
-                      child: Text(
-                        'Process',
-                        style: textTheme.titleMedium?.copyWith(
-                          color: colorScheme.onPrimary,
-                        ),
+                          const SizedBox(height: 16),
+                          TextField(
+                            controller: _textController,
+                            focusNode: _textFocusNode,
+                            minLines: 5,
+                            maxLines: 10,
+                            decoration: const InputDecoration(
+                              hintText: 'Write your content here',
+                              border: OutlineInputBorder(
+                                borderRadius: BorderRadius.all(Radius.circular(16)),
+                              ),
+                            ),
+                          ),
+                          const SizedBox(height: 16),
+                          TextFieldControlBox(
+                            controller: _textController,
+                          ),
+                          const SizedBox(height: 16),
+                          GestureDetector(
+                            onTap: _onShowFunctionDialog,
+                            child: Container(
+                              width: double.infinity,
+                              decoration: BoxDecoration(
+                                color: colorScheme.secondaryContainer,
+                                borderRadius: BorderRadius.circular(16),
+                              ),
+                              child: ListTile(
+                                title: Text(
+                                  _selectedFunction.name,
+                                  style: textTheme.bodyMedium,
+                                ),
+                              ),
+                            ),
+                          ),
+                          const SizedBox(height: 16),
+                          if (_selectedFunction == AIFunction.checkScore) ...[
+                            ScoreTypePicker(
+                              onChanged: (value) {
+                                setState(() {
+                                  _selectedScoreType = value;
+                                });
+                              },
+                              selectedScoreType: _selectedScoreType,
+                            ),
+                            const SizedBox(height: 16),
+                          ],
+                          RoundedButton(
+                            borderRadius: 16,
+                            onPressed: _processContent,
+                            child: Text(
+                              'Process',
+                              style: textTheme.titleMedium?.copyWith(
+                                color: colorScheme.onPrimary,
+                              ),
+                            ),
+                          ),
+                        ],
                       ),
                     ),
                     const SizedBox(height: 16),
                     BannerAds(),
                     const SizedBox(height: 8),
-                    if (state.result is ImproveWritingResult) ImprovingWritingBox(result: state.result as ImproveWritingResult),
-                    if (state.result is CheckGrammarResult) CheckGrammarBox(result: state.result as CheckGrammarResult),
-                    if (state.result is DetectGptResult) DetectGptBox(result: state.result as DetectGptResult),
-                    if (state.result is CheckLevelResult) CheckLevelBox(result: state.result as CheckLevelResult),
-                    if (state.result is CheckScoreResult) CheckScoreBox(result: state.result as CheckScoreResult),
-                    if (state.result is CheckWritingResult) CheckWritingBox(result: state.result as CheckWritingResult),
+                    Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 16.0),
+                      child: Column(
+                        children: [
+                          if (state.result is ImproveWritingResult) ImprovingWritingBox(result: state.result as ImproveWritingResult),
+                          if (state.result is CheckGrammarResult) CheckGrammarBox(result: state.result as CheckGrammarResult),
+                          if (state.result is DetectGptResult) DetectGptBox(result: state.result as DetectGptResult),
+                          if (state.result is CheckLevelResult) CheckLevelBox(result: state.result as CheckLevelResult),
+                          if (state.result is CheckScoreResult) CheckScoreBox(result: state.result as CheckScoreResult),
+                          if (state.result is CheckWritingResult) CheckWritingBox(result: state.result as CheckWritingResult),
+                        ],
+                      ),
+                    ),
                     if (state.result != null) ...[
                       const SizedBox(height: 8),
                       BannerAds(),
