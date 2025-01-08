@@ -38,6 +38,7 @@ class _HomeScreenState extends State<HomeScreen> {
   AIFunction _selectedFunction = AIFunction.improveWriting;
   ScoreType _selectedScoreType = ScoreType.opinion;
   int _count = 0;
+  bool _isShowNote = true;
 
   @override
   Widget build(BuildContext context) {
@@ -74,6 +75,23 @@ class _HomeScreenState extends State<HomeScreen> {
                             textAlign: TextAlign.center,
                           ),
                           const SizedBox(height: 16),
+                          if (_isShowNote) ...[
+                            Text(
+                              '''*Note:
+Grammarly AI is currently in beta.
+You may encounter the error "Run out of free usage attempts" if you use it excessively on a single IP.
+You can resolve this by changing your IP to continue using it (e.g., switching to a different WiFi or 4G network).''',
+                              style: textTheme.bodySmall?.copyWith(
+                                color: colorScheme.secondary,
+                              ),
+                            ),
+                            const SizedBox(height: 2),
+                            TextButton(
+                              onPressed: _hideNote,
+                              child: Text('Hide Note'),
+                            ),
+                            const SizedBox(height: 16),
+                          ],
                           TextField(
                             controller: _textController,
                             focusNode: _textFocusNode,
@@ -218,5 +236,11 @@ class _HomeScreenState extends State<HomeScreen> {
         context.read<HomeBloc>().add(HomeEvent.checkWriting(content));
         break;
     }
+  }
+
+  void _hideNote() {
+    setState(() {
+      _isShowNote = false;
+    });
   }
 }

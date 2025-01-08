@@ -128,7 +128,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                         onChanged: (value) => _onChangeTheme(context, value),
                       ),
                       RadioListTile<int>(
-                        title: Text("Dart"),
+                        title: Text("Dark"),
                         value: ThemeMode.dark.index,
                         groupValue: settingsSnapshot.themeMode,
                         onChanged: (value) => _onChangeTheme(context, value),
