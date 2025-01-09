@@ -20,11 +20,15 @@ class AppHeader extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 12.0, horizontal: 24),
       child: Stack(
+        alignment: Alignment.center,
         children: [
-          Center(child: Text(title, style: textTheme.titleLarge?.copyWith(
-            fontWeight: FontWeight.bold,
-            color: colorScheme.primary,
-          ))),
+          Text(
+            title,
+            style: textTheme.titleLarge?.copyWith(
+              fontWeight: FontWeight.bold,
+              color: colorScheme.primary,
+            ),
+          ),
           Row(
             children: [
               if (Navigator.of(context).canPop())

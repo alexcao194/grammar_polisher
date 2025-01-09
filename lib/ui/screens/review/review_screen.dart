@@ -19,9 +19,25 @@ class ReviewScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final vocabularyState = context.watch<VocabularyBloc>().state;
     final reviewWords = vocabularyState.words.where((word) => word.status == WordStatus.star).toList();
+    final textTheme = Theme.of(context).textTheme;
     final colorScheme = Theme.of(context).colorScheme;
     return BasePage(
       title: 'Review',
+      actions: [
+        GestureDetector(
+          onTap: () => _showScheduleModal(context, reviewWords),
+          child: Padding(
+            padding: const EdgeInsets.fromLTRB(8, 4, 0, 4),
+            child: Text(
+              'Schedule',
+              style: textTheme.titleSmall?.copyWith(
+                color: colorScheme.primary,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ),
+        )
+      ],
       child: reviewWords.isNotEmpty
           ? Column(
               crossAxisAlignment: CrossAxisAlignment.center,
@@ -37,11 +53,6 @@ class ReviewScreen extends StatelessWidget {
                       );
                     },
                   ),
-                ),
-                const SizedBox(height: 8),
-                TextButton(
-                  onPressed: () => _showScheduleModal(context, reviewWords),
-                  child: Text("Schedule reminders"),
                 ),
                 const SizedBox(height: 8),
                 RoundedButton(
