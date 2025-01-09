@@ -19,39 +19,39 @@ class ReviewScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final vocabularyState = context.watch<VocabularyBloc>().state;
     final reviewWords = vocabularyState.words.where((word) => word.status == WordStatus.star).toList();
+    final colorScheme = Theme.of(context).colorScheme;
     return BasePage(
       title: 'Review',
       child: reviewWords.isNotEmpty
           ? Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Expanded(
-            child: ListView.builder(
-              itemCount: reviewWords.length,
-              itemBuilder: (context, index) {
-                final word = reviewWords[index];
-                return VocabularyItem(
-                  word: word,
-                  showReviewButton: false,
-                );
-              },
-            ),
-          ),
-          const SizedBox(height: 8),
-          RoundedButton(
-            onPressed: () => _showScheduleModal(context, reviewWords),
-            borderRadius: 16,
-            child: Text("Schedule reminders"),
-          ),
-          const SizedBox(height: 8),
-          RoundedButton(
-            onPressed: () => _startFlashcards(context, reviewWords),
-            borderRadius: 16,
-            child: Text("Flashcards"),
-          ),
-          const SizedBox(height: 16),
-        ],
-      )
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                Expanded(
+                  child: ListView.builder(
+                    itemCount: reviewWords.length,
+                    itemBuilder: (context, index) {
+                      final word = reviewWords[index];
+                      return VocabularyItem(
+                        word: word,
+                        showReviewButton: false,
+                      );
+                    },
+                  ),
+                ),
+                const SizedBox(height: 8),
+                TextButton(
+                  onPressed: () => _showScheduleModal(context, reviewWords),
+                  child: Text("Schedule reminders"),
+                ),
+                const SizedBox(height: 8),
+                RoundedButton(
+                  onPressed: () => _startFlashcards(context, reviewWords),
+                  borderRadius: 16,
+                  child: Text("Flashcards"),
+                ),
+                const SizedBox(height: 16),
+              ],
+            )
           : EmptyReviewPage(),
     );
   }

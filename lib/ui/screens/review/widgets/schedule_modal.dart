@@ -4,7 +4,6 @@ import 'package:go_router/go_router.dart';
 
 import '../../../../constants/date_formats.dart';
 import '../../../../data/models/word.dart';
-import '../../../../utils/ads_tools.dart';
 import '../../../../utils/app_snack_bar.dart';
 import '../../../commons/banner_ads.dart';
 import '../../../commons/dialogs/request_notifications_permission_dialog.dart';
@@ -154,6 +153,7 @@ class _ScheduleModalState extends State<ScheduleModal> {
       ),
     );
     AppSnackBar.showSuccess(context, "Words reminder scheduled");
+    context.pop();
     setState(() {
       _isExpanded = false;
     });
