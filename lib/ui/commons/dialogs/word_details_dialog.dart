@@ -85,7 +85,6 @@ class WordDetailsDialog extends StatelessWidget {
                   );
                 }
               ),
-              BannerAds()
             ],
           ),
         ),
